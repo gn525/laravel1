@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "G51",
+               "short_name" : "G51",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow G51, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8791911,
+                  "lng" : -4.276187699999999
+               },
+               "southwest" : {
+                  "lat" : 55.84666929999999,
+                  "lng" : -4.368028499999999
+               }
+            },
+            "location" : {
+               "lat" : 55.8626302,
+               "lng" : -4.3295277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8791911,
+                  "lng" : -4.276187699999999
+               },
+               "southwest" : {
+                  "lat" : 55.84666929999999,
+                  "lng" : -4.368028499999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

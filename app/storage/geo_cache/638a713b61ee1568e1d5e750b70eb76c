@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bardney",
+               "short_name" : "Bardney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN3",
+               "short_name" : "LN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bardney, Lincoln, Lincolnshire LN3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2208806,
+                  "lng" : -0.3074139
+               },
+               "southwest" : {
+                  "lat" : 53.2015244,
+                  "lng" : -0.347822
+               }
+            },
+            "location" : {
+               "lat" : 53.210629,
+               "lng" : -0.318757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2208806,
+                  "lng" : -0.3074139
+               },
+               "southwest" : {
+                  "lat" : 53.2015244,
+                  "lng" : -0.347822
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

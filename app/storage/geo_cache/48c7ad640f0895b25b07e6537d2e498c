@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TA4",
+               "short_name" : "TA4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taunton TA4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1888561,
+                  "lng" : -3.1080816
+               },
+               "southwest" : {
+                  "lat" : 50.9884159,
+                  "lng" : -3.5128716
+               }
+            },
+            "location" : {
+               "lat" : 51.0912228,
+               "lng" : -3.2980433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1888561,
+                  "lng" : -3.1080816
+               },
+               "southwest" : {
+                  "lat" : 50.9884159,
+                  "lng" : -3.5128716
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

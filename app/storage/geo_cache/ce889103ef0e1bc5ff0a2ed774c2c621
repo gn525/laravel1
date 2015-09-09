@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fulbourn",
+               "short_name" : "Fulbourn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fulbourn, Cambridge, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.196281,
+                  "lng" : 0.2404329
+               },
+               "southwest" : {
+                  "lat" : 52.1706581,
+                  "lng" : 0.1813609
+               }
+            },
+            "location" : {
+               "lat" : 52.18268,
+               "lng" : 0.222039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.196281,
+                  "lng" : 0.2404329
+               },
+               "southwest" : {
+                  "lat" : 52.1706581,
+                  "lng" : 0.1813609
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

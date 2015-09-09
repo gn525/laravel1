@@ -1,0 +1,107 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheddar",
+               "short_name" : "Cheddar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheddar, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2903449,
+                  "lng" : -2.7568085
+               },
+               "southwest" : {
+                  "lat" : 51.2660755,
+                  "lng" : -2.7957338
+               }
+            },
+            "location" : {
+               "lat" : 51.28016400000001,
+               "lng" : -2.7767019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2903449,
+                  "lng" : -2.7568085
+               },
+               "southwest" : {
+                  "lat" : 51.2660755,
+                  "lng" : -2.7957338
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS27",
+               "short_name" : "BS27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Somerset BS27, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.306638,
+                  "lng" : -2.7156309
+               },
+               "southwest" : {
+                  "lat" : 51.212552,
+                  "lng" : -2.8103521
+               }
+            },
+            "location" : {
+               "lat" : 51.2621037,
+               "lng" : -2.7620115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.306638,
+                  "lng" : -2.7156309
+               },
+               "southwest" : {
+                  "lat" : 51.212552,
+                  "lng" : -2.8103521
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

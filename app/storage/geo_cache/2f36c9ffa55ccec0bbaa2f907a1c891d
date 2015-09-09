@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gibraltar",
+               "short_name" : "Gibraltar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skegness",
+               "short_name" : "Skegness",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE24",
+               "short_name" : "PE24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gibraltar, Skegness, Lincolnshire PE24, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1002583,
+               "lng" : 0.322098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1069572,
+                  "lng" : 0.3381054
+               },
+               "southwest" : {
+                  "lat" : 53.0935583,
+                  "lng" : 0.3060906
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gibraltar",
+               "short_name" : "Gibraltar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP6",
+               "short_name" : "IP6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gibraltar, Ipswich, Suffolk IP6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1416806,
+               "lng" : 1.1995022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1430295802915,
+                  "lng" : 1.200851180291502
+               },
+               "southwest" : {
+                  "lat" : 52.1403316197085,
+                  "lng" : 1.198153219708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

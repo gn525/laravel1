@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cupar",
+               "short_name" : "Cupar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cupar",
+               "short_name" : "Cupar",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY15",
+               "short_name" : "KY15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cupar, Cupar, Fife KY15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3287948,
+                  "lng" : -2.9807522
+               },
+               "southwest" : {
+                  "lat" : 56.3068265,
+                  "lng" : -3.0395619
+               }
+            },
+            "location" : {
+               "lat" : 56.320235,
+               "lng" : -3.010137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3287948,
+                  "lng" : -2.9807522
+               },
+               "southwest" : {
+                  "lat" : 56.3068265,
+                  "lng" : -3.0395619
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

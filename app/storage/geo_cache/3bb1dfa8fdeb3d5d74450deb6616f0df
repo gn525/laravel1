@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kenfig Hill",
+               "short_name" : "Kenfig Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF33",
+               "short_name" : "CF33",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kenfig Hill, Bridgend, Bridgend CF33, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.539088,
+                  "lng" : -3.6629182
+               },
+               "southwest" : {
+                  "lat" : 51.5228647,
+                  "lng" : -3.6907486
+               }
+            },
+            "location" : {
+               "lat" : 51.533262,
+               "lng" : -3.678068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.539088,
+                  "lng" : -3.6629182
+               },
+               "southwest" : {
+                  "lat" : 51.5228647,
+                  "lng" : -3.6907486
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

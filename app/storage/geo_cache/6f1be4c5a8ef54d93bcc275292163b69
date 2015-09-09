@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B69",
+               "short_name" : "B69",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Midlands B69, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5217753,
+                  "lng" : -1.9969364
+               },
+               "southwest" : {
+                  "lat" : 52.4825841,
+                  "lng" : -2.0620798
+               }
+            },
+            "location" : {
+               "lat" : 52.49853659999999,
+               "lng" : -2.0270238
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5217753,
+                  "lng" : -1.9969364
+               },
+               "southwest" : {
+                  "lat" : 52.4825841,
+                  "lng" : -2.0620798
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

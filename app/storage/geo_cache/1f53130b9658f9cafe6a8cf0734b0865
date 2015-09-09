@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CH47",
+               "short_name" : "CH47",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Wirral",
+               "short_name" : "Wirral",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wirral, Merseyside CH47, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4143918,
+                  "lng" : -3.1227205
+               },
+               "southwest" : {
+                  "lat" : 53.3807944,
+                  "lng" : -3.2008101
+               }
+            },
+            "location" : {
+               "lat" : 53.3947999,
+               "lng" : -3.1594391
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4143918,
+                  "lng" : -3.1227205
+               },
+               "southwest" : {
+                  "lat" : 53.3807944,
+                  "lng" : -3.2008101
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaw Cross Business Park",
+               "short_name" : "Shaw Cross Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Dewsbury",
+               "short_name" : "Dewsbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dewsbury",
+               "short_name" : "Dewsbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WF12 7TH",
+               "short_name" : "WF12 7TH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shaw Cross Business Park, Dewsbury, West Yorkshire WF12 7TH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.701883,
+               "lng" : -1.6051355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7032319802915,
+                  "lng" : -1.603786519708498
+               },
+               "southwest" : {
+                  "lat" : 53.7005340197085,
+                  "lng" : -1.606484480291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

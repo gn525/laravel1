@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westbury",
+               "short_name" : "Westbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westbury, Wiltshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2788599,
+                  "lng" : -2.1436819
+               },
+               "southwest" : {
+                  "lat" : 51.2332183,
+                  "lng" : -2.2166483
+               }
+            },
+            "location" : {
+               "lat" : 51.256659,
+               "lng" : -2.185772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2788599,
+                  "lng" : -2.1436819
+               },
+               "southwest" : {
+                  "lat" : 51.2332183,
+                  "lng" : -2.2166483
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

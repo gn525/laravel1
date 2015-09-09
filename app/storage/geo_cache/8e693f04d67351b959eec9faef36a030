@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poplar",
+               "short_name" : "Poplar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poplar, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5234877,
+                  "lng" : 0.0098639
+               },
+               "southwest" : {
+                  "lat" : 51.5012435,
+                  "lng" : -0.0380312
+               }
+            },
+            "location" : {
+               "lat" : 51.5123792,
+               "lng" : -0.0087975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5234877,
+                  "lng" : 0.0098639
+               },
+               "southwest" : {
+                  "lat" : 51.5012435,
+                  "lng" : -0.0380312
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

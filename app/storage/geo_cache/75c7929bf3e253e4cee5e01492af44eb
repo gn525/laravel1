@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huyton",
+               "short_name" : "Huyton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L36",
+               "short_name" : "L36",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Huyton, Liverpool, Merseyside L36, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4119868,
+               "lng" : -2.8395604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4186371,
+                  "lng" : -2.823553
+               },
+               "southwest" : {
+                  "lat" : 53.4053355,
+                  "lng" : -2.8555678
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

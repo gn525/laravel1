@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Barr",
+               "short_name" : "Great Barr",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B43",
+               "short_name" : "B43",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Great Barr, Birmingham, Birmingham, West Midlands B43, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.548342,
+               "lng" : -1.931948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.55512659999999,
+                  "lng" : -1.9159406
+               },
+               "southwest" : {
+                  "lat" : 52.5415564,
+                  "lng" : -1.9479554
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

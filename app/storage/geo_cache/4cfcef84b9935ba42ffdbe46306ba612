@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holywell",
+               "short_name" : "Holywell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Holywell, Flintshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2854592,
+                  "lng" : -3.1976019
+               },
+               "southwest" : {
+                  "lat" : 53.2602121,
+                  "lng" : -3.242355700000001
+               }
+            },
+            "location" : {
+               "lat" : 53.27600899999999,
+               "lng" : -3.225103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2854592,
+                  "lng" : -3.1976019
+               },
+               "southwest" : {
+                  "lat" : 53.2602121,
+                  "lng" : -3.242355700000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

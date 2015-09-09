@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "White Waltham",
+               "short_name" : "White Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maidenhead",
+               "short_name" : "Maidenhead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Windsor and Maidenhead",
+               "short_name" : "Windsor and Maidenhead",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL6",
+               "short_name" : "SL6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "White Waltham, Maidenhead, Windsor and Maidenhead SL6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.488993,
+               "lng" : -0.7773139000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4959402,
+                  "lng" : -0.7613065
+               },
+               "southwest" : {
+                  "lat" : 51.4820448,
+                  "lng" : -0.7933213
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "White Waltham Airfield",
+               "short_name" : "White Waltham Airfield",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Maidenhead",
+               "short_name" : "Maidenhead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Windsor and Maidenhead",
+               "short_name" : "Windsor and Maidenhead",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL6",
+               "short_name" : "SL6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "White Waltham Airfield, Maidenhead, Windsor and Maidenhead SL6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5051745,
+                  "lng" : -0.7637086
+               },
+               "southwest" : {
+                  "lat" : 51.49294099999999,
+                  "lng" : -0.7829944999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4993937,
+               "lng" : -0.7641899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5051745,
+                  "lng" : -0.7637086
+               },
+               "southwest" : {
+                  "lat" : 51.49294099999999,
+                  "lng" : -0.7829944999999999
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doxford International Business Park",
+               "short_name" : "Doxford International Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR3 3XN",
+               "short_name" : "SR3 3XN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Doxford International Business Park, Sunderland, Tyne and Wear SR3 3XN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.8623807,
+               "lng" : -1.4296984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8637296802915,
+                  "lng" : -1.428349419708498
+               },
+               "southwest" : {
+                  "lat" : 54.8610317197085,
+                  "lng" : -1.431047380291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caerphilly, Caerphilly, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6040631,
+                  "lng" : -3.1765608
+               },
+               "southwest" : {
+                  "lat" : 51.54968359999999,
+                  "lng" : -3.2555854
+               }
+            },
+            "location" : {
+               "lat" : 51.578829,
+               "lng" : -3.218134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6040631,
+                  "lng" : -3.1765608
+               },
+               "southwest" : {
+                  "lat" : 51.54968359999999,
+                  "lng" : -3.2555854
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

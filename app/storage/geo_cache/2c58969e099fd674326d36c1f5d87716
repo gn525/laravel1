@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garswood",
+               "short_name" : "Garswood",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ashton-in-Makerfield",
+               "short_name" : "Ashton-in-Makerfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wigan",
+               "short_name" : "Wigan",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WN4",
+               "short_name" : "WN4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Garswood, Ashton-in-Makerfield, Wigan, Merseyside WN4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4891409,
+               "lng" : -2.66949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4957791,
+                  "lng" : -2.6534826
+               },
+               "southwest" : {
+                  "lat" : 53.4825017,
+                  "lng" : -2.6854974
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

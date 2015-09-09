@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LN4",
+               "short_name" : "LN4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lincoln, Lincolnshire LN4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2308618,
+                  "lng" : -0.0732732
+               },
+               "southwest" : {
+                  "lat" : 53.0040184,
+                  "lng" : -0.5462561
+               }
+            },
+            "location" : {
+               "lat" : 53.1099644,
+               "lng" : -0.3240739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2308618,
+                  "lng" : -0.0732732
+               },
+               "southwest" : {
+                  "lat" : 53.0040184,
+                  "lng" : -0.5462561
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

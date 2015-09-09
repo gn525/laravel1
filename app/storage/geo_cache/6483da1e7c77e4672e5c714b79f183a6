@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saltford",
+               "short_name" : "Saltford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath and North East Somerset",
+               "short_name" : "Bath and North East Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saltford, Bath and North East Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4185397,
+                  "lng" : -2.4382124
+               },
+               "southwest" : {
+                  "lat" : 51.3877567,
+                  "lng" : -2.4832452
+               }
+            },
+            "location" : {
+               "lat" : 51.406156,
+               "lng" : -2.455915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4185397,
+                  "lng" : -2.4382124
+               },
+               "southwest" : {
+                  "lat" : 51.3877567,
+                  "lng" : -2.4832452
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

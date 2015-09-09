@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penryn",
+               "short_name" : "Penryn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Penryn, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1773077,
+                  "lng" : -5.086372
+               },
+               "southwest" : {
+                  "lat" : 50.1607781,
+                  "lng" : -5.1358628
+               }
+            },
+            "location" : {
+               "lat" : 50.169173,
+               "lng" : -5.107088000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1773077,
+                  "lng" : -5.086372
+               },
+               "southwest" : {
+                  "lat" : 50.1607781,
+                  "lng" : -5.1358628
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

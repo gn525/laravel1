@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netley Abbey",
+               "short_name" : "Netley Abbey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO31",
+               "short_name" : "SO31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Netley Abbey, Southampton, Hampshire SO31, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.872964,
+               "lng" : -1.353207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8800046,
+                  "lng" : -1.3371996
+               },
+               "southwest" : {
+                  "lat" : 50.8659223,
+                  "lng" : -1.3692144
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

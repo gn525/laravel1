@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GU1",
+               "short_name" : "GU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guildford, Surrey GU1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2667101,
+                  "lng" : -0.5104001
+               },
+               "southwest" : {
+                  "lat" : 51.224104,
+                  "lng" : -0.5843763
+               }
+            },
+            "location" : {
+               "lat" : 51.2461619,
+               "lng" : -0.5550501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2667101,
+                  "lng" : -0.5104001
+               },
+               "southwest" : {
+                  "lat" : 51.224104,
+                  "lng" : -0.5843763
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU1",
+               "short_name" : "GU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Guildford, Guildford, Guildford, Surrey GU1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2369645,
+               "lng" : -0.5804041999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2383134802915,
+                  "lng" : -0.5790552197084979
+               },
+               "southwest" : {
+                  "lat" : 51.2356155197085,
+                  "lng" : -0.581753180291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ST1",
+               "short_name" : "ST1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stoke-on-Trent ST1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0491261,
+                  "lng" : -2.1474436
+               },
+               "southwest" : {
+                  "lat" : 53.0069606,
+                  "lng" : -2.2063916
+               }
+            },
+            "location" : {
+               "lat" : 53.0287809,
+               "lng" : -2.1728159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0491261,
+                  "lng" : -2.1474436
+               },
+               "southwest" : {
+                  "lat" : 53.0069606,
+                  "lng" : -2.2063916
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

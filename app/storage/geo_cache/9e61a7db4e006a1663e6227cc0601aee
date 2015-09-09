@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chester, Chester, Cheshire West and Chester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2206226,
+                  "lng" : -2.8402174
+               },
+               "southwest" : {
+                  "lat" : 53.1643553,
+                  "lng" : -2.9355461
+               }
+            },
+            "location" : {
+               "lat" : 53.193392,
+               "lng" : -2.893075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2206226,
+                  "lng" : -2.8402174
+               },
+               "southwest" : {
+                  "lat" : 53.1643553,
+                  "lng" : -2.9355461
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

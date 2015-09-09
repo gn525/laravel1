@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunbar",
+               "short_name" : "Dunbar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Lothian",
+               "short_name" : "East Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dunbar, East Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0077247,
+                  "lng" : -2.4880119
+               },
+               "southwest" : {
+                  "lat" : 55.9871531,
+                  "lng" : -2.549891300000001
+               }
+            },
+            "location" : {
+               "lat" : 56.002087,
+               "lng" : -2.516737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0077247,
+                  "lng" : -2.4880119
+               },
+               "southwest" : {
+                  "lat" : 55.9871531,
+                  "lng" : -2.549891300000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

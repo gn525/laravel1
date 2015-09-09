@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Docklands",
+               "short_name" : "Docklands",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pirton",
+               "short_name" : "Pirton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hitchin",
+               "short_name" : "Hitchin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG5 3QF",
+               "short_name" : "SG5 3QF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Docklands, Pirton, Hitchin, Hertfordshire SG5 3QF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.97222989999999,
+                  "lng" : -0.3328614
+               },
+               "southwest" : {
+                  "lat" : 51.971791,
+                  "lng" : -0.3338722
+               }
+            },
+            "location" : {
+               "lat" : 51.97197509999999,
+               "lng" : -0.3333467
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9733594302915,
+                  "lng" : -0.332017819708498
+               },
+               "southwest" : {
+                  "lat" : 51.9706614697085,
+                  "lng" : -0.3347157802915021
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

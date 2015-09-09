@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rawtenstall",
+               "short_name" : "Rawtenstall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rossendale",
+               "short_name" : "Rossendale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB4",
+               "short_name" : "BB4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rawtenstall, Rossendale, Lancashire BB4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.699568,
+               "lng" : -2.291167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.70617319999999,
+                  "lng" : -2.2751596
+               },
+               "southwest" : {
+                  "lat" : 53.6929617,
+                  "lng" : -2.3071744
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

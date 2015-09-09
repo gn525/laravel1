@@ -1,0 +1,378 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sussex",
+               "short_name" : "Sussex",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Street",
+               "short_name" : "The Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poynings",
+               "short_name" : "Poynings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN45 7AQ",
+               "short_name" : "BN45 7AQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sussex, 4 The Street, Wheel Drive, Poynings, The Forge Garage, Brighton, West Sussex BN45 7AQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8936205,
+               "lng" : -0.2068074
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8949694802915,
+                  "lng" : -0.205458419708498
+               },
+               "southwest" : {
+                  "lat" : 50.8922715197085,
+                  "lng" : -0.208156380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sussex House",
+               "short_name" : "Sussex House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Crowhurst Road",
+               "short_name" : "Crowhurst Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN1 8AF",
+               "short_name" : "BN1 8AF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sussex House, Crowhurst Road, Brighton, The City of Brighton and Hove BN1 8AF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.867877,
+               "lng" : -0.122395
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8692259802915,
+                  "lng" : -0.121046019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8665280197085,
+                  "lng" : -0.123743980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sussex House",
+               "short_name" : "Sussex House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Abbey Road",
+               "short_name" : "Abbey Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN2 1ES",
+               "short_name" : "BN2 1ES",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sussex House, Abbey Road, Brighton, The City of Brighton and Hove BN2 1ES, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.81849,
+               "lng" : -0.120034
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.81983898029149,
+                  "lng" : -0.118685019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8171410197085,
+                  "lng" : -0.121382980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sussex House School",
+               "short_name" : "Sussex House School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chelsea",
+               "short_name" : "Chelsea",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW1X",
+               "short_name" : "SW1X",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sussex House School, Chelsea, London SW1X, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4946288,
+               "lng" : -0.1612657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4959777802915,
+                  "lng" : -0.159916719708498
+               },
+               "southwest" : {
+                  "lat" : 51.4932798197085,
+                  "lng" : -0.162614680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sussex House",
+               "short_name" : "Sussex House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "High Street",
+               "short_name" : "High St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amblecote",
+               "short_name" : "Amblecote",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stourbridge",
+               "short_name" : "Stourbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stourbridge",
+               "short_name" : "Stourbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DY8 4BU",
+               "short_name" : "DY8 4BU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sussex House, High Street, Stourbridge, West Midlands DY8 4BU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4697469,
+               "lng" : -2.1548324
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4710958802915,
+                  "lng" : -2.153483419708498
+               },
+               "southwest" : {
+                  "lat" : 52.4683979197085,
+                  "lng" : -2.156181380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sussex House",
+               "short_name" : "Sussex House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "220",
+               "short_name" : "220",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kew Road",
+               "short_name" : "Kew Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW9 3JX",
+               "short_name" : "TW9 3JX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sussex House, 220 Kew Road, Richmond, Greater London TW9 3JX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4754538,
+               "lng" : -0.291263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.47680278029149,
+                  "lng" : -0.2899140197084979
+               },
+               "southwest" : {
+                  "lat" : 51.4741048197085,
+                  "lng" : -0.292611980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

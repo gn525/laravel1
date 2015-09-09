@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preston Brook",
+               "short_name" : "Preston Brook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Runcorn",
+               "short_name" : "Runcorn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Halton",
+               "short_name" : "Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA7",
+               "short_name" : "WA7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Preston Brook, Runcorn, Halton WA7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.318282,
+               "lng" : -2.654573
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3249469,
+                  "lng" : -2.6385656
+               },
+               "southwest" : {
+                  "lat" : 53.311616,
+                  "lng" : -2.6705804
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

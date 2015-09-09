@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ware",
+               "short_name" : "Ware",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ware, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8255454,
+                  "lng" : -0.0057245
+               },
+               "southwest" : {
+                  "lat" : 51.7949958,
+                  "lng" : -0.07124759999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.810437,
+               "lng" : -0.028177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8255454,
+                  "lng" : -0.0057245
+               },
+               "southwest" : {
+                  "lat" : 51.7949958,
+                  "lng" : -0.07124759999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

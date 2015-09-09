@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich, Norwich, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6858357,
+                  "lng" : 1.3786135
+               },
+               "southwest" : {
+                  "lat" : 52.5944502,
+                  "lng" : 1.1950855
+               }
+            },
+            "location" : {
+               "lat" : 52.6308859,
+               "lng" : 1.297355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6858357,
+                  "lng" : 1.3786135
+               },
+               "southwest" : {
+                  "lat" : 52.5944502,
+                  "lng" : 1.1950855
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich International Airport",
+               "short_name" : "Norwich International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Amsterdam Way",
+               "short_name" : "Amsterdam Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR6 6JA",
+               "short_name" : "NR6 6JA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Norwich International Airport (NWI), Amsterdam Way, Norwich, Norfolk NR6 6JA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6869114,
+                  "lng" : 1.3001481
+               },
+               "southwest" : {
+                  "lat" : 52.66744869999999,
+                  "lng" : 1.2627843
+               }
+            },
+            "location" : {
+               "lat" : 52.6696858,
+               "lng" : 1.2772173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6869114,
+                  "lng" : 1.3001481
+               },
+               "southwest" : {
+                  "lat" : 52.66744869999999,
+                  "lng" : 1.2627843
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

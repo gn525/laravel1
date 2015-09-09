@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stirling, Stirling, Stirling, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1455382,
+                  "lng" : -3.9043966
+               },
+               "southwest" : {
+                  "lat" : 56.0918724,
+                  "lng" : -3.9750002
+               }
+            },
+            "location" : {
+               "lat" : 56.1165227,
+               "lng" : -3.9369029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1455382,
+                  "lng" : -3.9043966
+               },
+               "southwest" : {
+                  "lat" : 56.0918724,
+                  "lng" : -3.9750002
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "FK7",
+               "short_name" : "FK7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "FK7, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1295442,
+                  "lng" : -3.7927871
+               },
+               "southwest" : {
+                  "lat" : 56.0327643,
+                  "lng" : -4.1331639
+               }
+            },
+            "location" : {
+               "lat" : 56.0847884,
+               "lng" : -3.9453607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1295442,
+                  "lng" : -3.7927871
+               },
+               "southwest" : {
+                  "lat" : 56.0327643,
+                  "lng" : -4.1331639
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

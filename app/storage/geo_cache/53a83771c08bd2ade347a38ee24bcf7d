@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catsash Road",
+               "short_name" : "Catsash Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Caerleon",
+               "short_name" : "Caerleon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP18 1JQ",
+               "short_name" : "NP18 1JQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Catsash Road, Caerleon, Newport, Newport NP18 1JQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6131694,
+                  "lng" : -2.9106525
+               },
+               "southwest" : {
+                  "lat" : 51.5987385,
+                  "lng" : -2.9447446
+               }
+            },
+            "location" : {
+               "lat" : 51.6080201,
+               "lng" : -2.9329061
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6131694,
+                  "lng" : -2.9106525
+               },
+               "southwest" : {
+                  "lat" : 51.5987385,
+                  "lng" : -2.9447446
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catsash Road",
+               "short_name" : "Catsash Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Langstone",
+               "short_name" : "Langstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP18 2LZ",
+               "short_name" : "NP18 2LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Catsash Road, Langstone, Newport, Newport NP18 2LZ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6051854,
+                  "lng" : -2.9101932
+               },
+               "southwest" : {
+                  "lat" : 51.6033868,
+                  "lng" : -2.9109418
+               }
+            },
+            "location" : {
+               "lat" : 51.604214,
+               "lng" : -2.9103964
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6056350802915,
+                  "lng" : -2.909218519708498
+               },
+               "southwest" : {
+                  "lat" : 51.6029371197085,
+                  "lng" : -2.911916480291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

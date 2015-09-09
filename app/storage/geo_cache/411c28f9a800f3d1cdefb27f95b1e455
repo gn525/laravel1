@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fengate",
+               "short_name" : "Fengate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fengate, Norwich, Norfolk, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7743309,
+               "lng" : 1.25198
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.78108049999999,
+                  "lng" : 1.2679874
+               },
+               "southwest" : {
+                  "lat" : 52.7675803,
+                  "lng" : 1.2359726
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

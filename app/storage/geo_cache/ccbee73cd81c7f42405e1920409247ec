@@ -1,0 +1,340 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Scholes",
+               "short_name" : "Scholes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Holmfirth",
+               "short_name" : "Holmfirth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HD9 1UA",
+               "short_name" : "HD9 1UA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paris, Scholes, Holmfirth, West Yorkshire HD9 1UA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.56530619999999,
+                  "lng" : -1.760547
+               },
+               "southwest" : {
+                  "lat" : 53.5628999,
+                  "lng" : -1.7668952
+               }
+            },
+            "location" : {
+               "lat" : 53.5639212,
+               "lng" : -1.7636821
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5654520302915,
+                  "lng" : -1.760547
+               },
+               "southwest" : {
+                  "lat" : 53.5627540697085,
+                  "lng" : -1.7668952
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramsgreave",
+               "short_name" : "Ramsgreave",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blackburn",
+               "short_name" : "Blackburn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB1 9BJ",
+               "short_name" : "BB1 9BJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paris, Ramsgreave, Blackburn, Lancashire BB1 9BJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7807212,
+                  "lng" : -2.4801373
+               },
+               "southwest" : {
+                  "lat" : 53.7791688,
+                  "lng" : -2.4812461
+               }
+            },
+            "location" : {
+               "lat" : 53.7799539,
+               "lng" : -2.4804272
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7812939802915,
+                  "lng" : -2.479342719708499
+               },
+               "southwest" : {
+                  "lat" : 53.7785960197085,
+                  "lng" : -2.482040680291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "New Malden",
+               "short_name" : "New Malden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Malden",
+               "short_name" : "New Malden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KT3",
+               "short_name" : "KT3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paris, New Malden, New Malden, Greater London KT3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.40187599999999,
+                  "lng" : -0.2703778
+               },
+               "southwest" : {
+                  "lat" : 51.40184989999999,
+                  "lng" : -0.2704173
+               }
+            },
+            "location" : {
+               "lat" : 51.40186689999999,
+               "lng" : -0.2704021
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4032119302915,
+                  "lng" : -0.2690485697084979
+               },
+               "southwest" : {
+                  "lat" : 51.4005139697085,
+                  "lng" : -0.271746530291502
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Grays",
+               "short_name" : "Grays",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grays",
+               "short_name" : "Grays",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Thurrock",
+               "short_name" : "Thurrock",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RM20",
+               "short_name" : "RM20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paris, Grays, Grays, Essex RM20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.484118,
+                  "lng" : 0.2737638
+               },
+               "southwest" : {
+                  "lat" : 51.4840907,
+                  "lng" : 0.2737216
+               }
+            },
+            "location" : {
+               "lat" : 51.4841071,
+               "lng" : 0.2737427
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4854533302915,
+                  "lng" : 0.275091680291502
+               },
+               "southwest" : {
+                  "lat" : 51.4827553697085,
+                  "lng" : 0.272393719708498
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU1",
+               "short_name" : "GU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paris, Guildford, Guildford, Surrey GU1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2487534,
+                  "lng" : -0.5786361
+               },
+               "southwest" : {
+                  "lat" : 51.2487134,
+                  "lng" : -0.5786856
+               }
+            },
+            "location" : {
+               "lat" : 51.2487319,
+               "lng" : -0.5786551999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2500823802915,
+                  "lng" : -0.5773118697084979
+               },
+               "southwest" : {
+                  "lat" : 51.2473844197085,
+                  "lng" : -0.580009830291502
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

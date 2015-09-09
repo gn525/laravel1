@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fermanagh District Council",
+               "short_name" : "Fermanagh District Council",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Townhall Street",
+               "short_name" : "Townhall St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Enniskillen",
+               "short_name" : "Enniskillen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enniskillen",
+               "short_name" : "Enniskillen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fermanagh",
+               "short_name" : "Fermanagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT74",
+               "short_name" : "BT74",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fermanagh District Council, 2 Townhall Street, Enniskillen, Enniskillen, Fermanagh BT74, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.3448651,
+               "lng" : -7.6386397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3462140802915,
+                  "lng" : -7.637290719708497
+               },
+               "southwest" : {
+                  "lat" : 54.3435161197085,
+                  "lng" : -7.639988680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

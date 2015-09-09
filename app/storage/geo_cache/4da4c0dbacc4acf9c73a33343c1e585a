@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lambourn Woodlands",
+               "short_name" : "Lambourn Woodlands",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hungerford",
+               "short_name" : "Hungerford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG17",
+               "short_name" : "RG17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lambourn Woodlands, Hungerford, West Berkshire RG17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.481143,
+               "lng" : -1.542899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48809139999999,
+                  "lng" : -1.5268916
+               },
+               "southwest" : {
+                  "lat" : 51.4741936,
+                  "lng" : -1.5589064
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

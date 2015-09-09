@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Urmston",
+               "short_name" : "Urmston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Urmston, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4692751,
+                  "lng" : -2.3274985
+               },
+               "southwest" : {
+                  "lat" : 53.4306706,
+                  "lng" : -2.4139903
+               }
+            },
+            "location" : {
+               "lat" : 53.448717,
+               "lng" : -2.374697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4692751,
+                  "lng" : -2.3274985
+               },
+               "southwest" : {
+                  "lat" : 53.4306706,
+                  "lng" : -2.4139903
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

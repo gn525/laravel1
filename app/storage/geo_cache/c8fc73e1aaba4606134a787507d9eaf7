@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lenham Heath",
+               "short_name" : "Lenham Heath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME17",
+               "short_name" : "ME17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lenham Heath, Maidstone, Kent ME17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.214561,
+               "lng" : 0.739985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2215499,
+                  "lng" : 0.7559924
+               },
+               "southwest" : {
+                  "lat" : 51.20757099999999,
+                  "lng" : 0.7239776
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leeds Bradford International Airport",
+               "short_name" : "Leeds Bradford International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS19 7TU",
+               "short_name" : "LS19 7TU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leeds Bradford International Airport (LBA), Leeds, West Yorkshire LS19 7TU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8752293,
+                  "lng" : -1.6469091
+               },
+               "southwest" : {
+                  "lat" : 53.85763009999999,
+                  "lng" : -1.6750035
+               }
+            },
+            "location" : {
+               "lat" : 53.86794339999999,
+               "lng" : -1.6615306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8752293,
+                  "lng" : -1.6469091
+               },
+               "southwest" : {
+                  "lat" : 53.85763009999999,
+                  "lng" : -1.6750035
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

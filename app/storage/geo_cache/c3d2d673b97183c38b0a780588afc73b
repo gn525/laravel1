@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stamford Bridge",
+               "short_name" : "Stamford Bridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Riding of Yorkshire",
+               "short_name" : "East Riding of Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO41",
+               "short_name" : "YO41",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stamford Bridge, York, East Riding of Yorkshire YO41, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9950306,
+                  "lng" : -0.9031106
+               },
+               "southwest" : {
+                  "lat" : 53.9832159,
+                  "lng" : -0.9246755
+               }
+            },
+            "location" : {
+               "lat" : 53.989,
+               "lng" : -0.9125439999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9950306,
+                  "lng" : -0.9031106
+               },
+               "southwest" : {
+                  "lat" : 53.9832159,
+                  "lng" : -0.9246755
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SM7",
+               "short_name" : "SM7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "SM7, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.34242140000001,
+                  "lng" : -0.162491
+               },
+               "southwest" : {
+                  "lat" : 51.3027077,
+                  "lng" : -0.2346014
+               }
+            },
+            "location" : {
+               "lat" : 51.3206481,
+               "lng" : -0.1925912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.34242140000001,
+                  "lng" : -0.162491
+               },
+               "southwest" : {
+                  "lat" : 51.3027077,
+                  "lng" : -0.2346014
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pontypool",
+               "short_name" : "Pontypool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pontypool",
+               "short_name" : "Pontypool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Torfaen",
+               "short_name" : "Torfaen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP4",
+               "short_name" : "NP4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pontypool, Pontypool, Torfaen NP4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7223267,
+                  "lng" : -3.0081467
+               },
+               "southwest" : {
+                  "lat" : 51.68663549999999,
+                  "lng" : -3.0613347
+               }
+            },
+            "location" : {
+               "lat" : 51.700369,
+               "lng" : -3.045268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7223267,
+                  "lng" : -3.0081467
+               },
+               "southwest" : {
+                  "lat" : 51.68663549999999,
+                  "lng" : -3.0613347
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abingdon, Abingdon, Oxfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6929093,
+                  "lng" : -1.2535529
+               },
+               "southwest" : {
+                  "lat" : 51.65576590000001,
+                  "lng" : -1.311426
+               }
+            },
+            "location" : {
+               "lat" : 51.67078,
+               "lng" : -1.2879529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6929093,
+                  "lng" : -1.2535529
+               },
+               "southwest" : {
+                  "lat" : 51.65576590000001,
+                  "lng" : -1.311426
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eaton Socon",
+               "short_name" : "Eaton Socon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Neots",
+               "short_name" : "Saint Neots",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE19",
+               "short_name" : "PE19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eaton Socon, Saint Neots, Cambridgeshire PE19, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2293436,
+                  "lng" : -0.2740358
+               },
+               "southwest" : {
+                  "lat" : 52.20730709999999,
+                  "lng" : -0.2993102
+               }
+            },
+            "location" : {
+               "lat" : 52.22,
+               "lng" : -0.29
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2293436,
+                  "lng" : -0.2740358
+               },
+               "southwest" : {
+                  "lat" : 52.20730709999999,
+                  "lng" : -0.2993102
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

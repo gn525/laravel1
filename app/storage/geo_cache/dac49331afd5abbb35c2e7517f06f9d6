@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO14",
+               "short_name" : "PO14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Fareham",
+               "short_name" : "Fareham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fareham PO14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8678421,
+                  "lng" : -1.1804978
+               },
+               "southwest" : {
+                  "lat" : 50.8113023,
+                  "lng" : -1.275096
+               }
+            },
+            "location" : {
+               "lat" : 50.8288956,
+               "lng" : -1.2173211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8678421,
+                  "lng" : -1.1804978
+               },
+               "southwest" : {
+                  "lat" : 50.8113023,
+                  "lng" : -1.275096
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

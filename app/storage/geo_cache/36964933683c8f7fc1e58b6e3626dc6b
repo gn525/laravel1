@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M30",
+               "short_name" : "M30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M30, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4987822,
+                  "lng" : -2.3267272
+               },
+               "southwest" : {
+                  "lat" : 53.4556303,
+                  "lng" : -2.4333763
+               }
+            },
+            "location" : {
+               "lat" : 53.4804893,
+               "lng" : -2.3765494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4987822,
+                  "lng" : -2.3267272
+               },
+               "southwest" : {
+                  "lat" : 53.4556303,
+                  "lng" : -2.4333763
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

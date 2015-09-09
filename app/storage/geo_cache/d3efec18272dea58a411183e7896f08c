@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blairgowrie",
+               "short_name" : "Blairgowrie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blairgowrie",
+               "short_name" : "Blairgowrie",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Perth and Kinross",
+               "short_name" : "Perth and Kinross",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blairgowrie, Blairgowrie, Perth and Kinross, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6033225,
+                  "lng" : -3.3144498
+               },
+               "southwest" : {
+                  "lat" : 56.56917499999999,
+                  "lng" : -3.3575552
+               }
+            },
+            "location" : {
+               "lat" : 56.588823,
+               "lng" : -3.345894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6033225,
+                  "lng" : -3.3144498
+               },
+               "southwest" : {
+                  "lat" : 56.56917499999999,
+                  "lng" : -3.3575552
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

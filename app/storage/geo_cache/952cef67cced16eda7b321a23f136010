@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selby",
+               "short_name" : "Selby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selby",
+               "short_name" : "Selby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO8",
+               "short_name" : "YO8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Selby, Selby, North Yorkshire YO8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7965652,
+                  "lng" : -1.0384726
+               },
+               "southwest" : {
+                  "lat" : 53.76441209999999,
+                  "lng" : -1.107738
+               }
+            },
+            "location" : {
+               "lat" : 53.78352400000001,
+               "lng" : -1.067189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7965652,
+                  "lng" : -1.0384726
+               },
+               "southwest" : {
+                  "lat" : 53.76441209999999,
+                  "lng" : -1.107738
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

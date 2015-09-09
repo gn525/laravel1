@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BT7",
+               "short_name" : "BT7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belfast BT7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5958985,
+                  "lng" : -5.909945700000001
+               },
+               "southwest" : {
+                  "lat" : 54.5644132,
+                  "lng" : -5.9369679
+               }
+            },
+            "location" : {
+               "lat" : 54.5828932,
+               "lng" : -5.920160399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5958985,
+                  "lng" : -5.909945700000001
+               },
+               "southwest" : {
+                  "lat" : 54.5644132,
+                  "lng" : -5.9369679
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

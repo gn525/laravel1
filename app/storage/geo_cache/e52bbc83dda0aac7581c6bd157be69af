@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ditton Priors",
+               "short_name" : "Ditton Priors",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgnorth",
+               "short_name" : "Bridgnorth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WV16",
+               "short_name" : "WV16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ditton Priors, Bridgnorth, Shropshire WV16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.498265,
+               "lng" : -2.576398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5050573,
+                  "lng" : -2.5603906
+               },
+               "southwest" : {
+                  "lat" : 52.4914717,
+                  "lng" : -2.5924054
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

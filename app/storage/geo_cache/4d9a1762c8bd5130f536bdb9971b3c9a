@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tadley",
+               "short_name" : "Tadley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tadley, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3607257,
+                  "lng" : -1.1247032
+               },
+               "southwest" : {
+                  "lat" : 51.3225122,
+                  "lng" : -1.1760668
+               }
+            },
+            "location" : {
+               "lat" : 51.343801,
+               "lng" : -1.132169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3607257,
+                  "lng" : -1.1247032
+               },
+               "southwest" : {
+                  "lat" : 51.3225122,
+                  "lng" : -1.1760668
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Winnersh",
+               "short_name" : "Winnersh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wokingham",
+               "short_name" : "Wokingham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Winnersh, Wokingham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4399708,
+                  "lng" : -0.8500126000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4194087,
+                  "lng" : -0.9001631
+               }
+            },
+            "location" : {
+               "lat" : 51.428089,
+               "lng" : -0.879365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4399708,
+                  "lng" : -0.8500126000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4194087,
+                  "lng" : -0.9001631
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

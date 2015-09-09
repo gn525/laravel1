@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cadnam",
+               "short_name" : "Cadnam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO40",
+               "short_name" : "SO40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cadnam, Southampton, Hampshire SO40, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.921819,
+               "lng" : -1.5786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9288522,
+                  "lng" : -1.5625926
+               },
+               "southwest" : {
+                  "lat" : 50.9147847,
+                  "lng" : -1.5946074
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

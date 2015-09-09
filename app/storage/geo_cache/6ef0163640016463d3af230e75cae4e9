@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Lothian",
+               "short_name" : "East Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.079289,
+                  "lng" : -2.3642352
+               },
+               "southwest" : {
+                  "lat" : 55.8173207,
+                  "lng" : -3.0892803
+               }
+            },
+            "location" : {
+               "lat" : 55.9493383,
+               "lng" : -2.7704464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.079289,
+                  "lng" : -2.3642352
+               },
+               "southwest" : {
+                  "lat" : 55.8173207,
+                  "lng" : -3.0892803
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

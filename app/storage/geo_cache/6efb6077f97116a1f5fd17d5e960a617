@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poynton",
+               "short_name" : "Poynton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poynton, Cheshire East, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3651334,
+                  "lng" : -2.0792352
+               },
+               "southwest" : {
+                  "lat" : 53.3354463,
+                  "lng" : -2.1531205
+               }
+            },
+            "location" : {
+               "lat" : 53.348654,
+               "lng" : -2.121572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3651334,
+                  "lng" : -2.0792352
+               },
+               "southwest" : {
+                  "lat" : 53.3354463,
+                  "lng" : -2.1531205
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wick",
+               "short_name" : "Wick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wick",
+               "short_name" : "Wick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KW1",
+               "short_name" : "KW1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wick, Wick, Highland KW1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.4544515,
+                  "lng" : -3.0637337
+               },
+               "southwest" : {
+                  "lat" : 58.42667999999999,
+                  "lng" : -3.1102274
+               }
+            },
+            "location" : {
+               "lat" : 58.438936,
+               "lng" : -3.093716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.4544515,
+                  "lng" : -3.0637337
+               },
+               "southwest" : {
+                  "lat" : 58.42667999999999,
+                  "lng" : -3.1102274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

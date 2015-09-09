@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bosham",
+               "short_name" : "Bosham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bosham, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8499743,
+                  "lng" : -0.8167398
+               },
+               "southwest" : {
+                  "lat" : 50.8047888,
+                  "lng" : -0.8701167999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.829002,
+               "lng" : -0.8576779999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8499743,
+                  "lng" : -0.8167398
+               },
+               "southwest" : {
+                  "lat" : 50.8047888,
+                  "lng" : -0.8701167999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

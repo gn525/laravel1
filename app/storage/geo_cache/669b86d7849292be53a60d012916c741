@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Benbecula",
+               "short_name" : "Benbecula",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Benbecula",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.5076524,
+                  "lng" : -7.143158
+               },
+               "southwest" : {
+                  "lat" : 57.3884874,
+                  "lng" : -7.415139099999998
+               }
+            },
+            "location" : {
+               "lat" : 57.4565187,
+               "lng" : -7.282038600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5076524,
+                  "lng" : -7.143158
+               },
+               "southwest" : {
+                  "lat" : 57.3884874,
+                  "lng" : -7.415139099999998
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

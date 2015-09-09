@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bingley",
+               "short_name" : "Bingley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bingley, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8671733,
+                  "lng" : -1.7871243
+               },
+               "southwest" : {
+                  "lat" : 53.82013380000001,
+                  "lng" : -1.8621177
+               }
+            },
+            "location" : {
+               "lat" : 53.847389,
+               "lng" : -1.833781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8671733,
+                  "lng" : -1.7871243
+               },
+               "southwest" : {
+                  "lat" : 53.82013380000001,
+                  "lng" : -1.8621177
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

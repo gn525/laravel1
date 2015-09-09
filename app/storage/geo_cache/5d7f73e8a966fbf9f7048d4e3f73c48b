@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shepton Mallet",
+               "short_name" : "Shepton Mallet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shepton Mallet, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2033767,
+                  "lng" : -2.5203993
+               },
+               "southwest" : {
+                  "lat" : 51.176401,
+                  "lng" : -2.5798578
+               }
+            },
+            "location" : {
+               "lat" : 51.1909,
+               "lng" : -2.547886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2033767,
+                  "lng" : -2.5203993
+               },
+               "southwest" : {
+                  "lat" : 51.176401,
+                  "lng" : -2.5798578
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

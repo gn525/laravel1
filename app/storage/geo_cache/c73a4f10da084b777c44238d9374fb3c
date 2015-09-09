@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Immingham",
+               "short_name" : "Immingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North East Lincolnshire",
+               "short_name" : "North East Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Immingham, North East Lincolnshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6401915,
+                  "lng" : -0.1584499
+               },
+               "southwest" : {
+                  "lat" : 53.5844519,
+                  "lng" : -0.2520763
+               }
+            },
+            "location" : {
+               "lat" : 53.614012,
+               "lng" : -0.215913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6401915,
+                  "lng" : -0.1584499
+               },
+               "southwest" : {
+                  "lat" : 53.5844519,
+                  "lng" : -0.2520763
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

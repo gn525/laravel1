@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fleet",
+               "short_name" : "Fleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fleet, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.299976,
+                  "lng" : -0.8026426999999999
+               },
+               "southwest" : {
+                  "lat" : 51.2646947,
+                  "lng" : -0.8701753000000001
+               }
+            },
+            "location" : {
+               "lat" : 51.277283,
+               "lng" : -0.842655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.299976,
+                  "lng" : -0.8026426999999999
+               },
+               "southwest" : {
+                  "lat" : 51.2646947,
+                  "lng" : -0.8701753000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

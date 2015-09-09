@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pontcanna",
+               "short_name" : "Pontcanna",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF11",
+               "short_name" : "CF11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pontcanna, Cardiff, Cardiff, Cardiff CF11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.489534,
+               "lng" : -3.200120000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4964811,
+                  "lng" : -3.1841126
+               },
+               "southwest" : {
+                  "lat" : 51.4825859,
+                  "lng" : -3.2161274
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

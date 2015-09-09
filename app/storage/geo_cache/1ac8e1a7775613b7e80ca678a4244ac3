@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NR4",
+               "short_name" : "NR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich, Norfolk NR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6484235,
+                  "lng" : 1.3236366
+               },
+               "southwest" : {
+                  "lat" : 52.58332979999999,
+                  "lng" : 1.1960696
+               }
+            },
+            "location" : {
+               "lat" : 52.60004379999999,
+               "lng" : 1.247209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6371566,
+                  "lng" : 1.2939873
+               },
+               "southwest" : {
+                  "lat" : 52.58332979999999,
+                  "lng" : 1.1960696
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

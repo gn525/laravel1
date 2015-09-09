@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broxburn",
+               "short_name" : "Broxburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Lothian",
+               "short_name" : "West Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Broxburn, West Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9508613,
+                  "lng" : -3.426747
+               },
+               "southwest" : {
+                  "lat" : 55.9203473,
+                  "lng" : -3.502044
+               }
+            },
+            "location" : {
+               "lat" : 55.934161,
+               "lng" : -3.467681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9508613,
+                  "lng" : -3.426747
+               },
+               "southwest" : {
+                  "lat" : 55.9203473,
+                  "lng" : -3.502044
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

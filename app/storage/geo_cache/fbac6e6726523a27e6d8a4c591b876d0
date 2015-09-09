@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grangefield Industrial Estate",
+               "short_name" : "Grangefield Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Richardshaw Lane",
+               "short_name" : "Richardshaw Lane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanningley",
+               "short_name" : "Stanningley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pudsey",
+               "short_name" : "Pudsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pudsey",
+               "short_name" : "Pudsey",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS28 6SD",
+               "short_name" : "LS28 6SD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grangefield Industrial Estate, Richardshaw Lane, Pudsey, West Yorkshire LS28 6SD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8052862,
+               "lng" : -1.6562025
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8066351802915,
+                  "lng" : -1.654853519708498
+               },
+               "southwest" : {
+                  "lat" : 53.8039372197085,
+                  "lng" : -1.657551480291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

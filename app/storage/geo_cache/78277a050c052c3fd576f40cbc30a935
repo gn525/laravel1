@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hellaby",
+               "short_name" : "Hellaby",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bramley",
+               "short_name" : "Bramley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rotherham",
+               "short_name" : "Rotherham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S66",
+               "short_name" : "S66",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hellaby, Bramley, Rotherham, South Yorkshire S66, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.423303,
+               "lng" : -1.239183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42995149999999,
+                  "lng" : -1.2231756
+               },
+               "southwest" : {
+                  "lat" : 53.4166535,
+                  "lng" : -1.2551904
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

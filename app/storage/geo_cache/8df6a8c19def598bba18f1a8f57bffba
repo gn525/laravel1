@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tyrone",
+               "short_name" : "Tyrone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT79",
+               "short_name" : "BT79",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tyrone, Omagh, Omagh BT79, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.60296,
+               "lng" : -7.0941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.60942259999999,
+                  "lng" : -7.0780926
+               },
+               "southwest" : {
+                  "lat" : 54.5964963,
+                  "lng" : -7.1101074
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

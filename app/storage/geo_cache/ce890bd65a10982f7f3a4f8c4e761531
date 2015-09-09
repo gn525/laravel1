@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pangbourne",
+               "short_name" : "Pangbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG8",
+               "short_name" : "RG8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pangbourne, Reading, West Berkshire RG8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.482245,
+               "lng" : -1.087156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4891932,
+                  "lng" : -1.0711486
+               },
+               "southwest" : {
+                  "lat" : 51.4752958,
+                  "lng" : -1.1031634
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

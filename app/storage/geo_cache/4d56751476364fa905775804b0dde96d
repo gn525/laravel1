@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Kilbride",
+               "short_name" : "East Kilbride",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Kilbride, Glasgow, South Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.79138099999999,
+                  "lng" : -4.1282607
+               },
+               "southwest" : {
+                  "lat" : 55.7268994,
+                  "lng" : -4.2484055
+               }
+            },
+            "location" : {
+               "lat" : 55.76435240000001,
+               "lng" : -4.1769988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.79138099999999,
+                  "lng" : -4.1282607
+               },
+               "southwest" : {
+                  "lat" : 55.7268994,
+                  "lng" : -4.2484055
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

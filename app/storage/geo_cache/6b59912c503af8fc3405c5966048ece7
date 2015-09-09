@@ -1,0 +1,167 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambourne, near Business Park",
+               "short_name" : "Cambourne, near Business Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Cambourne",
+               "short_name" : "Cambourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB23",
+               "short_name" : "CB23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambourne, near Business Park, Cambourne, Cambridge, Cambridgeshire CB23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.222252,
+               "lng" : -0.071865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.22360098029151,
+                  "lng" : -0.07051601970849797
+               },
+               "southwest" : {
+                  "lat" : 52.22090301970851,
+                  "lng" : -0.07321398029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambourne, Business Park (E-bound)",
+               "short_name" : "Cambourne, Business Park (E-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Cambourne",
+               "short_name" : "Cambourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB23",
+               "short_name" : "CB23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambourne, Business Park (E-bound), Cambourne, Cambridge, Cambridgeshire CB23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.221497,
+               "lng" : -0.07191199999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2228459802915,
+                  "lng" : -0.07056301970849796
+               },
+               "southwest" : {
+                  "lat" : 52.2201480197085,
+                  "lng" : -0.07326098029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambourne, opp Business Park",
+               "short_name" : "Cambourne, opp Business Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Cambourne",
+               "short_name" : "Cambourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB23",
+               "short_name" : "CB23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambourne, opp Business Park, Cambourne, Cambridge, Cambridgeshire CB23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.222275,
+               "lng" : -0.070648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.22362398029149,
+                  "lng" : -0.06929901970849797
+               },
+               "southwest" : {
+                  "lat" : 52.2209260197085,
+                  "lng" : -0.07199698029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

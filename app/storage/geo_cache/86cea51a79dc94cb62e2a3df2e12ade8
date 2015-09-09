@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG12",
+               "short_name" : "NG12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham NG12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.986607,
+                  "lng" : -0.9222608
+               },
+               "southwest" : {
+                  "lat" : 52.8190506,
+                  "lng" : -1.1379811
+               }
+            },
+            "location" : {
+               "lat" : 52.8912108,
+               "lng" : -1.0209505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.986607,
+                  "lng" : -0.9222608
+               },
+               "southwest" : {
+                  "lat" : 52.8190506,
+                  "lng" : -1.1379811
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

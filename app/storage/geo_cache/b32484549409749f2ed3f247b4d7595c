@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Snodland",
+               "short_name" : "Snodland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Snodland, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3420467,
+                  "lng" : 0.4597005
+               },
+               "southwest" : {
+                  "lat" : 51.3178442,
+                  "lng" : 0.4273024
+               }
+            },
+            "location" : {
+               "lat" : 51.3313,
+               "lng" : 0.445068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3420467,
+                  "lng" : 0.4597005
+               },
+               "southwest" : {
+                  "lat" : 51.3178442,
+                  "lng" : 0.4273024
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

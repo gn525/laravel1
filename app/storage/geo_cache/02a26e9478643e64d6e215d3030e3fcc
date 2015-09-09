@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gloucestershire Airport",
+               "short_name" : "Gloucestershire Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Staverton",
+               "short_name" : "Staverton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 6SR",
+               "short_name" : "GL51 6SR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gloucestershire Airport (GLO), Staverton, Cheltenham, Gloucestershire GL51 6SR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8990079,
+                  "lng" : -2.1556889
+               },
+               "southwest" : {
+                  "lat" : 51.8865482,
+                  "lng" : -2.1795594
+               }
+            },
+            "location" : {
+               "lat" : 51.8937371,
+               "lng" : -2.1645022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8990079,
+                  "lng" : -2.1556889
+               },
+               "southwest" : {
+                  "lat" : 51.8865482,
+                  "lng" : -2.1795594
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

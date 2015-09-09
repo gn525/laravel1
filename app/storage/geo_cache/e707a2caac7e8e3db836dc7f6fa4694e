@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedhampton",
+               "short_name" : "Bedhampton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Havant",
+               "short_name" : "Havant",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Havant",
+               "short_name" : "Havant",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO9",
+               "short_name" : "PO9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bedhampton, Havant, Havant, Hampshire PO9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.854655,
+               "lng" : -1.004007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8616984,
+                  "lng" : -0.9879996
+               },
+               "southwest" : {
+                  "lat" : 50.84761049999999,
+                  "lng" : -1.0200144
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

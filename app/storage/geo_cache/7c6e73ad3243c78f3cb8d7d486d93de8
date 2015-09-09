@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Watlington",
+               "short_name" : "Watlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watlington",
+               "short_name" : "Watlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX49",
+               "short_name" : "OX49",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Watlington, Watlington, Oxfordshire OX49, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6521732,
+                  "lng" : -0.9894125999999999
+               },
+               "southwest" : {
+                  "lat" : 51.6386668,
+                  "lng" : -1.0243506
+               }
+            },
+            "location" : {
+               "lat" : 51.645079,
+               "lng" : -1.010546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6521732,
+                  "lng" : -0.9894125999999999
+               },
+               "southwest" : {
+                  "lat" : 51.6386668,
+                  "lng" : -1.0243506
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calne",
+               "short_name" : "Calne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calne",
+               "short_name" : "Calne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN11",
+               "short_name" : "SN11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calne, Calne, Wiltshire SN11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4560953,
+                  "lng" : -1.959438
+               },
+               "southwest" : {
+                  "lat" : 51.4207138,
+                  "lng" : -2.0317483
+               }
+            },
+            "location" : {
+               "lat" : 51.43933,
+               "lng" : -2.003884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4560953,
+                  "lng" : -1.959438
+               },
+               "southwest" : {
+                  "lat" : 51.4207138,
+                  "lng" : -2.0317483
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

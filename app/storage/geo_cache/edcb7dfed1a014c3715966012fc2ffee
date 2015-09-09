@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OX4",
+               "short_name" : "OX4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, Oxfordshire OX4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7528096,
+                  "lng" : -1.1764535
+               },
+               "southwest" : {
+                  "lat" : 51.6978779,
+                  "lng" : -1.268706
+               }
+            },
+            "location" : {
+               "lat" : 51.7246123,
+               "lng" : -1.2145364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7528096,
+                  "lng" : -1.1764535
+               },
+               "southwest" : {
+                  "lat" : 51.6978779,
+                  "lng" : -1.2506539
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

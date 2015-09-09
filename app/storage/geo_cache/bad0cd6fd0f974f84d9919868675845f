@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alton",
+               "short_name" : "Alton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alton",
+               "short_name" : "Alton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU34",
+               "short_name" : "GU34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alton, Alton, Hampshire GU34, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1642982,
+                  "lng" : -0.9507732
+               },
+               "southwest" : {
+                  "lat" : 51.1364336,
+                  "lng" : -0.9978735999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.150719,
+               "lng" : -0.973177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1642982,
+                  "lng" : -0.9507732
+               },
+               "southwest" : {
+                  "lat" : 51.1364336,
+                  "lng" : -0.9978735999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alton",
+               "short_name" : "Alton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alton, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9937984,
+                  "lng" : -1.8599087
+               },
+               "southwest" : {
+                  "lat" : 52.96252879999999,
+                  "lng" : -1.9439888
+               }
+            },
+            "location" : {
+               "lat" : 52.9771659,
+               "lng" : -1.891802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9937984,
+                  "lng" : -1.8599087
+               },
+               "southwest" : {
+                  "lat" : 52.96252879999999,
+                  "lng" : -1.9439888
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alton",
+               "short_name" : "Alton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chesterfield",
+               "short_name" : "Chesterfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S42",
+               "short_name" : "S42",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alton, Chesterfield, Derbyshire S42, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.174378,
+               "lng" : -1.458359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.17572698029149,
+                  "lng" : -1.457010019708498
+               },
+               "southwest" : {
+                  "lat" : 53.17302901970849,
+                  "lng" : -1.459707980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

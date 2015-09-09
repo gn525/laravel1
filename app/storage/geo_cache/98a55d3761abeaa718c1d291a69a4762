@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HX2",
+               "short_name" : "HX2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Yorkshire HX2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7879606,
+                  "lng" : -1.8566848
+               },
+               "southwest" : {
+                  "lat" : 53.7072903,
+                  "lng" : -1.979948
+               }
+            },
+            "location" : {
+               "lat" : 53.7539586,
+               "lng" : -1.9301476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7879606,
+                  "lng" : -1.8566848
+               },
+               "southwest" : {
+                  "lat" : 53.7072903,
+                  "lng" : -1.979948
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

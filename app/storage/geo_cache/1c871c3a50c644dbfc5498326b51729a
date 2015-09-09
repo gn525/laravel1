@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MK45",
+               "short_name" : "MK45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedford MK45, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1349248,
+                  "lng" : -0.363996
+               },
+               "southwest" : {
+                  "lat" : 51.9481015,
+                  "lng" : -0.5495791999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.0418483,
+               "lng" : -0.4563663999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1349248,
+                  "lng" : -0.363996
+               },
+               "southwest" : {
+                  "lat" : 51.9481015,
+                  "lng" : -0.5495791999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

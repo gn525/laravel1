@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EC3R",
+               "short_name" : "EC3R",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London EC3R, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5248016,
+                  "lng" : -0.07872839999999999
+               },
+               "southwest" : {
+                  "lat" : 51.507291,
+                  "lng" : -0.1121881
+               }
+            },
+            "location" : {
+               "lat" : 51.5090653,
+               "lng" : -0.08289729999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51223719999999,
+                  "lng" : -0.07872839999999999
+               },
+               "southwest" : {
+                  "lat" : 51.507291,
+                  "lng" : -0.08741019999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Bank of Abu Dhabi",
+               "short_name" : "National Bank of Abu Dhabi",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Knightsbridge",
+               "short_name" : "Knightsbridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Knightsbridge",
+               "short_name" : "Knightsbridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW1X 7LX",
+               "short_name" : "SW1X 7LX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National Bank of Abu Dhabi, 1 Knightsbridge, Knightsbridge, London SW1X 7LX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5027579,
+               "lng" : -0.1535925
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5041068802915,
+                  "lng" : -0.152243519708498
+               },
+               "southwest" : {
+                  "lat" : 51.5014089197085,
+                  "lng" : -0.154941480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

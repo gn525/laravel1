@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rumbling Bridge",
+               "short_name" : "Rumbling Bridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kinross",
+               "short_name" : "Kinross",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Perth and Kinross",
+               "short_name" : "Perth and Kinross",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY13",
+               "short_name" : "KY13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rumbling Bridge, Kinross, Perth and Kinross KY13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.177194,
+               "lng" : -3.581133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.18340430000001,
+                  "lng" : -3.5651256
+               },
+               "southwest" : {
+                  "lat" : 56.1709827,
+                  "lng" : -3.5971404
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

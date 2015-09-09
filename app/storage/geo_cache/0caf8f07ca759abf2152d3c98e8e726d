@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aylsham",
+               "short_name" : "Aylsham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aylsham, Norwich, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8192941,
+                  "lng" : 1.289973
+               },
+               "southwest" : {
+                  "lat" : 52.7702029,
+                  "lng" : 1.2058876
+               }
+            },
+            "location" : {
+               "lat" : 52.796672,
+               "lng" : 1.252352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8192941,
+                  "lng" : 1.289973
+               },
+               "southwest" : {
+                  "lat" : 52.7702029,
+                  "lng" : 1.2058876
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

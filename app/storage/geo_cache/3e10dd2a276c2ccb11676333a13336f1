@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tonyrefail",
+               "short_name" : "Tonyrefail",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porth",
+               "short_name" : "Porth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF39",
+               "short_name" : "CF39",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tonyrefail, Porth, Rhondda Cynon Taff CF39, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5937218,
+                  "lng" : -3.4071702
+               },
+               "southwest" : {
+                  "lat" : 51.5653851,
+                  "lng" : -3.4611257
+               }
+            },
+            "location" : {
+               "lat" : 51.583768,
+               "lng" : -3.428319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5937218,
+                  "lng" : -3.4071702
+               },
+               "southwest" : {
+                  "lat" : 51.5653851,
+                  "lng" : -3.4611257
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

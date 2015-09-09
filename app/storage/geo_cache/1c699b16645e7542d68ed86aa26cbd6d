@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heywood",
+               "short_name" : "Heywood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heywood, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6101178,
+                  "lng" : -2.1947486
+               },
+               "southwest" : {
+                  "lat" : 53.5615323,
+                  "lng" : -2.2730922
+               }
+            },
+            "location" : {
+               "lat" : 53.592628,
+               "lng" : -2.22565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6101178,
+                  "lng" : -2.1947486
+               },
+               "southwest" : {
+                  "lat" : 53.5615323,
+                  "lng" : -2.2730922
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BH1",
+               "short_name" : "BH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "BH1, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7349024,
+                  "lng" : -1.8364228
+               },
+               "southwest" : {
+                  "lat" : 50.7156493,
+                  "lng" : -1.9087062
+               }
+            },
+            "location" : {
+               "lat" : 50.7296927,
+               "lng" : -1.8460414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7349024,
+                  "lng" : -1.8364228
+               },
+               "southwest" : {
+                  "lat" : 50.7156493,
+                  "lng" : -1.8798811
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

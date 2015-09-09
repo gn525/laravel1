@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TS18",
+               "short_name" : "TS18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stockton-on-Tees TS18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.58131179999999,
+                  "lng" : -1.2599877
+               },
+               "southwest" : {
+                  "lat" : 54.531615,
+                  "lng" : -1.373341
+               }
+            },
+            "location" : {
+               "lat" : 54.5529822,
+               "lng" : -1.3193432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.58131179999999,
+                  "lng" : -1.2599877
+               },
+               "southwest" : {
+                  "lat" : 54.531615,
+                  "lng" : -1.373341
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

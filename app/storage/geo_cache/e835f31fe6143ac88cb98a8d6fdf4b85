@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coedkernew",
+               "short_name" : "Coedkernew",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coedkernew, Newport, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5667838,
+                  "lng" : -3.0236006
+               },
+               "southwest" : {
+                  "lat" : 51.5412373,
+                  "lng" : -3.0720305
+               }
+            },
+            "location" : {
+               "lat" : 51.55028,
+               "lng" : -3.03979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5667838,
+                  "lng" : -3.0236006
+               },
+               "southwest" : {
+                  "lat" : 51.5412373,
+                  "lng" : -3.0720305
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

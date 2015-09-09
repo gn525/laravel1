@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bourton-on-the-Water",
+               "short_name" : "Bourton-on-the-Water",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL54",
+               "short_name" : "GL54",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bourton-on-the-Water, Cheltenham, Gloucestershire GL54, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8984765,
+                  "lng" : -1.7385351
+               },
+               "southwest" : {
+                  "lat" : 51.8538151,
+                  "lng" : -1.8032217
+               }
+            },
+            "location" : {
+               "lat" : 51.886805,
+               "lng" : -1.763191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8984765,
+                  "lng" : -1.7385351
+               },
+               "southwest" : {
+                  "lat" : 51.8538151,
+                  "lng" : -1.8032217
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

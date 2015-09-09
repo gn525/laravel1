@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen Airport",
+               "short_name" : "Aberdeen Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Dyce",
+               "short_name" : "Dyce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeen City",
+               "short_name" : "Aberdeen City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB21 7DU",
+               "short_name" : "AB21 7DU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen Airport, Dyce, Aberdeen, Aberdeen City AB21 7DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.2145789,
+                  "lng" : -2.1867715
+               },
+               "southwest" : {
+                  "lat" : 57.1897932,
+                  "lng" : -2.211223
+               }
+            },
+            "location" : {
+               "lat" : 57.20369789999999,
+               "lng" : -2.2001618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2145789,
+                  "lng" : -2.1867715
+               },
+               "southwest" : {
+                  "lat" : 57.1897932,
+                  "lng" : -2.211223
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

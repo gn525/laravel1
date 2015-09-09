@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brackmills Industrial Estate",
+               "short_name" : "Brackmills Industrial Estate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN4",
+               "short_name" : "NN4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brackmills Industrial Estate, Northampton, Northamptonshire NN4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2228688,
+               "lng" : -0.8627336999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2297036,
+                  "lng" : -0.8467262999999999
+               },
+               "southwest" : {
+                  "lat" : 52.216033,
+                  "lng" : -0.8787410999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

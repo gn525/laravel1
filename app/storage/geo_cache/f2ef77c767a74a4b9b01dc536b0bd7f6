@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gringley on the Hill",
+               "short_name" : "Gringley on the Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doncaster",
+               "short_name" : "Doncaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN10",
+               "short_name" : "DN10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gringley on the Hill, Doncaster, Nottinghamshire DN10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.407084,
+               "lng" : -0.893814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.413735,
+                  "lng" : -0.8778066
+               },
+               "southwest" : {
+                  "lat" : 53.4004319,
+                  "lng" : -0.9098214000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

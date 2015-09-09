@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CV6",
+               "short_name" : "CV6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coventry CV6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4639828,
+                  "lng" : -1.4577585
+               },
+               "southwest" : {
+                  "lat" : 52.4116757,
+                  "lng" : -1.5543414
+               }
+            },
+            "location" : {
+               "lat" : 52.4422855,
+               "lng" : -1.5080572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4639828,
+                  "lng" : -1.4577585
+               },
+               "southwest" : {
+                  "lat" : 52.4116757,
+                  "lng" : -1.5543414
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

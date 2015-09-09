@@ -1,0 +1,694 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Lane",
+               "short_name" : "Berne Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bridport",
+               "short_name" : "Bridport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT6 6RF",
+               "short_name" : "DT6 6RF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Lane, Bridport, Dorset DT6 6RF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7540278,
+                  "lng" : -2.8624819
+               },
+               "southwest" : {
+                  "lat" : 50.7404895,
+                  "lng" : -2.8836544
+               }
+            },
+            "location" : {
+               "lat" : 50.7450571,
+               "lng" : -2.8731829
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7540278,
+                  "lng" : -2.8624819
+               },
+               "southwest" : {
+                  "lat" : 50.7404895,
+                  "lng" : -2.8836544
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Avenue",
+               "short_name" : "Berne Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Horwich",
+               "short_name" : "Horwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BL6 7QZ",
+               "short_name" : "BL6 7QZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Avenue, Horwich, Bolton BL6 7QZ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5988285,
+                  "lng" : -2.5526957
+               },
+               "southwest" : {
+                  "lat" : 53.5982534,
+                  "lng" : -2.555747
+               }
+            },
+            "location" : {
+               "lat" : 53.59858879999999,
+               "lng" : -2.5544958
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5998899302915,
+                  "lng" : -2.5526957
+               },
+               "southwest" : {
+                  "lat" : 53.5971919697085,
+                  "lng" : -2.555747
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Road",
+               "short_name" : "Berne Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portstewart",
+               "short_name" : "Portstewart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portstewart",
+               "short_name" : "Portstewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Coleraine",
+               "short_name" : "Coleraine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT55",
+               "short_name" : "BT55",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Road, Portstewart, Coleraine BT55, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1787933,
+                  "lng" : -6.723071
+               },
+               "southwest" : {
+                  "lat" : 55.1761338,
+                  "lng" : -6.724602
+               }
+            },
+            "location" : {
+               "lat" : 55.177201,
+               "lng" : -6.7237785
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.17881253029149,
+                  "lng" : -6.722487519708498
+               },
+               "southwest" : {
+                  "lat" : 55.1761145697085,
+                  "lng" : -6.725185480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Avenue",
+               "short_name" : "Berne Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newcastle-under-Lyme",
+               "short_name" : "Newcastle-under-Lyme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle",
+               "short_name" : "Newcastle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST5 2QJ",
+               "short_name" : "ST5 2QJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Avenue, Newcastle, Staffordshire ST5 2QJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0015897,
+                  "lng" : -2.251553
+               },
+               "southwest" : {
+                  "lat" : 52.9999481,
+                  "lng" : -2.2528969
+               }
+            },
+            "location" : {
+               "lat" : 53.0009211,
+               "lng" : -2.2526347
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0021178802915,
+                  "lng" : -2.250875969708498
+               },
+               "southwest" : {
+                  "lat" : 52.9994199197085,
+                  "lng" : -2.253573930291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Avenue",
+               "short_name" : "Berne Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portstewart",
+               "short_name" : "Portstewart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portstewart",
+               "short_name" : "Portstewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Coleraine",
+               "short_name" : "Coleraine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT55 7NE",
+               "short_name" : "BT55 7NE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Avenue, Portstewart, Coleraine BT55 7NE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1775951,
+                  "lng" : -6.7218203
+               },
+               "southwest" : {
+                  "lat" : 55.17715699999999,
+                  "lng" : -6.723071
+               }
+            },
+            "location" : {
+               "lat" : 55.1775195,
+               "lng" : -6.7218203
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1787250302915,
+                  "lng" : -6.721096669708499
+               },
+               "southwest" : {
+                  "lat" : 55.1760270697085,
+                  "lng" : -6.723794630291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Grove",
+               "short_name" : "Berne Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wakefield",
+               "short_name" : "Wakefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wakefield",
+               "short_name" : "Wakefield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WF1 3NH",
+               "short_name" : "WF1 3NH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Grove, Wakefield, West Yorkshire WF1 3NH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6877984,
+                  "lng" : -1.4943113
+               },
+               "southwest" : {
+                  "lat" : 53.687148,
+                  "lng" : -1.495246
+               }
+            },
+            "location" : {
+               "lat" : 53.687507,
+               "lng" : -1.4947728
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6888221802915,
+                  "lng" : -1.493429669708498
+               },
+               "southwest" : {
+                  "lat" : 53.6861242197085,
+                  "lng" : -1.496127630291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne House",
+               "short_name" : "Berne House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Nether Drumgley",
+               "short_name" : "Nether Drumgley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forfar",
+               "short_name" : "Forfar",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Angus",
+               "short_name" : "Angus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD8 1QZ",
+               "short_name" : "DD8 1QZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne House, Nether Drumgley, Forfar, Angus DD8 1QZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.6387132,
+               "lng" : -2.9445627
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.64006218029149,
+                  "lng" : -2.943213719708498
+               },
+               "southwest" : {
+                  "lat" : 56.63736421970849,
+                  "lng" : -2.945911680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Square",
+               "short_name" : "Berne Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodsetts",
+               "short_name" : "Woodsetts",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worksop",
+               "short_name" : "Worksop",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S81 8RJ",
+               "short_name" : "S81 8RJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Square, Woodsetts, Worksop, South Yorkshire S81 8RJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.34861550000001,
+                  "lng" : -1.1771394
+               },
+               "southwest" : {
+                  "lat" : 53.3481204,
+                  "lng" : -1.1778707
+               }
+            },
+            "location" : {
+               "lat" : 53.3483799,
+               "lng" : -1.1772656
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.34971693029151,
+                  "lng" : -1.176156069708498
+               },
+               "southwest" : {
+                  "lat" : 53.34701896970851,
+                  "lng" : -1.178854030291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Road",
+               "short_name" : "Berne Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thornton Heath",
+               "short_name" : "Thornton Heath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thornton Heath",
+               "short_name" : "Thornton Heath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CR7",
+               "short_name" : "CR7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Road, Thornton Heath, Thornton Heath, Greater London CR7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3958132,
+                  "lng" : -0.1024389
+               },
+               "southwest" : {
+                  "lat" : 51.3941187,
+                  "lng" : -0.1041737
+               }
+            },
+            "location" : {
+               "lat" : 51.3952672,
+               "lng" : -0.1037028
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3963149302915,
+                  "lng" : -0.101957319708498
+               },
+               "southwest" : {
+                  "lat" : 51.3936169697085,
+                  "lng" : -0.104655280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Close",
+               "short_name" : "Berne Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chadderton",
+               "short_name" : "Chadderton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oldham",
+               "short_name" : "Oldham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OL9 9AQ",
+               "short_name" : "OL9 9AQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Close, Chadderton, Oldham OL9 9AQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.53936849999999,
+                  "lng" : -2.1371672
+               },
+               "southwest" : {
+                  "lat" : 53.538912,
+                  "lng" : -2.1375138
+               }
+            },
+            "location" : {
+               "lat" : 53.53928,
+               "lng" : -2.1371893
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54048923029149,
+                  "lng" : -2.135991519708498
+               },
+               "southwest" : {
+                  "lat" : 53.53779126970849,
+                  "lng" : -2.138689480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne Close",
+               "short_name" : "Berne Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bramhall",
+               "short_name" : "Bramhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockport",
+               "short_name" : "Stockport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK7 3DX",
+               "short_name" : "SK7 3DX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne Close, Bramhall, Stockport SK7 3DX, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3849155,
+                  "lng" : -2.1645121
+               },
+               "southwest" : {
+                  "lat" : 53.3845026,
+                  "lng" : -2.1651029
+               }
+            },
+            "location" : {
+               "lat" : 53.3849155,
+               "lng" : -2.1647826
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.38605803029149,
+                  "lng" : -2.163458519708498
+               },
+               "southwest" : {
+                  "lat" : 53.38336006970849,
+                  "lng" : -2.166156480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

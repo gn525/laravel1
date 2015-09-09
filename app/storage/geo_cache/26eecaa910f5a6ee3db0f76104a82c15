@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumbarton",
+               "short_name" : "Dumbarton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Dunbartonshire",
+               "short_name" : "West Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dumbarton, West Dunbartonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9636818,
+                  "lng" : -4.515896199999999
+               },
+               "southwest" : {
+                  "lat" : 55.9300741,
+                  "lng" : -4.607922600000001
+               }
+            },
+            "location" : {
+               "lat" : 55.945287,
+               "lng" : -4.564554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9636818,
+                  "lng" : -4.515896199999999
+               },
+               "southwest" : {
+                  "lat" : 55.9300741,
+                  "lng" : -4.607922600000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

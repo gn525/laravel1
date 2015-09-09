@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cilcain",
+               "short_name" : "Cilcain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mold",
+               "short_name" : "Mold",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH7",
+               "short_name" : "CH7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cilcain, Mold, Flintshire CH7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.180484,
+               "lng" : -3.233698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1871704,
+                  "lng" : -3.217690600000001
+               },
+               "southwest" : {
+                  "lat" : 53.17379649999999,
+                  "lng" : -3.2497054
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

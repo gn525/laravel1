@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "E1W",
+               "short_name" : "E1W",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London E1W, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5196578,
+                  "lng" : -0.0407136
+               },
+               "southwest" : {
+                  "lat" : 51.5026717,
+                  "lng" : -0.07604469999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.5057942,
+               "lng" : -0.06013429999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5126246,
+                  "lng" : -0.0407136
+               },
+               "southwest" : {
+                  "lat" : 51.5026717,
+                  "lng" : -0.07604469999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

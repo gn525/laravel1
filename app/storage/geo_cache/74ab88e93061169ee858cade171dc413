@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abington",
+               "short_name" : "Abington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Biggar",
+               "short_name" : "Biggar",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML12",
+               "short_name" : "ML12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Abington, Biggar, South Lanarkshire ML12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.49529099999999,
+               "lng" : -3.688865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5016112,
+                  "lng" : -3.6728576
+               },
+               "southwest" : {
+                  "lat" : 55.4889698,
+                  "lng" : -3.7048724
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

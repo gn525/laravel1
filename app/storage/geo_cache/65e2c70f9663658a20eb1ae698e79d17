@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "British Virgin Islands Government",
+               "short_name" : "British Virgin Islands Government",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1K 7PJ",
+               "short_name" : "W1K 7PJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "British Virgin Islands Government, Mayfair, London W1K 7PJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51069099999999,
+               "lng" : -0.1550716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51203998029149,
+                  "lng" : -0.153722619708498
+               },
+               "southwest" : {
+                  "lat" : 51.50934201970849,
+                  "lng" : -0.156420580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

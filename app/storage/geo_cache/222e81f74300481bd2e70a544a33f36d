@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GU9",
+               "short_name" : "GU9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GU9, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.24194929999999,
+                  "lng" : -0.7490477
+               },
+               "southwest" : {
+                  "lat" : 51.19440650000001,
+                  "lng" : -0.825522
+               }
+            },
+            "location" : {
+               "lat" : 51.223878,
+               "lng" : -0.790053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.24194929999999,
+                  "lng" : -0.7490477
+               },
+               "southwest" : {
+                  "lat" : 51.19440650000001,
+                  "lng" : -0.825522
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Congleton",
+               "short_name" : "Congleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Congleton",
+               "short_name" : "Congleton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CW12",
+               "short_name" : "CW12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Congleton, Congleton, Cheshire East CW12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1802049,
+                  "lng" : -2.1680072
+               },
+               "southwest" : {
+                  "lat" : 53.1446084,
+                  "lng" : -2.2508014
+               }
+            },
+            "location" : {
+               "lat" : 53.162856,
+               "lng" : -2.218923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1802049,
+                  "lng" : -2.1680072
+               },
+               "southwest" : {
+                  "lat" : 53.1446084,
+                  "lng" : -2.2508014
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

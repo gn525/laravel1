@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dukinfield",
+               "short_name" : "Dukinfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dukinfield, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4854883,
+                  "lng" : -2.0464705
+               },
+               "southwest" : {
+                  "lat" : 53.46217,
+                  "lng" : -2.1099376
+               }
+            },
+            "location" : {
+               "lat" : 53.478764,
+               "lng" : -2.094523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4854883,
+                  "lng" : -2.0464705
+               },
+               "southwest" : {
+                  "lat" : 53.46217,
+                  "lng" : -2.1099376
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

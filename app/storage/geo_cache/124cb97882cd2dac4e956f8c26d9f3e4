@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Ives",
+               "short_name" : "St Ives",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Ives",
+               "short_name" : "Saint Ives",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE27",
+               "short_name" : "PE27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Ives, Saint Ives, Cambridgeshire PE27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.324881,
+               "lng" : -0.070821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3317001,
+                  "lng" : -0.0548136
+               },
+               "southwest" : {
+                  "lat" : 52.31806090000001,
+                  "lng" : -0.0868284
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

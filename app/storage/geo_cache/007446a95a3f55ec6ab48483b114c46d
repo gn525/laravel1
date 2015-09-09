@@ -1,0 +1,392 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Common Road",
+               "short_name" : "N Common Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB8",
+               "short_name" : "UB8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Common Road, Uxbridge, Greater London UB8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.55479700000001,
+                  "lng" : -0.4701548
+               },
+               "southwest" : {
+                  "lat" : 51.5545078,
+                  "lng" : -0.4743536
+               }
+            },
+            "location" : {
+               "lat" : 51.5545541,
+               "lng" : -0.4725379
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5560013802915,
+                  "lng" : -0.4701548
+               },
+               "southwest" : {
+                  "lat" : 51.5533034197085,
+                  "lng" : -0.4743536
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Common Road",
+               "short_name" : "W Common Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB8",
+               "short_name" : "UB8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Common Road, Uxbridge, Greater London UB8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5545078,
+                  "lng" : -0.4723284
+               },
+               "southwest" : {
+                  "lat" : 51.5519263,
+                  "lng" : -0.4743728
+               }
+            },
+            "location" : {
+               "lat" : 51.5532824,
+               "lng" : -0.4735467
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5545660302915,
+                  "lng" : -0.472001619708498
+               },
+               "southwest" : {
+                  "lat" : 51.5518680697085,
+                  "lng" : -0.4746995802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Common Road",
+               "short_name" : "S Common Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB8 1NY",
+               "short_name" : "UB8 1NY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Common Road, Uxbridge, Greater London UB8 1NY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5520112,
+                  "lng" : -0.4709728
+               },
+               "southwest" : {
+                  "lat" : 51.5517553,
+                  "lng" : -0.4723284
+               }
+            },
+            "location" : {
+               "lat" : 51.5519628,
+               "lng" : -0.4715954999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5532322302915,
+                  "lng" : -0.470301619708498
+               },
+               "southwest" : {
+                  "lat" : 51.5505342697085,
+                  "lng" : -0.4729995802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uxbridge Common Post Office",
+               "short_name" : "Uxbridge Common Post Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Park Road",
+               "short_name" : "Park Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB8 1NW",
+               "short_name" : "UB8 1NW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Uxbridge Common Post Office, 101 Park Road, Uxbridge, Middlesex UB8 1NW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5534843,
+               "lng" : -0.4719806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5548332802915,
+                  "lng" : -0.470631619708498
+               },
+               "southwest" : {
+                  "lat" : 51.5521353197085,
+                  "lng" : -0.4733295802915021
+               }
+            }
+         },
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Common",
+               "short_name" : "The Common",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB7 7HQ",
+               "short_name" : "UB7 7HQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Common, West Drayton, Greater London UB7 7HQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.49665580000001,
+                  "lng" : -0.4860941
+               },
+               "southwest" : {
+                  "lat" : 51.4953599,
+                  "lng" : -0.4873342
+               }
+            },
+            "location" : {
+               "lat" : 51.49654990000001,
+               "lng" : -0.4868199
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4973568302915,
+                  "lng" : -0.485365169708498
+               },
+               "southwest" : {
+                  "lat" : 51.4946588697085,
+                  "lng" : -0.4880631302915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uxbridge Common",
+               "short_name" : "Uxbridge Common",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB8",
+               "short_name" : "UB8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Uxbridge Common, Uxbridge, Uxbridge, Greater London UB8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5546051,
+                  "lng" : -0.4701791
+               },
+               "southwest" : {
+                  "lat" : 51.5519113,
+                  "lng" : -0.4743715
+               }
+            },
+            "location" : {
+               "lat" : 51.55316819999999,
+               "lng" : -0.4717728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5546071802915,
+                  "lng" : -0.4701791
+               },
+               "southwest" : {
+                  "lat" : 51.55190921970851,
+                  "lng" : -0.4743715
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

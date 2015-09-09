@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of Israel",
+               "short_name" : "Embassy of Israel",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W8 4QB",
+               "short_name" : "W8 4QB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of Israel, Kensington, London W8 4QB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50254640000001,
+               "lng" : -0.1892079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50389538029151,
+                  "lng" : -0.187858919708498
+               },
+               "southwest" : {
+                  "lat" : 51.50119741970851,
+                  "lng" : -0.190556880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Israel Government Tourist Office",
+               "short_name" : "Israel Government Tourist Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "United Kingdom House",
+               "short_name" : "United Kingdom House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "180",
+               "short_name" : "180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oxford Street",
+               "short_name" : "Oxford St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fitzrovia",
+               "short_name" : "Fitzrovia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1D 1NN",
+               "short_name" : "W1D 1NN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom House, Israel Government Tourist Office, 180 Oxford Street, Fitzrovia, London W1D 1NN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5160065,
+               "lng" : -0.1393774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5173554802915,
+                  "lng" : -0.138028419708498
+               },
+               "southwest" : {
+                  "lat" : 51.5146575197085,
+                  "lng" : -0.140726380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

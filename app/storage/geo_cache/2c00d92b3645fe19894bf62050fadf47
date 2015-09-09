@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Caribbean",
+               "short_name" : "The Caribbean",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Paice Lane",
+               "short_name" : "Paice Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medstead",
+               "short_name" : "Medstead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alton",
+               "short_name" : "Alton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU34 5PR",
+               "short_name" : "GU34 5PR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Caribbean, Paice Lane, Medstead, Alton, Hampshire GU34 5PR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1189007,
+               "lng" : -1.0650646
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1202496802915,
+                  "lng" : -1.063715619708498
+               },
+               "southwest" : {
+                  "lat" : 51.1175517197085,
+                  "lng" : -1.066413580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

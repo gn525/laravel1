@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveleys",
+               "short_name" : "Cleveleys",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thornton-Cleveleys",
+               "short_name" : "Thornton-Cleveleys",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FY5",
+               "short_name" : "FY5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveleys, Thornton-Cleveleys, Lancashire FY5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.875891,
+               "lng" : -3.04211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.88246849999999,
+                  "lng" : -3.0261026
+               },
+               "southwest" : {
+                  "lat" : 53.8693124,
+                  "lng" : -3.0581174
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HA9",
+               "short_name" : "HA9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Wembley",
+               "short_name" : "Wembley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wembley, Greater London HA9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5780001,
+                  "lng" : -0.2618772
+               },
+               "southwest" : {
+                  "lat" : 51.5438333,
+                  "lng" : -0.313741
+               }
+            },
+            "location" : {
+               "lat" : 51.5619784,
+               "lng" : -0.2887325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5780001,
+                  "lng" : -0.2618772
+               },
+               "southwest" : {
+                  "lat" : 51.5438333,
+                  "lng" : -0.313741
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

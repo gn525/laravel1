@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenock",
+               "short_name" : "Greenock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inverclyde",
+               "short_name" : "Inverclyde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greenock, Inverclyde, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.96378319999999,
+                  "lng" : -4.7043653
+               },
+               "southwest" : {
+                  "lat" : 55.919477,
+                  "lng" : -4.8555218
+               }
+            },
+            "location" : {
+               "lat" : 55.95647599999999,
+               "lng" : -4.771983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.96378319999999,
+                  "lng" : -4.7043653
+               },
+               "southwest" : {
+                  "lat" : 55.919477,
+                  "lng" : -4.8555218
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

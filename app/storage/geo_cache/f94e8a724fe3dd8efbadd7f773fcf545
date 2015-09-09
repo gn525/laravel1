@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frensham",
+               "short_name" : "Frensham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Farnham",
+               "short_name" : "Farnham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU10",
+               "short_name" : "GU10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Frensham, Farnham, Surrey GU10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.166393,
+               "lng" : -0.796032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1733892,
+                  "lng" : -0.7800246
+               },
+               "southwest" : {
+                  "lat" : 51.1593957,
+                  "lng" : -0.8120394
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

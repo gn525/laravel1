@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Privett",
+               "short_name" : "Privett",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alton",
+               "short_name" : "Alton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU34",
+               "short_name" : "GU34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Privett, Alton, Hampshire GU34, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.038359,
+               "lng" : -1.036148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0453746,
+                  "lng" : -1.0201406
+               },
+               "southwest" : {
+                  "lat" : 51.0313423,
+                  "lng" : -1.0521554
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

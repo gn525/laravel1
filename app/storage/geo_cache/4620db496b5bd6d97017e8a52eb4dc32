@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chesterfield",
+               "short_name" : "Chesterfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chesterfield, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3118853,
+                  "lng" : -1.232301
+               },
+               "southwest" : {
+                  "lat" : 53.1270315,
+                  "lng" : -1.5714285
+               }
+            },
+            "location" : {
+               "lat" : 53.2314963,
+               "lng" : -1.3913625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3118853,
+                  "lng" : -1.232301
+               },
+               "southwest" : {
+                  "lat" : 53.1270315,
+                  "lng" : -1.5714285
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

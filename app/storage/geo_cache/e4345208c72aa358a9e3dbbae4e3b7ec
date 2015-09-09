@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuneaton",
+               "short_name" : "Nuneaton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuneaton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6812041,
+                  "lng" : -1.3415101
+               },
+               "southwest" : {
+                  "lat" : 52.4714489,
+                  "lng" : -1.6122308
+               }
+            },
+            "location" : {
+               "lat" : 52.54425810000001,
+               "lng" : -1.4572217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6812041,
+                  "lng" : -1.3415101
+               },
+               "southwest" : {
+                  "lat" : 52.4714489,
+                  "lng" : -1.6122308
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

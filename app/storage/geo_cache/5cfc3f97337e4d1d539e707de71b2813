@@ -1,0 +1,275 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester West Employment Park",
+               "short_name" : "Chester West Employment Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH1 4QL",
+               "short_name" : "CH1 4QL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester West Employment Park, Chester, Flintshire CH1 4QL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1935546,
+               "lng" : -2.9295371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1949035802915,
+                  "lng" : -2.928188119708498
+               },
+               "southwest" : {
+                  "lat" : 53.1922056197085,
+                  "lng" : -2.930886080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester West Employment Park",
+               "short_name" : "Chester West Employment Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH1 4PH",
+               "short_name" : "CH1 4PH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester West Employment Park, Chester, Cheshire West and Chester CH1 4PH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1951879,
+               "lng" : -2.926429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1965368802915,
+                  "lng" : -2.925080019708498
+               },
+               "southwest" : {
+                  "lat" : 53.1938389197085,
+                  "lng" : -2.927777980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester West Employment Park",
+               "short_name" : "Chester West Employment Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Minerva Avenue",
+               "short_name" : "Minerva Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH1 4QL",
+               "short_name" : "CH1 4QL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester West Employment Park, 2 Minerva Avenue, Chester, Flintshire CH1 4QL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1935546,
+               "lng" : -2.9295371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1949035802915,
+                  "lng" : -2.928188119708498
+               },
+               "southwest" : {
+                  "lat" : 53.1922056197085,
+                  "lng" : -2.930886080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester, o/s Employment Park",
+               "short_name" : "Chester, o/s Employment Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH1",
+               "short_name" : "CH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester, o/s Employment Park, Chester, Chester, Cheshire West and Chester CH1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.195507,
+               "lng" : -2.924611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1968559802915,
+                  "lng" : -2.923262019708498
+               },
+               "southwest" : {
+                  "lat" : 53.1941580197085,
+                  "lng" : -2.925959980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester, opp Employment Park",
+               "short_name" : "Chester, opp Employment Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH1",
+               "short_name" : "CH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester, opp Employment Park, Chester, Chester, Cheshire West and Chester CH1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.195683,
+               "lng" : -2.924989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1970319802915,
+                  "lng" : -2.923640019708498
+               },
+               "southwest" : {
+                  "lat" : 53.1943340197085,
+                  "lng" : -2.926337980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

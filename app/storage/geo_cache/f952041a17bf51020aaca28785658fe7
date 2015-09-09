@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iver Heath",
+               "short_name" : "Iver Heath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iver",
+               "short_name" : "Iver",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL0",
+               "short_name" : "SL0",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Iver Heath, Iver, Buckinghamshire SL0, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5509075,
+               "lng" : -0.5214626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5578452,
+                  "lng" : -0.5054552
+               },
+               "southwest" : {
+                  "lat" : 51.5439687,
+                  "lng" : -0.53747
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

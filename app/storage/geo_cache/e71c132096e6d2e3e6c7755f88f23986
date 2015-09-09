@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Knowle",
+               "short_name" : "Knowle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solihull",
+               "short_name" : "Solihull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Knowle, Solihull, West Midlands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.40721809999999,
+                  "lng" : -1.7141718
+               },
+               "southwest" : {
+                  "lat" : 52.3572632,
+                  "lng" : -1.7720337
+               }
+            },
+            "location" : {
+               "lat" : 52.386387,
+               "lng" : -1.732061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.40721809999999,
+                  "lng" : -1.7141718
+               },
+               "southwest" : {
+                  "lat" : 52.3572632,
+                  "lng" : -1.7720337
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

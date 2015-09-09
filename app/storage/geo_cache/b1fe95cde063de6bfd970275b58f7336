@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lurgan",
+               "short_name" : "Lurgan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT66",
+               "short_name" : "BT66",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lurgan, Craigavon, Craigavon BT66, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.4648,
+               "lng" : -6.33602
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4712845,
+                  "lng" : -6.3200126
+               },
+               "southwest" : {
+                  "lat" : 54.4583144,
+                  "lng" : -6.3520274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

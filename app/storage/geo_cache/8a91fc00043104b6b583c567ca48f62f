@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isle of Anglesey",
+               "short_name" : "Isle of Anglesey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isle of Anglesey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4357956,
+                  "lng" : -4.0190358
+               },
+               "southwest" : {
+                  "lat" : 53.1263549,
+                  "lng" : -4.7004414
+               }
+            },
+            "location" : {
+               "lat" : 53.2692804,
+               "lng" : -4.3212852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4357956,
+                  "lng" : -4.0190358
+               },
+               "southwest" : {
+                  "lat" : 53.1263549,
+                  "lng" : -4.7004414
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

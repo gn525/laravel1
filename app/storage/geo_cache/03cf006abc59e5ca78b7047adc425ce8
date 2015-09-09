@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DD3",
+               "short_name" : "DD3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DD3, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.5488222,
+                  "lng" : -2.9515117
+               },
+               "southwest" : {
+                  "lat" : 56.461216,
+                  "lng" : -3.1229218
+               }
+            },
+            "location" : {
+               "lat" : 56.5137374,
+               "lng" : -3.0227595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5488222,
+                  "lng" : -2.9515117
+               },
+               "southwest" : {
+                  "lat" : 56.461216,
+                  "lng" : -3.1229218
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

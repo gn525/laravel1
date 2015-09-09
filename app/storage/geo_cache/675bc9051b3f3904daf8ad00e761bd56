@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Romsley",
+               "short_name" : "Romsley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halesowen",
+               "short_name" : "Halesowen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B62",
+               "short_name" : "B62",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Romsley, Halesowen, Worcestershire B62, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.41975619999999,
+                  "lng" : -2.0519365
+               },
+               "southwest" : {
+                  "lat" : 52.4006085,
+                  "lng" : -2.0711308
+               }
+            },
+            "location" : {
+               "lat" : 52.415712,
+               "lng" : -2.057134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.41975619999999,
+                  "lng" : -2.0519365
+               },
+               "southwest" : {
+                  "lat" : 52.4006085,
+                  "lng" : -2.0711308
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frampton on Severn",
+               "short_name" : "Frampton on Severn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Frampton on Severn, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.781862,
+                  "lng" : -2.334298
+               },
+               "southwest" : {
+                  "lat" : 51.740782,
+                  "lng" : -2.3833446
+               }
+            },
+            "location" : {
+               "lat" : 51.771893,
+               "lng" : -2.359766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.781862,
+                  "lng" : -2.334298
+               },
+               "southwest" : {
+                  "lat" : 51.740782,
+                  "lng" : -2.3833446
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

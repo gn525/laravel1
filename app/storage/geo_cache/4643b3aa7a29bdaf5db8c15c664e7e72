@@ -1,0 +1,93 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hereford",
+               "short_name" : "Hereford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hereford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.204031,
+                  "lng" : -2.5209987
+               },
+               "southwest" : {
+                  "lat" : 51.8680981,
+                  "lng" : -3.2635851
+               }
+            },
+            "location" : {
+               "lat" : 52.0307,
+               "lng" : -2.8013757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.204031,
+                  "lng" : -2.5209987
+               },
+               "southwest" : {
+                  "lat" : 51.8680981,
+                  "lng" : -3.2635851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.332536,
+                  "lng" : -1.9233162
+               },
+               "southwest" : {
+                  "lat" : 52.0278382,
+                  "lng" : -2.5232288
+               }
+            },
+            "location" : {
+               "lat" : 52.1903659,
+               "lng" : -2.286741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.332536,
+                  "lng" : -1.9233162
+               },
+               "southwest" : {
+                  "lat" : 52.0278382,
+                  "lng" : -2.5232288
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

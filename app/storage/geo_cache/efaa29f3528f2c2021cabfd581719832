@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lanark",
+               "short_name" : "Lanark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lanark",
+               "short_name" : "Lanark",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML11",
+               "short_name" : "ML11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lanark, Lanark, South Lanarkshire ML11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6914519,
+                  "lng" : -3.7358893
+               },
+               "southwest" : {
+                  "lat" : 55.6609692,
+                  "lng" : -3.7986431
+               }
+            },
+            "location" : {
+               "lat" : 55.673865,
+               "lng" : -3.782138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6914519,
+                  "lng" : -3.7358893
+               },
+               "southwest" : {
+                  "lat" : 55.6609692,
+                  "lng" : -3.7986431
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

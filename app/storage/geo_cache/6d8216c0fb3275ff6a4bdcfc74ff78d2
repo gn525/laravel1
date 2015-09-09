@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llay",
+               "short_name" : "Llay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Llay, Wrexham, Wrexham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1129231,
+                  "lng" : -2.9689795
+               },
+               "southwest" : {
+                  "lat" : 53.07335089999999,
+                  "lng" : -3.029147
+               }
+            },
+            "location" : {
+               "lat" : 53.092664,
+               "lng" : -3.003691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1129231,
+                  "lng" : -2.9689795
+               },
+               "southwest" : {
+                  "lat" : 53.07335089999999,
+                  "lng" : -3.029147
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

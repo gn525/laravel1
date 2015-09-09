@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Marston",
+               "short_name" : "South Marston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN3",
+               "short_name" : "SN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Marston, Swindon, Swindon SN3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.590846,
+               "lng" : -1.72192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5977776,
+                  "lng" : -1.7059126
+               },
+               "southwest" : {
+                  "lat" : 51.5839133,
+                  "lng" : -1.7379274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

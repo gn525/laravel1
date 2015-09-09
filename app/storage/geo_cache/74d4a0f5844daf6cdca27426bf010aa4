@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campbeltown",
+               "short_name" : "Campbeltown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campbeltown, Argyll and Bute, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4355749,
+                  "lng" : -5.5873725
+               },
+               "southwest" : {
+                  "lat" : 55.4144746,
+                  "lng" : -5.6221605
+               }
+            },
+            "location" : {
+               "lat" : 55.424117,
+               "lng" : -5.605373999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4355749,
+                  "lng" : -5.5873725
+               },
+               "southwest" : {
+                  "lat" : 55.4144746,
+                  "lng" : -5.6221605
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

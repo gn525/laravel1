@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porthcawl",
+               "short_name" : "Porthcawl",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porthcawl, Bridgend, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5104079,
+                  "lng" : -3.6550989
+               },
+               "southwest" : {
+                  "lat" : 51.4728252,
+                  "lng" : -3.7364225
+               }
+            },
+            "location" : {
+               "lat" : 51.47896799999999,
+               "lng" : -3.705163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5104079,
+                  "lng" : -3.6550989
+               },
+               "southwest" : {
+                  "lat" : 51.4728252,
+                  "lng" : -3.7364225
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

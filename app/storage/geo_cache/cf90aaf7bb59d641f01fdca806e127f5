@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haslingden",
+               "short_name" : "Haslingden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rossendale",
+               "short_name" : "Rossendale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB4",
+               "short_name" : "BB4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haslingden, Rossendale, Lancashire BB4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7137884,
+                  "lng" : -2.3090981
+               },
+               "southwest" : {
+                  "lat" : 53.6886344,
+                  "lng" : -2.3404206
+               }
+            },
+            "location" : {
+               "lat" : 53.705,
+               "lng" : -2.328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7137884,
+                  "lng" : -2.3090981
+               },
+               "southwest" : {
+                  "lat" : 53.6886344,
+                  "lng" : -2.3404206
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

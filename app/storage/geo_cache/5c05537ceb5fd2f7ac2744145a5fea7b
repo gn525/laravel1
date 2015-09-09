@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GU21",
+               "short_name" : "GU21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Surrey GU21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.34756729999999,
+                  "lng" : -0.5173236
+               },
+               "southwest" : {
+                  "lat" : 51.3054804,
+                  "lng" : -0.6406929
+               }
+            },
+            "location" : {
+               "lat" : 51.3193734,
+               "lng" : -0.5800786999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.34756729999999,
+                  "lng" : -0.5173236
+               },
+               "southwest" : {
+                  "lat" : 51.3054804,
+                  "lng" : -0.6406929
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Woking",
+               "short_name" : "Woking",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Woking",
+               "short_name" : "Woking",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Woking",
+               "short_name" : "Woking",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU21",
+               "short_name" : "GU21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Woking, Woking, Woking, Surrey GU21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3184664,
+               "lng" : -0.5569402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3198153802915,
+                  "lng" : -0.555591219708498
+               },
+               "southwest" : {
+                  "lat" : 51.3171174197085,
+                  "lng" : -0.5582891802915021
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

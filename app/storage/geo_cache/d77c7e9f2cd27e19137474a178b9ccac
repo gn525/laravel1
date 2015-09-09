@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Datchet",
+               "short_name" : "Datchet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slough",
+               "short_name" : "Slough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Windsor and Maidenhead",
+               "short_name" : "Windsor and Maidenhead",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL3",
+               "short_name" : "SL3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Datchet, Slough, Windsor and Maidenhead SL3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.483562,
+               "lng" : -0.5737679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49051,
+                  "lng" : -0.5577605
+               },
+               "southwest" : {
+                  "lat" : 51.476613,
+                  "lng" : -0.5897753
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Egham",
+               "short_name" : "Egham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Egham, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.43733049999999,
+                  "lng" : -0.5168729
+               },
+               "southwest" : {
+                  "lat" : 51.4081667,
+                  "lng" : -0.5689299
+               }
+            },
+            "location" : {
+               "lat" : 51.428825,
+               "lng" : -0.547876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.43733049999999,
+                  "lng" : -0.5168729
+               },
+               "southwest" : {
+                  "lat" : 51.4081667,
+                  "lng" : -0.5689299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

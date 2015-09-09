@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hunstanton",
+               "short_name" : "Hunstanton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hunstanton, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.965982,
+                  "lng" : 0.5331539
+               },
+               "southwest" : {
+                  "lat" : 52.9228724,
+                  "lng" : 0.4761610000000001
+               }
+            },
+            "location" : {
+               "lat" : 52.9389139,
+               "lng" : 0.491032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.965982,
+                  "lng" : 0.5331539
+               },
+               "southwest" : {
+                  "lat" : 52.9228724,
+                  "lng" : 0.4761610000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

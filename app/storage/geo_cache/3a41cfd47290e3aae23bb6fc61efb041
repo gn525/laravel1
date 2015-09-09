@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farringdon",
+               "short_name" : "Farringdon",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC1M",
+               "short_name" : "EC1M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Farringdon, London EC1M, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5201672,
+               "lng" : -0.1051787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52151618029149,
+                  "lng" : -0.103829719708498
+               },
+               "southwest" : {
+                  "lat" : 51.5188182197085,
+                  "lng" : -0.106527680291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

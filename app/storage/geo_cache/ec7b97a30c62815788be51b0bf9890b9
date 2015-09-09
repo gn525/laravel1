@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crumlin",
+               "short_name" : "Crumlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crumlin",
+               "short_name" : "Crumlin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Antrim",
+               "short_name" : "Antrim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT29",
+               "short_name" : "BT29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crumlin, Crumlin, Antrim BT29, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6270973,
+                  "lng" : -6.200722
+               },
+               "southwest" : {
+                  "lat" : 54.6127186,
+                  "lng" : -6.2321162
+               }
+            },
+            "location" : {
+               "lat" : 54.62,
+               "lng" : -6.23
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6270973,
+                  "lng" : -6.200722
+               },
+               "southwest" : {
+                  "lat" : 54.6127186,
+                  "lng" : -6.2321162
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crumlin",
+               "short_name" : "Crumlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP11",
+               "short_name" : "NP11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crumlin, Newport, Caerphilly NP11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6850653,
+                  "lng" : -3.128731
+               },
+               "southwest" : {
+                  "lat" : 51.6743158,
+                  "lng" : -3.1618674
+               }
+            },
+            "location" : {
+               "lat" : 51.677688,
+               "lng" : -3.140621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6850653,
+                  "lng" : -3.128731
+               },
+               "southwest" : {
+                  "lat" : 51.6743158,
+                  "lng" : -3.1618674
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

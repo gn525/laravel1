@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokyo Lincoln",
+               "short_name" : "Tokyo Lincoln",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "B1003",
+               "short_name" : "B1003",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN2 1AS",
+               "short_name" : "LN2 1AS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tokyo Lincoln, B1003, Lincoln, Lincoln LN2 1AS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2304417,
+                  "lng" : -0.5364686
+               },
+               "southwest" : {
+                  "lat" : 53.2301776,
+                  "lng" : -0.5369876
+               }
+            },
+            "location" : {
+               "lat" : 53.2303096,
+               "lng" : -0.5367280999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2316586302915,
+                  "lng" : -0.5353791197084981
+               },
+               "southwest" : {
+                  "lat" : 53.2289606697085,
+                  "lng" : -0.5380770802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

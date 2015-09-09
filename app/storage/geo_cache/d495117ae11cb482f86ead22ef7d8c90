@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "E14",
+               "short_name" : "E14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London E14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.52140929999999,
+                  "lng" : 0.0097147
+               },
+               "southwest" : {
+                  "lat" : 51.4856303,
+                  "lng" : -0.0425408
+               }
+            },
+            "location" : {
+               "lat" : 51.5097502,
+               "lng" : -0.017595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52140929999999,
+                  "lng" : 0.0097147
+               },
+               "southwest" : {
+                  "lat" : 51.4856303,
+                  "lng" : -0.0425408
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

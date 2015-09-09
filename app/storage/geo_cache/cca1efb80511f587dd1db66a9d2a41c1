@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S43",
+               "short_name" : "S43",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Chesterfield",
+               "short_name" : "Chesterfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chesterfield S43, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3118853,
+                  "lng" : -1.232301
+               },
+               "southwest" : {
+                  "lat" : 53.2360395,
+                  "lng" : -1.4163266
+               }
+            },
+            "location" : {
+               "lat" : 53.2642556,
+               "lng" : -1.3545347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3118853,
+                  "lng" : -1.232301
+               },
+               "southwest" : {
+                  "lat" : 53.2360395,
+                  "lng" : -1.4163266
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

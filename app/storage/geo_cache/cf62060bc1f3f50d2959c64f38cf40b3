@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CO1",
+               "short_name" : "CO1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colchester, Essex CO1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.90298199999999,
+                  "lng" : 0.9318373999999998
+               },
+               "southwest" : {
+                  "lat" : 51.8767134,
+                  "lng" : 0.8865504999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.88840649999999,
+               "lng" : 0.9089022000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90298199999999,
+                  "lng" : 0.9318373999999998
+               },
+               "southwest" : {
+                  "lat" : 51.8767134,
+                  "lng" : 0.8865504999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

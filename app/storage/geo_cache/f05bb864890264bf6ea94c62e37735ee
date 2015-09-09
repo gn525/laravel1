@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porton Down",
+               "short_name" : "Porton Down",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP4",
+               "short_name" : "SP4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Porton Down, Salisbury, Wiltshire SP4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.12414,
+               "lng" : -1.715223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1311426,
+                  "lng" : -1.6992156
+               },
+               "southwest" : {
+                  "lat" : 51.1171363,
+                  "lng" : -1.7312304
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MK8",
+               "short_name" : "MK8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milton Keynes, Milton Keynes MK8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.04914669999999,
+                  "lng" : -0.7819773
+               },
+               "southwest" : {
+                  "lat" : 52.0178068,
+                  "lng" : -0.8303558
+               }
+            },
+            "location" : {
+               "lat" : 52.0320873,
+               "lng" : -0.7981068000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.04914669999999,
+                  "lng" : -0.7819773
+               },
+               "southwest" : {
+                  "lat" : 52.0178068,
+                  "lng" : -0.8303558
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

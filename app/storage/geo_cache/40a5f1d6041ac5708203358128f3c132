@@ -1,0 +1,239 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            },
+            "location" : {
+               "lat" : 51.5073509,
+               "lng" : -0.1277583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6723432,
+                  "lng" : 0.148271
+               },
+               "southwest" : {
+                  "lat" : 51.38494009999999,
+                  "lng" : -0.3514683
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East",
+               "short_name" : "East",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Gloucester Place",
+               "short_name" : "Gloucester Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marylebone",
+               "short_name" : "Marylebone",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW1 5AH",
+               "short_name" : "NW1 5AH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East, Gloucester Place, Marylebone, London NW1 5AH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52214,
+               "lng" : -0.1591784
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5234889802915,
+                  "lng" : -0.157829419708498
+               },
+               "southwest" : {
+                  "lat" : 51.5207910197085,
+                  "lng" : -0.160527380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East",
+               "short_name" : "East",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Marsh Wall",
+               "short_name" : "Marsh Wall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Isle of Dogs",
+               "short_name" : "Isle of Dogs",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E14 9TP",
+               "short_name" : "E14 9TP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East, 40 Marsh Wall, Isle of Dogs, London E14 9TP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5008969,
+               "lng" : -0.0225656
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5022458802915,
+                  "lng" : -0.02121661970849797
+               },
+               "southwest" : {
+                  "lat" : 51.4995479197085,
+                  "lng" : -0.02391458029150203
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Hill",
+               "short_name" : "East Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Hill, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.45976650000001,
+                  "lng" : -0.1806924
+               },
+               "southwest" : {
+                  "lat" : 51.45679819999999,
+                  "lng" : -0.1894522
+               }
+            },
+            "location" : {
+               "lat" : 51.4578308,
+               "lng" : -0.1850271
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.45976650000001,
+                  "lng" : -0.1806924
+               },
+               "southwest" : {
+                  "lat" : 51.45679819999999,
+                  "lng" : -0.1894522
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

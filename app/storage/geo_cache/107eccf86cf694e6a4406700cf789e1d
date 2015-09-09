@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford Business Park",
+               "short_name" : "Oxford Business Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX4",
+               "short_name" : "OX4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford Business Park, Oxford, Oxford, Oxfordshire OX4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7332804,
+                  "lng" : -1.2017378
+               },
+               "southwest" : {
+                  "lat" : 51.729637,
+                  "lng" : -1.2083742
+               }
+            },
+            "location" : {
+               "lat" : 51.73231029999999,
+               "lng" : -1.2065951
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7332804,
+                  "lng" : -1.2017378
+               },
+               "southwest" : {
+                  "lat" : 51.729637,
+                  "lng" : -1.2083742
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

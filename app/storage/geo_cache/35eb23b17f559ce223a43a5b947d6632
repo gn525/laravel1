@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Craven Arms",
+               "short_name" : "Craven Arms",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Craven Arms",
+               "short_name" : "Craven Arms",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY7",
+               "short_name" : "SY7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Craven Arms, Craven Arms, Shropshire SY7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4485577,
+                  "lng" : -2.8282149
+               },
+               "southwest" : {
+                  "lat" : 52.43432259999999,
+                  "lng" : -2.851756
+               }
+            },
+            "location" : {
+               "lat" : 52.44008400000001,
+               "lng" : -2.8332799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4485577,
+                  "lng" : -2.8282149
+               },
+               "southwest" : {
+                  "lat" : 52.43432259999999,
+                  "lng" : -2.851756
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sale",
+               "short_name" : "Sale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sale, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4408708,
+                  "lng" : -2.2737062
+               },
+               "southwest" : {
+                  "lat" : 53.4006771,
+                  "lng" : -2.3651337
+               }
+            },
+            "location" : {
+               "lat" : 53.42556099999999,
+               "lng" : -2.323702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4408708,
+                  "lng" : -2.2737062
+               },
+               "southwest" : {
+                  "lat" : 53.4006771,
+                  "lng" : -2.3651337
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

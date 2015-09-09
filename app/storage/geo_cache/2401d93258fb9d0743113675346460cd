@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Langley Mill",
+               "short_name" : "Langley Mill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Langley Mill, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0363947,
+                  "lng" : -1.3216825
+               },
+               "southwest" : {
+                  "lat" : 53.0137812,
+                  "lng" : -1.3612984
+               }
+            },
+            "location" : {
+               "lat" : 53.01827,
+               "lng" : -1.338362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0363947,
+                  "lng" : -1.3216825
+               },
+               "southwest" : {
+                  "lat" : 53.0137812,
+                  "lng" : -1.3612984
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

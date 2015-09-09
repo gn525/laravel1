@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Polmont",
+               "short_name" : "Polmont",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Polmont, Falkirk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0017728,
+                  "lng" : -3.6826504
+               },
+               "southwest" : {
+                  "lat" : 55.9800876,
+                  "lng" : -3.7269295
+               }
+            },
+            "location" : {
+               "lat" : 55.9906145,
+               "lng" : -3.7073047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0017728,
+                  "lng" : -3.6826504
+               },
+               "southwest" : {
+                  "lat" : 55.9800876,
+                  "lng" : -3.7269295
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

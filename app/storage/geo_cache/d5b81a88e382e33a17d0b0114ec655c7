@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shefford",
+               "short_name" : "Shefford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shefford",
+               "short_name" : "Shefford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG17",
+               "short_name" : "SG17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shefford, Shefford, Central Bedfordshire SG17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0517853,
+                  "lng" : -0.316222
+               },
+               "southwest" : {
+                  "lat" : 52.0255044,
+                  "lng" : -0.3509247
+               }
+            },
+            "location" : {
+               "lat" : 52.038699,
+               "lng" : -0.333947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0517853,
+                  "lng" : -0.316222
+               },
+               "southwest" : {
+                  "lat" : 52.0255044,
+                  "lng" : -0.3509247
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

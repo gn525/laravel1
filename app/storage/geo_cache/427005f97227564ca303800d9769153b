@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chew Magna",
+               "short_name" : "Chew Magna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bath and North East Somerset",
+               "short_name" : "Bath and North East Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chew Magna, Bristol, Bath and North East Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.39395570000001,
+                  "lng" : -2.5724245
+               },
+               "southwest" : {
+                  "lat" : 51.3420397,
+                  "lng" : -2.6478285
+               }
+            },
+            "location" : {
+               "lat" : 51.3670029,
+               "lng" : -2.612715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.39395570000001,
+                  "lng" : -2.5724245
+               },
+               "southwest" : {
+                  "lat" : 51.3420397,
+                  "lng" : -2.6478285
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

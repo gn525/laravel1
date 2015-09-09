@@ -1,0 +1,212 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hale",
+               "short_name" : "Hale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hale, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3872017,
+                  "lng" : -2.2948892
+               },
+               "southwest" : {
+                  "lat" : 53.36415,
+                  "lng" : -2.3525764
+               }
+            },
+            "location" : {
+               "lat" : 53.37891,
+               "lng" : -2.343509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3872017,
+                  "lng" : -2.2948892
+               },
+               "southwest" : {
+                  "lat" : 53.36415,
+                  "lng" : -2.3525764
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hale",
+               "short_name" : "Hale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halton",
+               "short_name" : "Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hale, Halton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3487315,
+                  "lng" : -2.7774196
+               },
+               "southwest" : {
+                  "lat" : 53.32171659999999,
+                  "lng" : -2.8324574
+               }
+            },
+            "location" : {
+               "lat" : 53.3350857,
+               "lng" : -2.7993873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3487315,
+                  "lng" : -2.7774196
+               },
+               "southwest" : {
+                  "lat" : 53.32171659999999,
+                  "lng" : -2.8324574
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hale",
+               "short_name" : "Hale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fordingbridge",
+               "short_name" : "Fordingbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP6",
+               "short_name" : "SP6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hale, Fordingbridge, Hampshire SP6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.968438,
+               "lng" : -1.724077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9697869802915,
+                  "lng" : -1.722728019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9670890197085,
+                  "lng" : -1.725425980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hale",
+               "short_name" : "Hale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milnthorpe",
+               "short_name" : "Milnthorpe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA7",
+               "short_name" : "LA7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hale, Milnthorpe, Cumbria LA7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.202265,
+               "lng" : -2.758474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2036139802915,
+                  "lng" : -2.757125019708498
+               },
+               "southwest" : {
+                  "lat" : 54.2009160197085,
+                  "lng" : -2.759822980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

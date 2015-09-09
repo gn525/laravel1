@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading West",
+               "short_name" : "Reading West",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG1",
+               "short_name" : "RG1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Reading West, Reading, Reading, Reading RG1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4555,
+               "lng" : -0.99011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4568489802915,
+                  "lng" : -0.9887610197084979
+               },
+               "southwest" : {
+                  "lat" : 51.4541510197085,
+                  "lng" : -0.991458980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

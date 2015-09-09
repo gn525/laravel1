@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chessington",
+               "short_name" : "Chessington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chessington, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.377333,
+                  "lng" : -0.2724748
+               },
+               "southwest" : {
+                  "lat" : 51.3378114,
+                  "lng" : -0.3305339
+               }
+            },
+            "location" : {
+               "lat" : 51.363583,
+               "lng" : -0.296254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.377333,
+                  "lng" : -0.2724748
+               },
+               "southwest" : {
+                  "lat" : 51.3378114,
+                  "lng" : -0.3305339
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

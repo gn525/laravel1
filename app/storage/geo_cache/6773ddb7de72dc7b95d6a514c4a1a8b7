@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carterton",
+               "short_name" : "Carterton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carterton",
+               "short_name" : "Carterton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX18",
+               "short_name" : "OX18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carterton, Carterton, Oxfordshire OX18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7761588,
+                  "lng" : -1.5796765
+               },
+               "southwest" : {
+                  "lat" : 51.747786,
+                  "lng" : -1.6133399
+               }
+            },
+            "location" : {
+               "lat" : 51.759712,
+               "lng" : -1.593124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7761588,
+                  "lng" : -1.5796765
+               },
+               "southwest" : {
+                  "lat" : 51.747786,
+                  "lng" : -1.6133399
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

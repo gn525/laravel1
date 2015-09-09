@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talgarth",
+               "short_name" : "Talgarth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3",
+               "short_name" : "LD3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Talgarth, Brecon, Powys LD3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0026822,
+                  "lng" : -3.2196235
+               },
+               "southwest" : {
+                  "lat" : 51.9882023,
+                  "lng" : -3.2432539
+               }
+            },
+            "location" : {
+               "lat" : 51.995873,
+               "lng" : -3.232326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0026822,
+                  "lng" : -3.2196235
+               },
+               "southwest" : {
+                  "lat" : 51.9882023,
+                  "lng" : -3.2432539
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

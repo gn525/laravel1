@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "IP3",
+               "short_name" : "IP3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ipswich, Suffolk IP3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.05484569999999,
+                  "lng" : 1.2324338
+               },
+               "southwest" : {
+                  "lat" : 52.0216351,
+                  "lng" : 1.145575
+               }
+            },
+            "location" : {
+               "lat" : 52.04201699999999,
+               "lng" : 1.1917262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.05484569999999,
+                  "lng" : 1.2324338
+               },
+               "southwest" : {
+                  "lat" : 52.0216351,
+                  "lng" : 1.145575
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ipswich (Futura RP)",
+               "short_name" : "Ipswich (Futura RP)",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "GB",
+               "short_name" : "GB",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP3 9SR",
+               "short_name" : "IP3 9SR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ipswich (Futura RP) (IPW), Ipswich, GB IP3 9SR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.0329,
+               "lng" : 1.2083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0342489802915,
+                  "lng" : 1.209648980291502
+               },
+               "southwest" : {
+                  "lat" : 52.0315510197085,
+                  "lng" : 1.206951019708498
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

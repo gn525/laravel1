@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horfield",
+               "short_name" : "Horfield",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS7",
+               "short_name" : "BS7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Horfield, Bristol, Bristol, City of Bristol BS7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.489282,
+               "lng" : -2.585055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4962291,
+                  "lng" : -2.5690476
+               },
+               "southwest" : {
+                  "lat" : 51.4823338,
+                  "lng" : -2.6010624
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

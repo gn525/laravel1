@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Steeton",
+               "short_name" : "Steeton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Keighley",
+               "short_name" : "Keighley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD20",
+               "short_name" : "BD20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Steeton, Keighley, West Yorkshire BD20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9018197,
+                  "lng" : -1.9396946
+               },
+               "southwest" : {
+                  "lat" : 53.8918589,
+                  "lng" : -1.9691365
+               }
+            },
+            "location" : {
+               "lat" : 53.89571369999999,
+               "lng" : -1.9482641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9018197,
+                  "lng" : -1.9396946
+               },
+               "southwest" : {
+                  "lat" : 53.8918589,
+                  "lng" : -1.9691365
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

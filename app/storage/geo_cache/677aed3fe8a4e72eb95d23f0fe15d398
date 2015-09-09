@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamworthy",
+               "short_name" : "Hamworthy",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH15",
+               "short_name" : "BH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamworthy, Poole, Poole, Poole BH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.719733,
+               "lng" : -2.0109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7267968,
+                  "lng" : -1.9948926
+               },
+               "southwest" : {
+                  "lat" : 50.7126682,
+                  "lng" : -2.0269074
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamworthy",
+               "short_name" : "Hamworthy",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH16",
+               "short_name" : "BH16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamworthy, Poole, Poole, Poole BH16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.72517999999999,
+               "lng" : -2.01935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.72652898029149,
+                  "lng" : -2.018001019708498
+               },
+               "southwest" : {
+                  "lat" : 50.72383101970849,
+                  "lng" : -2.020698980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

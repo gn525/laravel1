@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Evercreech",
+               "short_name" : "Evercreech",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shepton Mallet",
+               "short_name" : "Shepton Mallet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA4",
+               "short_name" : "BA4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Evercreech, Shepton Mallet, Somerset BA4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1798845,
+                  "lng" : -2.4487984
+               },
+               "southwest" : {
+                  "lat" : 51.1242301,
+                  "lng" : -2.5446369
+               }
+            },
+            "location" : {
+               "lat" : 51.1481234,
+               "lng" : -2.5051297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1798845,
+                  "lng" : -2.4487984
+               },
+               "southwest" : {
+                  "lat" : 51.1242301,
+                  "lng" : -2.5446369
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jedburgh",
+               "short_name" : "Jedburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jedburgh",
+               "short_name" : "Jedburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TD8",
+               "short_name" : "TD8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jedburgh, Jedburgh, Scottish Borders TD8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4913428,
+                  "lng" : -2.53387
+               },
+               "southwest" : {
+                  "lat" : 55.4642683,
+                  "lng" : -2.5709544
+               }
+            },
+            "location" : {
+               "lat" : 55.477721,
+               "lng" : -2.5549369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4913428,
+                  "lng" : -2.53387
+               },
+               "southwest" : {
+                  "lat" : 55.4642683,
+                  "lng" : -2.5709544
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

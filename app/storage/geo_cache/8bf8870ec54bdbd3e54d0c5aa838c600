@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corwen",
+               "short_name" : "Corwen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corwen",
+               "short_name" : "Corwen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL21",
+               "short_name" : "LL21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Corwen, Corwen, Denbighshire LL21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9829765,
+                  "lng" : -3.3657311
+               },
+               "southwest" : {
+                  "lat" : 52.9746924,
+                  "lng" : -3.3919834
+               }
+            },
+            "location" : {
+               "lat" : 52.980051,
+               "lng" : -3.369242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9829765,
+                  "lng" : -3.3657311
+               },
+               "southwest" : {
+                  "lat" : 52.9746924,
+                  "lng" : -3.3919834
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

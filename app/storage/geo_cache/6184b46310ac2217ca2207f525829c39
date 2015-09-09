@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkcaldy",
+               "short_name" : "Kirkcaldy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirkcaldy, Fife, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1438296,
+                  "lng" : -3.12333
+               },
+               "southwest" : {
+                  "lat" : 56.0838324,
+                  "lng" : -3.2176976
+               }
+            },
+            "location" : {
+               "lat" : 56.1168249,
+               "lng" : -3.158137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1438296,
+                  "lng" : -3.12333
+               },
+               "southwest" : {
+                  "lat" : 56.0838324,
+                  "lng" : -3.2176976
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

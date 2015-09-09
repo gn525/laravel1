@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maidstone, Maidstone, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.29495,
+                  "lng" : 0.5712404999999999
+               },
+               "southwest" : {
+                  "lat" : 51.2306111,
+                  "lng" : 0.4689154999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.270363,
+               "lng" : 0.522699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.29495,
+                  "lng" : 0.5712404999999999
+               },
+               "southwest" : {
+                  "lat" : 51.2306111,
+                  "lng" : 0.4689154999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

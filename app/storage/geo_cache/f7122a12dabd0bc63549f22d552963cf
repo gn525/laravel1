@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hungerford Park",
+               "short_name" : "Hungerford Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hungerford",
+               "short_name" : "Hungerford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG17",
+               "short_name" : "RG17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hungerford Park, Hungerford, West Berkshire RG17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.410417,
+               "lng" : -1.505156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4173761,
+                  "lng" : -1.4891486
+               },
+               "southwest" : {
+                  "lat" : 51.4034568,
+                  "lng" : -1.5211634
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neston",
+               "short_name" : "Neston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neston, Cheshire West and Chester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3158681,
+                  "lng" : -3.0266191
+               },
+               "southwest" : {
+                  "lat" : 53.2635726,
+                  "lng" : -3.1057227
+               }
+            },
+            "location" : {
+               "lat" : 53.290584,
+               "lng" : -3.069102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3158681,
+                  "lng" : -3.0266191
+               },
+               "southwest" : {
+                  "lat" : 53.2635726,
+                  "lng" : -3.1057227
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

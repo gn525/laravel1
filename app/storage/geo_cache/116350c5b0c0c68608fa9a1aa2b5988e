@@ -1,0 +1,184 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staveley",
+               "short_name" : "Staveley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kendal",
+               "short_name" : "Kendal",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA8",
+               "short_name" : "LA8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staveley, Kendal, Cumbria LA8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3921437,
+                  "lng" : -2.8063323
+               },
+               "southwest" : {
+                  "lat" : 54.37097679999999,
+                  "lng" : -2.8355849
+               }
+            },
+            "location" : {
+               "lat" : 54.377897,
+               "lng" : -2.817677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3921437,
+                  "lng" : -2.8063323
+               },
+               "southwest" : {
+                  "lat" : 54.37097679999999,
+                  "lng" : -2.8355849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staveley",
+               "short_name" : "Staveley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chesterfield",
+               "short_name" : "Chesterfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S43",
+               "short_name" : "S43",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staveley, Chesterfield, Derbyshire S43, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.27829970000001,
+                  "lng" : -1.3340252
+               },
+               "southwest" : {
+                  "lat" : 53.25296059999999,
+                  "lng" : -1.374276
+               }
+            },
+            "location" : {
+               "lat" : 53.266064,
+               "lng" : -1.351435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.27829970000001,
+                  "lng" : -1.3340252
+               },
+               "southwest" : {
+                  "lat" : 53.25296059999999,
+                  "lng" : -1.374276
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staveley",
+               "short_name" : "Staveley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Knaresborough",
+               "short_name" : "Knaresborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HG5",
+               "short_name" : "HG5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staveley, Knaresborough, North Yorkshire HG5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.060134,
+               "lng" : -1.4411179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.06148298029149,
+                  "lng" : -1.439768919708498
+               },
+               "southwest" : {
+                  "lat" : 54.0587850197085,
+                  "lng" : -1.442466880291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

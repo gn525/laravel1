@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hythe",
+               "short_name" : "Hythe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hythe, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0886772,
+                  "lng" : 1.1289515
+               },
+               "southwest" : {
+                  "lat" : 51.046944,
+                  "lng" : 1.0253247
+               }
+            },
+            "location" : {
+               "lat" : 51.071739,
+               "lng" : 1.081937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0886772,
+                  "lng" : 1.1289515
+               },
+               "southwest" : {
+                  "lat" : 51.046944,
+                  "lng" : 1.0253247
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

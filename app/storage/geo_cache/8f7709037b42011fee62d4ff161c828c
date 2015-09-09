@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirknewton",
+               "short_name" : "Kirknewton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kirknewton",
+               "short_name" : "Kirknewton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Lothian",
+               "short_name" : "West Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH27",
+               "short_name" : "EH27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirknewton, Kirknewton, West Lothian EH27, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8963413,
+                  "lng" : -3.4073599
+               },
+               "southwest" : {
+                  "lat" : 55.8829213,
+                  "lng" : -3.4466661
+               }
+            },
+            "location" : {
+               "lat" : 55.886883,
+               "lng" : -3.425237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8963413,
+                  "lng" : -3.4073599
+               },
+               "southwest" : {
+                  "lat" : 55.8829213,
+                  "lng" : -3.4466661
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

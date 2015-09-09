@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhyl",
+               "short_name" : "Rhyl",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhyl, Denbighshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3303962,
+                  "lng" : -3.4501192
+               },
+               "southwest" : {
+                  "lat" : 53.3039189,
+                  "lng" : -3.5059586
+               }
+            },
+            "location" : {
+               "lat" : 53.31914099999999,
+               "lng" : -3.491634
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3303962,
+                  "lng" : -3.4501192
+               },
+               "southwest" : {
+                  "lat" : 53.3039189,
+                  "lng" : -3.5059586
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

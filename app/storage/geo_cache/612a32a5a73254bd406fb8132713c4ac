@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poundbury",
+               "short_name" : "Poundbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dorchester",
+               "short_name" : "Dorchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poundbury, Dorchester, Dorset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7166779,
+                  "lng" : -2.4566315
+               },
+               "southwest" : {
+                  "lat" : 50.7076424,
+                  "lng" : -2.473286
+               }
+            },
+            "location" : {
+               "lat" : 50.712246,
+               "lng" : -2.462926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7166779,
+                  "lng" : -2.4566315
+               },
+               "southwest" : {
+                  "lat" : 50.7076424,
+                  "lng" : -2.473286
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

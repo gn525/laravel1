@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peebles",
+               "short_name" : "Peebles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peebles",
+               "short_name" : "Peebles",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH45",
+               "short_name" : "EH45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peebles, Peebles, Scottish Borders EH45, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.66641809999999,
+                  "lng" : -3.1641578
+               },
+               "southwest" : {
+                  "lat" : 55.637283,
+                  "lng" : -3.2076422
+               }
+            },
+            "location" : {
+               "lat" : 55.653071,
+               "lng" : -3.193642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.66641809999999,
+                  "lng" : -3.1641578
+               },
+               "southwest" : {
+                  "lat" : 55.637283,
+                  "lng" : -3.2076422
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

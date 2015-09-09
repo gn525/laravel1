@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Woburn",
+               "short_name" : "Woburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK17",
+               "short_name" : "MK17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Woburn, Milton Keynes, Central Bedfordshire MK17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9959813,
+                  "lng" : -0.6148334999999999
+               },
+               "southwest" : {
+                  "lat" : 51.9848247,
+                  "lng" : -0.6313894999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.987703,
+               "lng" : -0.6209209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9959813,
+                  "lng" : -0.6148334999999999
+               },
+               "southwest" : {
+                  "lat" : 51.9848247,
+                  "lng" : -0.6313894999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

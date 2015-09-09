@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penrith",
+               "short_name" : "Penrith",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penrith",
+               "short_name" : "Penrith",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Penrith, Penrith, Cumbria, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6786628,
+                  "lng" : -2.7247091
+               },
+               "southwest" : {
+                  "lat" : 54.6479385,
+                  "lng" : -2.7788289
+               }
+            },
+            "location" : {
+               "lat" : 54.664097,
+               "lng" : -2.752708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6786628,
+                  "lng" : -2.7247091
+               },
+               "southwest" : {
+                  "lat" : 54.6479385,
+                  "lng" : -2.7788289
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

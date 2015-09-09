@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WA9",
+               "short_name" : "WA9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Saint Helens",
+               "short_name" : "Saint Helens",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Helens WA9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4616988,
+                  "lng" : -2.6631006
+               },
+               "southwest" : {
+                  "lat" : 53.4056319,
+                  "lng" : -2.7773801
+               }
+            },
+            "location" : {
+               "lat" : 53.435277,
+               "lng" : -2.7222448
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4616988,
+                  "lng" : -2.6631006
+               },
+               "southwest" : {
+                  "lat" : 53.4056319,
+                  "lng" : -2.7773801
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

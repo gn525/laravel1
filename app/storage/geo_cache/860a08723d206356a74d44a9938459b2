@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berry Hill Industrial Estate",
+               "short_name" : "Berry Hill Industrial Estate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Droitwich",
+               "short_name" : "Droitwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR9",
+               "short_name" : "WR9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berry Hill Industrial Estate, Droitwich, Worcestershire WR9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2847977,
+                  "lng" : -2.1531652
+               },
+               "southwest" : {
+                  "lat" : 52.2744808,
+                  "lng" : -2.164496
+               }
+            },
+            "location" : {
+               "lat" : 52.2787121,
+               "lng" : -2.1584073
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2847977,
+                  "lng" : -2.1531652
+               },
+               "southwest" : {
+                  "lat" : 52.2744808,
+                  "lng" : -2.164496
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

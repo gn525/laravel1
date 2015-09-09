@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "High Barnet",
+               "short_name" : "High Barnet",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN5",
+               "short_name" : "EN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "High Barnet, Barnet, Barnet, Greater London EN5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.65054,
+               "lng" : -0.19427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6518889802915,
+                  "lng" : -0.192921019708498
+               },
+               "southwest" : {
+                  "lat" : 51.6491910197085,
+                  "lng" : -0.195618980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barnet, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.67997459999999,
+                  "lng" : -0.1198855
+               },
+               "southwest" : {
+                  "lat" : 51.63570430000001,
+                  "lng" : -0.2562643
+               }
+            },
+            "location" : {
+               "lat" : 51.6444,
+               "lng" : -0.1997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.67997459999999,
+                  "lng" : -0.1198855
+               },
+               "southwest" : {
+                  "lat" : 51.63570430000001,
+                  "lng" : -0.2562643
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

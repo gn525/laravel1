@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Munich House",
+               "short_name" : "Munich House",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF10 5NS",
+               "short_name" : "CF10 5NS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Munich House, Cardiff, Cardiff CF10 5NS, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4679283,
+               "lng" : -3.1728415
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4692772802915,
+                  "lng" : -3.171492519708498
+               },
+               "southwest" : {
+                  "lat" : 51.4665793197085,
+                  "lng" : -3.174190480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

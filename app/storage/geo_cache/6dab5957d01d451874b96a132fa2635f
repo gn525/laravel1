@@ -1,0 +1,663 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dundee Technology Park",
+               "short_name" : "Dundee Technology Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2 1SW",
+               "short_name" : "DD2 1SW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dundee Technology Park, Dundee, Dundee City DD2 1SW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.4610356,
+               "lng" : -3.0521692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.46238458029149,
+                  "lng" : -3.050820219708498
+               },
+               "southwest" : {
+                  "lat" : 56.4596866197085,
+                  "lng" : -3.053518180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dundee Technology Park",
+               "short_name" : "Dundee Technology Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Luna Place",
+               "short_name" : "Luna Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2 1TP",
+               "short_name" : "DD2 1TP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dundee Technology Park, 5 Luna Place, Dundee, Dundee City DD2 1TP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.4639423,
+               "lng" : -3.0547976
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4652912802915,
+                  "lng" : -3.053448619708498
+               },
+               "southwest" : {
+                  "lat" : 56.4625933197085,
+                  "lng" : -3.056146580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), near Kingsway West",
+               "short_name" : "Technology Park (Dundee), near Kingsway West",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), near Kingsway West, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.469776,
+               "lng" : -3.057901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4711249802915,
+                  "lng" : -3.056552019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4684270197085,
+                  "lng" : -3.059249980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), near Riverside Drive",
+               "short_name" : "Technology Park (Dundee), near Riverside Drive",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), near Riverside Drive, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.462685,
+               "lng" : -3.054717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4640339802915,
+                  "lng" : -3.053368019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4613360197085,
+                  "lng" : -3.056065980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), near Medi Park",
+               "short_name" : "Technology Park (Dundee), near Medi Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), near Medi Park, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.463524,
+               "lng" : -3.048914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4648729802915,
+                  "lng" : -3.047565019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4621750197085,
+                  "lng" : -3.050262980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), near Sidlaw House",
+               "short_name" : "Technology Park (Dundee), near Sidlaw House",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), near Sidlaw House, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.469227,
+               "lng" : -3.057869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.47057598029149,
+                  "lng" : -3.056520019708498
+               },
+               "southwest" : {
+                  "lat" : 56.46787801970849,
+                  "lng" : -3.059217980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), at Explorer Road",
+               "short_name" : "Technology Park (Dundee), at Explorer Road",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), at Explorer Road, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.463264,
+               "lng" : -3.052218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4646129802915,
+                  "lng" : -3.050869019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4619150197085,
+                  "lng" : -3.053566980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), at Gemini Crescent",
+               "short_name" : "Technology Park (Dundee), at Gemini Crescent",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), at Gemini Crescent, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.463184,
+               "lng" : -3.052199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4645329802915,
+                  "lng" : -3.050850019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4618350197085,
+                  "lng" : -3.053547980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), opp Luna Place",
+               "short_name" : "Technology Park (Dundee), opp Luna Place",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), opp Luna Place, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.464973,
+               "lng" : -3.056257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4663219802915,
+                  "lng" : -3.054908019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4636240197085,
+                  "lng" : -3.057605980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), at Luna Place",
+               "short_name" : "Technology Park (Dundee), at Luna Place",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), at Luna Place, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.464882,
+               "lng" : -3.05632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4662309802915,
+                  "lng" : -3.054971019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4635330197085,
+                  "lng" : -3.057668980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), at Riverside Drive",
+               "short_name" : "Technology Park (Dundee), at Riverside Drive",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), at Riverside Drive, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.462498,
+               "lng" : -3.054696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4638469802915,
+                  "lng" : -3.053347019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4611490197085,
+                  "lng" : -3.056044980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technology Park (Dundee), at Medi Park",
+               "short_name" : "Technology Park (Dundee), at Medi Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technology Park (Dundee), at Medi Park, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.463291,
+               "lng" : -3.049103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.46463998029149,
+                  "lng" : -3.047754019708498
+               },
+               "southwest" : {
+                  "lat" : 56.46194201970849,
+                  "lng" : -3.050451980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

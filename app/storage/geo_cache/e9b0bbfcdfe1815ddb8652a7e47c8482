@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Summertown",
+               "short_name" : "Summertown",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX2",
+               "short_name" : "OX2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Summertown, Oxford, Oxford OX2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7787297,
+               "lng" : -1.2654118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7856326,
+                  "lng" : -1.2494044
+               },
+               "southwest" : {
+                  "lat" : 51.7718257,
+                  "lng" : -1.2814192
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

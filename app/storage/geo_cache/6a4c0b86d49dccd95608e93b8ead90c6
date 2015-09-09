@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newent",
+               "short_name" : "Newent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newent",
+               "short_name" : "Newent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL18",
+               "short_name" : "GL18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newent, Newent, Gloucestershire GL18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9387926,
+                  "lng" : -2.3888705
+               },
+               "southwest" : {
+                  "lat" : 51.9207017,
+                  "lng" : -2.4213138
+               }
+            },
+            "location" : {
+               "lat" : 51.929281,
+               "lng" : -2.404578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9387926,
+                  "lng" : -2.3888705
+               },
+               "southwest" : {
+                  "lat" : 51.9207017,
+                  "lng" : -2.4213138
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brunei Hall",
+               "short_name" : "Brunei Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "35-43",
+               "short_name" : "35-43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Norfolk Square",
+               "short_name" : "Norfolk Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W2 1RX",
+               "short_name" : "W2 1RX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brunei Hall, 35-43 Norfolk Square, London W2 1RX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5157962,
+               "lng" : -0.1727228
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51714518029149,
+                  "lng" : -0.171373819708498
+               },
+               "southwest" : {
+                  "lat" : 51.51444721970849,
+                  "lng" : -0.174071780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brunei House",
+               "short_name" : "Brunei House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Southampton Highfield Campus",
+               "short_name" : "University of Southampton Highfield Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO16 3UB",
+               "short_name" : "SO16 3UB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brunei House, University of Southampton Highfield Campus, Glen Eyre Complex, Southampton, Southampton SO16 3UB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9433579,
+                  "lng" : -1.3991572
+               },
+               "southwest" : {
+                  "lat" : 50.94301,
+                  "lng" : -1.3997533
+               }
+            },
+            "location" : {
+               "lat" : 50.9431457,
+               "lng" : -1.3994355
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.94453293029149,
+                  "lng" : -1.398106269708498
+               },
+               "southwest" : {
+                  "lat" : 50.94183496970849,
+                  "lng" : -1.400804230291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

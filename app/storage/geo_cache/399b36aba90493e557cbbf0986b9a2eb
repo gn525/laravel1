@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Lincolnshire",
+               "short_name" : "North Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Lincolnshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.72446009999999,
+                  "lng" : -0.2004026
+               },
+               "southwest" : {
+                  "lat" : 53.4550434,
+                  "lng" : -0.9500055000000001
+               }
+            },
+            "location" : {
+               "lat" : 53.60555919999999,
+               "lng" : -0.5596582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.72446009999999,
+                  "lng" : -0.2004026
+               },
+               "southwest" : {
+                  "lat" : 53.4550434,
+                  "lng" : -0.9500055000000001
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baginton",
+               "short_name" : "Baginton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV8",
+               "short_name" : "CV8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baginton, Coventry, Warwickshire CV8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.367915,
+               "lng" : -1.491937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3747274,
+                  "lng" : -1.4759296
+               },
+               "southwest" : {
+                  "lat" : 52.3611015,
+                  "lng" : -1.5079444
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

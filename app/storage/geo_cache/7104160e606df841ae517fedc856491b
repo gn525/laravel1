@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aycliffe Village",
+               "short_name" : "Aycliffe Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Aycliffe",
+               "short_name" : "Newton Aycliffe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL5",
+               "short_name" : "DL5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aycliffe Village, Newton Aycliffe, County Durham DL5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6042352,
+                  "lng" : -1.5555389
+               },
+               "southwest" : {
+                  "lat" : 54.5931661,
+                  "lng" : -1.5710594
+               }
+            },
+            "location" : {
+               "lat" : 54.5961775,
+               "lng" : -1.5630318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6042352,
+                  "lng" : -1.5555389
+               },
+               "southwest" : {
+                  "lat" : 54.5931661,
+                  "lng" : -1.5710594
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

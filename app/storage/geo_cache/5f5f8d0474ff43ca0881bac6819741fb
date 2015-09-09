@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EX1",
+               "short_name" : "EX1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, Devon EX1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.75186619999999,
+                  "lng" : -3.4403198
+               },
+               "southwest" : {
+                  "lat" : 50.7189037,
+                  "lng" : -3.5362166
+               }
+            },
+            "location" : {
+               "lat" : 50.7288649,
+               "lng" : -3.4786714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.75186619999999,
+                  "lng" : -3.4403198
+               },
+               "southwest" : {
+                  "lat" : 50.7189037,
+                  "lng" : -3.5362166
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

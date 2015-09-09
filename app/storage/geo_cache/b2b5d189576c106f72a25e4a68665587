@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blisland",
+               "short_name" : "Blisland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bodmin",
+               "short_name" : "Bodmin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL30",
+               "short_name" : "PL30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blisland, Bodmin, Cornwall PL30, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.52789199999999,
+               "lng" : -4.682539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.53498459999999,
+                  "lng" : -4.6665316
+               },
+               "southwest" : {
+                  "lat" : 50.5207983,
+                  "lng" : -4.698546400000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

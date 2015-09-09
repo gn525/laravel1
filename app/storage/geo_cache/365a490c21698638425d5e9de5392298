@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taynuilt",
+               "short_name" : "Taynuilt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taynuilt",
+               "short_name" : "Taynuilt",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA35",
+               "short_name" : "PA35",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taynuilt, Taynuilt, Argyll and Bute PA35, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.434797,
+                  "lng" : -5.2264678
+               },
+               "southwest" : {
+                  "lat" : 56.423359,
+                  "lng" : -5.244568999999999
+               }
+            },
+            "location" : {
+               "lat" : 56.429137,
+               "lng" : -5.239309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.434797,
+                  "lng" : -5.2264678
+               },
+               "southwest" : {
+                  "lat" : 56.423359,
+                  "lng" : -5.244568999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

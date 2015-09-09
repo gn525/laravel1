@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrickfergus",
+               "short_name" : "Carrickfergus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carrickfergus",
+               "short_name" : "Carrickfergus",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carrickfergus",
+               "short_name" : "Carrickfergus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT38",
+               "short_name" : "BT38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carrickfergus, Carrickfergus, Carrickfergus BT38, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.71373,
+               "lng" : -5.80818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.720175,
+                  "lng" : -5.7921726
+               },
+               "southwest" : {
+                  "lat" : 54.7072839,
+                  "lng" : -5.8241874
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

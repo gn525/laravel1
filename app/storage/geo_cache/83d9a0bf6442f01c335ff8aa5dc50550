@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitley",
+               "short_name" : "Whitley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG2",
+               "short_name" : "RG2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitley, Reading, Reading, Reading RG2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.42461369999999,
+               "lng" : -0.9700160999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.43157069999999,
+                  "lng" : -0.9540086999999999
+               },
+               "southwest" : {
+                  "lat" : 51.4176557,
+                  "lng" : -0.9860235000000001
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

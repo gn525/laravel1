@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "FY3",
+               "short_name" : "FY3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Blackpool",
+               "short_name" : "Blackpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blackpool FY3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8431055,
+                  "lng" : -2.952381
+               },
+               "southwest" : {
+                  "lat" : 53.8019912,
+                  "lng" : -3.0522207
+               }
+            },
+            "location" : {
+               "lat" : 53.8240691,
+               "lng" : -3.0101688
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8431055,
+                  "lng" : -2.952381
+               },
+               "southwest" : {
+                  "lat" : 53.8019912,
+                  "lng" : -3.0522207
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Passfield",
+               "short_name" : "Passfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liphook",
+               "short_name" : "Liphook",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU30",
+               "short_name" : "GU30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Passfield, Liphook, Hampshire GU30, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1020139,
+               "lng" : -0.8209689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1090199,
+                  "lng" : -0.8049615
+               },
+               "southwest" : {
+                  "lat" : 51.09500689999999,
+                  "lng" : -0.8369763
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

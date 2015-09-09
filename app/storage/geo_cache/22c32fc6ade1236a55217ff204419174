@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Camberley",
+               "short_name" : "Camberley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Camberley, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.35501739999999,
+                  "lng" : -0.6950415999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3139333,
+                  "lng" : -0.7751669999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.3353899,
+               "lng" : -0.742856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.35501739999999,
+                  "lng" : -0.6950415999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3139333,
+                  "lng" : -0.7751669999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

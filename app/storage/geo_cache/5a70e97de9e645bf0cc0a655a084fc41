@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Londonderry",
+               "short_name" : "Londonderry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Londonderry",
+               "short_name" : "Londonderry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derry",
+               "short_name" : "Derry",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Londonderry, Londonderry, Derry, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0436191,
+                  "lng" : -7.262598799999999
+               },
+               "southwest" : {
+                  "lat" : 54.96971199999999,
+                  "lng" : -7.3606922
+               }
+            },
+            "location" : {
+               "lat" : 54.9966124,
+               "lng" : -7.3085748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0436191,
+                  "lng" : -7.262598799999999
+               },
+               "southwest" : {
+                  "lat" : 54.96971199999999,
+                  "lng" : -7.3606922
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

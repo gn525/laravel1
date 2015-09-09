@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ely, Ely, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4225278,
+                  "lng" : 0.3344561
+               },
+               "southwest" : {
+                  "lat" : 52.3634287,
+                  "lng" : 0.2163658
+               }
+            },
+            "location" : {
+               "lat" : 52.399539,
+               "lng" : 0.262363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4225278,
+                  "lng" : 0.3344561
+               },
+               "southwest" : {
+                  "lat" : 52.3634287,
+                  "lng" : 0.2163658
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

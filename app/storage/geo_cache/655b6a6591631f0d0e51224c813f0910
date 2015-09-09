@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llanwern",
+               "short_name" : "Llanwern",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP18",
+               "short_name" : "NP18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llanwern, Newport, Newport NP18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.589659,
+               "lng" : -2.914446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.59659079999999,
+                  "lng" : -2.8984386
+               },
+               "southwest" : {
+                  "lat" : 51.5827261,
+                  "lng" : -2.9304534
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

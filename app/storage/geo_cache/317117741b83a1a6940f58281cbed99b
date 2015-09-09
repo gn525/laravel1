@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clifton upon Teme",
+               "short_name" : "Clifton upon Teme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR6",
+               "short_name" : "WR6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clifton upon Teme, Worcester, Worcestershire WR6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.251555,
+               "lng" : -2.422225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2583853,
+                  "lng" : -2.4062176
+               },
+               "southwest" : {
+                  "lat" : 52.2447236,
+                  "lng" : -2.4382324
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

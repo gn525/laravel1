@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perranporth",
+               "short_name" : "Perranporth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perranporth, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3500078,
+                  "lng" : -5.1338251
+               },
+               "southwest" : {
+                  "lat" : 50.3254409,
+                  "lng" : -5.172674799999999
+               }
+            },
+            "location" : {
+               "lat" : 50.344434,
+               "lng" : -5.154444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3500078,
+                  "lng" : -5.1338251
+               },
+               "southwest" : {
+                  "lat" : 50.3254409,
+                  "lng" : -5.172674799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

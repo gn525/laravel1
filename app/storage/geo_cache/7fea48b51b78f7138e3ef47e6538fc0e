@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Linford Wood",
+               "short_name" : "Linford Wood",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK14",
+               "short_name" : "MK14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Linford Wood, Milton Keynes, Milton Keynes MK14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.055736,
+               "lng" : -0.771849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0625965,
+                  "lng" : -0.7558416
+               },
+               "southwest" : {
+                  "lat" : 52.0488745,
+                  "lng" : -0.7878564
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

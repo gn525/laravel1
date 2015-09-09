@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biggar",
+               "short_name" : "Biggar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Biggar",
+               "short_name" : "Biggar",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML12",
+               "short_name" : "ML12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biggar, Biggar, South Lanarkshire ML12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.62941610000001,
+                  "lng" : -3.5049497
+               },
+               "southwest" : {
+                  "lat" : 55.61506749999999,
+                  "lng" : -3.5391809
+               }
+            },
+            "location" : {
+               "lat" : 55.623396,
+               "lng" : -3.523964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.62941610000001,
+                  "lng" : -3.5049497
+               },
+               "southwest" : {
+                  "lat" : 55.61506749999999,
+                  "lng" : -3.5391809
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

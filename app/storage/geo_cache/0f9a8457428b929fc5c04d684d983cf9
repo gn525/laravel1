@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preston Candover",
+               "short_name" : "Preston Candover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG25",
+               "short_name" : "RG25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Preston Candover, Basingstoke, Hampshire RG25, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.168544,
+               "lng" : -1.134465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1755399,
+                  "lng" : -1.1184576
+               },
+               "southwest" : {
+                  "lat" : 51.1615471,
+                  "lng" : -1.1504724
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wigston",
+               "short_name" : "Wigston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wigston, Leicestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5985328,
+                  "lng" : -1.0853557
+               },
+               "southwest" : {
+                  "lat" : 52.5657441,
+                  "lng" : -1.1460871
+               }
+            },
+            "location" : {
+               "lat" : 52.5863179,
+               "lng" : -1.1063539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5985328,
+                  "lng" : -1.0853557
+               },
+               "southwest" : {
+                  "lat" : 52.5657441,
+                  "lng" : -1.1460871
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

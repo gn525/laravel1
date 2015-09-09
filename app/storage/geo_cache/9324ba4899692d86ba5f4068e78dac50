@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonning",
+               "short_name" : "Sonning",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wokingham",
+               "short_name" : "Wokingham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG4",
+               "short_name" : "RG4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonning, Reading, Wokingham RG4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4731961,
+               "lng" : -0.9065736000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.48014569999999,
+                  "lng" : -0.8905662
+               },
+               "southwest" : {
+                  "lat" : 51.4662455,
+                  "lng" : -0.9225810000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

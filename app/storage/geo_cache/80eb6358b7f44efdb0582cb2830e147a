@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside Park Industrial Estate",
+               "short_name" : "Riverside Park Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS2",
+               "short_name" : "TS2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Riverside Park Industrial Estate, Middlesbrough, Middlesbrough, Middlesbrough TS2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5867751,
+               "lng" : -1.247215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5932403,
+                  "lng" : -1.2312076
+               },
+               "southwest" : {
+                  "lat" : 54.5803089,
+                  "lng" : -1.2632224
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

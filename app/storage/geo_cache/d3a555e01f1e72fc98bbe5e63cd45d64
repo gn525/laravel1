@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canton",
+               "short_name" : "Canton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF5",
+               "short_name" : "CF5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Canton, Cardiff, Cardiff, Cardiff CF5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4834718,
+               "lng" : -3.2066391
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49041980000001,
+                  "lng" : -3.1906317
+               },
+               "southwest" : {
+                  "lat" : 51.4765227,
+                  "lng" : -3.2226465
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canton",
+               "short_name" : "Canton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canton, Cardiff, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4892757,
+                  "lng" : -3.1967628
+               },
+               "southwest" : {
+                  "lat" : 51.4660886,
+                  "lng" : -3.2320369
+               }
+            },
+            "location" : {
+               "lat" : 51.4790711,
+               "lng" : -3.2096851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4892757,
+                  "lng" : -3.1967628
+               },
+               "southwest" : {
+                  "lat" : 51.4660886,
+                  "lng" : -3.2320369
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

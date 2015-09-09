@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PE16",
+               "short_name" : "PE16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridgeshire PE16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4830932,
+                  "lng" : 0.1601533
+               },
+               "southwest" : {
+                  "lat" : 52.4123773,
+                  "lng" : -0.0147961
+               }
+            },
+            "location" : {
+               "lat" : 52.4571903,
+               "lng" : 0.0607092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4830932,
+                  "lng" : 0.1601533
+               },
+               "southwest" : {
+                  "lat" : 52.4123773,
+                  "lng" : -0.0147961
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

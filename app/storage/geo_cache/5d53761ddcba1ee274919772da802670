@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Langport",
+               "short_name" : "Langport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Langport",
+               "short_name" : "Langport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA10",
+               "short_name" : "TA10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Langport, Langport, Somerset TA10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0484115,
+                  "lng" : -2.7983547
+               },
+               "southwest" : {
+                  "lat" : 51.0314384,
+                  "lng" : -2.846301
+               }
+            },
+            "location" : {
+               "lat" : 51.038134,
+               "lng" : -2.828719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0484115,
+                  "lng" : -2.7983547
+               },
+               "southwest" : {
+                  "lat" : 51.0314384,
+                  "lng" : -2.846301
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B17",
+               "short_name" : "B17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Birmingham, West Midlands B17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4830919,
+                  "lng" : -1.9385885
+               },
+               "southwest" : {
+                  "lat" : 52.4455538,
+                  "lng" : -1.9958307
+               }
+            },
+            "location" : {
+               "lat" : 52.45969729999999,
+               "lng" : -1.9579262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4830919,
+                  "lng" : -1.9385885
+               },
+               "southwest" : {
+                  "lat" : 52.4455538,
+                  "lng" : -1.9815716
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gilford",
+               "short_name" : "Gilford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT63",
+               "short_name" : "BT63",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gilford, Craigavon, Banbridge BT63, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.37345,
+               "lng" : -6.35981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.379949,
+                  "lng" : -6.3438026
+               },
+               "southwest" : {
+                  "lat" : 54.36695,
+                  "lng" : -6.3758174
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

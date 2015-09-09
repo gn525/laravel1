@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Larbert",
+               "short_name" : "Larbert",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Larbert, Falkirk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.04125699999999,
+                  "lng" : -3.8097126
+               },
+               "southwest" : {
+                  "lat" : 56.0107176,
+                  "lng" : -3.8559843
+               }
+            },
+            "location" : {
+               "lat" : 56.0196754,
+               "lng" : -3.8360606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.04125699999999,
+                  "lng" : -3.8097126
+               },
+               "southwest" : {
+                  "lat" : 56.0107176,
+                  "lng" : -3.8559843
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

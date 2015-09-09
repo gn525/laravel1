@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatham, Medway, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4061657,
+                  "lng" : 0.55947
+               },
+               "southwest" : {
+                  "lat" : 51.32487500000001,
+                  "lng" : 0.4928232
+               }
+            },
+            "location" : {
+               "lat" : 51.380952,
+               "lng" : 0.52213
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4061657,
+                  "lng" : 0.55947
+               },
+               "southwest" : {
+                  "lat" : 51.32487500000001,
+                  "lng" : 0.4928232
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

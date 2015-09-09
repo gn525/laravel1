@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Master Vella Taekwon-do Academy",
+               "short_name" : "Master Vella Taekwon-do Academy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Glamorgan House",
+               "short_name" : "Glamorgan House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Croescadarn Road",
+               "short_name" : "Croescadarn Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pentwyn",
+               "short_name" : "Pentwyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pontprennau",
+               "short_name" : "Pontprennau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Glamorgan",
+               "short_name" : "South Glamorgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF23 9LE",
+               "short_name" : "CF23 9LE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glamorgan House, Master Vella Taekwon-do Academy, Croescadarn Road, Pontprennau, Cardiff, South Glamorgan CF23 9LE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.531147,
+               "lng" : -3.1417432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5324959802915,
+                  "lng" : -3.140394219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5297980197085,
+                  "lng" : -3.143092180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

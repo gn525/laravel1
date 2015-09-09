@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avebury",
+               "short_name" : "Avebury",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Avebury",
+               "short_name" : "Avebury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN8",
+               "short_name" : "SN8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avebury, Avebury, Wiltshire SN8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4307093,
+                  "lng" : -1.8505862
+               },
+               "southwest" : {
+                  "lat" : 51.4250112,
+                  "lng" : -1.8609153
+               }
+            },
+            "location" : {
+               "lat" : 51.4288671,
+               "lng" : -1.8549399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4307093,
+                  "lng" : -1.8505862
+               },
+               "southwest" : {
+                  "lat" : 51.4250112,
+                  "lng" : -1.8609153
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

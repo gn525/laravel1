@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crick",
+               "short_name" : "Crick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN6",
+               "short_name" : "NN6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crick, Northampton, Northamptonshire NN6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3537105,
+                  "lng" : -1.119957
+               },
+               "southwest" : {
+                  "lat" : 52.340837,
+                  "lng" : -1.1455145
+               }
+            },
+            "location" : {
+               "lat" : 52.347591,
+               "lng" : -1.136643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3537105,
+                  "lng" : -1.119957
+               },
+               "southwest" : {
+                  "lat" : 52.340837,
+                  "lng" : -1.1455145
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

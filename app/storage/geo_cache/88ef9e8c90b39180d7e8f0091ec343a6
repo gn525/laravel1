@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bodmin",
+               "short_name" : "Bodmin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bodmin",
+               "short_name" : "Bodmin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bodmin, Bodmin, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4816362,
+                  "lng" : -4.6934127
+               },
+               "southwest" : {
+                  "lat" : 50.4517432,
+                  "lng" : -4.7534471
+               }
+            },
+            "location" : {
+               "lat" : 50.46863,
+               "lng" : -4.715114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4816362,
+                  "lng" : -4.6934127
+               },
+               "southwest" : {
+                  "lat" : 50.4517432,
+                  "lng" : -4.7534471
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

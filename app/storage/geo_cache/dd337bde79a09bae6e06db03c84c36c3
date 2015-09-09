@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alston",
+               "short_name" : "Alston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alston",
+               "short_name" : "Alston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA9",
+               "short_name" : "CA9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alston, Alston, Cumbria CA9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8217452,
+                  "lng" : -2.4250458
+               },
+               "southwest" : {
+                  "lat" : 54.8031881,
+                  "lng" : -2.447986
+               }
+            },
+            "location" : {
+               "lat" : 54.812167,
+               "lng" : -2.438685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8217452,
+                  "lng" : -2.4250458
+               },
+               "southwest" : {
+                  "lat" : 54.8031881,
+                  "lng" : -2.447986
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

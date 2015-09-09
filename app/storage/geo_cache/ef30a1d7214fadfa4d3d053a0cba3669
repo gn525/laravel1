@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stornoway",
+               "short_name" : "Stornoway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Na h-Eileanan an Iar",
+               "short_name" : "W Isls",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stornoway, Na h-Eileanan an Iar, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.2245959,
+                  "lng" : -6.356233700000001
+               },
+               "southwest" : {
+                  "lat" : 58.2016774,
+                  "lng" : -6.4005915
+               }
+            },
+            "location" : {
+               "lat" : 58.209435,
+               "lng" : -6.3848692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.2245959,
+                  "lng" : -6.356233700000001
+               },
+               "southwest" : {
+                  "lat" : 58.2016774,
+                  "lng" : -6.4005915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

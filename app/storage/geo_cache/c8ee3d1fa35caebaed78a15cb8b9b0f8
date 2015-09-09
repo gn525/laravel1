@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hastings, East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.89482839999999,
+                  "lng" : 0.6586562
+               },
+               "southwest" : {
+                  "lat" : 50.8415711,
+                  "lng" : 0.5006111
+               }
+            },
+            "location" : {
+               "lat" : 50.854259,
+               "lng" : 0.573453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.89482839999999,
+                  "lng" : 0.6586562
+               },
+               "southwest" : {
+                  "lat" : 50.8415711,
+                  "lng" : 0.5006111
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

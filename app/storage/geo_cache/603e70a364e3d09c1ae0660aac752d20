@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middleton Cheney",
+               "short_name" : "Middleton Cheney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banbury",
+               "short_name" : "Banbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX17",
+               "short_name" : "OX17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Middleton Cheney, Banbury, Northamptonshire OX17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0805296,
+                  "lng" : -1.2551509
+               },
+               "southwest" : {
+                  "lat" : 52.0647159,
+                  "lng" : -1.2834797
+               }
+            },
+            "location" : {
+               "lat" : 52.072758,
+               "lng" : -1.27394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0805296,
+                  "lng" : -1.2551509
+               },
+               "southwest" : {
+                  "lat" : 52.0647159,
+                  "lng" : -1.2834797
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

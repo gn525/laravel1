@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS32",
+               "short_name" : "BS32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Gloucestershire",
+               "short_name" : "South Gloucestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, South Gloucestershire BS32, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5954762,
+                  "lng" : -2.4985507
+               },
+               "southwest" : {
+                  "lat" : 51.5212989,
+                  "lng" : -2.6168878
+               }
+            },
+            "location" : {
+               "lat" : 51.5605982,
+               "lng" : -2.5685151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5954762,
+                  "lng" : -2.4985507
+               },
+               "southwest" : {
+                  "lat" : 51.5212989,
+                  "lng" : -2.6168878
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

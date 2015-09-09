@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grampian Drive",
+               "short_name" : "Grampian Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arnold",
+               "short_name" : "Arnold",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bestwood St. Albans",
+               "short_name" : "Bestwood St. Albans",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Gedling",
+               "short_name" : "Gedling",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Notts",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG5",
+               "short_name" : "NG5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grampian Drive, Arnold, Nottingham NG5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.01483109999999,
+                  "lng" : -1.1565208
+               },
+               "southwest" : {
+                  "lat" : 53.01392389999999,
+                  "lng" : -1.1571109
+               }
+            },
+            "location" : {
+               "lat" : 53.0144427,
+               "lng" : -1.1567979
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.01572648029149,
+                  "lng" : -1.155466869708498
+               },
+               "southwest" : {
+                  "lat" : 53.01302851970849,
+                  "lng" : -1.158164830291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

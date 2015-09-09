@@ -1,0 +1,256 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cranhill Cottage",
+               "short_name" : "Cranhill Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Stratford Road",
+               "short_name" : "Stratford Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bidford-on-Avon",
+               "short_name" : "Bidford-on-Avon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alcester",
+               "short_name" : "Alcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B50 4LT",
+               "short_name" : "B50 4LT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cranhill Cottage, Stratford Road, Bidford-on-Avon, Alcester, Warwickshire B50 4LT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.172763,
+               "lng" : -1.8244559
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.17411198029149,
+                  "lng" : -1.823106919708498
+               },
+               "southwest" : {
+                  "lat" : 52.17141401970849,
+                  "lng" : -1.825804880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cranhill Place",
+               "short_name" : "Cranhill Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newtonhill",
+               "short_name" : "Newtonhill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stonehaven",
+               "short_name" : "Stonehaven",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB39 3TQ",
+               "short_name" : "AB39 3TQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cranhill Place, Newtonhill, Stonehaven, Aberdeenshire AB39 3TQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.03321709999999,
+                  "lng" : -2.1451441
+               },
+               "southwest" : {
+                  "lat" : 57.03206249999999,
+                  "lng" : -2.1471392
+               }
+            },
+            "location" : {
+               "lat" : 57.03264859999999,
+               "lng" : -2.1462118
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.0339887802915,
+                  "lng" : -2.144792669708498
+               },
+               "southwest" : {
+                  "lat" : 57.0312908197085,
+                  "lng" : -2.147490630291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cranhill Road",
+               "short_name" : "Cranhill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Street",
+               "short_name" : "Street",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Street",
+               "short_name" : "Street",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA16",
+               "short_name" : "BA16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cranhill Road, Street, Street, Somerset BA16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.127887,
+                  "lng" : -2.743206
+               },
+               "southwest" : {
+                  "lat" : 51.1245517,
+                  "lng" : -2.7463469
+               }
+            },
+            "location" : {
+               "lat" : 51.1262122,
+               "lng" : -2.7445645
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.127887,
+                  "lng" : -2.743206
+               },
+               "southwest" : {
+                  "lat" : 51.1245517,
+                  "lng" : -2.7463469
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cranhill Close",
+               "short_name" : "Cranhill Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solihull",
+               "short_name" : "Solihull",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solihull",
+               "short_name" : "Solihull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B92",
+               "short_name" : "B92",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cranhill Close, Solihull, Solihull, West Midlands B92, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4376628,
+                  "lng" : -1.7851806
+               },
+               "southwest" : {
+                  "lat" : 52.4371842,
+                  "lng" : -1.7866878
+               }
+            },
+            "location" : {
+               "lat" : 52.4376025,
+               "lng" : -1.7854594
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4387724802915,
+                  "lng" : -1.784585219708498
+               },
+               "southwest" : {
+                  "lat" : 52.43607451970851,
+                  "lng" : -1.787283180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

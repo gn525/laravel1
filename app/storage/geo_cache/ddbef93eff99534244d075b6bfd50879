@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haltwhistle",
+               "short_name" : "Haltwhistle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haltwhistle",
+               "short_name" : "Haltwhistle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE49",
+               "short_name" : "NE49",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haltwhistle, Haltwhistle, Northumberland NE49, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9771004,
+                  "lng" : -2.444988
+               },
+               "southwest" : {
+                  "lat" : 54.96273129999999,
+                  "lng" : -2.4808632
+               }
+            },
+            "location" : {
+               "lat" : 54.972237,
+               "lng" : -2.460856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9771004,
+                  "lng" : -2.444988
+               },
+               "southwest" : {
+                  "lat" : 54.96273129999999,
+                  "lng" : -2.4808632
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

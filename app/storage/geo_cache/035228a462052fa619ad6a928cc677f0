@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warmingham",
+               "short_name" : "Warmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sandbach",
+               "short_name" : "Sandbach",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CW11",
+               "short_name" : "CW11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Warmingham, Sandbach, Cheshire East CW11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.150017,
+               "lng" : -2.435163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1567082,
+                  "lng" : -2.4191556
+               },
+               "southwest" : {
+                  "lat" : 53.1433248,
+                  "lng" : -2.4511704
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

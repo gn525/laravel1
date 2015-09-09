@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ryde",
+               "short_name" : "Ryde",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Wight",
+               "short_name" : "IOW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ryde, Isle of Wight, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.734116,
+                  "lng" : -1.1209769
+               },
+               "southwest" : {
+                  "lat" : 50.704519,
+                  "lng" : -1.2076529
+               }
+            },
+            "location" : {
+               "lat" : 50.729952,
+               "lng" : -1.163282
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.734116,
+                  "lng" : -1.1209769
+               },
+               "southwest" : {
+                  "lat" : 50.704519,
+                  "lng" : -1.2076529
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

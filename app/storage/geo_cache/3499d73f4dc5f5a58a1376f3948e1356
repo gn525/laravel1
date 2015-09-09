@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wembley Stadium",
+               "short_name" : "Wembley Stadium",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Wembley",
+               "short_name" : "Wembley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HA9 0WS",
+               "short_name" : "HA9 0WS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wembley Stadium, London HA9 0WS, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5560208,
+               "lng" : -0.2795188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5573697802915,
+                  "lng" : -0.278169819708498
+               },
+               "southwest" : {
+                  "lat" : 51.5546718197085,
+                  "lng" : -0.2808677802915021
+               }
+            }
+         },
+         "types" : [ "stadium", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

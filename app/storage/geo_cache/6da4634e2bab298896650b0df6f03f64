@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saltash",
+               "short_name" : "Saltash",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saltash, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.42311249999999,
+                  "lng" : -4.2031708
+               },
+               "southwest" : {
+                  "lat" : 50.3998618,
+                  "lng" : -4.2497111
+               }
+            },
+            "location" : {
+               "lat" : 50.40920999999999,
+               "lng" : -4.21643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.42311249999999,
+                  "lng" : -4.2031708
+               },
+               "southwest" : {
+                  "lat" : 50.3998618,
+                  "lng" : -4.2497111
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

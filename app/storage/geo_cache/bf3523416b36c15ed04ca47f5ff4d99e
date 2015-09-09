@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Billericay",
+               "short_name" : "Billericay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Billericay, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6489566,
+                  "lng" : 0.4521148999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5923708,
+                  "lng" : 0.3923257
+               }
+            },
+            "location" : {
+               "lat" : 51.627903,
+               "lng" : 0.418397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6489566,
+                  "lng" : 0.4521148999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5923708,
+                  "lng" : 0.3923257
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belasis Hall Technology Park",
+               "short_name" : "Belasis Hall Technology Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Billingham",
+               "short_name" : "Billingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS23 4EA",
+               "short_name" : "TS23 4EA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belasis Hall Technology Park, Billingham, Stockton-on-Tees TS23 4EA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6013641,
+               "lng" : -1.2664665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.60271308029149,
+                  "lng" : -1.265117519708498
+               },
+               "southwest" : {
+                  "lat" : 54.6000151197085,
+                  "lng" : -1.267815480291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belasis Hall Technology Park",
+               "short_name" : "Belasis Hall Technology Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "18E",
+               "short_name" : "18E",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Manor Way",
+               "short_name" : "Manor Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Billingham",
+               "short_name" : "Billingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS23 4HN",
+               "short_name" : "TS23 4HN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belasis Hall Technology Park, 18E Manor Way, Billingham, Stockton-on-Tees TS23 4HN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6006877,
+               "lng" : -1.2631196
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6020366802915,
+                  "lng" : -1.261770619708498
+               },
+               "southwest" : {
+                  "lat" : 54.59933871970851,
+                  "lng" : -1.264468580291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belasis Hall Technology Park",
+               "short_name" : "Belasis Hall Technology Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Manor Way",
+               "short_name" : "Manor Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Billingham",
+               "short_name" : "Billingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS23 4HN",
+               "short_name" : "TS23 4HN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belasis Hall Technology Park, 21 Manor Way, Billingham, Stockton-on-Tees TS23 4HN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6006877,
+               "lng" : -1.2631196
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6020366802915,
+                  "lng" : -1.261770619708498
+               },
+               "southwest" : {
+                  "lat" : 54.59933871970851,
+                  "lng" : -1.264468580291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

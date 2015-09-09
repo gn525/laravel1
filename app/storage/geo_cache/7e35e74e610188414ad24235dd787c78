@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galston",
+               "short_name" : "Galston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Ayrshire",
+               "short_name" : "East Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA4",
+               "short_name" : "KA4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moscow, Galston, East Ayrshire KA4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.633939,
+               "lng" : -4.401646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6402369,
+                  "lng" : -4.3856386
+               },
+               "southwest" : {
+                  "lat" : 55.62764010000001,
+                  "lng" : -4.4176534
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

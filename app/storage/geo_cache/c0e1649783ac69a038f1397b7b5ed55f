@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johannesburg Gardens",
+               "short_name" : "Johannesburg Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wythenshawe",
+               "short_name" : "Wythenshawe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M23 2RT",
+               "short_name" : "M23 2RT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johannesburg Gardens, Wythenshawe, Manchester M23 2RT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3868367,
+                  "lng" : -2.2872423
+               },
+               "southwest" : {
+                  "lat" : 53.3863433,
+                  "lng" : -2.2882271
+               }
+            },
+            "location" : {
+               "lat" : 53.3864917,
+               "lng" : -2.2874457
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3879389802915,
+                  "lng" : -2.286385719708498
+               },
+               "southwest" : {
+                  "lat" : 53.3852410197085,
+                  "lng" : -2.289083680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johannesburg Road",
+               "short_name" : "Johannesburg Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT16",
+               "short_name" : "CT16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johannesburg Road, Dover, Dover, Kent CT16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1455004,
+                  "lng" : 1.3053451
+               },
+               "southwest" : {
+                  "lat" : 51.1447503,
+                  "lng" : 1.3042021
+               }
+            },
+            "location" : {
+               "lat" : 51.145229,
+               "lng" : 1.3049587
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1464743302915,
+                  "lng" : 1.306122580291502
+               },
+               "southwest" : {
+                  "lat" : 51.1437763697085,
+                  "lng" : 1.303424619708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tadcaster",
+               "short_name" : "Tadcaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tadcaster",
+               "short_name" : "Tadcaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS24",
+               "short_name" : "LS24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tadcaster, Tadcaster, North Yorkshire LS24, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8932919,
+                  "lng" : -1.2355
+               },
+               "southwest" : {
+                  "lat" : 53.8725016,
+                  "lng" : -1.2839073
+               }
+            },
+            "location" : {
+               "lat" : 53.883551,
+               "lng" : -1.260889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8932919,
+                  "lng" : -1.2355
+               },
+               "southwest" : {
+                  "lat" : 53.8725016,
+                  "lng" : -1.2839073
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

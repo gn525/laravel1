@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fishguard",
+               "short_name" : "Fishguard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fishguard, Pembrokeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0008503,
+                  "lng" : -4.9649371
+               },
+               "southwest" : {
+                  "lat" : 51.9854351,
+                  "lng" : -4.9911881
+               }
+            },
+            "location" : {
+               "lat" : 51.993927,
+               "lng" : -4.975989000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0008503,
+                  "lng" : -4.9649371
+               },
+               "southwest" : {
+                  "lat" : 51.9854351,
+                  "lng" : -4.9911881
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

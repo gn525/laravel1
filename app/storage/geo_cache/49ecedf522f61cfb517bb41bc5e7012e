@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SM2",
+               "short_name" : "SM2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "SM2, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3612638,
+                  "lng" : -0.1746629
+               },
+               "southwest" : {
+                  "lat" : 51.3320562,
+                  "lng" : -0.2348013
+               }
+            },
+            "location" : {
+               "lat" : 51.3415952,
+               "lng" : -0.2044415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3612638,
+                  "lng" : -0.1746629
+               },
+               "southwest" : {
+                  "lat" : 51.3320562,
+                  "lng" : -0.2348013
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

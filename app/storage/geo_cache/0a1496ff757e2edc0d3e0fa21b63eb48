@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TS8",
+               "short_name" : "TS8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middlesbrough TS8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5380027,
+                  "lng" : -1.1822411
+               },
+               "southwest" : {
+                  "lat" : 54.4870721,
+                  "lng" : -1.2989843
+               }
+            },
+            "location" : {
+               "lat" : 54.5100186,
+               "lng" : -1.2369102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5380027,
+                  "lng" : -1.1822411
+               },
+               "southwest" : {
+                  "lat" : 54.4870721,
+                  "lng" : -1.2989843
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

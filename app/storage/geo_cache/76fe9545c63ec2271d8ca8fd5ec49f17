@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UB1",
+               "short_name" : "UB1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London UB1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5328151,
+                  "lng" : -0.3422758
+               },
+               "southwest" : {
+                  "lat" : 51.5039132,
+                  "lng" : -0.3962601
+               }
+            },
+            "location" : {
+               "lat" : 51.5170603,
+               "lng" : -0.3679919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5328151,
+                  "lng" : -0.3422758
+               },
+               "southwest" : {
+                  "lat" : 51.5039132,
+                  "lng" : -0.3962601
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southall",
+               "short_name" : "Southall",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Southall",
+               "short_name" : "Southall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southall",
+               "short_name" : "Southall",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB1",
+               "short_name" : "UB1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southall, Southall, Southall, Greater London UB1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5059556,
+               "lng" : -0.3785892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5073045802915,
+                  "lng" : -0.3772402197084979
+               },
+               "southwest" : {
+                  "lat" : 51.5046066197085,
+                  "lng" : -0.379938180291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

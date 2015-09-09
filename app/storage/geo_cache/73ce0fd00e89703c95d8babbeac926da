@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MK17",
+               "short_name" : "MK17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milton Keynes MK17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0647981,
+                  "lng" : -0.5100968
+               },
+               "southwest" : {
+                  "lat" : 51.9306669,
+                  "lng" : -0.9257086999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.9877859,
+               "lng" : -0.6848056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0647981,
+                  "lng" : -0.5100968
+               },
+               "southwest" : {
+                  "lat" : 51.9306669,
+                  "lng" : -0.9257086999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

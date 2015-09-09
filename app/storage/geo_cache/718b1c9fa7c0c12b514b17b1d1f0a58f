@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rottingdean",
+               "short_name" : "Rottingdean",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN2",
+               "short_name" : "BN2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rottingdean, The City of Brighton and Hove BN2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8283603,
+                  "lng" : -0.0395474
+               },
+               "southwest" : {
+                  "lat" : 50.8005356,
+                  "lng" : -0.07047529999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.8118134,
+               "lng" : -0.0543667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8283603,
+                  "lng" : -0.0395474
+               },
+               "southwest" : {
+                  "lat" : 50.8005356,
+                  "lng" : -0.07047529999999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

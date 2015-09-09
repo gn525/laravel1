@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crawley, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1527353,
+                  "lng" : -0.1337785
+               },
+               "southwest" : {
+                  "lat" : 51.0867581,
+                  "lng" : -0.2322959
+               }
+            },
+            "location" : {
+               "lat" : 51.1091401,
+               "lng" : -0.1872275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1527353,
+                  "lng" : -0.1337785
+               },
+               "southwest" : {
+                  "lat" : 51.0867581,
+                  "lng" : -0.2322959
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winchester",
+               "short_name" : "Winchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO21",
+               "short_name" : "SO21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crawley, Winchester, Hampshire SO21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.110822,
+               "lng" : -1.390156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1121709802915,
+                  "lng" : -1.388807019708498
+               },
+               "southwest" : {
+                  "lat" : 51.1094730197085,
+                  "lng" : -1.391504980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Witney",
+               "short_name" : "Witney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX29",
+               "short_name" : "OX29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crawley, Witney, Oxfordshire OX29, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.80510599999999,
+               "lng" : -1.5063359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8064549802915,
+                  "lng" : -1.504986919708498
+               },
+               "southwest" : {
+                  "lat" : 51.8037570197085,
+                  "lng" : -1.507684880291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honiton",
+               "short_name" : "Honiton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX14",
+               "short_name" : "EX14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crawley, Honiton, Devon EX14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8672449,
+               "lng" : -3.05098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.86859388029149,
+                  "lng" : -3.049631019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8658959197085,
+                  "lng" : -3.052328980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

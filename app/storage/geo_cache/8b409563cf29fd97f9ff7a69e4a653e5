@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downpatrick",
+               "short_name" : "Downpatrick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Downpatrick",
+               "short_name" : "Downpatrick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT30",
+               "short_name" : "BT30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Downpatrick, Downpatrick, Down BT30, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.32882,
+               "lng" : -5.71573
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3353261,
+                  "lng" : -5.699722599999999
+               },
+               "southwest" : {
+                  "lat" : 54.3223129,
+                  "lng" : -5.7317374
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

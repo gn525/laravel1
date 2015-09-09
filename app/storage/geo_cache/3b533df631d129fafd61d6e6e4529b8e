@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prescot",
+               "short_name" : "Prescot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prescot, Merseyside, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.44064849999999,
+                  "lng" : -2.7763918
+               },
+               "southwest" : {
+                  "lat" : 53.4157293,
+                  "lng" : -2.8350336
+               }
+            },
+            "location" : {
+               "lat" : 53.428674,
+               "lng" : -2.804564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.44064849999999,
+                  "lng" : -2.7763918
+               },
+               "southwest" : {
+                  "lat" : 53.4157293,
+                  "lng" : -2.8350336
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

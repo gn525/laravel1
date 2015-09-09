@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avon",
+               "short_name" : "Avon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chippenham",
+               "short_name" : "Chippenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN15",
+               "short_name" : "SN15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avon, Chippenham, Wiltshire SN15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.490391,
+               "lng" : -2.060668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4973379,
+                  "lng" : -2.0446606
+               },
+               "southwest" : {
+                  "lat" : 51.483443,
+                  "lng" : -2.0766754
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

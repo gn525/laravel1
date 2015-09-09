@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sheerwater",
+               "short_name" : "Sheerwater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Woking",
+               "short_name" : "Woking",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU21",
+               "short_name" : "GU21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sheerwater, Woking, Surrey GU21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.33546,
+               "lng" : -0.5312749999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3424305,
+                  "lng" : -0.5152675999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3284884,
+                  "lng" : -0.5472823999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

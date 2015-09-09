@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Draperstown",
+               "short_name" : "Draperstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Magherafelt",
+               "short_name" : "Magherafelt",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Magherafelt",
+               "short_name" : "Magherafelt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT45",
+               "short_name" : "BT45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Draperstown, Magherafelt, Magherafelt BT45, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.79114999999999,
+               "lng" : -6.78992
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7975827,
+                  "lng" : -6.7739126
+               },
+               "southwest" : {
+                  "lat" : 54.7847163,
+                  "lng" : -6.8059274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Earlstrees Industrial Estate",
+               "short_name" : "Earlstrees Industrial Estate",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Corby",
+               "short_name" : "Corby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corby",
+               "short_name" : "Corby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN17",
+               "short_name" : "NN17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Earlstrees Industrial Estate, Corby, Corby, Northamptonshire NN17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5089218,
+               "lng" : -0.6942892000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5157125,
+                  "lng" : -0.6782817999999999
+               },
+               "southwest" : {
+                  "lat" : 52.5021301,
+                  "lng" : -0.7102965999999999
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

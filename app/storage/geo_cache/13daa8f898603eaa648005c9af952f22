@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chalgrove",
+               "short_name" : "Chalgrove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX44",
+               "short_name" : "OX44",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chalgrove, Oxford, Oxfordshire OX44, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6723272,
+                  "lng" : -1.0710921
+               },
+               "southwest" : {
+                  "lat" : 51.6605796,
+                  "lng" : -1.0925604
+               }
+            },
+            "location" : {
+               "lat" : 51.666818,
+               "lng" : -1.078599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6723272,
+                  "lng" : -1.0710921
+               },
+               "southwest" : {
+                  "lat" : 51.6605796,
+                  "lng" : -1.0925604
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

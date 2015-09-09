@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borden",
+               "short_name" : "Borden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sittingbourne",
+               "short_name" : "Sittingbourne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME9",
+               "short_name" : "ME9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Borden, Sittingbourne, Kent ME9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3393525,
+                  "lng" : 0.7146941
+               },
+               "southwest" : {
+                  "lat" : 51.3232089,
+                  "lng" : 0.6955751
+               }
+            },
+            "location" : {
+               "lat" : 51.334312,
+               "lng" : 0.700427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3393525,
+                  "lng" : 0.7146941
+               },
+               "southwest" : {
+                  "lat" : 51.3232089,
+                  "lng" : 0.6955751
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borden",
+               "short_name" : "Borden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liphook",
+               "short_name" : "Liphook",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU30",
+               "short_name" : "GU30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Borden, Liphook, West Sussex GU30, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0165652,
+               "lng" : -0.8199919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.01791418029149,
+                  "lng" : -0.818642919708498
+               },
+               "southwest" : {
+                  "lat" : 51.0152162197085,
+                  "lng" : -0.8213408802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

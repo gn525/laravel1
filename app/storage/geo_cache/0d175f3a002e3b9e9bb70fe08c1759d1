@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hatfield Broad Oak",
+               "short_name" : "Hatfield Broad Oak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bishop's Stortford",
+               "short_name" : "Bishop's Stortford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM22",
+               "short_name" : "CM22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hatfield Broad Oak, Bishop's Stortford, Essex CM22, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.82765200000001,
+               "lng" : 0.246052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8345474,
+                  "lng" : 0.2620594
+               },
+               "southwest" : {
+                  "lat" : 51.8207555,
+                  "lng" : 0.2300446
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

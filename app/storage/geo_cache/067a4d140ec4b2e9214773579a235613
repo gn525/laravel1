@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cameron",
+               "short_name" : "Cameron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Andrews",
+               "short_name" : "Saint Andrews",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY16",
+               "short_name" : "KY16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cameron, Saint Andrews, Fife KY16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.295502,
+               "lng" : -2.8529049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3078833,
+                  "lng" : -2.8208901
+               },
+               "southwest" : {
+                  "lat" : 56.28311660000001,
+                  "lng" : -2.8849197
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

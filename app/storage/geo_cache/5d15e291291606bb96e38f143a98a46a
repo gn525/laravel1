@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penicuik",
+               "short_name" : "Penicuik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penicuik",
+               "short_name" : "Penicuik",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH26",
+               "short_name" : "EH26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Penicuik, Penicuik, Midlothian EH26, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8540024,
+                  "lng" : -3.1929311
+               },
+               "southwest" : {
+                  "lat" : 55.8208662,
+                  "lng" : -3.249597
+               }
+            },
+            "location" : {
+               "lat" : 55.830932,
+               "lng" : -3.224533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8540024,
+                  "lng" : -3.1929311
+               },
+               "southwest" : {
+                  "lat" : 55.8208662,
+                  "lng" : -3.249597
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

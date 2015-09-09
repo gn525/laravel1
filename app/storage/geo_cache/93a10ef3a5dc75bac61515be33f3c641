@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dragonville",
+               "short_name" : "Dragonville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DH1",
+               "short_name" : "DH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dragonville, Durham, Durham, County Durham DH1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.78246,
+               "lng" : -1.536758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7888941,
+                  "lng" : -1.5207506
+               },
+               "southwest" : {
+                  "lat" : 54.7760249,
+                  "lng" : -1.5527654
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elephant and Castle",
+               "short_name" : "Elephant and Castle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE1 6TB",
+               "short_name" : "SE1 6TB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elephant and Castle, London SE1 6TB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4948197,
+                  "lng" : -0.0996662
+               },
+               "southwest" : {
+                  "lat" : 51.4927569,
+                  "lng" : -0.1015977
+               }
+            },
+            "location" : {
+               "lat" : 51.4936821,
+               "lng" : -0.1007288
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4951372802915,
+                  "lng" : -0.09928296970849797
+               },
+               "southwest" : {
+                  "lat" : 51.4924393197085,
+                  "lng" : -0.101980930291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B28",
+               "short_name" : "B28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Midlands B28, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4445822,
+                  "lng" : -1.8196861
+               },
+               "southwest" : {
+                  "lat" : 52.40852109999999,
+                  "lng" : -1.8593107
+               }
+            },
+            "location" : {
+               "lat" : 52.4268529,
+               "lng" : -1.8454991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4445822,
+                  "lng" : -1.8196861
+               },
+               "southwest" : {
+                  "lat" : 52.40852109999999,
+                  "lng" : -1.8593107
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

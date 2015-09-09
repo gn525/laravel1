@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redhill",
+               "short_name" : "Redhill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redhill, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.25586449999999,
+                  "lng" : -0.1479965
+               },
+               "southwest" : {
+                  "lat" : 51.2057294,
+                  "lng" : -0.1932917
+               }
+            },
+            "location" : {
+               "lat" : 51.239208,
+               "lng" : -0.16988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.25586449999999,
+                  "lng" : -0.1479965
+               },
+               "southwest" : {
+                  "lat" : 51.2057294,
+                  "lng" : -0.1932917
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

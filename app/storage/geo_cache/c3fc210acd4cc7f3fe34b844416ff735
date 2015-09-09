@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clacton-on-Sea",
+               "short_name" : "Clacton-on-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clacton-on-Sea, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8215789,
+                  "lng" : 1.1830592
+               },
+               "southwest" : {
+                  "lat" : 51.77599050000001,
+                  "lng" : 1.0973897
+               }
+            },
+            "location" : {
+               "lat" : 51.789534,
+               "lng" : 1.153035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8215789,
+                  "lng" : 1.1830592
+               },
+               "southwest" : {
+                  "lat" : 51.77599050000001,
+                  "lng" : 1.0973897
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

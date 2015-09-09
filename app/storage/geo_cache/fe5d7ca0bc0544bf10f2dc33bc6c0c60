@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MK40",
+               "short_name" : "MK40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedford, Bedford MK40, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1516477,
+                  "lng" : -0.4437241
+               },
+               "southwest" : {
+                  "lat" : 52.1182064,
+                  "lng" : -0.5261325
+               }
+            },
+            "location" : {
+               "lat" : 52.1424044,
+               "lng" : -0.5004216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1516477,
+                  "lng" : -0.4437241
+               },
+               "southwest" : {
+                  "lat" : 52.1182064,
+                  "lng" : -0.5261325
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK40",
+               "short_name" : "MK40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bedford, Bedford, Bedford, Bedford MK40, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1361978,
+               "lng" : -0.4794208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.13754678029149,
+                  "lng" : -0.478071819708498
+               },
+               "southwest" : {
+                  "lat" : 52.13484881970849,
+                  "lng" : -0.4807697802915021
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

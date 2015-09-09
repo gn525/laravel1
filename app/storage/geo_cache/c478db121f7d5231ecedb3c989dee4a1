@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Robertsbridge",
+               "short_name" : "Robertsbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Robertsbridge, East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0248003,
+                  "lng" : 0.5259733999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9661471,
+                  "lng" : 0.4410741
+               }
+            },
+            "location" : {
+               "lat" : 50.985538,
+               "lng" : 0.4729209999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0248003,
+                  "lng" : 0.5259733999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9661471,
+                  "lng" : 0.4410741
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

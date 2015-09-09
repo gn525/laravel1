@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MK2",
+               "short_name" : "MK2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milton Keynes MK2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0114622,
+                  "lng" : -0.7074252999999999
+               },
+               "southwest" : {
+                  "lat" : 51.9726338,
+                  "lng" : -0.7369108999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.99282590000001,
+               "lng" : -0.7272976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.00077820000001,
+                  "lng" : -0.7074252999999999
+               },
+               "southwest" : {
+                  "lat" : 51.9726338,
+                  "lng" : -0.7369108999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

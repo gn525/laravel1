@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kinloss",
+               "short_name" : "Kinloss",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forres",
+               "short_name" : "Forres",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Moray",
+               "short_name" : "Moray",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IV36",
+               "short_name" : "IV36",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kinloss, Forres, Moray IV36, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.64576119999999,
+                  "lng" : -3.5344691
+               },
+               "southwest" : {
+                  "lat" : 57.6297057,
+                  "lng" : -3.5787006
+               }
+            },
+            "location" : {
+               "lat" : 57.636228,
+               "lng" : -3.563316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.64576119999999,
+                  "lng" : -3.5344691
+               },
+               "southwest" : {
+                  "lat" : 57.6297057,
+                  "lng" : -3.5787006
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

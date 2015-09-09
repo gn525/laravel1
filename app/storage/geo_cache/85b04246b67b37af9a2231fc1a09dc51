@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coggeshall",
+               "short_name" : "Coggeshall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO6",
+               "short_name" : "CO6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Coggeshall, Colchester, Essex CO6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8909505,
+                  "lng" : 0.717424
+               },
+               "southwest" : {
+                  "lat" : 51.8554773,
+                  "lng" : 0.6667649999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.870799,
+               "lng" : 0.692681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8909505,
+                  "lng" : 0.717424
+               },
+               "southwest" : {
+                  "lat" : 51.8554773,
+                  "lng" : 0.6667649999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

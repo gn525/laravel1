@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG2",
+               "short_name" : "NG2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham NG2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9567409,
+                  "lng" : -1.0873149
+               },
+               "southwest" : {
+                  "lat" : 52.9076213,
+                  "lng" : -1.172579
+               }
+            },
+            "location" : {
+               "lat" : 52.9277802,
+               "lng" : -1.1294491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9567409,
+                  "lng" : -1.0873149
+               },
+               "southwest" : {
+                  "lat" : 52.9076213,
+                  "lng" : -1.172579
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Notts",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG2",
+               "short_name" : "NG2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nottingham, Nottingham, Nottingham, Nottinghamshire NG2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.94709,
+               "lng" : -1.14638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.94843898029149,
+                  "lng" : -1.145031019708498
+               },
+               "southwest" : {
+                  "lat" : 52.9457410197085,
+                  "lng" : -1.147728980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

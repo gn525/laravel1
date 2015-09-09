@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Ayrshire",
+               "short_name" : "South Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6018707,
+                  "lng" : -4.3988596
+               },
+               "southwest" : {
+                  "lat" : 54.9976536,
+                  "lng" : -5.1242332
+               }
+            },
+            "location" : {
+               "lat" : 55.2701113,
+               "lng" : -4.6524183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6018707,
+                  "lng" : -4.3988596
+               },
+               "southwest" : {
+                  "lat" : 54.9976536,
+                  "lng" : -5.1242332
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

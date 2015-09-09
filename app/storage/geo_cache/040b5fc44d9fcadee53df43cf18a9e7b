@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TS3",
+               "short_name" : "TS3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "TS3, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5835315,
+                  "lng" : -1.1701125
+               },
+               "southwest" : {
+                  "lat" : 54.5436567,
+                  "lng" : -1.2463312
+               }
+            },
+            "location" : {
+               "lat" : 54.5651915,
+               "lng" : -1.1992255
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5835315,
+                  "lng" : -1.1701125
+               },
+               "southwest" : {
+                  "lat" : 54.5436567,
+                  "lng" : -1.2250872
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishop Auckland",
+               "short_name" : "Bishop Auckland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bishop Auckland",
+               "short_name" : "Bishop Auckland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bishop Auckland, Bishop Auckland, County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6694364,
+                  "lng" : -1.6373502
+               },
+               "southwest" : {
+                  "lat" : 54.6357216,
+                  "lng" : -1.7141688
+               }
+            },
+            "location" : {
+               "lat" : 54.663822,
+               "lng" : -1.678788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6694364,
+                  "lng" : -1.6373502
+               },
+               "southwest" : {
+                  "lat" : 54.6357216,
+                  "lng" : -1.7141688
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

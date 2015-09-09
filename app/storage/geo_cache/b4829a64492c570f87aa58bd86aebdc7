@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chase Terrace",
+               "short_name" : "Chase Terrace",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Burntwood",
+               "short_name" : "Burntwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burntwood",
+               "short_name" : "Burntwood",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WS7",
+               "short_name" : "WS7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chase Terrace, Burntwood, Burntwood, Staffordshire WS7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6857169,
+               "lng" : -1.933293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6924802,
+                  "lng" : -1.9172856
+               },
+               "southwest" : {
+                  "lat" : 52.6789526,
+                  "lng" : -1.9493004
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

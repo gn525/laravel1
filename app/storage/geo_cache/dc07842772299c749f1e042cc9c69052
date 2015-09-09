@@ -1,0 +1,247 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadley",
+               "short_name" : "Hadley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telford",
+               "short_name" : "Telford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hadley, Telford, Telford and Wrekin, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7099177,
+                  "lng" : -2.4634769
+               },
+               "southwest" : {
+                  "lat" : 52.6992841,
+                  "lng" : -2.5041535
+               }
+            },
+            "location" : {
+               "lat" : 52.703407,
+               "lng" : -2.483698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7099177,
+                  "lng" : -2.4634769
+               },
+               "southwest" : {
+                  "lat" : 52.6992841,
+                  "lng" : -2.5041535
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadley",
+               "short_name" : "Hadley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Droitwich",
+               "short_name" : "Droitwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR9",
+               "short_name" : "WR9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hadley, Droitwich, Worcestershire WR9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.274492,
+               "lng" : -2.205467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.27584098029149,
+                  "lng" : -2.204118019708498
+               },
+               "southwest" : {
+                  "lat" : 52.27314301970849,
+                  "lng" : -2.206815980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadley",
+               "short_name" : "Hadley",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hadley",
+               "short_name" : "Hadley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN5",
+               "short_name" : "EN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hadley, Barnet, Barnet, Greater London EN5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.65922279999999,
+                  "lng" : -0.1963377
+               },
+               "southwest" : {
+                  "lat" : 51.6548804,
+                  "lng" : -0.2020936
+               }
+            },
+            "location" : {
+               "lat" : 51.6575723,
+               "lng" : -0.200109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.65922279999999,
+                  "lng" : -0.1963377
+               },
+               "southwest" : {
+                  "lat" : 51.6548804,
+                  "lng" : -0.2020936
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadley",
+               "short_name" : "Hadley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN5",
+               "short_name" : "EN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hadley, Barnet, Barnet, Greater London EN5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6610159,
+               "lng" : -0.200024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6623648802915,
+                  "lng" : -0.198675019708498
+               },
+               "southwest" : {
+                  "lat" : 51.6596669197085,
+                  "lng" : -0.201372980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

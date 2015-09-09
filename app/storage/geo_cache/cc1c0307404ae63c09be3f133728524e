@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gourock",
+               "short_name" : "Gourock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inverclyde",
+               "short_name" : "Inverclyde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gourock, Inverclyde, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9630022,
+                  "lng" : -4.7978782
+               },
+               "southwest" : {
+                  "lat" : 55.9379398,
+                  "lng" : -4.8714657
+               }
+            },
+            "location" : {
+               "lat" : 55.9591984,
+               "lng" : -4.8168799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9630022,
+                  "lng" : -4.7978782
+               },
+               "southwest" : {
+                  "lat" : 55.9379398,
+                  "lng" : -4.8714657
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

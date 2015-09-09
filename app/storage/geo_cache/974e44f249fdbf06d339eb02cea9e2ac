@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stapleford Abbotts",
+               "short_name" : "Stapleford Abbotts",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romford",
+               "short_name" : "Romford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RM4",
+               "short_name" : "RM4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stapleford Abbotts, Romford, Essex RM4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.640657,
+               "lng" : 0.165444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.647581,
+                  "lng" : 0.1814514
+               },
+               "southwest" : {
+                  "lat" : 51.6337319,
+                  "lng" : 0.1494366
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

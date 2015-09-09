@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Italy Street",
+               "short_name" : "Italy St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS2",
+               "short_name" : "TS2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Italy Street, Middlesbrough, Middlesbrough TS2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.581108,
+                  "lng" : -1.241225
+               },
+               "southwest" : {
+                  "lat" : 54.5799917,
+                  "lng" : -1.242541
+               }
+            },
+            "location" : {
+               "lat" : 54.5799917,
+               "lng" : -1.2422975
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5818988302915,
+                  "lng" : -1.240534019708498
+               },
+               "southwest" : {
+                  "lat" : 54.57920086970851,
+                  "lng" : -1.243231980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Consulate of Italy",
+               "short_name" : "Consulate of Italy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rodwell Tower",
+               "short_name" : "Rodwell Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piccadilly",
+               "short_name" : "Piccadilly",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M1 2HY",
+               "short_name" : "M1 2HY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rodwell Tower, Consulate of Italy, 111 Piccadilly, Manchester, Manchester M1 2HY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4794923,
+               "lng" : -2.2329584
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.48084128029149,
+                  "lng" : -2.231609419708498
+               },
+               "southwest" : {
+                  "lat" : 53.47814331970849,
+                  "lng" : -2.234307380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

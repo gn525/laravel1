@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RM1",
+               "short_name" : "RM1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London RM1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6112136,
+                  "lng" : 0.2052359
+               },
+               "southwest" : {
+                  "lat" : 51.5654943,
+                  "lng" : 0.1690015
+               }
+            },
+            "location" : {
+               "lat" : 51.5911329,
+               "lng" : 0.1797061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6112136,
+                  "lng" : 0.2052359
+               },
+               "southwest" : {
+                  "lat" : 51.5654943,
+                  "lng" : 0.1690015
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

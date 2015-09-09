@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chalfont St Peter",
+               "short_name" : "Chalfont St Peter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chalfont St Peter, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6429037,
+                  "lng" : -0.5225223
+               },
+               "southwest" : {
+                  "lat" : 51.5893866,
+                  "lng" : -0.612804
+               }
+            },
+            "location" : {
+               "lat" : 51.6123242,
+               "lng" : -0.5561674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6429037,
+                  "lng" : -0.5225223
+               },
+               "southwest" : {
+                  "lat" : 51.5893866,
+                  "lng" : -0.612804
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

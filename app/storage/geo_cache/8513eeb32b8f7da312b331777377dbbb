@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perthshire Grove",
+               "short_name" : "Perthshire Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Buckshaw Village",
+               "short_name" : "Buckshaw Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chorley",
+               "short_name" : "Chorley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR7 7AE",
+               "short_name" : "PR7 7AE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Perthshire Grove, Buckshaw Village, Chorley, Lancashire PR7 7AE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.683702,
+                  "lng" : -2.6582491
+               },
+               "southwest" : {
+                  "lat" : 53.683348,
+                  "lng" : -2.6604575
+               }
+            },
+            "location" : {
+               "lat" : 53.68358449999999,
+               "lng" : -2.6593997
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.68487398029149,
+                  "lng" : -2.658004319708498
+               },
+               "southwest" : {
+                  "lat" : 53.68217601970849,
+                  "lng" : -2.660702280291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perthshire Visitor Centre",
+               "short_name" : "Perthshire Visitor Centre",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bankfoot",
+               "short_name" : "Bankfoot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Perthshire",
+               "short_name" : "Perthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH1 4EB",
+               "short_name" : "PH1 4EB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Perthshire Visitor Centre, Bankfoot, Perthshire PH1 4EB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.4920513,
+               "lng" : -3.5070741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4934002802915,
+                  "lng" : -3.505725119708498
+               },
+               "southwest" : {
+                  "lat" : 56.4907023197085,
+                  "lng" : -3.508423080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

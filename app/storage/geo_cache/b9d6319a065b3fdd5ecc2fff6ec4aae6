@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "AL9",
+               "short_name" : "AL9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hertfordshire AL9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7872303,
+                  "lng" : -0.138566
+               },
+               "southwest" : {
+                  "lat" : 51.7103385,
+                  "lng" : -0.2611337
+               }
+            },
+            "location" : {
+               "lat" : 51.735974,
+               "lng" : -0.2014148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7872303,
+                  "lng" : -0.138566
+               },
+               "southwest" : {
+                  "lat" : 51.7103385,
+                  "lng" : -0.2611337
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

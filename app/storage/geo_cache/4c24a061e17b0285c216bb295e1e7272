@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Wick",
+               "short_name" : "West Wick",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Weston-super-Mare",
+               "short_name" : "Weston-super-Mare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weston-super-Mare",
+               "short_name" : "Weston-super-Mare",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS24",
+               "short_name" : "BS24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Wick, Weston-super-Mare, Weston-super-Mare, North Somerset BS24, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3504829,
+               "lng" : -2.91264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3574511,
+                  "lng" : -2.8966326
+               },
+               "southwest" : {
+                  "lat" : 51.34351359999999,
+                  "lng" : -2.9286474
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

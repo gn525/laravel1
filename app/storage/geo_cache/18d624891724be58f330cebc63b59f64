@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bardon Hill",
+               "short_name" : "Bardon Hill",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Coalville",
+               "short_name" : "Coalville",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE67",
+               "short_name" : "LE67",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bardon Hill, Coalville, Leicestershire LE67, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7144722,
+               "lng" : -1.3206111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.721231,
+                  "lng" : -1.3046037
+               },
+               "southwest" : {
+                  "lat" : 52.7077123,
+                  "lng" : -1.3366185
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

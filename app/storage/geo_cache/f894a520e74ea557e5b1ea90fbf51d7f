@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elm Farm Industrial Estate",
+               "short_name" : "Elm Farm Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK41",
+               "short_name" : "MK41",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elm Farm Industrial Estate, Bedford, Bedford MK41, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1493815,
+               "lng" : -0.4183446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1562276,
+                  "lng" : -0.4023372
+               },
+               "southwest" : {
+                  "lat" : 52.1425344,
+                  "lng" : -0.434352
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

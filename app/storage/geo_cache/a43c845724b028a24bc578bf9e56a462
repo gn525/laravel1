@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berkhamsted",
+               "short_name" : "Berkhamsted",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berkhamsted, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7764281,
+                  "lng" : -0.5413139
+               },
+               "southwest" : {
+                  "lat" : 51.74930639999999,
+                  "lng" : -0.6099044000000001
+               }
+            },
+            "location" : {
+               "lat" : 51.75976600000001,
+               "lng" : -0.5678569000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7764281,
+                  "lng" : -0.5413139
+               },
+               "southwest" : {
+                  "lat" : 51.74930639999999,
+                  "lng" : -0.6099044000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

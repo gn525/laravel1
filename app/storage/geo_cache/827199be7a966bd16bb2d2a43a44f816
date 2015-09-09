@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Petherton",
+               "short_name" : "South Petherton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Petherton",
+               "short_name" : "South Petherton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA13",
+               "short_name" : "TA13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Petherton, South Petherton, Somerset TA13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9547569,
+                  "lng" : -2.7974994
+               },
+               "southwest" : {
+                  "lat" : 50.9409343,
+                  "lng" : -2.8202011
+               }
+            },
+            "location" : {
+               "lat" : 50.948076,
+               "lng" : -2.810525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9547569,
+                  "lng" : -2.7974994
+               },
+               "southwest" : {
+                  "lat" : 50.9409343,
+                  "lng" : -2.8202011
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

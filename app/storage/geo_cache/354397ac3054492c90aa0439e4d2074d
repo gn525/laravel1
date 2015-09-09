@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Outer Hebrides",
+               "short_name" : "Outer Hebrides",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Na h-Eileanan an Iar",
+               "short_name" : "W Isls",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HS5",
+               "short_name" : "HS5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Outer Hebrides, Na h-Eileanan an Iar HS5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.76,
+               "lng" : -7.02
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.7659519,
+                  "lng" : -7.0039926
+               },
+               "southwest" : {
+                  "lat" : 57.75404709999999,
+                  "lng" : -7.0360074
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

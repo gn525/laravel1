@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barking",
+               "short_name" : "Barking",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barking, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5513823,
+                  "lng" : 0.146728
+               },
+               "southwest" : {
+                  "lat" : 51.5138903,
+                  "lng" : 0.0666489
+               }
+            },
+            "location" : {
+               "lat" : 51.536563,
+               "lng" : 0.075766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5513823,
+                  "lng" : 0.146728
+               },
+               "southwest" : {
+                  "lat" : 51.5138903,
+                  "lng" : 0.0666489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

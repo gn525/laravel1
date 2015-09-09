@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sedbergh",
+               "short_name" : "Sedbergh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sedbergh",
+               "short_name" : "Sedbergh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA10",
+               "short_name" : "LA10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sedbergh, Sedbergh, Cumbria LA10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3275956,
+                  "lng" : -2.512101
+               },
+               "southwest" : {
+                  "lat" : 54.3158044,
+                  "lng" : -2.5493806
+               }
+            },
+            "location" : {
+               "lat" : 54.323629,
+               "lng" : -2.528174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3275956,
+                  "lng" : -2.512101
+               },
+               "southwest" : {
+                  "lat" : 54.3158044,
+                  "lng" : -2.5493806
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

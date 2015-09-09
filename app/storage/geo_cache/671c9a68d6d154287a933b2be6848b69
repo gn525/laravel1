@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lavington Park",
+               "short_name" : "Lavington Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Petworth",
+               "short_name" : "Petworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU28",
+               "short_name" : "GU28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lavington Park, South Downs National Park, Petworth, West Sussex GU28, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.941713,
+                  "lng" : -0.6489633
+               },
+               "southwest" : {
+                  "lat" : 50.93804369999999,
+                  "lng" : -0.6575991
+               }
+            },
+            "location" : {
+               "lat" : 50.9399872,
+               "lng" : -0.6532333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.941713,
+                  "lng" : -0.6489633
+               },
+               "southwest" : {
+                  "lat" : 50.93804369999999,
+                  "lng" : -0.6575991
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

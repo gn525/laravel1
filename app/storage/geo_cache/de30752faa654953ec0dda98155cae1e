@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawkfield Business Park",
+               "short_name" : "Hawkfield Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS14 0BL",
+               "short_name" : "BS14 0BL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hawkfield Business Park, Bristol, City of Bristol BS14 0BL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4115364,
+               "lng" : -2.5943825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4128853802915,
+                  "lng" : -2.593033519708499
+               },
+               "southwest" : {
+                  "lat" : 51.4101874197085,
+                  "lng" : -2.595731480291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,91 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT5",
+               "short_name" : "DT5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Portland, Portland, Dorset DT5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.567189,
+               "lng" : -2.446035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5742757,
+                  "lng" : -2.4300276
+               },
+               "southwest" : {
+                  "lat" : 50.5601012,
+                  "lng" : -2.4620424
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Portland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5729687,
+                  "lng" : -2.4157035
+               },
+               "southwest" : {
+                  "lat" : 50.51306700000001,
+                  "lng" : -2.4634736
+               }
+            },
+            "location" : {
+               "lat" : 50.5451354,
+               "lng" : -2.4394673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5729687,
+                  "lng" : -2.4157035
+               },
+               "southwest" : {
+                  "lat" : 50.51306700000001,
+                  "lng" : -2.4634736
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

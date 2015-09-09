@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dudley",
+               "short_name" : "Dudley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dudley, West Midlands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5581732,
+                  "lng" : -2.0571865
+               },
+               "southwest" : {
+                  "lat" : 52.4735445,
+                  "lng" : -2.1567844
+               }
+            },
+            "location" : {
+               "lat" : 52.512255,
+               "lng" : -2.081112
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5581732,
+                  "lng" : -2.0571865
+               },
+               "southwest" : {
+                  "lat" : 52.4735445,
+                  "lng" : -2.1567844
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dudley",
+               "short_name" : "Dudley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cramlington",
+               "short_name" : "Cramlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE23",
+               "short_name" : "NE23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dudley, Cramlington, Tyne and Wear NE23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.06436859999999,
+                  "lng" : -1.578085
+               },
+               "southwest" : {
+                  "lat" : 55.0483735,
+                  "lng" : -1.6034117
+               }
+            },
+            "location" : {
+               "lat" : 55.059829,
+               "lng" : -1.592415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.06436859999999,
+                  "lng" : -1.578085
+               },
+               "southwest" : {
+                  "lat" : 55.0483735,
+                  "lng" : -1.6034117
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

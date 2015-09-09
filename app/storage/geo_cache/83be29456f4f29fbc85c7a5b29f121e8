@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Polegate",
+               "short_name" : "Polegate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Polegate, East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8421218,
+                  "lng" : 0.2760252
+               },
+               "southwest" : {
+                  "lat" : 50.8069011,
+                  "lng" : 0.2243024
+               }
+            },
+            "location" : {
+               "lat" : 50.824012,
+               "lng" : 0.243813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8421218,
+                  "lng" : 0.2760252
+               },
+               "southwest" : {
+                  "lat" : 50.8069011,
+                  "lng" : 0.2243024
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

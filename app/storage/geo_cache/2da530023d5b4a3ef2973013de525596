@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tubney Wood",
+               "short_name" : "Tubney Wood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX13",
+               "short_name" : "OX13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tubney Wood, Abingdon, Oxfordshire OX13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6972219,
+               "lng" : -1.357324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7041373,
+                  "lng" : -1.3413166
+               },
+               "southwest" : {
+                  "lat" : 51.6903055,
+                  "lng" : -1.3733314
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

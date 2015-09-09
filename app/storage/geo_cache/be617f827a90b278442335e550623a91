@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tickhill",
+               "short_name" : "Tickhill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tickhill, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.46819559999999,
+                  "lng" : -1.052011
+               },
+               "southwest" : {
+                  "lat" : 53.4057556,
+                  "lng" : -1.1517274
+               }
+            },
+            "location" : {
+               "lat" : 53.4329349,
+               "lng" : -1.1093635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.46819559999999,
+                  "lng" : -1.052011
+               },
+               "southwest" : {
+                  "lat" : 53.4057556,
+                  "lng" : -1.1517274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

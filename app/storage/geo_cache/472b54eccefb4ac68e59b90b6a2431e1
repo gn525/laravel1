@@ -1,0 +1,367 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gloucester Business Park",
+               "short_name" : "Gloucester Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Gloucester Business Park",
+               "short_name" : "Gloucester Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bamel Way",
+               "short_name" : "Bamel Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brockworth",
+               "short_name" : "Brockworth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL3 4BH",
+               "short_name" : "GL3 4BH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gloucester Business Park, Gloucester Business Park, 8 Bamel Way, Gloucester, Gloucester GL3 4BH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.84118309999999,
+               "lng" : -2.1648541
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.84253208029149,
+                  "lng" : -2.163505119708498
+               },
+               "southwest" : {
+                  "lat" : 51.83983411970849,
+                  "lng" : -2.166203080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gloucester Business Park Roundabout",
+               "short_name" : "Gloucester Business Park Roundabout",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brockworth",
+               "short_name" : "Brockworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL3 4FE",
+               "short_name" : "GL3 4FE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gloucester Business Park Roundabout, Brockworth, Gloucester, Gloucestershire GL3 4FE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8478721,
+                  "lng" : -2.1743266
+               },
+               "southwest" : {
+                  "lat" : 51.8473294,
+                  "lng" : -2.175201
+               }
+            },
+            "location" : {
+               "lat" : 51.8477921,
+               "lng" : -2.175069
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8489497302915,
+                  "lng" : -2.173414819708498
+               },
+               "southwest" : {
+                  "lat" : 51.8462517697085,
+                  "lng" : -2.176112780291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Business Park",
+               "short_name" : "Business Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL2 5JQ",
+               "short_name" : "GL2 5JQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Business Park, Llanthony Road, Gloucester, Gloucester GL2 5JQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8629592,
+                  "lng" : -2.250848
+               },
+               "southwest" : {
+                  "lat" : 51.8593713,
+                  "lng" : -2.2596675
+               }
+            },
+            "location" : {
+               "lat" : 51.8617662,
+               "lng" : -2.2543757
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8629592,
+                  "lng" : -2.250848
+               },
+               "southwest" : {
+                  "lat" : 51.8593713,
+                  "lng" : -2.2596675
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brockworth, Gloucester Business Park",
+               "short_name" : "Brockworth, Gloucester Business Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Brockworth",
+               "short_name" : "Brockworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL3",
+               "short_name" : "GL3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brockworth, Gloucester Business Park, Brockworth, Gloucester, Gloucestershire GL3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.84711799999999,
+               "lng" : -2.175745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8484669802915,
+                  "lng" : -2.174396019708498
+               },
+               "southwest" : {
+                  "lat" : 51.8457690197085,
+                  "lng" : -2.177093980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hucclecote, opp Gloucester Business Park",
+               "short_name" : "Hucclecote, opp Gloucester Business Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL3",
+               "short_name" : "GL3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hucclecote, opp Gloucester Business Park, Gloucester, Gloucestershire GL3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.851074,
+               "lng" : -2.174512
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.85242298029149,
+                  "lng" : -2.173163019708498
+               },
+               "southwest" : {
+                  "lat" : 51.8497250197085,
+                  "lng" : -2.175860980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gloucester Business Park Golf",
+               "short_name" : "Gloucester Business Park Golf",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Golf Club Lane",
+               "short_name" : "Golf Club Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brockworth",
+               "short_name" : "Brockworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL3 4AJ",
+               "short_name" : "GL3 4AJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gloucester Business Park Golf, Golf Club Lane, Brockworth, Gloucester, Gloucestershire GL3 4AJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8455264,
+               "lng" : -2.1705909
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.84687538029149,
+                  "lng" : -2.169241919708498
+               },
+               "southwest" : {
+                  "lat" : 51.8441774197085,
+                  "lng" : -2.171939880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

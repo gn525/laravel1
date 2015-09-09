@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duston",
+               "short_name" : "Duston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN5",
+               "short_name" : "NN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duston, Northampton, Northampton NN5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.24344199999999,
+               "lng" : -0.943371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2502736,
+                  "lng" : -0.9273636
+               },
+               "southwest" : {
+                  "lat" : 52.2366094,
+                  "lng" : -0.9593784000000001
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,333 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southgate",
+               "short_name" : "Southgate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southgate, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.64802359999999,
+                  "lng" : -0.1089622
+               },
+               "southwest" : {
+                  "lat" : 51.6102353,
+                  "lng" : -0.1445173
+               }
+            },
+            "location" : {
+               "lat" : 51.6280495,
+               "lng" : -0.1267762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.64802359999999,
+                  "lng" : -0.1089622
+               },
+               "southwest" : {
+                  "lat" : 51.6102353,
+                  "lng" : -0.1445173
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southgate",
+               "short_name" : "Southgate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southgate, Swansea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6108998,
+                  "lng" : -4.0514694
+               },
+               "southwest" : {
+                  "lat" : 51.5570962,
+                  "lng" : -4.1114198
+               }
+            },
+            "location" : {
+               "lat" : 51.5724655,
+               "lng" : -4.0917658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6108998,
+                  "lng" : -4.0514694
+               },
+               "southwest" : {
+                  "lat" : 51.5570962,
+                  "lng" : -4.1114198
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southgate",
+               "short_name" : "Southgate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberystwyth",
+               "short_name" : "Aberystwyth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ceredigion",
+               "short_name" : "Ceredigion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY23",
+               "short_name" : "SY23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southgate, Aberystwyth, Ceredigion SY23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.40004099999999,
+               "lng" : -4.070873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.40138998029149,
+                  "lng" : -4.069524019708497
+               },
+               "southwest" : {
+                  "lat" : 52.3986920197085,
+                  "lng" : -4.072221980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southgate",
+               "short_name" : "Southgate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King's Lynn",
+               "short_name" : "King's Lynn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE31",
+               "short_name" : "PE31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southgate, King's Lynn, Norfolk PE31, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.87303739999999,
+               "lng" : 0.4980207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8743863802915,
+                  "lng" : 0.499369680291502
+               },
+               "southwest" : {
+                  "lat" : 52.8716884197085,
+                  "lng" : 0.4966717197084979
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southgate",
+               "short_name" : "Southgate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH11",
+               "short_name" : "RH11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southgate, Crawley, Crawley, West Sussex RH11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.106877,
+               "lng" : -0.201876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1082259802915,
+                  "lng" : -0.200527019708498
+               },
+               "southwest" : {
+                  "lat" : 51.1055280197085,
+                  "lng" : -0.203224980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southgate",
+               "short_name" : "Southgate",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HD1",
+               "short_name" : "HD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southgate, Huddersfield, Huddersfield, West Yorkshire HD1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6456609,
+               "lng" : -1.774791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6470098802915,
+                  "lng" : -1.773442019708498
+               },
+               "southwest" : {
+                  "lat" : 53.6443119197085,
+                  "lng" : -1.776139980291502
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

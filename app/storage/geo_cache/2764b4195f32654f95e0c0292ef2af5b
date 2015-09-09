@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Effingham",
+               "short_name" : "Effingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Effingham, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2980755,
+                  "lng" : -0.3888272
+               },
+               "southwest" : {
+                  "lat" : 51.2351615,
+                  "lng" : -0.4234104
+               }
+            },
+            "location" : {
+               "lat" : 51.272383,
+               "lng" : -0.401732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2980755,
+                  "lng" : -0.3888272
+               },
+               "southwest" : {
+                  "lat" : 51.2351615,
+                  "lng" : -0.4234104
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

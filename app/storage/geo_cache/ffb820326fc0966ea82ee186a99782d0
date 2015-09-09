@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Ives",
+               "short_name" : "St. Ives",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Ives",
+               "short_name" : "Saint Ives",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR26",
+               "short_name" : "TR26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St. Ives, Saint Ives, Cornwall TR26, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.2152089,
+               "lng" : -5.4777498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.22234839999999,
+                  "lng" : -5.461742399999999
+               },
+               "southwest" : {
+                  "lat" : 50.2080683,
+                  "lng" : -5.4937572
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

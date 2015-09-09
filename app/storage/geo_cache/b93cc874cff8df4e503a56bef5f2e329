@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staythorpe",
+               "short_name" : "Staythorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG23",
+               "short_name" : "NG23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staythorpe, Newark, Nottinghamshire NG23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.077959,
+               "lng" : -0.8723799999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.08466139999999,
+                  "lng" : -0.8563725999999999
+               },
+               "southwest" : {
+                  "lat" : 53.0712556,
+                  "lng" : -0.8883873999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

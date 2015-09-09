@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Little Hoole",
+               "short_name" : "Little Hoole",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "South Ribble District",
+               "short_name" : "South Ribble District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR4",
+               "short_name" : "PR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Little Hoole, Lancashire PR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7186703,
+                  "lng" : -2.7519853
+               },
+               "southwest" : {
+                  "lat" : 53.70033429999999,
+                  "lng" : -2.8274989
+               }
+            },
+            "location" : {
+               "lat" : 53.7073,
+               "lng" : -2.7862254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7186703,
+                  "lng" : -2.7519853
+               },
+               "southwest" : {
+                  "lat" : 53.70033429999999,
+                  "lng" : -2.8274989
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

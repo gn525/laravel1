@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaerwen",
+               "short_name" : "Gaerwen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gaerwen",
+               "short_name" : "Gaerwen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Isle of Anglesey",
+               "short_name" : "Isle of Anglesey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL60",
+               "short_name" : "LL60",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gaerwen, Gaerwen, Isle of Anglesey LL60, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2265105,
+                  "lng" : -4.2601635
+               },
+               "southwest" : {
+                  "lat" : 53.21303289999999,
+                  "lng" : -4.2866796
+               }
+            },
+            "location" : {
+               "lat" : 53.22199,
+               "lng" : -4.281381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2265105,
+                  "lng" : -4.2601635
+               },
+               "southwest" : {
+                  "lat" : 53.21303289999999,
+                  "lng" : -4.2866796
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

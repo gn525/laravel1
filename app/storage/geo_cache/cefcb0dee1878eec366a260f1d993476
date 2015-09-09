@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crosby",
+               "short_name" : "Crosby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L23",
+               "short_name" : "L23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crosby, Liverpool, Merseyside L23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4884119,
+               "lng" : -3.042863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.49505019999999,
+                  "lng" : -3.0268556
+               },
+               "southwest" : {
+                  "lat" : 53.4817725,
+                  "lng" : -3.0588704
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

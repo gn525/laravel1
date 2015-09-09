@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nailsea",
+               "short_name" : "Nailsea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nailsea, North Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.44258139999999,
+                  "lng" : -2.7382685
+               },
+               "southwest" : {
+                  "lat" : 51.4179013,
+                  "lng" : -2.7870401
+               }
+            },
+            "location" : {
+               "lat" : 51.43175600000001,
+               "lng" : -2.756287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.44258139999999,
+                  "lng" : -2.7382685
+               },
+               "southwest" : {
+                  "lat" : 51.4179013,
+                  "lng" : -2.7870401
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oakengates",
+               "short_name" : "Oakengates",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Saint George's",
+               "short_name" : "St George's",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telford",
+               "short_name" : "Telford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TF2",
+               "short_name" : "TF2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oakengates, Saint George's, Telford, Telford and Wrekin TF2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.696833,
+               "lng" : -2.440785
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7035946,
+                  "lng" : -2.4247776
+               },
+               "southwest" : {
+                  "lat" : 52.6900704,
+                  "lng" : -2.4567924
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oakengates",
+               "short_name" : "Oakengates",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Telford",
+               "short_name" : "Telford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TF2",
+               "short_name" : "TF2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oakengates, Telford, Telford and Wrekin TF2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.69341,
+               "lng" : -2.45019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6947589802915,
+                  "lng" : -2.448841019708498
+               },
+               "southwest" : {
+                  "lat" : 52.6920610197085,
+                  "lng" : -2.451538980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oakengates",
+               "short_name" : "Oakengates",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oakengates, Telford and Wrekin, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7111093,
+                  "lng" : -2.4346797
+               },
+               "southwest" : {
+                  "lat" : 52.68164609999999,
+                  "lng" : -2.4692345
+               }
+            },
+            "location" : {
+               "lat" : 52.6961793,
+               "lng" : -2.4539337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7111093,
+                  "lng" : -2.4346797
+               },
+               "southwest" : {
+                  "lat" : 52.68164609999999,
+                  "lng" : -2.4692345
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CA1",
+               "short_name" : "CA1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Carlisle",
+               "short_name" : "Carlisle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carlisle, Cumbria CA1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9036903,
+                  "lng" : -2.8768064
+               },
+               "southwest" : {
+                  "lat" : 54.863976,
+                  "lng" : -2.946247
+               }
+            },
+            "location" : {
+               "lat" : 54.8879475,
+               "lng" : -2.9066719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9036903,
+                  "lng" : -2.8768064
+               },
+               "southwest" : {
+                  "lat" : 54.863976,
+                  "lng" : -2.946247
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

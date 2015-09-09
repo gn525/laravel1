@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CB1",
+               "short_name" : "CB1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, Cambridgeshire CB1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.213743,
+                  "lng" : 0.2121124
+               },
+               "southwest" : {
+                  "lat" : 52.1702178,
+                  "lng" : 0.1202879
+               }
+            },
+            "location" : {
+               "lat" : 52.18581,
+               "lng" : 0.1624862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.213743,
+                  "lng" : 0.2121124
+               },
+               "southwest" : {
+                  "lat" : 52.1702178,
+                  "lng" : 0.1202879
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB1",
+               "short_name" : "CB1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, Cambridge, Cambridge, Cambridgeshire CB1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1945715,
+               "lng" : 0.1375815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.19592048029149,
+                  "lng" : 0.138930480291502
+               },
+               "southwest" : {
+                  "lat" : 52.1932225197085,
+                  "lng" : 0.136232519708498
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

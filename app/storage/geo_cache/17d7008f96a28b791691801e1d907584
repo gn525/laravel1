@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldershot",
+               "short_name" : "Aldershot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aldershot, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2754071,
+                  "lng" : -0.7304843
+               },
+               "southwest" : {
+                  "lat" : 51.2304577,
+                  "lng" : -0.7868499
+               }
+            },
+            "location" : {
+               "lat" : 51.248366,
+               "lng" : -0.7557509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2754071,
+                  "lng" : -0.7304843
+               },
+               "southwest" : {
+                  "lat" : 51.2304577,
+                  "lng" : -0.7868499
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

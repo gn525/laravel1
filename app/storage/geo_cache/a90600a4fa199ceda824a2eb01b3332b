@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CV1",
+               "short_name" : "CV1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coventry, Coventry, West Midlands CV1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4251996,
+                  "lng" : -1.4859322
+               },
+               "southwest" : {
+                  "lat" : 52.3974753,
+                  "lng" : -1.5304333
+               }
+            },
+            "location" : {
+               "lat" : 52.4103366,
+               "lng" : -1.5063179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4251996,
+                  "lng" : -1.4859322
+               },
+               "southwest" : {
+                  "lat" : 52.3974753,
+                  "lng" : -1.5304333
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV1",
+               "short_name" : "CV1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Coventry, Coventry, Coventry, West Midlands CV1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.40083,
+               "lng" : -1.51345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4021789802915,
+                  "lng" : -1.512101019708498
+               },
+               "southwest" : {
+                  "lat" : 52.3994810197085,
+                  "lng" : -1.514798980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

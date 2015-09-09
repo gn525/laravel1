@@ -1,0 +1,905 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Road",
+               "short_name" : "Turkey Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bexhill",
+               "short_name" : "Bexhill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexhill-on-Sea",
+               "short_name" : "Bexhill-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN39 5HH",
+               "short_name" : "TN39 5HH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Road, Bexhill, Bexhill-on-Sea, East Sussex TN39 5HH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8578315,
+                  "lng" : 0.4677789
+               },
+               "southwest" : {
+                  "lat" : 50.8566189,
+                  "lng" : 0.4360388
+               }
+            },
+            "location" : {
+               "lat" : 50.85723669999999,
+               "lng" : 0.4517256
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8585741802915,
+                  "lng" : 0.4677789
+               },
+               "southwest" : {
+                  "lat" : 50.8558762197085,
+                  "lng" : 0.4360388
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Street",
+               "short_name" : "Turkey Street",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN3",
+               "short_name" : "EN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Street, Enfield, Enfield, Greater London EN3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.67263,
+               "lng" : -0.04719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.67397898029149,
+                  "lng" : -0.04584101970849797
+               },
+               "southwest" : {
+                  "lat" : 51.67128101970849,
+                  "lng" : -0.04853898029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Street",
+               "short_name" : "Turkey St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN3 5TT",
+               "short_name" : "EN3 5TT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Street, Enfield, Enfield, Greater London EN3 5TT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.67475289999999,
+                  "lng" : -0.0407965
+               },
+               "southwest" : {
+                  "lat" : 51.6704875,
+                  "lng" : -0.0597806
+               }
+            },
+            "location" : {
+               "lat" : 51.67271119999999,
+               "lng" : -0.0501118
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.67475289999999,
+                  "lng" : -0.0407965
+               },
+               "southwest" : {
+                  "lat" : 51.6704875,
+                  "lng" : -0.0597806
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Lane",
+               "short_name" : "Turkey Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thirsk",
+               "short_name" : "Thirsk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO7 4SQ",
+               "short_name" : "YO7 4SQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Lane, Thirsk, North Yorkshire YO7 4SQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1945956,
+                  "lng" : -1.4219457
+               },
+               "southwest" : {
+                  "lat" : 54.1934477,
+                  "lng" : -1.4326052
+               }
+            },
+            "location" : {
+               "lat" : 54.19393480000001,
+               "lng" : -1.4273055
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1953706302915,
+                  "lng" : -1.4219457
+               },
+               "southwest" : {
+                  "lat" : 54.1926726697085,
+                  "lng" : -1.4326052
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Street",
+               "short_name" : "Turkey St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Out Rawcliffe",
+               "short_name" : "Out Rawcliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR3 6TA",
+               "short_name" : "PR3 6TA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Street, Out Rawcliffe, Preston, Lancashire PR3 6TA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8763835,
+                  "lng" : -2.9227809
+               },
+               "southwest" : {
+                  "lat" : 53.8669125,
+                  "lng" : -2.9269011
+               }
+            },
+            "location" : {
+               "lat" : 53.8714682,
+               "lng" : -2.9247215
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8763835,
+                  "lng" : -2.9227809
+               },
+               "southwest" : {
+                  "lat" : 53.8669125,
+                  "lng" : -2.9269011
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Lane",
+               "short_name" : "Turkey Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX5 2HE",
+               "short_name" : "EX5 2HE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Lane, Exeter, Devon EX5 2HE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7493895,
+                  "lng" : -3.3533634
+               },
+               "southwest" : {
+                  "lat" : 50.73965159999999,
+                  "lng" : -3.358137
+               }
+            },
+            "location" : {
+               "lat" : 50.7446347,
+               "lng" : -3.355451
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7493895,
+                  "lng" : -3.3533634
+               },
+               "southwest" : {
+                  "lat" : 50.73965159999999,
+                  "lng" : -3.358137
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Cottage",
+               "short_name" : "Turkey Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Old Vicarage Lane",
+               "short_name" : "Old Vicarage Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lutton",
+               "short_name" : "Lutton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spalding",
+               "short_name" : "Spalding",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE12 9LU",
+               "short_name" : "PE12 9LU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Cottage, Old Vicarage Lane, Lutton, Spalding, Lincolnshire PE12 9LU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.80374699999999,
+               "lng" : 0.12239
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.80509598029149,
+                  "lng" : 0.123738980291502
+               },
+               "southwest" : {
+                  "lat" : 52.80239801970849,
+                  "lng" : 0.121041019708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Lane",
+               "short_name" : "Turkey Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Melton Constable",
+               "short_name" : "Melton Constable",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR24",
+               "short_name" : "NR24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Lane, Melton Constable, Norfolk NR24, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8737454,
+                  "lng" : 1.109541
+               },
+               "southwest" : {
+                  "lat" : 52.871754,
+                  "lng" : 1.1077989
+               }
+            },
+            "location" : {
+               "lat" : 52.872735,
+               "lng" : 1.1083702
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8740986802915,
+                  "lng" : 1.110018930291502
+               },
+               "southwest" : {
+                  "lat" : 52.8714007197085,
+                  "lng" : 1.107320969708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Hall House",
+               "short_name" : "Turkey Hall House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Malmaynes Hall Road",
+               "short_name" : "Malmaynes Hall Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Stoke",
+               "short_name" : "Upper Stoke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME3 9SG",
+               "short_name" : "ME3 9SG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Hall House, Malmaynes Hall Road, Upper Stoke, Rochester, Medway ME3 9SG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.44877049999999,
+               "lng" : 0.6022955999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4501194802915,
+                  "lng" : 0.6036445802915019
+               },
+               "southwest" : {
+                  "lat" : 51.4474215197085,
+                  "lng" : 0.6009466197084978
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Street",
+               "short_name" : "Turkey St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Llantwit Major",
+               "short_name" : "Llantwit Major",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llantwit Major",
+               "short_name" : "Llantwit Major",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Vale of Glamorgan",
+               "short_name" : "Vale of Glamorgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF61",
+               "short_name" : "CF61",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Street, Llantwit Major, Llantwit Major, Vale of Glamorgan CF61, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4117048,
+                  "lng" : -3.48615
+               },
+               "southwest" : {
+                  "lat" : 51.4105594,
+                  "lng" : -3.4873575
+               }
+            },
+            "location" : {
+               "lat" : 51.4111392,
+               "lng" : -3.4868246
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4124810802915,
+                  "lng" : -3.485404769708498
+               },
+               "southwest" : {
+                  "lat" : 51.4097831197085,
+                  "lng" : -3.488102730291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Hall",
+               "short_name" : "Turkey Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cratfield",
+               "short_name" : "Cratfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halesworth",
+               "short_name" : "Halesworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP19 0DD",
+               "short_name" : "IP19 0DD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Hall, Cratfield, Halesworth, Suffolk IP19 0DD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3069081,
+               "lng" : 1.3892476
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3082570802915,
+                  "lng" : 1.390596580291502
+               },
+               "southwest" : {
+                  "lat" : 52.30555911970851,
+                  "lng" : 1.387898619708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey House",
+               "short_name" : "Turkey House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Turkey Mill",
+               "short_name" : "Turkey Mill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME14 5PP",
+               "short_name" : "ME14 5PP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey House, Turkey Mill, Maidstone, Kent ME14 5PP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2708903,
+               "lng" : 0.5389516999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2722392802915,
+                  "lng" : 0.540300680291502
+               },
+               "southwest" : {
+                  "lat" : 51.2695413197085,
+                  "lng" : 0.5376027197084979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Hill",
+               "short_name" : "Turkey Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pudsey",
+               "short_name" : "Pudsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pudsey",
+               "short_name" : "Pudsey",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS28 9HE",
+               "short_name" : "LS28 9HE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Hill, Pudsey, West Yorkshire LS28 9HE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7891796,
+                  "lng" : -1.6523841
+               },
+               "southwest" : {
+                  "lat" : 53.7888569,
+                  "lng" : -1.6538923
+               }
+            },
+            "location" : {
+               "lat" : 53.7890828,
+               "lng" : -1.6531365
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.79036723029149,
+                  "lng" : -1.651789219708498
+               },
+               "southwest" : {
+                  "lat" : 53.7876692697085,
+                  "lng" : -1.654487180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Lane",
+               "short_name" : "Turkey Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bridlington",
+               "short_name" : "Bridlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Riding of Yorkshire",
+               "short_name" : "East Riding of Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO16",
+               "short_name" : "YO16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Lane, Bridlington, East Riding of Yorkshire YO16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.0727348,
+                  "lng" : -0.2503244
+               },
+               "southwest" : {
+                  "lat" : 54.0720803,
+                  "lng" : -0.2520041
+               }
+            },
+            "location" : {
+               "lat" : 54.0724013,
+               "lng" : -0.2512074
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0737565302915,
+                  "lng" : -0.249815269708498
+               },
+               "southwest" : {
+                  "lat" : 54.0710585697085,
+                  "lng" : -0.252513230291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey Lane",
+               "short_name" : "Turkey Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turkey Lane, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9567638,
+                  "lng" : -0.1275531
+               },
+               "southwest" : {
+                  "lat" : 50.9566926,
+                  "lng" : -0.1283382
+               }
+            },
+            "location" : {
+               "lat" : 50.9567547,
+               "lng" : -0.1279165
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9580771802915,
+                  "lng" : -0.126596669708498
+               },
+               "southwest" : {
+                  "lat" : 50.9553792197085,
+                  "lng" : -0.129294630291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

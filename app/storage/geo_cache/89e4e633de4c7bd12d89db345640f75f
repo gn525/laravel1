@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inveraray",
+               "short_name" : "Inveraray",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inveraray",
+               "short_name" : "Inveraray",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA32",
+               "short_name" : "PA32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Inveraray, Inveraray, Argyll and Bute PA32, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2309954,
+                  "lng" : -5.0770388
+               },
+               "southwest" : {
+                  "lat" : 56.2309207,
+                  "lng" : -5.0771731
+               }
+            },
+            "location" : {
+               "lat" : 56.2309517,
+               "lng" : -5.077101799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.23230703029149,
+                  "lng" : -5.075756969708499
+               },
+               "southwest" : {
+                  "lat" : 56.22960906970849,
+                  "lng" : -5.078454930291503
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

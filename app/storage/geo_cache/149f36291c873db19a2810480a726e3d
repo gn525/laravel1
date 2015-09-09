@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishopbriggs",
+               "short_name" : "Bishopbriggs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Dunbartonshire",
+               "short_name" : "East Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bishopbriggs, Glasgow, East Dunbartonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.92429929999999,
+                  "lng" : -4.1837458
+               },
+               "southwest" : {
+                  "lat" : 55.89613019999999,
+                  "lng" : -4.251058599999999
+               }
+            },
+            "location" : {
+               "lat" : 55.904185,
+               "lng" : -4.228494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.92429929999999,
+                  "lng" : -4.1837458
+               },
+               "southwest" : {
+                  "lat" : 55.89613019999999,
+                  "lng" : -4.251058599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

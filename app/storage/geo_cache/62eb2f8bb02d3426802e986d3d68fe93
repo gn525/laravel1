@@ -1,0 +1,343 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hermitage",
+               "short_name" : "Hermitage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thatcham",
+               "short_name" : "Thatcham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG18",
+               "short_name" : "RG18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hermitage, Thatcham, West Berkshire RG18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4653156,
+                  "lng" : -1.2601104
+               },
+               "southwest" : {
+                  "lat" : 51.4389234,
+                  "lng" : -1.2895244
+               }
+            },
+            "location" : {
+               "lat" : 51.4520259,
+               "lng" : -1.2754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4653156,
+                  "lng" : -1.2601104
+               },
+               "southwest" : {
+                  "lat" : 51.4389234,
+                  "lng" : -1.2895244
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hermitage",
+               "short_name" : "Hermitage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dorchester",
+               "short_name" : "Dorchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT2",
+               "short_name" : "DT2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hermitage, Dorchester, Dorset DT2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.86244,
+               "lng" : -2.500071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8637889802915,
+                  "lng" : -2.498722019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8610910197085,
+                  "lng" : -2.501419980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hermitage",
+               "short_name" : "Hermitage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawick",
+               "short_name" : "Hawick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TD9",
+               "short_name" : "TD9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hermitage, Hawick, Scottish Borders TD9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.248587,
+               "lng" : -2.7760889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2499359802915,
+                  "lng" : -2.774739919708498
+               },
+               "southwest" : {
+                  "lat" : 55.2472380197085,
+                  "lng" : -2.777437880291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hermitage",
+               "short_name" : "Hermitage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castle Douglas",
+               "short_name" : "Castle Douglas",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG7",
+               "short_name" : "DG7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hermitage, Castle Douglas, Dumfries and Galloway DG7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.9932829,
+               "lng" : -3.8759723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.99463188029149,
+                  "lng" : -3.874623319708498
+               },
+               "southwest" : {
+                  "lat" : 54.99193391970849,
+                  "lng" : -3.877321280291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hermitage",
+               "short_name" : "Hermitage",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Emsworth",
+               "short_name" : "Emsworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Emsworth",
+               "short_name" : "Emsworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO10",
+               "short_name" : "PO10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hermitage, Emsworth, Emsworth, West Sussex PO10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8478393,
+               "lng" : -0.9279303000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.84918828029149,
+                  "lng" : -0.926581319708498
+               },
+               "southwest" : {
+                  "lat" : 50.8464903197085,
+                  "lng" : -0.9292792802915021
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hermitage",
+               "short_name" : "Hermitage",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Emsworth",
+               "short_name" : "Emsworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Emsworth",
+               "short_name" : "Emsworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO10",
+               "short_name" : "PO10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hermitage, Emsworth, Emsworth, West Sussex PO10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.84665469999999,
+               "lng" : -0.926673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8480036802915,
+                  "lng" : -0.925324019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8453057197085,
+                  "lng" : -0.9280219802915021
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

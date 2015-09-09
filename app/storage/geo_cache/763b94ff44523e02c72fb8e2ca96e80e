@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alresford",
+               "short_name" : "Alresford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alresford",
+               "short_name" : "Alresford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO24",
+               "short_name" : "SO24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alresford, Alresford, Hampshire SO24, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.090113,
+               "lng" : -1.165786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.09712080000001,
+                  "lng" : -1.1497786
+               },
+               "southwest" : {
+                  "lat" : 51.0831042,
+                  "lng" : -1.1817934
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

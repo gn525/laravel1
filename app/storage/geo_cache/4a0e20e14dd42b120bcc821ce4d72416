@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daylesford",
+               "short_name" : "Daylesford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moreton-in-Marsh",
+               "short_name" : "Moreton-in-Marsh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL56",
+               "short_name" : "GL56",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Daylesford, Moreton-in-Marsh, Gloucestershire GL56, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.93162299999999,
+               "lng" : -1.64892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9385025,
+                  "lng" : -1.6329126
+               },
+               "southwest" : {
+                  "lat" : 51.92474240000001,
+                  "lng" : -1.6649274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

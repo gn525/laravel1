@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtonmore",
+               "short_name" : "Newtonmore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newtonmore",
+               "short_name" : "Newtonmore",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH20",
+               "short_name" : "PH20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newtonmore, Newtonmore, Highland PH20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.071602,
+                  "lng" : -4.101804899999999
+               },
+               "southwest" : {
+                  "lat" : 57.0586924,
+                  "lng" : -4.1352034
+               }
+            },
+            "location" : {
+               "lat" : 57.066379,
+               "lng" : -4.121542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.071602,
+                  "lng" : -4.101804899999999
+               },
+               "southwest" : {
+                  "lat" : 57.0586924,
+                  "lng" : -4.1352034
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

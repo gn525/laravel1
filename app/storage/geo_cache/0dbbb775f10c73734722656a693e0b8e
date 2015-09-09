@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LS27",
+               "short_name" : "LS27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Yorkshire LS27, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7754574,
+                  "lng" : -1.564622
+               },
+               "southwest" : {
+                  "lat" : 53.720229,
+                  "lng" : -1.6507141
+               }
+            },
+            "location" : {
+               "lat" : 53.73692699999999,
+               "lng" : -1.6134941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7754574,
+                  "lng" : -1.564622
+               },
+               "southwest" : {
+                  "lat" : 53.720229,
+                  "lng" : -1.6507141
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

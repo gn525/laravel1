@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pitlochry",
+               "short_name" : "Pitlochry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pitlochry",
+               "short_name" : "Pitlochry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Perth and Kinross",
+               "short_name" : "Perth and Kinross",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH16",
+               "short_name" : "PH16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pitlochry, Pitlochry, Perth and Kinross PH16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7153493,
+                  "lng" : -3.7126803
+               },
+               "southwest" : {
+                  "lat" : 56.6948875,
+                  "lng" : -3.7513403
+               }
+            },
+            "location" : {
+               "lat" : 56.704361,
+               "lng" : -3.729711
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7153493,
+                  "lng" : -3.7126803
+               },
+               "southwest" : {
+                  "lat" : 56.6948875,
+                  "lng" : -3.7513403
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

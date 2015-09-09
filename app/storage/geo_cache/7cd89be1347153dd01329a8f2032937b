@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuffield Industrial Estate",
+               "short_name" : "Nuffield Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH17",
+               "short_name" : "BH17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nuffield Industrial Estate, Poole, Poole, Poole BH17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.74200039999999,
+               "lng" : -1.9766967
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7490608,
+                  "lng" : -1.9606893
+               },
+               "southwest" : {
+                  "lat" : 50.7349389,
+                  "lng" : -1.9927041
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

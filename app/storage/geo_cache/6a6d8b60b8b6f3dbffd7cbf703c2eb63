@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "King's Stanley",
+               "short_name" : "King's Stanley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stonehouse",
+               "short_name" : "Stonehouse",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL10",
+               "short_name" : "GL10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King's Stanley, Stonehouse, Gloucestershire GL10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.735625,
+                  "lng" : -2.2576203
+               },
+               "southwest" : {
+                  "lat" : 51.7233824,
+                  "lng" : -2.2802755
+               }
+            },
+            "location" : {
+               "lat" : 51.728902,
+               "lng" : -2.275265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.735625,
+                  "lng" : -2.2576203
+               },
+               "southwest" : {
+                  "lat" : 51.7233824,
+                  "lng" : -2.2802755
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

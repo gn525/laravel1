@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boscombe Down",
+               "short_name" : "Boscombe Down",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Amesbury",
+               "short_name" : "Amesbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP4",
+               "short_name" : "SP4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boscombe Down, Amesbury, Salisbury, Wiltshire SP4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.164236,
+               "lng" : -1.7482173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1655849802915,
+                  "lng" : -1.746868319708498
+               },
+               "southwest" : {
+                  "lat" : 51.1628870197085,
+                  "lng" : -1.749566280291502
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

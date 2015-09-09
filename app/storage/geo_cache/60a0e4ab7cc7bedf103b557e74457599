@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CB2",
+               "short_name" : "CB2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, Cambridgeshire CB2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2101899,
+                  "lng" : 0.1562527
+               },
+               "southwest" : {
+                  "lat" : 52.1590253,
+                  "lng" : 0.09067119999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.1752371,
+               "lng" : 0.1262838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2101899,
+                  "lng" : 0.1562527
+               },
+               "southwest" : {
+                  "lat" : 52.1590253,
+                  "lng" : 0.09067119999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

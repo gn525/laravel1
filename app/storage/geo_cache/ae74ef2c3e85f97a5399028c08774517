@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO1",
+               "short_name" : "PO1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portsmouth, Portsmouth PO1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8105361,
+                  "lng" : -1.0640992
+               },
+               "southwest" : {
+                  "lat" : 50.7872569,
+                  "lng" : -1.1121917
+               }
+            },
+            "location" : {
+               "lat" : 50.8015465,
+               "lng" : -1.0901955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8105361,
+                  "lng" : -1.0640992
+               },
+               "southwest" : {
+                  "lat" : 50.7872569,
+                  "lng" : -1.1121917
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portsmouth Historical Dockyard",
+               "short_name" : "Portsmouth Historical Dockyard",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Victory Gate",
+               "short_name" : "Victory Gate",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "HM Naval Base",
+               "short_name" : "HM Naval Base",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO1 3LJ",
+               "short_name" : "PO1 3LJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victory Gate, HM Naval Base, Portsmouth Historical Dockyard, Portsmouth, Portsmouth PO1 3LJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8025831,
+                  "lng" : -1.1062986
+               },
+               "southwest" : {
+                  "lat" : 50.79794390000001,
+                  "lng" : -1.1112015
+               }
+            },
+            "location" : {
+               "lat" : 50.79911370000001,
+               "lng" : -1.1078781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8025831,
+                  "lng" : -1.1062986
+               },
+               "southwest" : {
+                  "lat" : 50.79794390000001,
+                  "lng" : -1.1112015
+               }
+            }
+         },
+         "types" : [ "museum", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

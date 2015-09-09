@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wardley Industrial Estate",
+               "short_name" : "Wardley Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Shield Drive",
+               "short_name" : "Shield Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Worsley",
+               "short_name" : "Worsley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M28 2QB",
+               "short_name" : "M28 2QB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wardley Industrial Estate, Shield Drive, Worsley, Wardley Industrial Estate, Manchester M28 2QB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5135945,
+               "lng" : -2.3606744
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51494348029151,
+                  "lng" : -2.359325419708498
+               },
+               "southwest" : {
+                  "lat" : 53.51224551970851,
+                  "lng" : -2.362023380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

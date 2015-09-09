@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Braintree",
+               "short_name" : "Braintree",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Braintree, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9271801,
+                  "lng" : 0.5999205
+               },
+               "southwest" : {
+                  "lat" : 51.8602801,
+                  "lng" : 0.5184946
+               }
+            },
+            "location" : {
+               "lat" : 51.880087,
+               "lng" : 0.5509269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9271801,
+                  "lng" : 0.5999205
+               },
+               "southwest" : {
+                  "lat" : 51.8602801,
+                  "lng" : 0.5184946
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

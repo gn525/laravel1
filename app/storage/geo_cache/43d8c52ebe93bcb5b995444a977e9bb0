@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaw",
+               "short_name" : "Shaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shaw, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.59967349999999,
+                  "lng" : -2.0504305
+               },
+               "southwest" : {
+                  "lat" : 53.5686046,
+                  "lng" : -2.1248528
+               }
+            },
+            "location" : {
+               "lat" : 53.580129,
+               "lng" : -2.091421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.59967349999999,
+                  "lng" : -2.0504305
+               },
+               "southwest" : {
+                  "lat" : 53.5686046,
+                  "lng" : -2.1248528
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaw",
+               "short_name" : "Shaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN5",
+               "short_name" : "SN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shaw, Swindon, Swindon SN5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5721535,
+                  "lng" : -1.8255228
+               },
+               "southwest" : {
+                  "lat" : 51.5616145,
+                  "lng" : -1.8408265
+               }
+            },
+            "location" : {
+               "lat" : 51.5671269,
+               "lng" : -1.8353788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5721535,
+                  "lng" : -1.8255228
+               },
+               "southwest" : {
+                  "lat" : 51.5616145,
+                  "lng" : -1.8408265
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaw",
+               "short_name" : "Shaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Melksham",
+               "short_name" : "Melksham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shaw, Melksham, Wiltshire, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.38807,
+               "lng" : -2.160121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3894189802915,
+                  "lng" : -2.158772019708498
+               },
+               "southwest" : {
+                  "lat" : 51.3867210197085,
+                  "lng" : -2.161469980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaw",
+               "short_name" : "Shaw",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Newbury",
+               "short_name" : "Newbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newbury",
+               "short_name" : "Newbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG14",
+               "short_name" : "RG14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shaw, Newbury, Newbury, West Berkshire RG14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.411497,
+               "lng" : -1.306915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4128459802915,
+                  "lng" : -1.305566019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4101480197085,
+                  "lng" : -1.308263980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

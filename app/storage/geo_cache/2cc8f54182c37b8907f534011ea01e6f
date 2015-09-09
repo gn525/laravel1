@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alloa",
+               "short_name" : "Alloa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clackmannanshire",
+               "short_name" : "Clackmannanshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alloa, Clackmannanshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1328331,
+                  "lng" : -3.7661877
+               },
+               "southwest" : {
+                  "lat" : 56.1063258,
+                  "lng" : -3.8227757
+               }
+            },
+            "location" : {
+               "lat" : 56.114073,
+               "lng" : -3.791896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1328331,
+                  "lng" : -3.7661877
+               },
+               "southwest" : {
+                  "lat" : 56.1063258,
+                  "lng" : -3.8227757
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

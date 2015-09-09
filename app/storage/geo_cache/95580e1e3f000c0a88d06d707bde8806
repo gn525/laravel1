@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harleston",
+               "short_name" : "Harleston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harleston, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4539622,
+                  "lng" : 1.3356966
+               },
+               "southwest" : {
+                  "lat" : 52.3873606,
+                  "lng" : 1.2837366
+               }
+            },
+            "location" : {
+               "lat" : 52.402852,
+               "lng" : 1.298286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4539622,
+                  "lng" : 1.3356966
+               },
+               "southwest" : {
+                  "lat" : 52.3873606,
+                  "lng" : 1.2837366
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

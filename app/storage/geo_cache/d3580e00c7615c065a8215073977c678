@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bushey",
+               "short_name" : "Bushey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bushey, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6735581,
+                  "lng" : -0.3166962
+               },
+               "southwest" : {
+                  "lat" : 51.62351020000001,
+                  "lng" : -0.3869257
+               }
+            },
+            "location" : {
+               "lat" : 51.64761499999999,
+               "lng" : -0.35842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6735581,
+                  "lng" : -0.3166962
+               },
+               "southwest" : {
+                  "lat" : 51.62351020000001,
+                  "lng" : -0.3869257
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

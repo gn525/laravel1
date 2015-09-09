@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connah's Quay, Deeside Industrial Park Iceland",
+               "short_name" : "Connah's Quay, Deeside Industrial Park Iceland",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Deeside Industrial Park",
+               "short_name" : "Deeside Industrial Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Deeside",
+               "short_name" : "Deeside",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH5",
+               "short_name" : "CH5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Connah's Quay, Deeside Industrial Park Iceland, Deeside Industrial Park, Deeside, Flintshire CH5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.232174,
+               "lng" : -3.009565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2335229802915,
+                  "lng" : -3.008216019708498
+               },
+               "southwest" : {
+                  "lat" : 53.2308250197085,
+                  "lng" : -3.010913980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parkway Business Centre Deeside Industrial Park",
+               "short_name" : "Parkway Business Centre Deeside Industrial Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Deeside Industrial Park",
+               "short_name" : "Deeside Industrial Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Deeside",
+               "short_name" : "Deeside",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH5 2LE",
+               "short_name" : "CH5 2LE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parkway Business Centre Deeside Industrial Park, Deeside Industrial Park, Deeside Industrial Park, Deeside, Flintshire CH5 2LE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2264364,
+               "lng" : -3.0134003
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2277853802915,
+                  "lng" : -3.012051319708498
+               },
+               "southwest" : {
+                  "lat" : 53.2250874197085,
+                  "lng" : -3.014749280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

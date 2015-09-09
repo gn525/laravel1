@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midlothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9320234,
+                  "lng" : -2.8462381
+               },
+               "southwest" : {
+                  "lat" : 55.7103492,
+                  "lng" : -3.3690393
+               }
+            },
+            "location" : {
+               "lat" : 55.8292247,
+               "lng" : -3.1338428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9320234,
+                  "lng" : -2.8462381
+               },
+               "southwest" : {
+                  "lat" : 55.7103492,
+                  "lng" : -3.3690393
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hunterston",
+               "short_name" : "Hunterston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hunterston, North Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.73283869999999,
+                  "lng" : -4.8657417
+               },
+               "southwest" : {
+                  "lat" : 55.7110599,
+                  "lng" : -4.903913
+               }
+            },
+            "location" : {
+               "lat" : 55.7233313,
+               "lng" : -4.8983287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.73283869999999,
+                  "lng" : -4.8657417
+               },
+               "southwest" : {
+                  "lat" : 55.7110599,
+                  "lng" : -4.903913
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

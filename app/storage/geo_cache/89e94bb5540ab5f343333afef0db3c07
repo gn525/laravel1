@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redcliffe",
+               "short_name" : "Redcliffe",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redcliffe, Bristol, Bristol, City of Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4547959,
+                  "lng" : -2.576943
+               },
+               "southwest" : {
+                  "lat" : 51.4452078,
+                  "lng" : -2.5976014
+               }
+            },
+            "location" : {
+               "lat" : 51.4478,
+               "lng" : -2.5895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4547959,
+                  "lng" : -2.576943
+               },
+               "southwest" : {
+                  "lat" : 51.4452078,
+                  "lng" : -2.5976014
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Looe",
+               "short_name" : "Looe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL13",
+               "short_name" : "PL13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barcelona, Looe, Cornwall PL13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.352004,
+               "lng" : -4.502819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.359123,
+                  "lng" : -4.4868116
+               },
+               "southwest" : {
+                  "lat" : 50.3448839,
+                  "lng" : -4.518826400000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

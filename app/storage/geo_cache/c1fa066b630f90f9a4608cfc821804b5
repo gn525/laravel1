@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warminster",
+               "short_name" : "Warminster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warminster",
+               "short_name" : "Warminster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA12",
+               "short_name" : "BA12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Warminster, Warminster, Wiltshire BA12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2407541,
+                  "lng" : -2.1198031
+               },
+               "southwest" : {
+                  "lat" : 51.1894803,
+                  "lng" : -2.2282967
+               }
+            },
+            "location" : {
+               "lat" : 51.204629,
+               "lng" : -2.181078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2407541,
+                  "lng" : -2.1198031
+               },
+               "southwest" : {
+                  "lat" : 51.1894803,
+                  "lng" : -2.2282967
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

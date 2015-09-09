@@ -1,0 +1,179 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Cross",
+               "short_name" : "Kings Cross",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1",
+               "short_name" : "N1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kings Cross, London N1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.53354789999999,
+               "lng" : -0.1223684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5404883,
+                  "lng" : -0.106361
+               },
+               "southwest" : {
+                  "lat" : 51.5266065,
+                  "lng" : -0.1383758
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Cross",
+               "short_name" : "Kings Cross",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kings Cross, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5396626,
+                  "lng" : -0.1125241
+               },
+               "southwest" : {
+                  "lat" : 51.5226832,
+                  "lng" : -0.1440239
+               }
+            },
+            "location" : {
+               "lat" : 51.5333335,
+               "lng" : -0.1322312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5396626,
+                  "lng" : -0.1125241
+               },
+               "southwest" : {
+                  "lat" : 51.5226832,
+                  "lng" : -0.1440239
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingscross",
+               "short_name" : "Kingscross",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Arran",
+               "short_name" : "Isle of Arran",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA27",
+               "short_name" : "KA27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kingscross, Isle of Arran, North Ayrshire KA27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.505864,
+               "lng" : -5.088553999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.50721298029149,
+                  "lng" : -5.087205019708497
+               },
+               "southwest" : {
+                  "lat" : 55.5045150197085,
+                  "lng" : -5.089902980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

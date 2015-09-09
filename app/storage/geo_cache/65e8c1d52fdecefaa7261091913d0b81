@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridgwater",
+               "short_name" : "Bridgwater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgwater",
+               "short_name" : "Bridgwater",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bridgwater, Bridgwater, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1496629,
+                  "lng" : -2.9686554
+               },
+               "southwest" : {
+                  "lat" : 51.104084,
+                  "lng" : -3.0528846
+               }
+            },
+            "location" : {
+               "lat" : 51.127889,
+               "lng" : -3.003632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1496629,
+                  "lng" : -2.9686554
+               },
+               "southwest" : {
+                  "lat" : 51.104084,
+                  "lng" : -3.0528846
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

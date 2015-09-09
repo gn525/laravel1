@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milngavie",
+               "short_name" : "Milngavie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Dunbartonshire",
+               "short_name" : "East Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milngavie, Glasgow, East Dunbartonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.95364439999999,
+                  "lng" : -4.2991788
+               },
+               "southwest" : {
+                  "lat" : 55.9313187,
+                  "lng" : -4.3541961
+               }
+            },
+            "location" : {
+               "lat" : 55.943304,
+               "lng" : -4.316987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.95364439999999,
+                  "lng" : -4.2991788
+               },
+               "southwest" : {
+                  "lat" : 55.9313187,
+                  "lng" : -4.3541961
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

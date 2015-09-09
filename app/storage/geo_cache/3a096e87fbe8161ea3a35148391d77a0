@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruthin",
+               "short_name" : "Ruthin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ruthin",
+               "short_name" : "Ruthin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL15",
+               "short_name" : "LL15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ruthin, Ruthin, Denbighshire LL15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.12359009999999,
+                  "lng" : -3.2837649
+               },
+               "southwest" : {
+                  "lat" : 53.1032436,
+                  "lng" : -3.3279254
+               }
+            },
+            "location" : {
+               "lat" : 53.114725,
+               "lng" : -3.310874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.12359009999999,
+                  "lng" : -3.2837649
+               },
+               "southwest" : {
+                  "lat" : 53.1032436,
+                  "lng" : -3.3279254
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

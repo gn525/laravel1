@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ME8",
+               "short_name" : "ME8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gillingham ME8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3896942,
+                  "lng" : 0.641385
+               },
+               "southwest" : {
+                  "lat" : 51.334461,
+                  "lng" : 0.5665494
+               }
+            },
+            "location" : {
+               "lat" : 51.3559779,
+               "lng" : 0.5985497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3896942,
+                  "lng" : 0.641385
+               },
+               "southwest" : {
+                  "lat" : 51.334461,
+                  "lng" : 0.5665494
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

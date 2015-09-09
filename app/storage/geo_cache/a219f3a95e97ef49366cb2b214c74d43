@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paddock Wood",
+               "short_name" : "Paddock Wood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tonbridge",
+               "short_name" : "Tonbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN12",
+               "short_name" : "TN12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paddock Wood, Tonbridge, Kent TN12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.18952909999999,
+                  "lng" : 0.4120999
+               },
+               "southwest" : {
+                  "lat" : 51.1623516,
+                  "lng" : 0.3754447
+               }
+            },
+            "location" : {
+               "lat" : 51.1813239,
+               "lng" : 0.38477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.18952909999999,
+                  "lng" : 0.4120999
+               },
+               "southwest" : {
+                  "lat" : 51.1623516,
+                  "lng" : 0.3754447
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

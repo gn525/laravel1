@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meirheath",
+               "short_name" : "Meirheath",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST3",
+               "short_name" : "ST3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Meirheath, Stoke-on-Trent, Stoke-on-Trent, Staffordshire ST3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.95814799999999,
+               "lng" : -2.107152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.96486900000001,
+                  "lng" : -2.0911446
+               },
+               "southwest" : {
+                  "lat" : 52.9514259,
+                  "lng" : -2.1231594
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

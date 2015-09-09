@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG4",
+               "short_name" : "NG4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham NG4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.014831,
+                  "lng" : -1.0390732
+               },
+               "southwest" : {
+                  "lat" : 52.9435423,
+                  "lng" : -1.1192157
+               }
+            },
+            "location" : {
+               "lat" : 52.9819039,
+               "lng" : -1.0811233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.014831,
+                  "lng" : -1.0390732
+               },
+               "southwest" : {
+                  "lat" : 52.9435423,
+                  "lng" : -1.1192157
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

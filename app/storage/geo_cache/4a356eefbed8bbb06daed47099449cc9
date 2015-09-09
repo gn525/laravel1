@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holford",
+               "short_name" : "Holford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgwater",
+               "short_name" : "Bridgwater",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA5",
+               "short_name" : "TA5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Holford, Bridgwater, Somerset TA5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.166148,
+               "lng" : -3.202389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1731442,
+                  "lng" : -3.1863816
+               },
+               "southwest" : {
+                  "lat" : 51.1591507,
+                  "lng" : -3.2183964
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

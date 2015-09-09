@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Molton",
+               "short_name" : "South Molton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Molton",
+               "short_name" : "South Molton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX36",
+               "short_name" : "EX36",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Molton, South Molton, Devon EX36, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.02958049999999,
+                  "lng" : -3.8129923
+               },
+               "southwest" : {
+                  "lat" : 51.0075394,
+                  "lng" : -3.8468093
+               }
+            },
+            "location" : {
+               "lat" : 51.016818,
+               "lng" : -3.832119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.02958049999999,
+                  "lng" : -3.8129923
+               },
+               "southwest" : {
+                  "lat" : 51.0075394,
+                  "lng" : -3.8468093
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

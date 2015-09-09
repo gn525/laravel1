@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Criccieth",
+               "short_name" : "Criccieth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Criccieth, Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9280445,
+                  "lng" : -4.2165547
+               },
+               "southwest" : {
+                  "lat" : 52.9146879,
+                  "lng" : -4.246502
+               }
+            },
+            "location" : {
+               "lat" : 52.919565,
+               "lng" : -4.233645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9280445,
+                  "lng" : -4.2165547
+               },
+               "southwest" : {
+                  "lat" : 52.9146879,
+                  "lng" : -4.246502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lewes",
+               "short_name" : "Lewes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lewes",
+               "short_name" : "Lewes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lewes, Lewes, East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8880074,
+                  "lng" : 0.0492715
+               },
+               "southwest" : {
+                  "lat" : 50.8604232,
+                  "lng" : -0.0180789
+               }
+            },
+            "location" : {
+               "lat" : 50.87387200000001,
+               "lng" : 0.00878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8880074,
+                  "lng" : 0.0492715
+               },
+               "southwest" : {
+                  "lat" : 50.8604232,
+                  "lng" : -0.0180789
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

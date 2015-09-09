@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yapton",
+               "short_name" : "Yapton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yapton, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8351869,
+                  "lng" : -0.5962147
+               },
+               "southwest" : {
+                  "lat" : 50.8104226,
+                  "lng" : -0.6324305
+               }
+            },
+            "location" : {
+               "lat" : 50.819068,
+               "lng" : -0.616725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8351869,
+                  "lng" : -0.5962147
+               },
+               "southwest" : {
+                  "lat" : 50.8104226,
+                  "lng" : -0.6324305
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

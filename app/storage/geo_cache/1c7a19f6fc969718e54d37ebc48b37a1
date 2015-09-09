@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waddon",
+               "short_name" : "Waddon",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Croydon",
+               "short_name" : "Croydon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Croydon",
+               "short_name" : "Croydon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CR0",
+               "short_name" : "CR0",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waddon, Croydon, Croydon, Greater London CR0, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3674,
+               "lng" : -0.11731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3687489802915,
+                  "lng" : -0.115961019708498
+               },
+               "southwest" : {
+                  "lat" : 51.3660510197085,
+                  "lng" : -0.118658980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

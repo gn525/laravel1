@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balfron",
+               "short_name" : "Balfron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G63",
+               "short_name" : "G63",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Balfron, Glasgow, Stirling G63, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.07649809999999,
+                  "lng" : -4.3164906
+               },
+               "southwest" : {
+                  "lat" : 56.0634227,
+                  "lng" : -4.3476281
+               }
+            },
+            "location" : {
+               "lat" : 56.071822,
+               "lng" : -4.3373039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.07649809999999,
+                  "lng" : -4.3164906
+               },
+               "southwest" : {
+                  "lat" : 56.0634227,
+                  "lng" : -4.3476281
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

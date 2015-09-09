@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thurrock",
+               "short_name" : "Thurrock",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thurrock, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5678194,
+                  "lng" : 0.5507865
+               },
+               "southwest" : {
+                  "lat" : 51.4510028,
+                  "lng" : 0.2104605
+               }
+            },
+            "location" : {
+               "lat" : 51.4934557,
+               "lng" : 0.3529197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5678194,
+                  "lng" : 0.5507865
+               },
+               "southwest" : {
+                  "lat" : 51.4510028,
+                  "lng" : 0.2104605
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

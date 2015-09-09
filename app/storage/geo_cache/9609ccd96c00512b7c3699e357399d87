@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Neots",
+               "short_name" : "St Neots",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Neots",
+               "short_name" : "Saint Neots",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE19",
+               "short_name" : "PE19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Neots, Saint Neots, Cambridgeshire PE19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2284859,
+               "lng" : -0.266069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2353198,
+                  "lng" : -0.2500616
+               },
+               "southwest" : {
+                  "lat" : 52.2216509,
+                  "lng" : -0.2820764
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St Neots",
+               "short_name" : "St Neots",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Saint Neots",
+               "short_name" : "Saint Neots",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE19",
+               "short_name" : "PE19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St Neots, Saint Neots, Cambridgeshire PE19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.23158,
+               "lng" : -0.24739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2329289802915,
+                  "lng" : -0.246041019708498
+               },
+               "southwest" : {
+                  "lat" : 52.2302310197085,
+                  "lng" : -0.248738980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beenham",
+               "short_name" : "Beenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG7",
+               "short_name" : "RG7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beenham, Reading, West Berkshire RG7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.414902,
+               "lng" : -1.1529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4218604,
+                  "lng" : -1.1368926
+               },
+               "southwest" : {
+                  "lat" : 51.4079425,
+                  "lng" : -1.1689074
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

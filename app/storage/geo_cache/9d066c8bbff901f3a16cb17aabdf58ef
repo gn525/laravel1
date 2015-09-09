@@ -1,0 +1,172 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Segensworth House",
+               "short_name" : "Segensworth House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "161",
+               "short_name" : "161",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Segensworth Road",
+               "short_name" : "Segensworth Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fareham",
+               "short_name" : "Fareham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO15 5EH",
+               "short_name" : "PO15 5EH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Segensworth House, 161 Segensworth Road, Fareham, Hampshire PO15 5EH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8638231,
+               "lng" : -1.246403
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.86517208029149,
+                  "lng" : -1.245054019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8624741197085,
+                  "lng" : -1.247751980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Segensworth Cottage",
+               "short_name" : "Segensworth Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Mill Lane",
+               "short_name" : "Mill Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Titchfield",
+               "short_name" : "Titchfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fareham",
+               "short_name" : "Fareham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO15 5DT",
+               "short_name" : "PO15 5DT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Segensworth Cottage, Mill Lane, Titchfield, Fareham, Hampshire PO15 5DT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8616469,
+               "lng" : -1.232014
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8629958802915,
+                  "lng" : -1.230665019708498
+               },
+               "southwest" : {
+                  "lat" : 50.8602979197085,
+                  "lng" : -1.233362980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Segensworth Roundabout",
+               "short_name" : "Segensworth Roundabout",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Segensworth Roundabout, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8708227,
+                  "lng" : -1.2519106
+               },
+               "southwest" : {
+                  "lat" : 50.86827599999999,
+                  "lng" : -1.2560433
+               }
+            },
+            "location" : {
+               "lat" : 50.8693944,
+               "lng" : -1.2542863
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8708983302915,
+                  "lng" : -1.2519106
+               },
+               "southwest" : {
+                  "lat" : 50.8682003697085,
+                  "lng" : -1.2560433
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

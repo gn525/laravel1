@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holbury",
+               "short_name" : "Holbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO45",
+               "short_name" : "SO45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Holbury, Southampton, Hampshire SO45, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.830046,
+               "lng" : -1.382775
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8370931,
+                  "lng" : -1.3667676
+               },
+               "southwest" : {
+                  "lat" : 50.8229978,
+                  "lng" : -1.3987824
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

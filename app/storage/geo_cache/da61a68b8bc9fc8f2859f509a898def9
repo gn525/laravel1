@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wotton-under-Edge",
+               "short_name" : "Wotton-under-Edge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wotton-under-Edge",
+               "short_name" : "Wotton-under-Edge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL12",
+               "short_name" : "GL12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wotton-under-Edge, Wotton-under-Edge, Gloucestershire GL12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6439479,
+                  "lng" : -2.3375084
+               },
+               "southwest" : {
+                  "lat" : 51.6295265,
+                  "lng" : -2.3665894
+               }
+            },
+            "location" : {
+               "lat" : 51.63802500000001,
+               "lng" : -2.351248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6439479,
+                  "lng" : -2.3375084
+               },
+               "southwest" : {
+                  "lat" : 51.6295265,
+                  "lng" : -2.3665894
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

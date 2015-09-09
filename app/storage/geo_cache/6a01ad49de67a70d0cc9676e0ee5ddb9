@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Endeavour House Queens Meadow Business Park",
+               "short_name" : "Endeavour House Queens Meadow Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Queens Meadow Business Park",
+               "short_name" : "Queens Meadow Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Stockton Road",
+               "short_name" : "Stockton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hartlepool",
+               "short_name" : "Hartlepool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartlepool",
+               "short_name" : "Hartlepool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hartlepool",
+               "short_name" : "Hartlepool",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS25 5TE",
+               "short_name" : "TS25 5TE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Endeavour House Queens Meadow Business Park, Queens Meadow Business Park, Stockton Road, Hartlepool, Hartlepool TS25 5TE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6488916,
+               "lng" : -1.2281379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6502405802915,
+                  "lng" : -1.226788919708498
+               },
+               "southwest" : {
+                  "lat" : 54.6475426197085,
+                  "lng" : -1.229486880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

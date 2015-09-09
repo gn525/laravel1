@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Bookham",
+               "short_name" : "Great Bookham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Great Bookham, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3136044,
+                  "lng" : -0.3394025
+               },
+               "southwest" : {
+                  "lat" : 51.2492755,
+                  "lng" : -0.3975673
+               }
+            },
+            "location" : {
+               "lat" : 51.2783826,
+               "lng" : -0.3733532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3136044,
+                  "lng" : -0.3394025
+               },
+               "southwest" : {
+                  "lat" : 51.2492755,
+                  "lng" : -0.3975673
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

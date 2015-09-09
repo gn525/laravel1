@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barbican",
+               "short_name" : "Barbican",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "City of London",
+               "short_name" : "City of London",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC2Y",
+               "short_name" : "EC2Y",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barbican, London EC2Y, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5190925,
+               "lng" : -0.0940787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52603509999999,
+                  "lng" : -0.0780713
+               },
+               "southwest" : {
+                  "lat" : 51.5121489,
+                  "lng" : -0.1100861
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barbican",
+               "short_name" : "Barbican",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Plymouth",
+               "short_name" : "Plymouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plymouth",
+               "short_name" : "Plymouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Plymouth",
+               "short_name" : "Plymouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL1",
+               "short_name" : "PL1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barbican, Plymouth, Plymouth, Plymouth PL1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.369009,
+               "lng" : -4.140172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.37035798029149,
+                  "lng" : -4.138823019708497
+               },
+               "southwest" : {
+                  "lat" : 50.3676600197085,
+                  "lng" : -4.141520980291502
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barbican",
+               "short_name" : "Barbican",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC1M",
+               "short_name" : "EC1M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barbican, London EC1M, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52028,
+               "lng" : -0.09797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5216289802915,
+                  "lng" : -0.09662101970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5189310197085,
+                  "lng" : -0.09931898029150203
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

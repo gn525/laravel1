@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wrexham Technology Park",
+               "short_name" : "Wrexham Technology Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL13 7TD",
+               "short_name" : "LL13 7TD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wrexham Technology Park, Wrexham, Wrexham LL13 7TD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0461734,
+               "lng" : -3.0101802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0475223802915,
+                  "lng" : -3.008831219708498
+               },
+               "southwest" : {
+                  "lat" : 53.0448244197085,
+                  "lng" : -3.011529180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wynnstay Technology Park",
+               "short_name" : "Wynnstay Technology Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ruabon",
+               "short_name" : "Ruabon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL14 6EN",
+               "short_name" : "LL14 6EN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wynnstay Technology Park, Ruabon, Wrexham, Wrexham LL14 6EN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9835632,
+               "lng" : -3.0554901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9849121802915,
+                  "lng" : -3.054141119708498
+               },
+               "southwest" : {
+                  "lat" : 52.9822142197085,
+                  "lng" : -3.056839080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Everley",
+               "short_name" : "Everley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blandford Forum",
+               "short_name" : "Blandford Forum",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT11",
+               "short_name" : "DT11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Everley, Blandford Forum, Dorset DT11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.904212,
+               "lng" : -2.184788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9112479,
+                  "lng" : -2.1687806
+               },
+               "southwest" : {
+                  "lat" : 50.897175,
+                  "lng" : -2.2007954
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Everley",
+               "short_name" : "Everley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Scarborough",
+               "short_name" : "Scarborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO13",
+               "short_name" : "YO13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Everley, Scarborough, North Yorkshire YO13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.2874878,
+               "lng" : -0.5090053999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2888367802915,
+                  "lng" : -0.507656419708498
+               },
+               "southwest" : {
+                  "lat" : 54.2861388197085,
+                  "lng" : -0.510354380291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Everley",
+               "short_name" : "Everley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wick",
+               "short_name" : "Wick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KW1",
+               "short_name" : "KW1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Everley, Wick, Highland KW1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.603598,
+               "lng" : -3.0863429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.6049469802915,
+                  "lng" : -3.084993919708498
+               },
+               "southwest" : {
+                  "lat" : 58.60224901970849,
+                  "lng" : -3.087691880291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

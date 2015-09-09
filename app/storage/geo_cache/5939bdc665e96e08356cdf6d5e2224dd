@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SO15",
+               "short_name" : "SO15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southampton SO15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.937285,
+                  "lng" : -1.4008635
+               },
+               "southwest" : {
+                  "lat" : 50.89733649999999,
+                  "lng" : -1.4798316
+               }
+            },
+            "location" : {
+               "lat" : 50.9148662,
+               "lng" : -1.4394423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.937285,
+                  "lng" : -1.4008635
+               },
+               "southwest" : {
+                  "lat" : 50.89733649999999,
+                  "lng" : -1.4798316
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

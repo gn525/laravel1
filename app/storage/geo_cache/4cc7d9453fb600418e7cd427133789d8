@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Byfleet",
+               "short_name" : "Byfleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Byfleet, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3510558,
+                  "lng" : -0.4610169
+               },
+               "southwest" : {
+                  "lat" : 51.3270011,
+                  "lng" : -0.4913499
+               }
+            },
+            "location" : {
+               "lat" : 51.34012500000001,
+               "lng" : -0.471357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3510558,
+                  "lng" : -0.4610169
+               },
+               "southwest" : {
+                  "lat" : 51.3270011,
+                  "lng" : -0.4913499
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

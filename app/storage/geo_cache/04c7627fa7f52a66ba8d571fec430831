@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Claregate",
+               "short_name" : "Claregate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN4",
+               "short_name" : "NN4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Claregate, Northampton, Northampton, Northamptonshire NN4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2136704,
+                  "lng" : -0.9057588
+               },
+               "southwest" : {
+                  "lat" : 52.2122477,
+                  "lng" : -0.9078959999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.2130672,
+               "lng" : -0.9068107
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2143080302915,
+                  "lng" : -0.905478419708498
+               },
+               "southwest" : {
+                  "lat" : 52.2116100697085,
+                  "lng" : -0.9081763802915021
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,112 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG18",
+               "short_name" : "NG18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Mansfield",
+               "short_name" : "Mansfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mansfield, Nottinghamshire NG18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1559754,
+                  "lng" : -1.1290098
+               },
+               "southwest" : {
+                  "lat" : 53.094552,
+                  "lng" : -1.2298219
+               }
+            },
+            "location" : {
+               "lat" : 53.1313819,
+               "lng" : -1.1887062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1559754,
+                  "lng" : -1.1290098
+               },
+               "southwest" : {
+                  "lat" : 53.094552,
+                  "lng" : -1.2298219
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mansfield",
+               "short_name" : "Mansfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mansfield, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1652442,
+                  "lng" : -1.1375816
+               },
+               "southwest" : {
+                  "lat" : 53.1120038,
+                  "lng" : -1.2494289
+               }
+            },
+            "location" : {
+               "lat" : 53.147195,
+               "lng" : -1.198674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1652442,
+                  "lng" : -1.1375816
+               },
+               "southwest" : {
+                  "lat" : 53.1120038,
+                  "lng" : -1.2494289
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

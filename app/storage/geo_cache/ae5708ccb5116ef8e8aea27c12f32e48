@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuneaton",
+               "short_name" : "Nuneaton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuneaton, Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5473907,
+                  "lng" : -1.406348
+               },
+               "southwest" : {
+                  "lat" : 52.4843764,
+                  "lng" : -1.5584795
+               }
+            },
+            "location" : {
+               "lat" : 52.520489,
+               "lng" : -1.465382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5473907,
+                  "lng" : -1.406348
+               },
+               "southwest" : {
+                  "lat" : 52.4843764,
+                  "lng" : -1.5584795
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

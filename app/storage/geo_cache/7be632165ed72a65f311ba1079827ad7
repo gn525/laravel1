@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ripponden",
+               "short_name" : "Ripponden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ripponden, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6933486,
+                  "lng" : -1.8967335
+               },
+               "southwest" : {
+                  "lat" : 53.6153033,
+                  "lng" : -2.0548806
+               }
+            },
+            "location" : {
+               "lat" : 53.675254,
+               "lng" : -1.939549
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6933486,
+                  "lng" : -1.8967335
+               },
+               "southwest" : {
+                  "lat" : 53.6153033,
+                  "lng" : -2.0548806
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

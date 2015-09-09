@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bredbury Park Industrial Estate",
+               "short_name" : "Bredbury Park Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bredbury",
+               "short_name" : "Bredbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockport",
+               "short_name" : "Stockport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK6",
+               "short_name" : "SK6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bredbury Park Industrial Estate, Bredbury, Stockport SK6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4304389,
+               "lng" : -2.1196052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4370863,
+                  "lng" : -2.1035978
+               },
+               "southwest" : {
+                  "lat" : 53.4237905,
+                  "lng" : -2.1356126
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UB9",
+               "short_name" : "UB9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Uxbridge",
+               "short_name" : "Uxbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uxbridge UB9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6191579,
+                  "lng" : -0.4382689
+               },
+               "southwest" : {
+                  "lat" : 51.5365176,
+                  "lng" : -0.5342235
+               }
+            },
+            "location" : {
+               "lat" : 51.5876411,
+               "lng" : -0.4846045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6191579,
+                  "lng" : -0.4382689
+               },
+               "southwest" : {
+                  "lat" : 51.5365176,
+                  "lng" : -0.5342235
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

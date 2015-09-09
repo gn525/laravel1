@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glenrothes",
+               "short_name" : "Glenrothes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glenrothes, Fife, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2207448,
+                  "lng" : -3.1376311
+               },
+               "southwest" : {
+                  "lat" : 56.1726503,
+                  "lng" : -3.2246624
+               }
+            },
+            "location" : {
+               "lat" : 56.20084199999999,
+               "lng" : -3.15986
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2207448,
+                  "lng" : -3.1376311
+               },
+               "southwest" : {
+                  "lat" : 56.1726503,
+                  "lng" : -3.2246624
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

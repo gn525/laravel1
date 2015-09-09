@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberlour",
+               "short_name" : "Aberlour",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberlour",
+               "short_name" : "Aberlour",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Moray",
+               "short_name" : "Moray",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB38",
+               "short_name" : "AB38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aberlour, Aberlour, Moray AB38, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.4764682,
+                  "lng" : -3.2113449
+               },
+               "southwest" : {
+                  "lat" : 57.4588118,
+                  "lng" : -3.2486083
+               }
+            },
+            "location" : {
+               "lat" : 57.47491100000001,
+               "lng" : -3.216983
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.4764682,
+                  "lng" : -3.2113449
+               },
+               "southwest" : {
+                  "lat" : 57.4588118,
+                  "lng" : -3.2486083
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olney",
+               "short_name" : "Olney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Olney, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.18664769999999,
+                  "lng" : -0.6885063
+               },
+               "southwest" : {
+                  "lat" : 52.14307650000001,
+                  "lng" : -0.7389876999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.15473799999999,
+               "lng" : -0.7013779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.18664769999999,
+                  "lng" : -0.6885063
+               },
+               "southwest" : {
+                  "lat" : 52.14307650000001,
+                  "lng" : -0.7389876999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

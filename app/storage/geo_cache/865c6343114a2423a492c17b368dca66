@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Langholm",
+               "short_name" : "Langholm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Langholm",
+               "short_name" : "Langholm",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG13",
+               "short_name" : "DG13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Langholm, Langholm, Dumfries and Galloway DG13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1597093,
+                  "lng" : -2.9842222
+               },
+               "southwest" : {
+                  "lat" : 55.1437689,
+                  "lng" : -3.01489
+               }
+            },
+            "location" : {
+               "lat" : 55.153062,
+               "lng" : -2.998913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1597093,
+                  "lng" : -2.9842222
+               },
+               "southwest" : {
+                  "lat" : 55.1437689,
+                  "lng" : -3.01489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

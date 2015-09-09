@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miskin",
+               "short_name" : "Miskin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pontyclun",
+               "short_name" : "Pontyclun",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF72",
+               "short_name" : "CF72",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Miskin, Pontyclun, Rhondda Cynon Taff CF72, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.52904789999999,
+                  "lng" : -3.3673378
+               },
+               "southwest" : {
+                  "lat" : 51.5158041,
+                  "lng" : -3.3829741
+               }
+            },
+            "location" : {
+               "lat" : 51.519734,
+               "lng" : -3.376597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52904789999999,
+                  "lng" : -3.3673378
+               },
+               "southwest" : {
+                  "lat" : 51.5158041,
+                  "lng" : -3.3829741
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

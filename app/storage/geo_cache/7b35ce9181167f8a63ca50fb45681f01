@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broughty Ferry",
+               "short_name" : "Broughty Ferry",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Broughty Ferry, Dundee City, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4899308,
+                  "lng" : -2.8375793
+               },
+               "southwest" : {
+                  "lat" : 56.4614389,
+                  "lng" : -2.9160208
+               }
+            },
+            "location" : {
+               "lat" : 56.4742525,
+               "lng" : -2.8665281
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4899308,
+                  "lng" : -2.8375793
+               },
+               "southwest" : {
+                  "lat" : 56.4614389,
+                  "lng" : -2.9160208
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

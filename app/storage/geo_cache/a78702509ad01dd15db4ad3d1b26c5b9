@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "KA12",
+               "short_name" : "KA12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Ayrshire KA12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.642397,
+                  "lng" : -4.6434579
+               },
+               "southwest" : {
+                  "lat" : 55.59132529999999,
+                  "lng" : -4.7138259
+               }
+            },
+            "location" : {
+               "lat" : 55.6188429,
+               "lng" : -4.6766226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.642397,
+                  "lng" : -4.6434579
+               },
+               "southwest" : {
+                  "lat" : 55.59132529999999,
+                  "lng" : -4.7138259
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

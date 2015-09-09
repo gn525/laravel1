@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milnthorpe",
+               "short_name" : "Milnthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milnthorpe",
+               "short_name" : "Milnthorpe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA7",
+               "short_name" : "LA7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milnthorpe, Milnthorpe, Cumbria LA7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2343534,
+                  "lng" : -2.7582408
+               },
+               "southwest" : {
+                  "lat" : 54.221177,
+                  "lng" : -2.7806053
+               }
+            },
+            "location" : {
+               "lat" : 54.226867,
+               "lng" : -2.773161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2343534,
+                  "lng" : -2.7582408
+               },
+               "southwest" : {
+                  "lat" : 54.221177,
+                  "lng" : -2.7806053
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

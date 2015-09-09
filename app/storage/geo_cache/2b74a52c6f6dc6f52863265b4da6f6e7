@@ -1,0 +1,182 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sliema House",
+               "short_name" : "Sliema House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Newgate",
+               "short_name" : "Newgate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kirby Cane",
+               "short_name" : "Kirby Cane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bungay",
+               "short_name" : "Bungay",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR35 2PP",
+               "short_name" : "NR35 2PP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sliema House, Newgate, Kirby Cane, Bungay, Norfolk NR35 2PP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.48011229999999,
+               "lng" : 1.4922679
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4814612802915,
+                  "lng" : 1.493616880291502
+               },
+               "southwest" : {
+                  "lat" : 52.4787633197085,
+                  "lng" : 1.490918919708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sliema House",
+               "short_name" : "Sliema House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "69",
+               "short_name" : "69",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brook End",
+               "short_name" : "Brook End",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eversholt",
+               "short_name" : "Eversholt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK17 9DT",
+               "short_name" : "MK17 9DT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sliema House, 69 Brook End, Eversholt, Milton Keynes, Central Bedfordshire MK17 9DT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.9834191,
+               "lng" : -0.5696186
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9847680802915,
+                  "lng" : -0.568269619708498
+               },
+               "southwest" : {
+                  "lat" : 51.9820701197085,
+                  "lng" : -0.5709675802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sliema Cottage",
+               "short_name" : "Sliema Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Saint Quivox",
+               "short_name" : "St Quivox",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ayr",
+               "short_name" : "Ayr",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Ayrshire",
+               "short_name" : "South Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA6 5HJ",
+               "short_name" : "KA6 5HJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sliema Cottage, Saint Quivox, Ayr, South Ayrshire KA6 5HJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.4833937,
+               "lng" : -4.5732471
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4847426802915,
+                  "lng" : -4.571898119708497
+               },
+               "southwest" : {
+                  "lat" : 55.4820447197085,
+                  "lng" : -4.574596080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

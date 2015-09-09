@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Braunton",
+               "short_name" : "Braunton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Braunton, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1552942,
+                  "lng" : -4.0836231
+               },
+               "southwest" : {
+                  "lat" : 51.0591429,
+                  "lng" : -4.2315478
+               }
+            },
+            "location" : {
+               "lat" : 51.10803900000001,
+               "lng" : -4.161014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1552942,
+                  "lng" : -4.0836231
+               },
+               "southwest" : {
+                  "lat" : 51.0591429,
+                  "lng" : -4.2315478
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

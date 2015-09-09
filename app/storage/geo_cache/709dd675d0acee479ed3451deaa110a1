@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS11",
+               "short_name" : "BS11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "BS11, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5401379,
+                  "lng" : -2.6402415
+               },
+               "southwest" : {
+                  "lat" : 51.4807571,
+                  "lng" : -2.7184426
+               }
+            },
+            "location" : {
+               "lat" : 51.5107228,
+               "lng" : -2.68139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5401379,
+                  "lng" : -2.6402415
+               },
+               "southwest" : {
+                  "lat" : 51.4807571,
+                  "lng" : -2.7184426
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

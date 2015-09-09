@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staverton",
+               "short_name" : "Staverton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Totnes",
+               "short_name" : "Totnes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TQ9",
+               "short_name" : "TQ9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staverton, Totnes, Devon TQ9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.464962,
+               "lng" : -3.699913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4720641,
+                  "lng" : -3.6839056
+               },
+               "southwest" : {
+                  "lat" : 50.4578588,
+                  "lng" : -3.715920399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

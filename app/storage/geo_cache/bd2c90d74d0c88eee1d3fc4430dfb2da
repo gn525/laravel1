@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norton Canes",
+               "short_name" : "Norton Canes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norton Canes, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6878044,
+                  "lng" : -1.9545763
+               },
+               "southwest" : {
+                  "lat" : 52.6407797,
+                  "lng" : -2.0178633
+               }
+            },
+            "location" : {
+               "lat" : 52.669549,
+               "lng" : -1.979539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6878044,
+                  "lng" : -1.9545763
+               },
+               "southwest" : {
+                  "lat" : 52.6407797,
+                  "lng" : -2.0178633
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

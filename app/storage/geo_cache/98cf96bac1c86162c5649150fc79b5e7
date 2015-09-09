@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Austell",
+               "short_name" : "St Austell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Austell",
+               "short_name" : "Saint Austell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Austell, Saint Austell, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3553125,
+                  "lng" : -4.749880699999999
+               },
+               "southwest" : {
+                  "lat" : 50.33097,
+                  "lng" : -4.8119611
+               }
+            },
+            "location" : {
+               "lat" : 50.338,
+               "lng" : -4.795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3553125,
+                  "lng" : -4.749880699999999
+               },
+               "southwest" : {
+                  "lat" : 50.33097,
+                  "lng" : -4.8119611
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

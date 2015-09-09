@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ickleford",
+               "short_name" : "Ickleford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ickleford, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0021832,
+                  "lng" : -0.252534
+               },
+               "southwest" : {
+                  "lat" : 51.962627,
+                  "lng" : -0.300081
+               }
+            },
+            "location" : {
+               "lat" : 51.97018,
+               "lng" : -0.279965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0021832,
+                  "lng" : -0.252534
+               },
+               "southwest" : {
+                  "lat" : 51.962627,
+                  "lng" : -0.300081
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

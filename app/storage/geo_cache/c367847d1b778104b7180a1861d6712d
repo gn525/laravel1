@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Calder",
+               "short_name" : "West Calder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Calder",
+               "short_name" : "West Calder",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Lothian",
+               "short_name" : "West Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH55",
+               "short_name" : "EH55",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Calder, West Calder, West Lothian EH55, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8559826,
+                  "lng" : -3.5510884
+               },
+               "southwest" : {
+                  "lat" : 55.8410148,
+                  "lng" : -3.5868309
+               }
+            },
+            "location" : {
+               "lat" : 55.852154,
+               "lng" : -3.566167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8559826,
+                  "lng" : -3.5510884
+               },
+               "southwest" : {
+                  "lat" : 55.8410148,
+                  "lng" : -3.5868309
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "Ireland",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.38294149999999,
+                  "lng" : -5.9980378
+               },
+               "southwest" : {
+                  "lat" : 51.4475448,
+                  "lng" : -10.4800237
+               }
+            },
+            "location" : {
+               "lat" : 53.1423672,
+               "lng" : -7.692053599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.38294149999999,
+                  "lng" : -5.9980378
+               },
+               "southwest" : {
+                  "lat" : 51.4475448,
+                  "lng" : -10.4800237
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

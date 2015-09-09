@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG9",
+               "short_name" : "NG9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham NG9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.97082630000001,
+                  "lng" : -1.1812419
+               },
+               "southwest" : {
+                  "lat" : 52.8918077,
+                  "lng" : -1.2927106
+               }
+            },
+            "location" : {
+               "lat" : 52.9213513,
+               "lng" : -1.2365254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.97082630000001,
+                  "lng" : -1.1812419
+               },
+               "southwest" : {
+                  "lat" : 52.8918077,
+                  "lng" : -1.2927106
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

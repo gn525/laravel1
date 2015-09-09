@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT64",
+               "short_name" : "BT64",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Craigavon, Craigavon, Craigavon BT64, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.45086,
+               "lng" : -6.393829999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4573468,
+                  "lng" : -6.3778226
+               },
+               "southwest" : {
+                  "lat" : 54.4443722,
+                  "lng" : -6.4098374
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

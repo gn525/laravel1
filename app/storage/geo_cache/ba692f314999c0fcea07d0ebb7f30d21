@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chilton Industrial Estate",
+               "short_name" : "Chilton Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Chilton",
+               "short_name" : "Chilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferryhill",
+               "short_name" : "Ferryhill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL17 0SZ",
+               "short_name" : "DL17 0SZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chilton Industrial Estate, Chilton, Ferryhill, County Durham DL17 0SZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6682424,
+               "lng" : -1.5715756
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.66959138029149,
+                  "lng" : -1.570226619708498
+               },
+               "southwest" : {
+                  "lat" : 54.66689341970849,
+                  "lng" : -1.572924580291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

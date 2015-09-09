@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Templecombe",
+               "short_name" : "Templecombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Templecombe",
+               "short_name" : "Templecombe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA8",
+               "short_name" : "BA8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Templecombe, Templecombe, Somerset BA8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0072786,
+                  "lng" : -2.4068775
+               },
+               "southwest" : {
+                  "lat" : 50.9934178,
+                  "lng" : -2.4274106
+               }
+            },
+            "location" : {
+               "lat" : 50.9960639,
+               "lng" : -2.415668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0072786,
+                  "lng" : -2.4068775
+               },
+               "southwest" : {
+                  "lat" : 50.9934178,
+                  "lng" : -2.4274106
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

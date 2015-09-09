@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle Emlyn",
+               "short_name" : "Newcastle Emlyn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle Emlyn",
+               "short_name" : "Newcastle Emlyn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA38",
+               "short_name" : "SA38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newcastle Emlyn, Newcastle Emlyn, Carmarthenshire SA38, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0423767,
+                  "lng" : -4.4500168
+               },
+               "southwest" : {
+                  "lat" : 52.028524,
+                  "lng" : -4.4749134
+               }
+            },
+            "location" : {
+               "lat" : 52.037442,
+               "lng" : -4.468711
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0423767,
+                  "lng" : -4.4500168
+               },
+               "southwest" : {
+                  "lat" : 52.028524,
+                  "lng" : -4.4749134
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moulton Park Industrial Estate",
+               "short_name" : "Moulton Park Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN3",
+               "short_name" : "NN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moulton Park Industrial Estate, Northampton, Northampton, Northamptonshire NN3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.276737,
+               "lng" : -0.8712964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2835635,
+                  "lng" : -0.855289
+               },
+               "southwest" : {
+                  "lat" : 52.2699095,
+                  "lng" : -0.8873038
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

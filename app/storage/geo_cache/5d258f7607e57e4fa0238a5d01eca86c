@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prestatyn",
+               "short_name" : "Prestatyn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prestatyn, Denbighshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.34493459999999,
+                  "lng" : -3.3832534
+               },
+               "southwest" : {
+                  "lat" : 53.3118201,
+                  "lng" : -3.4471779
+               }
+            },
+            "location" : {
+               "lat" : 53.336512,
+               "lng" : -3.407613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.34493459999999,
+                  "lng" : -3.3832534
+               },
+               "southwest" : {
+                  "lat" : 53.3118201,
+                  "lng" : -3.4471779
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

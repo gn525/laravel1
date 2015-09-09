@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanworth",
+               "short_name" : "Hanworth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hampton",
+               "short_name" : "Hampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampton",
+               "short_name" : "Hampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW12",
+               "short_name" : "TW12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanworth, Hampton, Hampton, Greater London TW12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.427886,
+               "lng" : -0.386533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.43484249999999,
+                  "lng" : -0.3705256
+               },
+               "southwest" : {
+                  "lat" : 51.4209285,
+                  "lng" : -0.4025404
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

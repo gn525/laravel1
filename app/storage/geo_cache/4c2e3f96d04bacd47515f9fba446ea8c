@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Radcliffe",
+               "short_name" : "Radcliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Radcliffe, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5872353,
+                  "lng" : -2.3004397
+               },
+               "southwest" : {
+                  "lat" : 53.5285087,
+                  "lng" : -2.3823573
+               }
+            },
+            "location" : {
+               "lat" : 53.561449,
+               "lng" : -2.326769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5872353,
+                  "lng" : -2.3004397
+               },
+               "southwest" : {
+                  "lat" : 53.5285087,
+                  "lng" : -2.3823573
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Radcliffe on Trent",
+               "short_name" : "Radcliffe on Trent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Radcliffe on Trent, Nottingham, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9584696,
+                  "lng" : -1.0094142
+               },
+               "southwest" : {
+                  "lat" : 52.9376663,
+                  "lng" : -1.0587428
+               }
+            },
+            "location" : {
+               "lat" : 52.94341,
+               "lng" : -1.034344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9584696,
+                  "lng" : -1.0094142
+               },
+               "southwest" : {
+                  "lat" : 52.9376663,
+                  "lng" : -1.0587428
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Radcliffe",
+               "short_name" : "Radcliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morpeth",
+               "short_name" : "Morpeth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE65",
+               "short_name" : "NE65",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Radcliffe, Morpeth, Northumberland NE65, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.311016,
+               "lng" : -1.578669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3123649802915,
+                  "lng" : -1.577320019708498
+               },
+               "southwest" : {
+                  "lat" : 55.3096670197085,
+                  "lng" : -1.580017980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

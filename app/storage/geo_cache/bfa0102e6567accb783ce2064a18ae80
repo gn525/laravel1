@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Talbot",
+               "short_name" : "Port Talbot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Neath Port Talbot",
+               "short_name" : "Neath Port Talbot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Talbot, Neath Port Talbot, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6291011,
+                  "lng" : -3.7448119
+               },
+               "southwest" : {
+                  "lat" : 51.5650209,
+                  "lng" : -3.842732799999999
+               }
+            },
+            "location" : {
+               "lat" : 51.5946799,
+               "lng" : -3.784097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6291011,
+                  "lng" : -3.7448119
+               },
+               "southwest" : {
+                  "lat" : 51.5650209,
+                  "lng" : -3.842732799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

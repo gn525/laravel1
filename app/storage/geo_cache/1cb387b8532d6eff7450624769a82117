@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M44",
+               "short_name" : "M44",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M44, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4724464,
+                  "lng" : -2.400318
+               },
+               "southwest" : {
+                  "lat" : 53.415651,
+                  "lng" : -2.4667467
+               }
+            },
+            "location" : {
+               "lat" : 53.4415196,
+               "lng" : -2.4323941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4724464,
+                  "lng" : -2.400318
+               },
+               "southwest" : {
+                  "lat" : 53.415651,
+                  "lng" : -2.4667467
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

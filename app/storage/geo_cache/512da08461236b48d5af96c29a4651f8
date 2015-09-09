@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA21",
+               "short_name" : "TA21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wellington, Wellington, Somerset TA21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9913993,
+                  "lng" : -3.2089462
+               },
+               "southwest" : {
+                  "lat" : 50.9626491,
+                  "lng" : -3.2437641
+               }
+            },
+            "location" : {
+               "lat" : 50.978564,
+               "lng" : -3.2244989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9913993,
+                  "lng" : -3.2089462
+               },
+               "southwest" : {
+                  "lat" : 50.9626491,
+                  "lng" : -3.2437641
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle-under-Lyme",
+               "short_name" : "Newcastle-under-Lyme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle-under-Lyme, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0509498,
+                  "lng" : -2.2025173
+               },
+               "southwest" : {
+                  "lat" : 52.9758779,
+                  "lng" : -2.2558849
+               }
+            },
+            "location" : {
+               "lat" : 53.013208,
+               "lng" : -2.2273002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0509498,
+                  "lng" : -2.2025173
+               },
+               "southwest" : {
+                  "lat" : 52.9758779,
+                  "lng" : -2.2558849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

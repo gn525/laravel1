@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Savernake",
+               "short_name" : "Savernake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marlborough",
+               "short_name" : "Marlborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN8",
+               "short_name" : "SN8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Savernake, Marlborough, Wiltshire SN8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.398759,
+               "lng" : -1.665317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4057199,
+                  "lng" : -1.6493096
+               },
+               "southwest" : {
+                  "lat" : 51.391797,
+                  "lng" : -1.6813244
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

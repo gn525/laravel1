@@ -1,0 +1,333 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton",
+               "short_name" : "Newton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newton, Swansea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5826834,
+                  "lng" : -3.9934264
+               },
+               "southwest" : {
+                  "lat" : 51.56324480000001,
+                  "lng" : -4.0334938
+               }
+            },
+            "location" : {
+               "lat" : 51.5726783,
+               "lng" : -4.0161386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5826834,
+                  "lng" : -3.9934264
+               },
+               "southwest" : {
+                  "lat" : 51.56324480000001,
+                  "lng" : -4.0334938
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton",
+               "short_name" : "Newton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB22",
+               "short_name" : "CB22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newton, Cambridge, Cambridgeshire CB22, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.124187,
+               "lng" : 0.099785
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1255359802915,
+                  "lng" : 0.101133980291502
+               },
+               "southwest" : {
+                  "lat" : 52.1228380197085,
+                  "lng" : 0.09843601970849797
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton",
+               "short_name" : "Newton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG13",
+               "short_name" : "NG13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newton, Nottingham, Nottinghamshire NG13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.969012,
+               "lng" : -0.9758839999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9703609802915,
+                  "lng" : -0.9745350197084979
+               },
+               "southwest" : {
+                  "lat" : 52.9676630197085,
+                  "lng" : -0.977232980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton with Scales",
+               "short_name" : "Newton with Scales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR4",
+               "short_name" : "PR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newton with Scales, Preston, Lancashire PR4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.77104800000001,
+               "lng" : -2.840209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77239698029151,
+                  "lng" : -2.838860019708498
+               },
+               "southwest" : {
+                  "lat" : 53.76969901970851,
+                  "lng" : -2.841557980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton on Trent",
+               "short_name" : "Newton on Trent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN1",
+               "short_name" : "LN1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newton on Trent, Lincoln, Lincolnshire LN1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.25784299999999,
+               "lng" : -0.749957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2591919802915,
+                  "lng" : -0.748608019708498
+               },
+               "southwest" : {
+                  "lat" : 53.2564940197085,
+                  "lng" : -0.7513059802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton",
+               "short_name" : "Newton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfreton",
+               "short_name" : "Alfreton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE55",
+               "short_name" : "DE55",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newton, Alfreton, Derbyshire DE55, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1351354,
+                  "lng" : -1.3290043
+               },
+               "southwest" : {
+                  "lat" : 53.1219169,
+                  "lng" : -1.3523014
+               }
+            },
+            "location" : {
+               "lat" : 53.12902500000001,
+               "lng" : -1.339898
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1351354,
+                  "lng" : -1.3290043
+               },
+               "southwest" : {
+                  "lat" : 53.1219169,
+                  "lng" : -1.3523014
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chelmsley Wood",
+               "short_name" : "Chelmsley Wood",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Solihull District",
+               "short_name" : "Solihull District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chelmsley Wood, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4895805,
+                  "lng" : -1.7148089
+               },
+               "southwest" : {
+                  "lat" : 52.4690422,
+                  "lng" : -1.7488731
+               }
+            },
+            "location" : {
+               "lat" : 52.479201,
+               "lng" : -1.7326305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4895805,
+                  "lng" : -1.7148089
+               },
+               "southwest" : {
+                  "lat" : 52.4690422,
+                  "lng" : -1.7488731
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

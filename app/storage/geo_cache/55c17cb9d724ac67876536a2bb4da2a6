@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perivale",
+               "short_name" : "Perivale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perivale, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5446547,
+                  "lng" : -0.3058853
+               },
+               "southwest" : {
+                  "lat" : 51.52895530000001,
+                  "lng" : -0.3380443
+               }
+            },
+            "location" : {
+               "lat" : 51.532222,
+               "lng" : -0.324477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5446547,
+                  "lng" : -0.3058853
+               },
+               "southwest" : {
+                  "lat" : 51.52895530000001,
+                  "lng" : -0.3380443
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cowes",
+               "short_name" : "Cowes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Wight",
+               "short_name" : "IOW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cowes, Isle of Wight, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7675606,
+                  "lng" : -1.2912292
+               },
+               "southwest" : {
+                  "lat" : 50.7393981,
+                  "lng" : -1.3293501
+               }
+            },
+            "location" : {
+               "lat" : 50.76278500000001,
+               "lng" : -1.300533
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7675606,
+                  "lng" : -1.2912292
+               },
+               "southwest" : {
+                  "lat" : 50.7393981,
+                  "lng" : -1.3293501
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdare",
+               "short_name" : "Aberdare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdare",
+               "short_name" : "Aberdare",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF44",
+               "short_name" : "CF44",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aberdare, Aberdare, Rhondda Cynon Taff CF44, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.72980450000001,
+                  "lng" : -3.4169943
+               },
+               "southwest" : {
+                  "lat" : 51.6878664,
+                  "lng" : -3.4753959
+               }
+            },
+            "location" : {
+               "lat" : 51.716154,
+               "lng" : -3.451816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.72980450000001,
+                  "lng" : -3.4169943
+               },
+               "southwest" : {
+                  "lat" : 51.6878664,
+                  "lng" : -3.4753959
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

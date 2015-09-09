@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B38",
+               "short_name" : "B38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Birmingham B38, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.41745299999999,
+                  "lng" : -1.888106
+               },
+               "southwest" : {
+                  "lat" : 52.3724235,
+                  "lng" : -1.9587883
+               }
+            },
+            "location" : {
+               "lat" : 52.3937229,
+               "lng" : -1.918677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.41745299999999,
+                  "lng" : -1.888106
+               },
+               "southwest" : {
+                  "lat" : 52.3724235,
+                  "lng" : -1.9587883
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

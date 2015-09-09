@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhuddlan",
+               "short_name" : "Rhuddlan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhyl",
+               "short_name" : "Rhyl",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL18",
+               "short_name" : "LL18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rhuddlan, Rhyl, Denbighshire LL18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3047523,
+                  "lng" : -3.4460648
+               },
+               "southwest" : {
+                  "lat" : 53.2843433,
+                  "lng" : -3.4815582
+               }
+            },
+            "location" : {
+               "lat" : 53.291911,
+               "lng" : -3.468319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3047523,
+                  "lng" : -3.4460648
+               },
+               "southwest" : {
+                  "lat" : 53.2843433,
+                  "lng" : -3.4815582
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

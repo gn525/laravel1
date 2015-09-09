@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eaglescliffe",
+               "short_name" : "Eaglescliffe",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS16",
+               "short_name" : "TS16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eaglescliffe, Stockton-on-Tees, Stockton-on-Tees, Stockton-on-Tees TS16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5178547,
+               "lng" : -1.3596383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5243308,
+                  "lng" : -1.3436309
+               },
+               "southwest" : {
+                  "lat" : 54.51137749999999,
+                  "lng" : -1.3756457
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

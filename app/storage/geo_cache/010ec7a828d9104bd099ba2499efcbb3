@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Modbury",
+               "short_name" : "Modbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ivybridge",
+               "short_name" : "Ivybridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL21",
+               "short_name" : "PL21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Modbury, Ivybridge, Devon PL21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3590092,
+                  "lng" : -3.8780743
+               },
+               "southwest" : {
+                  "lat" : 50.3441207,
+                  "lng" : -3.8964322
+               }
+            },
+            "location" : {
+               "lat" : 50.348722,
+               "lng" : -3.89113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3590092,
+                  "lng" : -3.8780743
+               },
+               "southwest" : {
+                  "lat" : 50.3441207,
+                  "lng" : -3.8964322
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

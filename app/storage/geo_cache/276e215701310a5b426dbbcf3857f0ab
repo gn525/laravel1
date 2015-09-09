@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ardingly",
+               "short_name" : "Ardingly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haywards Heath",
+               "short_name" : "Haywards Heath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH17",
+               "short_name" : "RH17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ardingly, Haywards Heath, West Sussex RH17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0540329,
+                  "lng" : -0.0709219
+               },
+               "southwest" : {
+                  "lat" : 51.0382086,
+                  "lng" : -0.096023
+               }
+            },
+            "location" : {
+               "lat" : 51.0483649,
+               "lng" : -0.07788399999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0540329,
+                  "lng" : -0.0709219
+               },
+               "southwest" : {
+                  "lat" : 51.0382086,
+                  "lng" : -0.096023
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

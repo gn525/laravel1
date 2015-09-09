@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lampeter",
+               "short_name" : "Lampeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ceredigion",
+               "short_name" : "Ceredigion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lampeter, Ceredigion, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1393958,
+                  "lng" : -4.0457852
+               },
+               "southwest" : {
+                  "lat" : 52.0958456,
+                  "lng" : -4.1190907
+               }
+            },
+            "location" : {
+               "lat" : 52.112903,
+               "lng" : -4.078508999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1393958,
+                  "lng" : -4.0457852
+               },
+               "southwest" : {
+                  "lat" : 52.0958456,
+                  "lng" : -4.1190907
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Woodham Ferrers",
+               "short_name" : "South Woodham Ferrers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Woodham Ferrers, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6552732,
+                  "lng" : 0.6289454000000001
+               },
+               "southwest" : {
+                  "lat" : 51.6325653,
+                  "lng" : 0.5899278
+               }
+            },
+            "location" : {
+               "lat" : 51.6465,
+               "lng" : 0.614665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6552732,
+                  "lng" : 0.6289454000000001
+               },
+               "southwest" : {
+                  "lat" : 51.6325653,
+                  "lng" : 0.5899278
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

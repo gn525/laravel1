@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shildon",
+               "short_name" : "Shildon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shildon, County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.64152739999999,
+                  "lng" : -1.6167191
+               },
+               "southwest" : {
+                  "lat" : 54.6159379,
+                  "lng" : -1.6695464
+               }
+            },
+            "location" : {
+               "lat" : 54.63341699999999,
+               "lng" : -1.654915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.64152739999999,
+                  "lng" : -1.6167191
+               },
+               "southwest" : {
+                  "lat" : 54.6159379,
+                  "lng" : -1.6695464
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

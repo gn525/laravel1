@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Mull",
+               "short_name" : "Isle of Mull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA75",
+               "short_name" : "PA75",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calgary, Isle of Mull, Argyll and Bute PA75, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.582108,
+               "lng" : -6.2724019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5882527,
+                  "lng" : -6.2563945
+               },
+               "southwest" : {
+                  "lat" : 56.5759623,
+                  "lng" : -6.2884093
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

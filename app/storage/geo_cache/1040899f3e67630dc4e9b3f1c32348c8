@@ -1,0 +1,358 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Downs",
+               "short_name" : "South Downs",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Pulborough",
+               "short_name" : "Pulborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH20",
+               "short_name" : "RH20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Downs, Pulborough, West Sussex RH20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9166667,
+               "lng" : -0.5
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9237007,
+                  "lng" : -0.4839926
+               },
+               "southwest" : {
+                  "lat" : 50.9096316,
+                  "lng" : -0.5160074
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Downs National Park",
+               "short_name" : "South Downs National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Downs National Park, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1925067,
+                  "lng" : 0.2748959
+               },
+               "southwest" : {
+                  "lat" : 50.73544039999999,
+                  "lng" : -1.3356995
+               }
+            },
+            "location" : {
+               "lat" : 50.9639736,
+               "lng" : -0.5304017999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1925067,
+                  "lng" : 0.2748959
+               },
+               "southwest" : {
+                  "lat" : 50.73544039999999,
+                  "lng" : -1.3356995
+               }
+            }
+         },
+         "types" : [ "natural_feature", "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Downs",
+               "short_name" : "S Downs",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Redruth",
+               "short_name" : "Redruth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Redruth",
+               "short_name" : "Redruth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR15 2NG",
+               "short_name" : "TR15 2NG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Downs, Redruth, Cornwall TR15 2NG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2240765,
+                  "lng" : -5.2148829
+               },
+               "southwest" : {
+                  "lat" : 50.2217322,
+                  "lng" : -5.2179788
+               }
+            },
+            "location" : {
+               "lat" : 50.22294,
+               "lng" : -5.2166366
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2242533302915,
+                  "lng" : -5.2148829
+               },
+               "southwest" : {
+                  "lat" : 50.2215553697085,
+                  "lng" : -5.2179788
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Downs",
+               "short_name" : "S Downs",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chilton",
+               "short_name" : "Chilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferryhill",
+               "short_name" : "Ferryhill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL17 0QG",
+               "short_name" : "DL17 0QG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Downs, Chilton, Ferryhill, County Durham DL17 0QG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.661383,
+                  "lng" : -1.5503749
+               },
+               "southwest" : {
+                  "lat" : 54.6601839,
+                  "lng" : -1.5551804
+               }
+            },
+            "location" : {
+               "lat" : 54.6603723,
+               "lng" : -1.5529862
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6621324302915,
+                  "lng" : -1.5503749
+               },
+               "southwest" : {
+                  "lat" : 54.65943446970851,
+                  "lng" : -1.5551804
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Downs",
+               "short_name" : "S Downs",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plumpton Green",
+               "short_name" : "Plumpton Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lewes",
+               "short_name" : "Lewes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN7 3EB",
+               "short_name" : "BN7 3EB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Downs, Plumpton Green, Lewes, East Sussex BN7 3EB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9308062,
+                  "lng" : -0.05859
+               },
+               "southwest" : {
+                  "lat" : 50.9304138,
+                  "lng" : -0.0604507
+               }
+            },
+            "location" : {
+               "lat" : 50.9306215,
+               "lng" : -0.05956329999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9319589802915,
+                  "lng" : -0.05817136970849797
+               },
+               "southwest" : {
+                  "lat" : 50.92926101970851,
+                  "lng" : -0.06086933029150204
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Downs",
+               "short_name" : "S Downs",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Knutsford",
+               "short_name" : "Knutsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Knutsford",
+               "short_name" : "Knutsford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA16",
+               "short_name" : "WA16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Downs, Knutsford, Knutsford, Cheshire East WA16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.299827,
+                  "lng" : -2.3573982
+               },
+               "southwest" : {
+                  "lat" : 53.29857029999999,
+                  "lng" : -2.3579688
+               }
+            },
+            "location" : {
+               "lat" : 53.29918439999999,
+               "lng" : -2.3578998
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3005476302915,
+                  "lng" : -2.356334519708498
+               },
+               "southwest" : {
+                  "lat" : 53.2978496697085,
+                  "lng" : -2.359032480291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

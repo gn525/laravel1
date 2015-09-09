@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SE26",
+               "short_name" : "SE26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London SE26, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4380022,
+                  "lng" : -0.0297705
+               },
+               "southwest" : {
+                  "lat" : 51.4181316,
+                  "lng" : -0.078697
+               }
+            },
+            "location" : {
+               "lat" : 51.42832019999999,
+               "lng" : -0.0555772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4380022,
+                  "lng" : -0.0297705
+               },
+               "southwest" : {
+                  "lat" : 51.4181316,
+                  "lng" : -0.078697
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

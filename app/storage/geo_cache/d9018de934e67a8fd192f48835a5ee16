@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TR7",
+               "short_name" : "TR7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Newquay",
+               "short_name" : "Newquay",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newquay TR7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4313692,
+                  "lng" : -5.0324331
+               },
+               "southwest" : {
+                  "lat" : 50.4000171,
+                  "lng" : -5.1261876
+               }
+            },
+            "location" : {
+               "lat" : 50.40863,
+               "lng" : -5.0662097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4313692,
+                  "lng" : -5.0324331
+               },
+               "southwest" : {
+                  "lat" : 50.4000171,
+                  "lng" : -5.1261876
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

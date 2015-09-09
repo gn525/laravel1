@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cookstown",
+               "short_name" : "Cookstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cookstown",
+               "short_name" : "Cookstown",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cookstown",
+               "short_name" : "Cookstown",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT80",
+               "short_name" : "BT80",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cookstown, Cookstown, Cookstown BT80, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.64102,
+               "lng" : -6.744289999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6474766,
+                  "lng" : -6.7282826
+               },
+               "southwest" : {
+                  "lat" : 54.6345624,
+                  "lng" : -6.7602974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cookstown",
+               "short_name" : "Cookstown",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cookstown, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.74764,
+                  "lng" : -6.498719899999999
+               },
+               "southwest" : {
+                  "lat" : 54.55224,
+                  "lng" : -7.0108999
+               }
+            },
+            "location" : {
+               "lat" : 54.6411301,
+               "lng" : -6.752254900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.74764,
+                  "lng" : -6.498719899999999
+               },
+               "southwest" : {
+                  "lat" : 54.55224,
+                  "lng" : -7.0108999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

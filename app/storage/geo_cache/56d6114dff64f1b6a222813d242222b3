@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SA3",
+               "short_name" : "SA3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swansea SA3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6492586,
+                  "lng" : -3.9733562
+               },
+               "southwest" : {
+                  "lat" : 51.5369471,
+                  "lng" : -4.3093859
+               }
+            },
+            "location" : {
+               "lat" : 51.5875865,
+               "lng" : -4.1937843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6492586,
+                  "lng" : -3.9733562
+               },
+               "southwest" : {
+                  "lat" : 51.5369471,
+                  "lng" : -4.3093859
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

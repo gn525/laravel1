@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TA1",
+               "short_name" : "TA1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taunton, Somerset TA1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.026494,
+                  "lng" : -3.0561073
+               },
+               "southwest" : {
+                  "lat" : 50.99257840000001,
+                  "lng" : -3.1447024
+               }
+            },
+            "location" : {
+               "lat" : 51.00788259999999,
+               "lng" : -3.0976971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.026494,
+                  "lng" : -3.0561073
+               },
+               "southwest" : {
+                  "lat" : 50.99257840000001,
+                  "lng" : -3.1447024
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

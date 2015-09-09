@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Yarmouth",
+               "short_name" : "Great Yarmouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Great Yarmouth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7672635,
+                  "lng" : 1.7443423
+               },
+               "southwest" : {
+                  "lat" : 52.5248773,
+                  "lng" : 1.4947501
+               }
+            },
+            "location" : {
+               "lat" : 52.6697317,
+               "lng" : 1.6655949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7672635,
+                  "lng" : 1.7443423
+               },
+               "southwest" : {
+                  "lat" : 52.5248773,
+                  "lng" : 1.4947501
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

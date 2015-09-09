@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Normanton",
+               "short_name" : "South Normanton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Normanton, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1154699,
+                  "lng" : -1.3096115
+               },
+               "southwest" : {
+                  "lat" : 53.0925619,
+                  "lng" : -1.3706375
+               }
+            },
+            "location" : {
+               "lat" : 53.1081689,
+               "lng" : -1.340708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1154699,
+                  "lng" : -1.3096115
+               },
+               "southwest" : {
+                  "lat" : 53.0925619,
+                  "lng" : -1.3706375
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

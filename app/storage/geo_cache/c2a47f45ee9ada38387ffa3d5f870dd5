@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sedgefield",
+               "short_name" : "Sedgefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS21",
+               "short_name" : "TS21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sedgefield, Stockton-on-Tees, County Durham TS21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.653152,
+               "lng" : -1.45019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6596067,
+                  "lng" : -1.4341826
+               },
+               "southwest" : {
+                  "lat" : 54.6466963,
+                  "lng" : -1.4661974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

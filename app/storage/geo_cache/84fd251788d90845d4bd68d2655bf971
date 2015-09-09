@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S60",
+               "short_name" : "S60",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Yorkshire S60, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4458692,
+                  "lng" : -1.2826673
+               },
+               "southwest" : {
+                  "lat" : 53.37769979999999,
+                  "lng" : -1.3963291
+               }
+            },
+            "location" : {
+               "lat" : 53.4152585,
+               "lng" : -1.36201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4458692,
+                  "lng" : -1.2826673
+               },
+               "southwest" : {
+                  "lat" : 53.37769979999999,
+                  "lng" : -1.3963291
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

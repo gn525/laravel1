@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hassocks",
+               "short_name" : "Hassocks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hassocks, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.938246,
+                  "lng" : -0.1199834
+               },
+               "southwest" : {
+                  "lat" : 50.9170171,
+                  "lng" : -0.1615455
+               }
+            },
+            "location" : {
+               "lat" : 50.9246755,
+               "lng" : -0.1460982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.938246,
+                  "lng" : -0.1199834
+               },
+               "southwest" : {
+                  "lat" : 50.9170171,
+                  "lng" : -0.1615455
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

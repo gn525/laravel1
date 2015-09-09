@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dosthill",
+               "short_name" : "Dosthill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dosthill, Tamworth, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6118232,
+                  "lng" : -1.6785818
+               },
+               "southwest" : {
+                  "lat" : 52.5886665,
+                  "lng" : -1.7039565
+               }
+            },
+            "location" : {
+               "lat" : 52.596676,
+               "lng" : -1.68276
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6118232,
+                  "lng" : -1.6785818
+               },
+               "southwest" : {
+                  "lat" : 52.5886665,
+                  "lng" : -1.7039565
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Didcot",
+               "short_name" : "Didcot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Didcot",
+               "short_name" : "Didcot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX11",
+               "short_name" : "OX11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Didcot, Didcot, Oxfordshire OX11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.62421639999999,
+                  "lng" : -1.2196568
+               },
+               "southwest" : {
+                  "lat" : 51.5943927,
+                  "lng" : -1.2667154
+               }
+            },
+            "location" : {
+               "lat" : 51.60804400000001,
+               "lng" : -1.24484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.62421639999999,
+                  "lng" : -1.2196568
+               },
+               "southwest" : {
+                  "lat" : 51.5943927,
+                  "lng" : -1.2667154
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

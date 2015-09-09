@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Larne",
+               "short_name" : "Larne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larne",
+               "short_name" : "Larne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Larne",
+               "short_name" : "Larne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT40",
+               "short_name" : "BT40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Larne, Larne, Larne BT40, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.85749999999999,
+               "lng" : -5.80986
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8639222,
+                  "lng" : -5.793852600000001
+               },
+               "southwest" : {
+                  "lat" : 54.85107679999999,
+                  "lng" : -5.8258674
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

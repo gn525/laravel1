@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frant",
+               "short_name" : "Frant",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tunbridge Wells",
+               "short_name" : "Tunbridge Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN3",
+               "short_name" : "TN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Frant, Tunbridge Wells, East Sussex TN3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.096314,
+               "lng" : 0.268194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1033208,
+                  "lng" : 0.2842014
+               },
+               "southwest" : {
+                  "lat" : 51.08930609999999,
+                  "lng" : 0.2521866
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

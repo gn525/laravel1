@@ -1,0 +1,320 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "www.russian-Interpreter.eu",
+               "short_name" : "www.russian-Interpreter.eu",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "56",
+               "short_name" : "56",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Waltheof Road",
+               "short_name" : "Waltheof Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S2 1NU",
+               "short_name" : "S2 1NU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "www.russian-Interpreter.eu, 56 Waltheof Road, Sheffield, South Yorkshire S2 1NU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3688739,
+               "lng" : -1.4271798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37022288029149,
+                  "lng" : -1.425830819708498
+               },
+               "southwest" : {
+                  "lat" : 53.3675249197085,
+                  "lng" : -1.428528780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia House",
+               "short_name" : "Russia House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Northbridge Street",
+               "short_name" : "Northbridge Street",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Robertsbridge",
+               "short_name" : "Robertsbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Robertsbridge",
+               "short_name" : "Robertsbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN32 5NP",
+               "short_name" : "TN32 5NP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Russia House, Robertsbridge, East Sussex TN32 5NP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9914257,
+               "lng" : 0.4781052
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9927746802915,
+                  "lng" : 0.4794541802915021
+               },
+               "southwest" : {
+                  "lat" : 50.9900767197085,
+                  "lng" : 0.476756219708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia Lane",
+               "short_name" : "Russia Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E2",
+               "short_name" : "E2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Russia Lane, London E2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.53295079999999,
+                  "lng" : -0.05296679999999999
+               },
+               "southwest" : {
+                  "lat" : 51.53063359999999,
+                  "lng" : -0.0557712
+               }
+            },
+            "location" : {
+               "lat" : 51.5319334,
+               "lng" : -0.0541306
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.53314118029149,
+                  "lng" : -0.05296679999999999
+               },
+               "southwest" : {
+                  "lat" : 51.53044321970849,
+                  "lng" : -0.0557712
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia Street",
+               "short_name" : "Russia St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Accrington",
+               "short_name" : "Accrington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Accrington",
+               "short_name" : "Accrington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB5",
+               "short_name" : "BB5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Russia Street, Accrington, Accrington, Lancashire BB5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7542237,
+                  "lng" : -2.3828613
+               },
+               "southwest" : {
+                  "lat" : 53.7531139,
+                  "lng" : -2.3832181
+               }
+            },
+            "location" : {
+               "lat" : 53.7541413,
+               "lng" : -2.3829357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7550177802915,
+                  "lng" : -2.381690719708498
+               },
+               "southwest" : {
+                  "lat" : 53.7523198197085,
+                  "lng" : -2.384388680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia Row",
+               "short_name" : "Russia Row",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC2V 6DN",
+               "short_name" : "EC2V 6DN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Russia Row, London EC2V 6DN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5146259,
+                  "lng" : -0.09325849999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5144178,
+                  "lng" : -0.0939614
+               }
+            },
+            "location" : {
+               "lat" : 51.5145758,
+               "lng" : -0.0938451
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5158708302915,
+                  "lng" : -0.09226096970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5131728697085,
+                  "lng" : -0.09495893029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Angmering",
+               "short_name" : "Angmering",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Angmering, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8967548,
+                  "lng" : -0.4553261
+               },
+               "southwest" : {
+                  "lat" : 50.8181694,
+                  "lng" : -0.5155139
+               }
+            },
+            "location" : {
+               "lat" : 50.829189,
+               "lng" : -0.483919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8967548,
+                  "lng" : -0.4553261
+               },
+               "southwest" : {
+                  "lat" : 50.8181694,
+                  "lng" : -0.5155139
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

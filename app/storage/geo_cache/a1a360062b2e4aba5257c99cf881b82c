@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llanybydder",
+               "short_name" : "Llanybydder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llanybydder",
+               "short_name" : "Llanybydder",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA40",
+               "short_name" : "SA40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llanybydder, Llanybydder, Carmarthenshire SA40, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0811125,
+                  "lng" : -4.1316973
+               },
+               "southwest" : {
+                  "lat" : 52.0685384,
+                  "lng" : -4.167892399999999
+               }
+            },
+            "location" : {
+               "lat" : 52.07488499999999,
+               "lng" : -4.157826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0811125,
+                  "lng" : -4.1316973
+               },
+               "southwest" : {
+                  "lat" : 52.0685384,
+                  "lng" : -4.167892399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llanbydder",
+               "short_name" : "Llanbydder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llanybydder",
+               "short_name" : "Llanybydder",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA40",
+               "short_name" : "SA40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llanbydder, Llanybydder, Carmarthenshire SA40, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.075392,
+               "lng" : -4.162158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0767409802915,
+                  "lng" : -4.160809019708497
+               },
+               "southwest" : {
+                  "lat" : 52.0740430197085,
+                  "lng" : -4.163506980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

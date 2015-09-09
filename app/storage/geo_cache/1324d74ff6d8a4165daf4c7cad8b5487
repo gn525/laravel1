@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO18",
+               "short_name" : "PO18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Chichester",
+               "short_name" : "Chichester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chichester, West Sussex PO18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9554438,
+                  "lng" : -0.6573804999999999
+               },
+               "southwest" : {
+                  "lat" : 50.804908,
+                  "lng" : -0.9304083999999998
+               }
+            },
+            "location" : {
+               "lat" : 50.90528699999999,
+               "lng" : -0.8102939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9554438,
+                  "lng" : -0.6573804999999999
+               },
+               "southwest" : {
+                  "lat" : 50.804908,
+                  "lng" : -0.9304083999999998
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garstang",
+               "short_name" : "Garstang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR3",
+               "short_name" : "PR3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Garstang, Preston, Lancashire PR3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.913946,
+                  "lng" : -2.7658695
+               },
+               "southwest" : {
+                  "lat" : 53.8951946,
+                  "lng" : -2.7903524
+               }
+            },
+            "location" : {
+               "lat" : 53.90302699999999,
+               "lng" : -2.772196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.913946,
+                  "lng" : -2.7658695
+               },
+               "southwest" : {
+                  "lat" : 53.8951946,
+                  "lng" : -2.7903524
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,197 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria House",
+               "short_name" : "Bavaria House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "13-14",
+               "short_name" : "13-14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Appold Street",
+               "short_name" : "Appold St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC2A 2NB",
+               "short_name" : "EC2A 2NB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bavaria House, 13-14 Appold Street, London EC2A 2NB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5205868,
+               "lng" : -0.08244109999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5219357802915,
+                  "lng" : -0.08109211970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5192378197085,
+                  "lng" : -0.08379008029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria Place",
+               "short_name" : "Bavaria Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD8",
+               "short_name" : "BD8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bavaria Place, Bradford, West Yorkshire BD8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.80536979999999,
+                  "lng" : -1.7743896
+               },
+               "southwest" : {
+                  "lat" : 53.8045238,
+                  "lng" : -1.7758467
+               }
+            },
+            "location" : {
+               "lat" : 53.8047441,
+               "lng" : -1.7748612
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8062957802915,
+                  "lng" : -1.773769169708498
+               },
+               "southwest" : {
+                  "lat" : 53.8035978197085,
+                  "lng" : -1.776467130291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bavaria Road",
+               "short_name" : "Bavaria Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N19",
+               "short_name" : "N19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bavaria Road, London N19, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.56596219999999,
+                  "lng" : -0.1209781
+               },
+               "southwest" : {
+                  "lat" : 51.5646459,
+                  "lng" : -0.1236173
+               }
+            },
+            "location" : {
+               "lat" : 51.5652979,
+               "lng" : -0.1223645
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.56665303029149,
+                  "lng" : -0.120948719708498
+               },
+               "southwest" : {
+                  "lat" : 51.56395506970849,
+                  "lng" : -0.123646680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

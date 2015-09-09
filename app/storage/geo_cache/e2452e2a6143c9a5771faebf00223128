@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berkeley Heath",
+               "short_name" : "Berkeley Heath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berkeley",
+               "short_name" : "Berkeley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL13",
+               "short_name" : "GL13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berkeley Heath, Berkeley, Gloucestershire GL13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6915403,
+               "lng" : -2.4343185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6984566,
+                  "lng" : -2.4183111
+               },
+               "southwest" : {
+                  "lat" : 51.68462299999999,
+                  "lng" : -2.4503259
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

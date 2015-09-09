@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roslin",
+               "short_name" : "Roslin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roslin, Midlothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8639886,
+                  "lng" : -3.1561201
+               },
+               "southwest" : {
+                  "lat" : 55.8438209,
+                  "lng" : -3.1811989
+               }
+            },
+            "location" : {
+               "lat" : 55.85587,
+               "lng" : -3.164189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8639886,
+                  "lng" : -3.1561201
+               },
+               "southwest" : {
+                  "lat" : 55.8438209,
+                  "lng" : -3.1811989
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

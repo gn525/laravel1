@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "North Shields",
+               "short_name" : "North Shields",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Shields",
+               "short_name" : "North Shields",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE29",
+               "short_name" : "NE29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York, North Shields, North Shields, Tyne and Wear NE29, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.025733,
+               "lng" : -1.486073
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0321283,
+                  "lng" : -1.4700656
+               },
+               "southwest" : {
+                  "lat" : 55.0193366,
+                  "lng" : -1.5020804
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

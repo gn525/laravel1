@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ST3",
+               "short_name" : "ST3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stoke-on-Trent ST3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0184441,
+                  "lng" : -2.0700842
+               },
+               "southwest" : {
+                  "lat" : 52.9429843,
+                  "lng" : -2.1689842
+               }
+            },
+            "location" : {
+               "lat" : 52.97354439999999,
+               "lng" : -2.1072624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0184441,
+                  "lng" : -2.0700842
+               },
+               "southwest" : {
+                  "lat" : 52.9429843,
+                  "lng" : -2.1689842
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

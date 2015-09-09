@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehaven",
+               "short_name" : "Whitehaven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whitehaven",
+               "short_name" : "Whitehaven",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA28",
+               "short_name" : "CA28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitehaven, Whitehaven, Cumbria CA28, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5683765,
+                  "lng" : -3.5519504
+               },
+               "southwest" : {
+                  "lat" : 54.5204916,
+                  "lng" : -3.6035232
+               }
+            },
+            "location" : {
+               "lat" : 54.549699,
+               "lng" : -3.589233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5683765,
+                  "lng" : -3.5519504
+               },
+               "southwest" : {
+                  "lat" : 54.5204916,
+                  "lng" : -3.6035232
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

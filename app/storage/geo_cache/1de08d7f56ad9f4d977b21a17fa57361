@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corley",
+               "short_name" : "Corley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV7",
+               "short_name" : "CV7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Corley, Coventry, Warwickshire CV7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.463536,
+               "lng" : -1.557402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4703337,
+                  "lng" : -1.5413946
+               },
+               "southwest" : {
+                  "lat" : 52.4567373,
+                  "lng" : -1.5734094
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

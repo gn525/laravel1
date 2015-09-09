@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG6",
+               "short_name" : "NG6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham NG6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0441533,
+                  "lng" : -1.1428445
+               },
+               "southwest" : {
+                  "lat" : 52.9757869,
+                  "lng" : -1.2326703
+               }
+            },
+            "location" : {
+               "lat" : 53.0022897,
+               "lng" : -1.1958085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0441533,
+                  "lng" : -1.1428445
+               },
+               "southwest" : {
+                  "lat" : 52.9757869,
+                  "lng" : -1.2326703
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

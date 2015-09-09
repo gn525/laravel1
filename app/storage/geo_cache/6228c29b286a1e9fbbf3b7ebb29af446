@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wimborne Minster",
+               "short_name" : "Wimborne Minster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wimborne",
+               "short_name" : "Wimborne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH21",
+               "short_name" : "BH21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wimborne Minster, Wimborne, Dorset BH21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.800657,
+               "lng" : -1.984495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8077085,
+                  "lng" : -1.9684876
+               },
+               "southwest" : {
+                  "lat" : 50.7936044,
+                  "lng" : -2.0005024
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

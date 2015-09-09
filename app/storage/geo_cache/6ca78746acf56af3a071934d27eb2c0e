@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton-under-Lyne",
+               "short_name" : "Ashton-under-Lyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashton-under-Lyne, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.52279619999999,
+                  "lng" : -2.0487786
+               },
+               "southwest" : {
+                  "lat" : 53.4744884,
+                  "lng" : -2.1273208
+               }
+            },
+            "location" : {
+               "lat" : 53.4876815,
+               "lng" : -2.0961077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.52279619999999,
+                  "lng" : -2.0487786
+               },
+               "southwest" : {
+                  "lat" : 53.4744884,
+                  "lng" : -2.1273208
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton",
+               "short_name" : "Ashton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN7",
+               "short_name" : "NN7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashton, Northampton, Northamptonshire NN7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.141936,
+               "lng" : -0.8860629999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1432849802915,
+                  "lng" : -0.8847140197084978
+               },
+               "southwest" : {
+                  "lat" : 52.14058701970851,
+                  "lng" : -0.8874119802915019
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton",
+               "short_name" : "Ashton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Helston",
+               "short_name" : "Helston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR13",
+               "short_name" : "TR13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashton, Helston, Cornwall TR13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.108351,
+               "lng" : -5.353115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1096999802915,
+                  "lng" : -5.351766019708498
+               },
+               "southwest" : {
+                  "lat" : 50.1070020197085,
+                  "lng" : -5.354463980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton",
+               "short_name" : "Ashton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH3",
+               "short_name" : "CH3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashton, Chester, Cheshire West and Chester CH3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.21746599999999,
+               "lng" : -2.739466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2188149802915,
+                  "lng" : -2.738117019708498
+               },
+               "southwest" : {
+                  "lat" : 53.2161170197085,
+                  "lng" : -2.740814980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton under Hill",
+               "short_name" : "Ashton under Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Evesham",
+               "short_name" : "Evesham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR11",
+               "short_name" : "WR11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashton under Hill, Evesham, Worcestershire WR11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.039095,
+               "lng" : -2.0038079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0404439802915,
+                  "lng" : -2.002458919708498
+               },
+               "southwest" : {
+                  "lat" : 52.0377460197085,
+                  "lng" : -2.005156880291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton",
+               "short_name" : "Ashton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leominster",
+               "short_name" : "Leominster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR6",
+               "short_name" : "HR6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashton, Leominster, Herefordshire HR6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.27476000000001,
+               "lng" : -2.710963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.27610898029151,
+                  "lng" : -2.709614019708498
+               },
+               "southwest" : {
+                  "lat" : 52.27341101970851,
+                  "lng" : -2.712311980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

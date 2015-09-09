@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamble-le-Rice",
+               "short_name" : "Hamble-le-Rice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamble-le-Rice, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8718763,
+                  "lng" : -1.3076071
+               },
+               "southwest" : {
+                  "lat" : 50.8480106,
+                  "lng" : -1.3401203
+               }
+            },
+            "location" : {
+               "lat" : 50.8588275,
+               "lng" : -1.3201169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8718763,
+                  "lng" : -1.3076071
+               },
+               "southwest" : {
+                  "lat" : 50.8480106,
+                  "lng" : -1.3401203
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

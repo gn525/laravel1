@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farnborough",
+               "short_name" : "Farnborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Farnborough, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3200843,
+                  "lng" : -0.7332799
+               },
+               "southwest" : {
+                  "lat" : 51.2688813,
+                  "lng" : -0.8056053999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.2868939,
+               "lng" : -0.7526149999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3200843,
+                  "lng" : -0.7332799
+               },
+               "southwest" : {
+                  "lat" : 51.2688813,
+                  "lng" : -0.8056053999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farnborough Airport",
+               "short_name" : "Farnborough Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Farnborough",
+               "short_name" : "Farnborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU14 6XA",
+               "short_name" : "GU14 6XA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Farnborough Airport, Farnborough, Hampshire GU14 6XA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2849338,
+                  "lng" : -0.7555369
+               },
+               "southwest" : {
+                  "lat" : 51.2687384,
+                  "lng" : -0.7975249
+               }
+            },
+            "location" : {
+               "lat" : 51.2832359,
+               "lng" : -0.7765628999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2849338,
+                  "lng" : -0.7555369
+               },
+               "southwest" : {
+                  "lat" : 51.2687384,
+                  "lng" : -0.7975249
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

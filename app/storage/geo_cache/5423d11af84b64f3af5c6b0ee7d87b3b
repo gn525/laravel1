@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clitheroe",
+               "short_name" : "Clitheroe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clitheroe",
+               "short_name" : "Clitheroe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB7",
+               "short_name" : "BB7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clitheroe, Clitheroe, Lancashire BB7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.89050109999999,
+                  "lng" : -2.3649845
+               },
+               "southwest" : {
+                  "lat" : 53.860164,
+                  "lng" : -2.4208197
+               }
+            },
+            "location" : {
+               "lat" : 53.871098,
+               "lng" : -2.393083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.89050109999999,
+                  "lng" : -2.3649845
+               },
+               "southwest" : {
+                  "lat" : 53.860164,
+                  "lng" : -2.4208197
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

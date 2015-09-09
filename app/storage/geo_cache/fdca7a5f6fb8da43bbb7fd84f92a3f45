@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hobson Industrial Estate",
+               "short_name" : "Hobson Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Hobson",
+               "short_name" : "Hobson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE16 6EA",
+               "short_name" : "NE16 6EA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hobson Industrial Estate, Hobson, Newcastle upon Tyne, County Durham NE16 6EA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.8991135,
+               "lng" : -1.7303481
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9004624802915,
+                  "lng" : -1.728999119708498
+               },
+               "southwest" : {
+                  "lat" : 54.8977645197085,
+                  "lng" : -1.731697080291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

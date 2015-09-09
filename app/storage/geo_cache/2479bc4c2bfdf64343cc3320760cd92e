@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peterhead",
+               "short_name" : "Peterhead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peterhead, Aberdeenshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.5258002,
+                  "lng" : -1.7666744
+               },
+               "southwest" : {
+                  "lat" : 57.48487769999999,
+                  "lng" : -1.8256087
+               }
+            },
+            "location" : {
+               "lat" : 57.50812299999999,
+               "lng" : -1.784066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5258002,
+                  "lng" : -1.7666744
+               },
+               "southwest" : {
+                  "lat" : 57.48487769999999,
+                  "lng" : -1.8256087
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

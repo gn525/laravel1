@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dungannon",
+               "short_name" : "Dungannon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dungannon",
+               "short_name" : "Dungannon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dungannon and South Tyrone",
+               "short_name" : "Dungannon and South Tyrone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT71",
+               "short_name" : "BT71",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dungannon, Dungannon, Dungannon and South Tyrone BT71, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.50425,
+               "lng" : -6.765359999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5107283,
+                  "lng" : -6.7493526
+               },
+               "southwest" : {
+                  "lat" : 54.4977707,
+                  "lng" : -6.7813674
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dungannon and South Tyrone",
+               "short_name" : "Dungannon and South Tyrone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dungannon and South Tyrone, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5820101,
+                  "lng" : -6.575757599999999
+               },
+               "southwest" : {
+                  "lat" : 54.32511,
+                  "lng" : -7.366730199999999
+               }
+            },
+            "location" : {
+               "lat" : 54.4608818,
+               "lng" : -6.824940499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5820101,
+                  "lng" : -6.575757599999999
+               },
+               "southwest" : {
+                  "lat" : 54.32511,
+                  "lng" : -7.366730199999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

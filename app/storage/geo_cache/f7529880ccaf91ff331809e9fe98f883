@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "Connecticut",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bristol Road",
+               "short_name" : "Bristol Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chippenham",
+               "short_name" : "Chippenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chippenham",
+               "short_name" : "Chippenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN14 6LH",
+               "short_name" : "SN14 6LH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Connecticut, 14 Bristol Road, Chippenham, Wiltshire SN14 6LH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.45946110000001,
+                  "lng" : -2.1296619
+               },
+               "southwest" : {
+                  "lat" : 51.4593742,
+                  "lng" : -2.1297599
+               }
+            },
+            "location" : {
+               "lat" : 51.45941759999999,
+               "lng" : -2.1297109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4607666302915,
+                  "lng" : -2.128361919708498
+               },
+               "southwest" : {
+                  "lat" : 51.4580686697085,
+                  "lng" : -2.131059880291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

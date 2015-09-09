@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giffnock",
+               "short_name" : "Giffnock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Renfrewshire",
+               "short_name" : "East Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Giffnock, Glasgow, East Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8139547,
+                  "lng" : -4.2745732
+               },
+               "southwest" : {
+                  "lat" : 55.78082819999999,
+                  "lng" : -4.3131849
+               }
+            },
+            "location" : {
+               "lat" : 55.800047,
+               "lng" : -4.295033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8139547,
+                  "lng" : -4.2745732
+               },
+               "southwest" : {
+                  "lat" : 55.78082819999999,
+                  "lng" : -4.3131849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

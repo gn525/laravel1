@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stapleford",
+               "short_name" : "Stapleford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stapleford, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9505421,
+                  "lng" : -1.2508277
+               },
+               "southwest" : {
+                  "lat" : 52.9189422,
+                  "lng" : -1.2857964
+               }
+            },
+            "location" : {
+               "lat" : 52.9286389,
+               "lng" : -1.272719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9505421,
+                  "lng" : -1.2508277
+               },
+               "southwest" : {
+                  "lat" : 52.9189422,
+                  "lng" : -1.2857964
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

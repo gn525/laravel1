@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rossendale",
+               "short_name" : "Rossendale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rossendale",
+               "short_name" : "Rossendale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB4",
+               "short_name" : "BB4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rossendale, Rossendale, Lancashire BB4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.70645099999999,
+               "lng" : -2.279366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7130551,
+                  "lng" : -2.2633586
+               },
+               "southwest" : {
+                  "lat" : 53.6998458,
+                  "lng" : -2.2953734
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

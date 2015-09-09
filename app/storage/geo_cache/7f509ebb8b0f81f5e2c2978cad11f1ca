@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "KT19",
+               "short_name" : "KT19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "KT19, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3728406,
+                  "lng" : -0.2455835
+               },
+               "southwest" : {
+                  "lat" : 51.33069,
+                  "lng" : -0.3050788
+               }
+            },
+            "location" : {
+               "lat" : 51.3519376,
+               "lng" : -0.2748385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3728406,
+                  "lng" : -0.2455835
+               },
+               "southwest" : {
+                  "lat" : 51.33069,
+                  "lng" : -0.3050788
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Epsom",
+               "short_name" : "Epsom",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Epsom",
+               "short_name" : "Epsom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Epsom",
+               "short_name" : "Epsom",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KT19",
+               "short_name" : "KT19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Epsom, Epsom, Epsom, Surrey KT19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.33439,
+               "lng" : -0.26875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3357389802915,
+                  "lng" : -0.2674010197084979
+               },
+               "southwest" : {
+                  "lat" : 51.3330410197085,
+                  "lng" : -0.270098980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

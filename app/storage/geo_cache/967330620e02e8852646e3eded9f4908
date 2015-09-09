@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishopston",
+               "short_name" : "Bishopston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bishopston, Swansea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5911519,
+                  "lng" : -4.029879999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5642124,
+                  "lng" : -4.0682916
+               }
+            },
+            "location" : {
+               "lat" : 51.5756777,
+               "lng" : -4.049381299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5911519,
+                  "lng" : -4.029879999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5642124,
+                  "lng" : -4.0682916
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

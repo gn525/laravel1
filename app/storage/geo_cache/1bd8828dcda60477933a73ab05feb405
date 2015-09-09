@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NN8",
+               "short_name" : "NN8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Wellingborough",
+               "short_name" : "Wellingborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellingborough, Northamptonshire NN8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3299704,
+                  "lng" : -0.6062679000000001
+               },
+               "southwest" : {
+                  "lat" : 52.27448039999999,
+                  "lng" : -0.7583639999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.30610859999999,
+               "lng" : -0.6927036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3299704,
+                  "lng" : -0.6062679000000001
+               },
+               "southwest" : {
+                  "lat" : 52.27448039999999,
+                  "lng" : -0.7583639999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellingborough",
+               "short_name" : "Wellingborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellingborough, Northamptonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.32845769999999,
+                  "lng" : -0.6639058999999999
+               },
+               "southwest" : {
+                  "lat" : 52.2800036,
+                  "lng" : -0.7613705
+               }
+            },
+            "location" : {
+               "lat" : 52.302419,
+               "lng" : -0.6939639999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.32845769999999,
+                  "lng" : -0.6639058999999999
+               },
+               "southwest" : {
+                  "lat" : 52.2800036,
+                  "lng" : -0.7613705
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

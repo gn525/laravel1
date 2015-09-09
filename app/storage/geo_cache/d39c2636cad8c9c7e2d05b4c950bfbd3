@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crockham Hill",
+               "short_name" : "Crockham Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Edenbridge",
+               "short_name" : "Edenbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN8",
+               "short_name" : "TN8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crockham Hill, Edenbridge, Kent TN8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.236681,
+               "lng" : 0.06545100000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2436665,
+                  "lng" : 0.0814584
+               },
+               "southwest" : {
+                  "lat" : 51.2296944,
+                  "lng" : 0.0494436
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

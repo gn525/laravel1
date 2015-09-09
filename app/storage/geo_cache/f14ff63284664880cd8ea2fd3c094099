@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atherstone on Stour",
+               "short_name" : "Atherstone on Stour",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stratford-upon-Avon",
+               "short_name" : "Stratford-upon-Avon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV37",
+               "short_name" : "CV37",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atherstone on Stour, Stratford-upon-Avon, Warwickshire CV37, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.153605,
+               "lng" : -1.702792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.16045039999999,
+                  "lng" : -1.6867846
+               },
+               "southwest" : {
+                  "lat" : 52.1467585,
+                  "lng" : -1.7187994
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

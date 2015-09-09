@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ryton",
+               "short_name" : "Ryton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ryton, Tyne and Wear, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9799499,
+                  "lng" : -1.7372217
+               },
+               "southwest" : {
+                  "lat" : 54.96416079999999,
+                  "lng" : -1.781275
+               }
+            },
+            "location" : {
+               "lat" : 54.9728909,
+               "lng" : -1.7629735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9799499,
+                  "lng" : -1.7372217
+               },
+               "southwest" : {
+                  "lat" : 54.96416079999999,
+                  "lng" : -1.781275
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

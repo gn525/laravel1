@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burton Latimer",
+               "short_name" : "Burton Latimer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burton Latimer, Northamptonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3790695,
+                  "lng" : -0.6289728
+               },
+               "southwest" : {
+                  "lat" : 52.3478521,
+                  "lng" : -0.7045954999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.365906,
+               "lng" : -0.6782079999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3790695,
+                  "lng" : -0.6289728
+               },
+               "southwest" : {
+                  "lat" : 52.3478521,
+                  "lng" : -0.7045954999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

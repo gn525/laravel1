@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prologis Park",
+               "short_name" : "Prologis Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV6 4QG",
+               "short_name" : "CV6 4QG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prologis Park, Coventry, West Midlands CV6 4QG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4553349,
+               "lng" : -1.5261847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4566838802915,
+                  "lng" : -1.524835719708498
+               },
+               "southwest" : {
+                  "lat" : 52.4539859197085,
+                  "lng" : -1.527533680291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

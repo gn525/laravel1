@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Appleton",
+               "short_name" : "Appleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Appleton, Warrington, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3701748,
+                  "lng" : -2.5058246
+               },
+               "southwest" : {
+                  "lat" : 53.3358988,
+                  "lng" : -2.6029918
+               }
+            },
+            "location" : {
+               "lat" : 53.3508,
+               "lng" : -2.5441
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3701748,
+                  "lng" : -2.5058246
+               },
+               "southwest" : {
+                  "lat" : 53.3358988,
+                  "lng" : -2.6029918
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Appleton",
+               "short_name" : "Appleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX13",
+               "short_name" : "OX13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Appleton, Abingdon, Oxfordshire OX13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7094092,
+               "lng" : -1.3614347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.71075818029149,
+                  "lng" : -1.360085719708498
+               },
+               "southwest" : {
+                  "lat" : 51.7080602197085,
+                  "lng" : -1.362783680291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Appleton",
+               "short_name" : "Appleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King's Lynn",
+               "short_name" : "King's Lynn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE31",
+               "short_name" : "PE31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Appleton, King's Lynn, Norfolk PE31, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8150199,
+               "lng" : 0.5237609999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.81636888029149,
+                  "lng" : 0.5251099802915019
+               },
+               "southwest" : {
+                  "lat" : 52.8136709197085,
+                  "lng" : 0.5224120197084978
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Appleton",
+               "short_name" : "Appleton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Widnes",
+               "short_name" : "Widnes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Widnes",
+               "short_name" : "Widnes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Halton",
+               "short_name" : "Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA8",
+               "short_name" : "WA8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Appleton, Widnes, Widnes, Halton WA8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.37376099999999,
+               "lng" : -2.728115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37510998029149,
+                  "lng" : -2.726766019708498
+               },
+               "southwest" : {
+                  "lat" : 53.37241201970849,
+                  "lng" : -2.729463980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

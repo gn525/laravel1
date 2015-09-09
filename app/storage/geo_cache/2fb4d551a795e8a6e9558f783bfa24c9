@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Berkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5637111,
+                  "lng" : -0.9817454999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3289786,
+                  "lng" : -1.5880881
+               }
+            },
+            "location" : {
+               "lat" : 51.4659863,
+               "lng" : -1.2814014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5637111,
+                  "lng" : -0.9817454999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3289786,
+                  "lng" : -1.5880881
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

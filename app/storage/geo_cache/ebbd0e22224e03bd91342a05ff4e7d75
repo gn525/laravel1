@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cudham",
+               "short_name" : "Cudham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sevenoaks",
+               "short_name" : "Sevenoaks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN14",
+               "short_name" : "TN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cudham, Sevenoaks, Greater London TN14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.316389,
+               "lng" : 0.07369299999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3233624,
+                  "lng" : 0.0897004
+               },
+               "southwest" : {
+                  "lat" : 51.3094145,
+                  "lng" : 0.0576856
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

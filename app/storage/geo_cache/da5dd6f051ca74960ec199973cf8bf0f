@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Scotland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.6498565
+               }
+            },
+            "location" : {
+               "lat" : 56.49067119999999,
+               "lng" : -4.2026458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.84567610000001,
+                  "lng" : -0.7247473999999999
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.6492466
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

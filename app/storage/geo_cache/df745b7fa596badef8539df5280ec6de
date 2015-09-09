@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PE1",
+               "short_name" : "PE1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peterborough, Peterborough, Peterborough PE1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.61734730000001,
+                  "lng" : -0.174393
+               },
+               "southwest" : {
+                  "lat" : 52.565656,
+                  "lng" : -0.2907383
+               }
+            },
+            "location" : {
+               "lat" : 52.5850064,
+               "lng" : -0.2321595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.60720389999999,
+                  "lng" : -0.174393
+               },
+               "southwest" : {
+                  "lat" : 52.565656,
+                  "lng" : -0.2655879
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE1",
+               "short_name" : "PE1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peterborough, Peterborough, Peterborough, Peterborough PE1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5749924,
+               "lng" : -0.2498226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5763413802915,
+                  "lng" : -0.2484736197084979
+               },
+               "southwest" : {
+                  "lat" : 52.5736434197085,
+                  "lng" : -0.251171580291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cawston",
+               "short_name" : "Cawston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rugby",
+               "short_name" : "Rugby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cawston, Rugby, Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.36926039999999,
+                  "lng" : -1.2966748
+               },
+               "southwest" : {
+                  "lat" : 52.3503281,
+                  "lng" : -1.3199984
+               }
+            },
+            "location" : {
+               "lat" : 52.358053,
+               "lng" : -1.30781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.36926039999999,
+                  "lng" : -1.2966748
+               },
+               "southwest" : {
+                  "lat" : 52.3503281,
+                  "lng" : -1.3199984
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cawston",
+               "short_name" : "Cawston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cawston, Norwich, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7967721,
+                  "lng" : 1.2246406
+               },
+               "southwest" : {
+                  "lat" : 52.7505792,
+                  "lng" : 1.1421182
+               }
+            },
+            "location" : {
+               "lat" : 52.77164500000001,
+               "lng" : 1.163645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7967721,
+                  "lng" : 1.2246406
+               },
+               "southwest" : {
+                  "lat" : 52.7505792,
+                  "lng" : 1.1421182
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

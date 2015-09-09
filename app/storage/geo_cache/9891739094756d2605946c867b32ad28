@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of Austria",
+               "short_name" : "Embassy of Austria",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belgrave Mews West",
+               "short_name" : "Belgrave Mews W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belgravia",
+               "short_name" : "Belgravia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW1X 8HU",
+               "short_name" : "SW1X 8HU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of Austria, 18 Belgrave Mews West, Belgravia, London SW1X 8HU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4984353,
+               "lng" : -0.1546711
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49978428029149,
+                  "lng" : -0.153322119708498
+               },
+               "southwest" : {
+                  "lat" : 51.4970863197085,
+                  "lng" : -0.1560200802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

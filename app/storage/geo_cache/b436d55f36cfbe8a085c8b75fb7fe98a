@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bournemouth, Bournemouth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7988916,
+                  "lng" : -1.7407333
+               },
+               "southwest" : {
+                  "lat" : 50.7092553,
+                  "lng" : -1.9788195
+               }
+            },
+            "location" : {
+               "lat" : 50.719164,
+               "lng" : -1.880769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7988916,
+                  "lng" : -1.7407333
+               },
+               "southwest" : {
+                  "lat" : 50.7092553,
+                  "lng" : -1.9788195
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

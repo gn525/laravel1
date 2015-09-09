@@ -1,0 +1,177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cricket Inn Road",
+               "short_name" : "Cricket Inn Rd",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Industrial Estate",
+               "short_name" : "Industrial Estate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S2 5BN",
+               "short_name" : "S2 5BN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cricket Inn Road, Industrial Estate, Sheffield, South Yorkshire S2 5BN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3838756,
+               "lng" : -1.449065
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3852245802915,
+                  "lng" : -1.447716019708498
+               },
+               "southwest" : {
+                  "lat" : 53.3825266197085,
+                  "lng" : -1.450413980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eldon Way Crick Industrial Estate",
+               "short_name" : "Eldon Way Crick Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Crick",
+               "short_name" : "Crick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN6 7SL",
+               "short_name" : "NN6 7SL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eldon Way Crick Industrial Estate, Crick, Northampton, Northamptonshire NN6 7SL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3492738,
+               "lng" : -1.1497926
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.35062278029149,
+                  "lng" : -1.148443619708498
+               },
+               "southwest" : {
+                  "lat" : 52.3479248197085,
+                  "lng" : -1.151141580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crick Close",
+               "short_name" : "Crick Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corby",
+               "short_name" : "Corby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corby",
+               "short_name" : "Corby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN17 1XQ",
+               "short_name" : "NN17 1XQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crick Close, Corby, Northamptonshire NN17 1XQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5025716,
+                  "lng" : -0.6884787999999999
+               },
+               "southwest" : {
+                  "lat" : 52.5022895,
+                  "lng" : -0.6902092
+               }
+            },
+            "location" : {
+               "lat" : 52.5024113,
+               "lng" : -0.6894461
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5037795302915,
+                  "lng" : -0.6879950197084979
+               },
+               "southwest" : {
+                  "lat" : 52.5010815697085,
+                  "lng" : -0.6906929802915019
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

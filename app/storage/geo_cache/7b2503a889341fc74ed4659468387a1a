@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loch Lomond",
+               "short_name" : "Loch Lomond",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loch Lomond, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3065313,
+                  "lng" : -4.5161245
+               },
+               "southwest" : {
+                  "lat" : 56.00557209999999,
+                  "lng" : -4.7205308
+               }
+            },
+            "location" : {
+               "lat" : 56.1113678,
+               "lng" : -4.6288602
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3065313,
+                  "lng" : -4.5161245
+               },
+               "southwest" : {
+                  "lat" : 56.00557209999999,
+                  "lng" : -4.7205308
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

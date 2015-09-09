@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HX1",
+               "short_name" : "HX1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, Halifax, West Yorkshire HX1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.73242699999999,
+                  "lng" : -1.8509647
+               },
+               "southwest" : {
+                  "lat" : 53.71152619999999,
+                  "lng" : -1.8941002
+               }
+            },
+            "location" : {
+               "lat" : 53.7196181,
+               "lng" : -1.8717628
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.73242699999999,
+                  "lng" : -1.8509647
+               },
+               "southwest" : {
+                  "lat" : 53.71152619999999,
+                  "lng" : -1.8941002
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

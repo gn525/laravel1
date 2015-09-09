@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Catterick Garrison",
+               "short_name" : "Catterick Garrison",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL9",
+               "short_name" : "DL9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Catterick Garrison, North Yorkshire DL9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3965239,
+                  "lng" : -1.6712991
+               },
+               "southwest" : {
+                  "lat" : 54.3405155,
+                  "lng" : -1.7706588
+               }
+            },
+            "location" : {
+               "lat" : 54.3726818,
+               "lng" : -1.7254551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3965239,
+                  "lng" : -1.6712991
+               },
+               "southwest" : {
+                  "lat" : 54.3405155,
+                  "lng" : -1.7706588
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

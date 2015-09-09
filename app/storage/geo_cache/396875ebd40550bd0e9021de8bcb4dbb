@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ferryhill",
+               "short_name" : "Ferryhill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferryhill",
+               "short_name" : "Ferryhill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL17",
+               "short_name" : "DL17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ferryhill, Ferryhill, County Durham DL17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.700992,
+                  "lng" : -1.5202294
+               },
+               "southwest" : {
+                  "lat" : 54.6686098,
+                  "lng" : -1.562268
+               }
+            },
+            "location" : {
+               "lat" : 54.68803399999999,
+               "lng" : -1.553164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.700992,
+                  "lng" : -1.5202294
+               },
+               "southwest" : {
+                  "lat" : 54.6686098,
+                  "lng" : -1.562268
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

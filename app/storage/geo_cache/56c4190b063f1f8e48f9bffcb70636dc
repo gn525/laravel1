@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cowie",
+               "short_name" : "Cowie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK7",
+               "short_name" : "FK7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cowie, Stirling, Stirling FK7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.08897529999999,
+                  "lng" : -3.8530656
+               },
+               "southwest" : {
+                  "lat" : 56.07313389999999,
+                  "lng" : -3.8768482
+               }
+            },
+            "location" : {
+               "lat" : 56.08594600000001,
+               "lng" : -3.872268999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.08897529999999,
+                  "lng" : -3.8530656
+               },
+               "southwest" : {
+                  "lat" : 56.07313389999999,
+                  "lng" : -3.8768482
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

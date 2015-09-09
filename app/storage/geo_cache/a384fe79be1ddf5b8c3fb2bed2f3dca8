@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wraxall",
+               "short_name" : "Wraxall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS48",
+               "short_name" : "BS48",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wraxall, Bristol, North Somerset BS48, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4464265,
+                  "lng" : -2.7237378
+               },
+               "southwest" : {
+                  "lat" : 51.4374048,
+                  "lng" : -2.7379852
+               }
+            },
+            "location" : {
+               "lat" : 51.44107899999999,
+               "lng" : -2.729798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4464265,
+                  "lng" : -2.7237378
+               },
+               "southwest" : {
+                  "lat" : 51.4374048,
+                  "lng" : -2.7379852
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

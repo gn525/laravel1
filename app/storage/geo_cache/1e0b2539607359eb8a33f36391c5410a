@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pease Pottage",
+               "short_name" : "Pease Pottage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH11",
+               "short_name" : "RH11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pease Pottage, Crawley, West Sussex RH11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.08105699999999,
+               "lng" : -0.20564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0880661,
+                  "lng" : -0.1896326
+               },
+               "southwest" : {
+                  "lat" : 51.0740468,
+                  "lng" : -0.2216474
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

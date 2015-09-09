@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ammanford",
+               "short_name" : "Ammanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ammanford, Carmarthenshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8114103,
+                  "lng" : -3.936502999999999
+               },
+               "southwest" : {
+                  "lat" : 51.76374089999999,
+                  "lng" : -4.0283632
+               }
+            },
+            "location" : {
+               "lat" : 51.792888,
+               "lng" : -3.988459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8114103,
+                  "lng" : -3.936502999999999
+               },
+               "southwest" : {
+                  "lat" : 51.76374089999999,
+                  "lng" : -4.0283632
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

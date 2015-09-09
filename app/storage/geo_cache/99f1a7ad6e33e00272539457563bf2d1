@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashtead",
+               "short_name" : "Ashtead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashtead, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.33508579999999,
+                  "lng" : -0.2728625
+               },
+               "southwest" : {
+                  "lat" : 51.29080310000001,
+                  "lng" : -0.3307918
+               }
+            },
+            "location" : {
+               "lat" : 51.31068399999999,
+               "lng" : -0.296968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.33508579999999,
+                  "lng" : -0.2728625
+               },
+               "southwest" : {
+                  "lat" : 51.29080310000001,
+                  "lng" : -0.3307918
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

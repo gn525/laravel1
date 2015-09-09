@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Claydon",
+               "short_name" : "Claydon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Claydon, Ipswich, Suffolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1141638,
+                  "lng" : 1.1479737
+               },
+               "southwest" : {
+                  "lat" : 52.0891814,
+                  "lng" : 1.1001299
+               }
+            },
+            "location" : {
+               "lat" : 52.105251,
+               "lng" : 1.1125529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1141638,
+                  "lng" : 1.1479737
+               },
+               "southwest" : {
+                  "lat" : 52.0891814,
+                  "lng" : 1.1001299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

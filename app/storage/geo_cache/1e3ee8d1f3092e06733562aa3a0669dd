@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orpington",
+               "short_name" : "Orpington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orpington, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4171979,
+                  "lng" : 0.1532422
+               },
+               "southwest" : {
+                  "lat" : 51.3266839,
+                  "lng" : 0.0389807
+               }
+            },
+            "location" : {
+               "lat" : 51.374843,
+               "lng" : 0.09421399999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4171979,
+                  "lng" : 0.1532422
+               },
+               "southwest" : {
+                  "lat" : 51.3266839,
+                  "lng" : 0.0389807
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

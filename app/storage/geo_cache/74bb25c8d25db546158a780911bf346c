@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Knebworth",
+               "short_name" : "Knebworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Knebworth, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8961067,
+                  "lng" : -0.164586
+               },
+               "southwest" : {
+                  "lat" : 51.8532044,
+                  "lng" : -0.264666
+               }
+            },
+            "location" : {
+               "lat" : 51.8655339,
+               "lng" : -0.182981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8961067,
+                  "lng" : -0.164586
+               },
+               "southwest" : {
+                  "lat" : 51.8532044,
+                  "lng" : -0.264666
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Debden",
+               "short_name" : "Debden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saffron Walden",
+               "short_name" : "Saffron Walden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB11",
+               "short_name" : "CB11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Debden, Saffron Walden, Essex CB11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.977034,
+               "lng" : 0.266656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9839065,
+                  "lng" : 0.2826634
+               },
+               "southwest" : {
+                  "lat" : 51.9701604,
+                  "lng" : 0.2506486
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedlington",
+               "short_name" : "Bedlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedlington, Northumberland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1485107,
+                  "lng" : -1.556205
+               },
+               "southwest" : {
+                  "lat" : 55.1222565,
+                  "lng" : -1.6184496
+               }
+            },
+            "location" : {
+               "lat" : 55.131664,
+               "lng" : -1.599454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1485107,
+                  "lng" : -1.556205
+               },
+               "southwest" : {
+                  "lat" : 55.1222565,
+                  "lng" : -1.6184496
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS39",
+               "short_name" : "BS39",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "BS39, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.39105989999999,
+                  "lng" : -2.4755803
+               },
+               "southwest" : {
+                  "lat" : 51.2858172,
+                  "lng" : -2.6158011
+               }
+            },
+            "location" : {
+               "lat" : 51.3298711,
+               "lng" : -2.5473671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.39105989999999,
+                  "lng" : -2.4755803
+               },
+               "southwest" : {
+                  "lat" : 51.2858172,
+                  "lng" : -2.6158011
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

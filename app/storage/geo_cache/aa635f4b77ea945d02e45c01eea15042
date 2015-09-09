@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guisborough",
+               "short_name" : "Guisborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guisborough",
+               "short_name" : "Guisborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Redcar and Cleveland",
+               "short_name" : "Redcar and Cleveland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS14",
+               "short_name" : "TS14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Guisborough, Guisborough, Redcar and Cleveland TS14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.544582,
+                  "lng" : -1.0298017
+               },
+               "southwest" : {
+                  "lat" : 54.51455370000001,
+                  "lng" : -1.090526
+               }
+            },
+            "location" : {
+               "lat" : 54.536241,
+               "lng" : -1.049544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.544582,
+                  "lng" : -1.0298017
+               },
+               "southwest" : {
+                  "lat" : 54.51455370000001,
+                  "lng" : -1.090526
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

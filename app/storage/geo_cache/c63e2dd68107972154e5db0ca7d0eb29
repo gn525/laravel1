@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Walesby",
+               "short_name" : "Walesby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG22",
+               "short_name" : "NG22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Walesby, Newark, Nottinghamshire NG22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.23782569999999,
+                  "lng" : -0.9472645000000001
+               },
+               "southwest" : {
+                  "lat" : 53.2162914,
+                  "lng" : -1.0157875
+               }
+            },
+            "location" : {
+               "lat" : 53.23161,
+               "lng" : -0.9824359999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.23782569999999,
+                  "lng" : -0.9472645000000001
+               },
+               "southwest" : {
+                  "lat" : 53.2162914,
+                  "lng" : -1.0157875
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

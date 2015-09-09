@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SW17",
+               "short_name" : "SW17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London SW17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.447374,
+                  "lng" : -0.1447668
+               },
+               "southwest" : {
+                  "lat" : 51.4176741,
+                  "lng" : -0.1903906
+               }
+            },
+            "location" : {
+               "lat" : 51.4334645,
+               "lng" : -0.1669558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.447374,
+                  "lng" : -0.1447668
+               },
+               "southwest" : {
+                  "lat" : 51.4176741,
+                  "lng" : -0.1903906
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

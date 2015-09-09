@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton-on-Ribble",
+               "short_name" : "Ashton-on-Ribble",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashton-on-Ribble, Preston, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7760338,
+                  "lng" : -2.7108092
+               },
+               "southwest" : {
+                  "lat" : 53.7570765,
+                  "lng" : -2.7640235
+               }
+            },
+            "location" : {
+               "lat" : 53.7679978,
+               "lng" : -2.7305381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7760338,
+                  "lng" : -2.7108092
+               },
+               "southwest" : {
+                  "lat" : 53.7570765,
+                  "lng" : -2.7640235
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

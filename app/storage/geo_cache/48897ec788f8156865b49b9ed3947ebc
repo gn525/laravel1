@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "AL7",
+               "short_name" : "AL7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hertfordshire AL7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.81783790000001,
+                  "lng" : -0.1496293
+               },
+               "southwest" : {
+                  "lat" : 51.7747107,
+                  "lng" : -0.2130741
+               }
+            },
+            "location" : {
+               "lat" : 51.7940409,
+               "lng" : -0.1839924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.81783790000001,
+                  "lng" : -0.1496293
+               },
+               "southwest" : {
+                  "lat" : 51.7747107,
+                  "lng" : -0.2130741
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HU1",
+               "short_name" : "HU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hull HU1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.74825980000001,
+                  "lng" : -0.3248605
+               },
+               "southwest" : {
+                  "lat" : 53.72998949999999,
+                  "lng" : -0.3669499
+               }
+            },
+            "location" : {
+               "lat" : 53.740503,
+               "lng" : -0.3396108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.74825980000001,
+                  "lng" : -0.3248605
+               },
+               "southwest" : {
+                  "lat" : 53.7326668,
+                  "lng" : -0.3519948
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

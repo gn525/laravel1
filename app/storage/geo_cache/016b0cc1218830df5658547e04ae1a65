@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sealand",
+               "short_name" : "Sealand",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH1",
+               "short_name" : "CH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sealand, Chester, Flintshire CH1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2143159,
+               "lng" : -2.969801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.220997,
+                  "lng" : -2.9537936
+               },
+               "southwest" : {
+                  "lat" : 53.2076337,
+                  "lng" : -2.9858084
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

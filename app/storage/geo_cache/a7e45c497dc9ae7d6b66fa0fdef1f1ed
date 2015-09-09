@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lyme Regis",
+               "short_name" : "Lyme Regis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lyme Regis, Dorset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.73694279999999,
+                  "lng" : -2.9278389
+               },
+               "southwest" : {
+                  "lat" : 50.7191622,
+                  "lng" : -2.9555214
+               }
+            },
+            "location" : {
+               "lat" : 50.725156,
+               "lng" : -2.936639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.73694279999999,
+                  "lng" : -2.9278389
+               },
+               "southwest" : {
+                  "lat" : 50.7191622,
+                  "lng" : -2.9555214
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

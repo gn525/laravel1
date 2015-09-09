@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heathrow Airport",
+               "short_name" : "Heathrow Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW6",
+               "short_name" : "TW6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Heathrow Airport (LHR), Greater London TW6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4819922,
+                  "lng" : -0.4130646
+               },
+               "southwest" : {
+                  "lat" : 51.4560257,
+                  "lng" : -0.4949711
+               }
+            },
+            "location" : {
+               "lat" : 51.4700223,
+               "lng" : -0.4542955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4819922,
+                  "lng" : -0.4130646
+               },
+               "southwest" : {
+                  "lat" : 51.4560257,
+                  "lng" : -0.4949711
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

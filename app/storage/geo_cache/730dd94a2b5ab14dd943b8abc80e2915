@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chesham",
+               "short_name" : "Chesham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chesham",
+               "short_name" : "Chesham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP5",
+               "short_name" : "HP5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chesham, Chesham, Buckinghamshire HP5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.73339259999999,
+                  "lng" : -0.5857899999999999
+               },
+               "southwest" : {
+                  "lat" : 51.688401,
+                  "lng" : -0.6463994
+               }
+            },
+            "location" : {
+               "lat" : 51.709401,
+               "lng" : -0.612333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.73339259999999,
+                  "lng" : -0.5857899999999999
+               },
+               "southwest" : {
+                  "lat" : 51.688401,
+                  "lng" : -0.6463994
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

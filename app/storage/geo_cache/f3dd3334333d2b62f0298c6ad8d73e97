@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruskington",
+               "short_name" : "Ruskington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ruskington, Lincolnshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0665089,
+                  "lng" : -0.3034618
+               },
+               "southwest" : {
+                  "lat" : 53.0289109,
+                  "lng" : -0.4106222
+               }
+            },
+            "location" : {
+               "lat" : 53.04439199999999,
+               "lng" : -0.387468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0665089,
+                  "lng" : -0.3034618
+               },
+               "southwest" : {
+                  "lat" : 53.0289109,
+                  "lng" : -0.4106222
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

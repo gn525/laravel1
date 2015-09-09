@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harwell",
+               "short_name" : "Harwell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Didcot",
+               "short_name" : "Didcot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX11",
+               "short_name" : "OX11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harwell, Didcot, Oxfordshire OX11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6053172,
+                  "lng" : -1.279902
+               },
+               "southwest" : {
+                  "lat" : 51.5925524,
+                  "lng" : -1.2998867
+               }
+            },
+            "location" : {
+               "lat" : 51.601327,
+               "lng" : -1.288948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6053172,
+                  "lng" : -1.279902
+               },
+               "southwest" : {
+                  "lat" : 51.5925524,
+                  "lng" : -1.2998867
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

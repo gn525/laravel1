@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abridge",
+               "short_name" : "Abridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abridge, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.65976999999999,
+                  "lng" : 0.1499492
+               },
+               "southwest" : {
+                  "lat" : 51.6383454,
+                  "lng" : 0.1046946
+               }
+            },
+            "location" : {
+               "lat" : 51.6493558,
+               "lng" : 0.1188155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.65976999999999,
+                  "lng" : 0.1499492
+               },
+               "southwest" : {
+                  "lat" : 51.6383454,
+                  "lng" : 0.1046946
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

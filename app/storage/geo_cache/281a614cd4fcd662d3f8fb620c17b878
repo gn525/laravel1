@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brandon Creek",
+               "short_name" : "Brandon Creek",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Southery",
+               "short_name" : "Southery",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Downham Market",
+               "short_name" : "Downham Market",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE38",
+               "short_name" : "PE38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brandon Creek, Southery, Downham Market, Norfolk PE38, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.49827399999999,
+               "lng" : 0.369542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5050663,
+                  "lng" : 0.3855494
+               },
+               "southwest" : {
+                  "lat" : 52.4914807,
+                  "lng" : 0.3535346
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

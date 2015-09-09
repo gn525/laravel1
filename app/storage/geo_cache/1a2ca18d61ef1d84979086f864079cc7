@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leicester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7808641,
+                  "lng" : -0.8107126
+               },
+               "southwest" : {
+                  "lat" : 52.5070491,
+                  "lng" : -1.3964844
+               }
+            },
+            "location" : {
+               "lat" : 52.6545818,
+               "lng" : -1.137065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7808641,
+                  "lng" : -0.8107126
+               },
+               "southwest" : {
+                  "lat" : 52.5070491,
+                  "lng" : -1.3964844
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

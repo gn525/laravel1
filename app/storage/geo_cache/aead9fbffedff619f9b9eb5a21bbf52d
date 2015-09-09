@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TS17",
+               "short_name" : "TS17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "TS17, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5727298,
+                  "lng" : -1.259078
+               },
+               "southwest" : {
+                  "lat" : 54.5034009,
+                  "lng" : -1.3404128
+               }
+            },
+            "location" : {
+               "lat" : 54.5313629,
+               "lng" : -1.2914754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5727298,
+                  "lng" : -1.259078
+               },
+               "southwest" : {
+                  "lat" : 54.5034009,
+                  "lng" : -1.3404128
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soulbury",
+               "short_name" : "Soulbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leighton Buzzard",
+               "short_name" : "Leighton Buzzard",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LU7",
+               "short_name" : "LU7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Soulbury, Leighton Buzzard, Buckinghamshire LU7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.93415,
+               "lng" : -0.716596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.94102909999999,
+                  "lng" : -0.7005886
+               },
+               "southwest" : {
+                  "lat" : 51.9272698,
+                  "lng" : -0.7326034
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

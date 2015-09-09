@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadheath",
+               "short_name" : "Broadheath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR2",
+               "short_name" : "WR2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadheath, Worcester, Worcestershire WR2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.209171,
+               "lng" : -2.273226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2160079,
+                  "lng" : -2.2572186
+               },
+               "southwest" : {
+                  "lat" : 52.2023331,
+                  "lng" : -2.2892334
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadheath",
+               "short_name" : "Broadheath",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Altrincham",
+               "short_name" : "Altrincham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA14",
+               "short_name" : "WA14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadheath, Altrincham WA14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4054926,
+                  "lng" : -2.3520589
+               },
+               "southwest" : {
+                  "lat" : 53.39263949999999,
+                  "lng" : -2.3840643
+               }
+            },
+            "location" : {
+               "lat" : 53.399401,
+               "lng" : -2.358924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4054926,
+                  "lng" : -2.3520589
+               },
+               "southwest" : {
+                  "lat" : 53.39263949999999,
+                  "lng" : -2.3840643
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

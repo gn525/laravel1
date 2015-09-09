@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bromsgrove",
+               "short_name" : "Bromsgrove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bromsgrove",
+               "short_name" : "Bromsgrove",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bromsgrove, Bromsgrove, Worcestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.35376170000001,
+                  "lng" : -2.0352136
+               },
+               "southwest" : {
+                  "lat" : 52.3131054,
+                  "lng" : -2.088045
+               }
+            },
+            "location" : {
+               "lat" : 52.335589,
+               "lng" : -2.061906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.35376170000001,
+                  "lng" : -2.0352136
+               },
+               "southwest" : {
+                  "lat" : 52.3131054,
+                  "lng" : -2.088045
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

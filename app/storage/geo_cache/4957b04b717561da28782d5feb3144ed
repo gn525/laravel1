@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashton-under-Lyne",
+               "short_name" : "Ashton-under-Lyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashton-under-Lyne, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5323268,
+                  "lng" : -2.018409
+               },
+               "southwest" : {
+                  "lat" : 53.47453660000001,
+                  "lng" : -2.1267208
+               }
+            },
+            "location" : {
+               "lat" : 53.507703,
+               "lng" : -2.0764946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5323268,
+                  "lng" : -2.018409
+               },
+               "southwest" : {
+                  "lat" : 53.47453660000001,
+                  "lng" : -2.1267208
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

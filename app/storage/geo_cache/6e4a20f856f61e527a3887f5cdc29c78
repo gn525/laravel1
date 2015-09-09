@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medway City Estate",
+               "short_name" : "Medway City Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME2",
+               "short_name" : "ME2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medway City Estate, Rochester, Rochester, Medway ME2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3952271,
+               "lng" : 0.5169068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4021885,
+                  "lng" : 0.5329142
+               },
+               "southwest" : {
+                  "lat" : 51.3882646,
+                  "lng" : 0.5008994
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

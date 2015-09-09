@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acocks Green",
+               "short_name" : "Acocks Green",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B27",
+               "short_name" : "B27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Acocks Green, Birmingham, Birmingham, West Midlands B27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.443155,
+               "lng" : -1.829907
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4499558,
+                  "lng" : -1.8138996
+               },
+               "southwest" : {
+                  "lat" : 52.4363531,
+                  "lng" : -1.8459144
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

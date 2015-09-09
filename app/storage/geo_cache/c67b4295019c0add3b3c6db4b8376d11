@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lossiemouth",
+               "short_name" : "Lossiemouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moray",
+               "short_name" : "Moray",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lossiemouth, Moray, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.725223,
+                  "lng" : -3.2770909
+               },
+               "southwest" : {
+                  "lat" : 57.70664960000001,
+                  "lng" : -3.31091
+               }
+            },
+            "location" : {
+               "lat" : 57.72157899999999,
+               "lng" : -3.280325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.725223,
+                  "lng" : -3.2770909
+               },
+               "southwest" : {
+                  "lat" : 57.70664960000001,
+                  "lng" : -3.31091
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

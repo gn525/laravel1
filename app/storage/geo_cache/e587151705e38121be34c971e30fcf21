@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Highworth",
+               "short_name" : "Highworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN6",
+               "short_name" : "SN6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Highworth, Swindon, Swindon SN6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.642274,
+                  "lng" : -1.6919171
+               },
+               "southwest" : {
+                  "lat" : 51.62034389999999,
+                  "lng" : -1.7235016
+               }
+            },
+            "location" : {
+               "lat" : 51.632861,
+               "lng" : -1.710398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.642274,
+                  "lng" : -1.6919171
+               },
+               "southwest" : {
+                  "lat" : 51.62034389999999,
+                  "lng" : -1.7235016
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

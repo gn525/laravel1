@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Kilbride",
+               "short_name" : "West Kilbride",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Kilbride",
+               "short_name" : "West Kilbride",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA23",
+               "short_name" : "KA23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Kilbride, West Kilbride, North Ayrshire KA23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7062855,
+                  "lng" : -4.8417721
+               },
+               "southwest" : {
+                  "lat" : 55.6841552,
+                  "lng" : -4.8691457
+               }
+            },
+            "location" : {
+               "lat" : 55.695149,
+               "lng" : -4.857158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7062855,
+                  "lng" : -4.8417721
+               },
+               "southwest" : {
+                  "lat" : 55.6841552,
+                  "lng" : -4.8691457
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CV11",
+               "short_name" : "CV11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nuneaton",
+               "short_name" : "Nuneaton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuneaton CV11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.55114690000001,
+                  "lng" : -1.368769
+               },
+               "southwest" : {
+                  "lat" : 52.4857112,
+                  "lng" : -1.4877015
+               }
+            },
+            "location" : {
+               "lat" : 52.51241470000001,
+               "lng" : -1.4430334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.55114690000001,
+                  "lng" : -1.368769
+               },
+               "southwest" : {
+                  "lat" : 52.4857112,
+                  "lng" : -1.4877015
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

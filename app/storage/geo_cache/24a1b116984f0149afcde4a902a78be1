@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shepperton Road",
+               "short_name" : "Shepperton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Staines-upon-Thames",
+               "short_name" : "Staines-upon-Thames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staines",
+               "short_name" : "Staines",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW18 1SE",
+               "short_name" : "TW18 1SE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shepperton Road, Staines-upon-Thames, Staines, Surrey TW18 1SE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4093719,
+                  "lng" : -0.4715015
+               },
+               "southwest" : {
+                  "lat" : 51.4031746,
+                  "lng" : -0.4905037999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4050293,
+               "lng" : -0.4810543
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4093719,
+                  "lng" : -0.4715015
+               },
+               "southwest" : {
+                  "lat" : 51.4031746,
+                  "lng" : -0.4905037999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

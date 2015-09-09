@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yeovil",
+               "short_name" : "Yeovil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yeovil, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9616058,
+                  "lng" : -2.5945839
+               },
+               "southwest" : {
+                  "lat" : 50.9227674,
+                  "lng" : -2.6901442
+               }
+            },
+            "location" : {
+               "lat" : 50.942061,
+               "lng" : -2.633308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9616058,
+                  "lng" : -2.5945839
+               },
+               "southwest" : {
+                  "lat" : 50.9227674,
+                  "lng" : -2.6901442
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

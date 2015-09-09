@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HP11",
+               "short_name" : "HP11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buckinghamshire HP11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6355699,
+                  "lng" : -0.7012659999999999
+               },
+               "southwest" : {
+                  "lat" : 51.60490919999999,
+                  "lng" : -0.7801401
+               }
+            },
+            "location" : {
+               "lat" : 51.62049810000001,
+               "lng" : -0.7445294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6355699,
+                  "lng" : -0.7012659999999999
+               },
+               "southwest" : {
+                  "lat" : 51.60490919999999,
+                  "lng" : -0.7801401
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of the Republic of Panama",
+               "short_name" : "Embassy of the Republic of Panama",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hertford Street",
+               "short_name" : "Hertford St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westminster",
+               "short_name" : "Westminster",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1J 7SH",
+               "short_name" : "W1J 7SH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of the Republic of Panama, 40 Hertford Street, Westminster, London W1J 7SH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50581950000001,
+               "lng" : -0.1481125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50716848029151,
+                  "lng" : -0.146763519708498
+               },
+               "southwest" : {
+                  "lat" : 51.50447051970851,
+                  "lng" : -0.149461480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Consulate General Of Panama",
+               "short_name" : "Consulate General Of Panama",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hertford Street",
+               "short_name" : "Hertford St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1J 7SH",
+               "short_name" : "W1J 7SH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Consulate General Of Panama, 40 Hertford Street, Mayfair, London W1J 7SH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50577209999999,
+               "lng" : -0.1484063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50712108029149,
+                  "lng" : -0.147057319708498
+               },
+               "southwest" : {
+                  "lat" : 51.50442311970849,
+                  "lng" : -0.149755280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

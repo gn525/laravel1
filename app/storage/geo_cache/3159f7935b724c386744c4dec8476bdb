@@ -1,0 +1,398 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Science Park",
+               "short_name" : "The Science Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Napier Court",
+               "short_name" : "Napier Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX14 3NB",
+               "short_name" : "OX14 3NB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Science Park, 14 Napier Court, Abingdon, Oxfordshire OX14 3NB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6723801,
+               "lng" : -1.2609297
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6737290802915,
+                  "lng" : -1.259580719708498
+               },
+               "southwest" : {
+                  "lat" : 51.6710311197085,
+                  "lng" : -1.262278680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abingdon Science Park",
+               "short_name" : "Abingdon Science Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Barton Lane",
+               "short_name" : "Barton Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX14 3NB",
+               "short_name" : "OX14 3NB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Abingdon Science Park, Barton Lane, Abingdon, Oxfordshire OX14 3NB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6723801,
+               "lng" : -1.2609297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6737290802915,
+                  "lng" : -1.259580719708498
+               },
+               "southwest" : {
+                  "lat" : 51.6710311197085,
+                  "lng" : -1.262278680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Culham, Science Park (entrance)",
+               "short_name" : "Culham, Science Park (entrance)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX14",
+               "short_name" : "OX14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Culham, Science Park (entrance), Abingdon, Oxfordshire OX14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.653065,
+               "lng" : -1.227892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6544139802915,
+                  "lng" : -1.226543019708498
+               },
+               "southwest" : {
+                  "lat" : 51.6517160197085,
+                  "lng" : -1.229240980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Culham, opp Science Park",
+               "short_name" : "Culham, opp Science Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Abingdon",
+               "short_name" : "Abingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX14",
+               "short_name" : "OX14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Culham, opp Science Park, Abingdon, Oxfordshire OX14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.652939,
+               "lng" : -1.228111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6542879802915,
+                  "lng" : -1.226762019708498
+               },
+               "southwest" : {
+                  "lat" : 51.6515900197085,
+                  "lng" : -1.229459980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford Science Park, o/s Sadler Building",
+               "short_name" : "Oxford Science Park, o/s Sadler Building",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX4",
+               "short_name" : "OX4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford Science Park, o/s Sadler Building, Oxford, Oxford, Oxfordshire OX4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.715508,
+               "lng" : -1.221952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7168569802915,
+                  "lng" : -1.220603019708498
+               },
+               "southwest" : {
+                  "lat" : 51.7141590197085,
+                  "lng" : -1.223300980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Oxford Science Park",
+               "short_name" : "The Oxford Science Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX4 4GA",
+               "short_name" : "OX4 4GA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Oxford Science Park, Oxford, Oxfordshire OX4 4GA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.71584499999999,
+                  "lng" : -1.2180995
+               },
+               "southwest" : {
+                  "lat" : 51.7151864,
+                  "lng" : -1.218506
+               }
+            },
+            "location" : {
+               "lat" : 51.71546550000001,
+               "lng" : -1.2183427
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7168646802915,
+                  "lng" : -1.216953769708498
+               },
+               "southwest" : {
+                  "lat" : 51.7141667197085,
+                  "lng" : -1.219651730291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sandford-on-Thames, opp Oxford Science Park",
+               "short_name" : "Sandford-on-Thames, opp Oxford Science Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX4",
+               "short_name" : "OX4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sandford-on-Thames, opp Oxford Science Park, Oxford, Oxford, Oxfordshire OX4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.71159,
+               "lng" : -1.221194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7129389802915,
+                  "lng" : -1.219845019708498
+               },
+               "southwest" : {
+                  "lat" : 51.7102410197085,
+                  "lng" : -1.222542980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

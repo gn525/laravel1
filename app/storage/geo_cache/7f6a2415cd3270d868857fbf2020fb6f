@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WR8",
+               "short_name" : "WR8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcester WR8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2195684,
+                  "lng" : -2.1051502
+               },
+               "southwest" : {
+                  "lat" : 52.0278382,
+                  "lng" : -2.3071505
+               }
+            },
+            "location" : {
+               "lat" : 52.0754392,
+               "lng" : -2.1897109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1418337,
+                  "lng" : -2.1051502
+               },
+               "southwest" : {
+                  "lat" : 52.0278382,
+                  "lng" : -2.3071505
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

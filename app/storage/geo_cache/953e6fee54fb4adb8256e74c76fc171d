@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingsbury",
+               "short_name" : "Kingsbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingsbury, Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5761098,
+                  "lng" : -1.6712594
+               },
+               "southwest" : {
+                  "lat" : 52.5521816,
+                  "lng" : -1.6908322
+               }
+            },
+            "location" : {
+               "lat" : 52.56582,
+               "lng" : -1.683508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5761098,
+                  "lng" : -1.6712594
+               },
+               "southwest" : {
+                  "lat" : 52.5521816,
+                  "lng" : -1.6908322
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

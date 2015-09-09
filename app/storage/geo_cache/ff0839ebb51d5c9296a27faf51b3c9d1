@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dyce",
+               "short_name" : "Dyce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeen City",
+               "short_name" : "Aberdeen City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dyce, Aberdeen, Aberdeen City, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.2169896,
+                  "lng" : -2.1703107
+               },
+               "southwest" : {
+                  "lat" : 57.195235,
+                  "lng" : -2.2021939
+               }
+            },
+            "location" : {
+               "lat" : 57.203514,
+               "lng" : -2.190188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2169896,
+                  "lng" : -2.1703107
+               },
+               "southwest" : {
+                  "lat" : 57.195235,
+                  "lng" : -2.2021939
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

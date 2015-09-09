@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9186924,
+                  "lng" : -1.2406413
+               },
+               "southwest" : {
+                  "lat" : 54.4514666,
+                  "lng" : -2.3557424
+               }
+            },
+            "location" : {
+               "lat" : 54.6836384,
+               "lng" : -1.8201775
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9186924,
+                  "lng" : -1.2406413
+               },
+               "southwest" : {
+                  "lat" : 54.4514666,
+                  "lng" : -2.3557424
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

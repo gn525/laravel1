@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muscat Brae",
+               "short_name" : "Muscat Brae",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Galashiels",
+               "short_name" : "Galashiels",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TD1",
+               "short_name" : "TD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Muscat Brae, Galashiels, Scottish Borders TD1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6181383,
+                  "lng" : -2.8751499
+               },
+               "southwest" : {
+                  "lat" : 55.6170657,
+                  "lng" : -2.8759319
+               }
+            },
+            "location" : {
+               "lat" : 55.6176233,
+               "lng" : -2.8753924
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.61895098029149,
+                  "lng" : -2.874191919708498
+               },
+               "southwest" : {
+                  "lat" : 55.61625301970849,
+                  "lng" : -2.876889880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

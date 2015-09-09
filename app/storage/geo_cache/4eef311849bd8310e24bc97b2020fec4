@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton Aycliffe",
+               "short_name" : "Newton Aycliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newton Aycliffe, County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.646307,
+                  "lng" : -1.5533048
+               },
+               "southwest" : {
+                  "lat" : 54.5870319,
+                  "lng" : -1.6051373
+               }
+            },
+            "location" : {
+               "lat" : 54.61598799999999,
+               "lng" : -1.575577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.646307,
+                  "lng" : -1.5533048
+               },
+               "southwest" : {
+                  "lat" : 54.5870319,
+                  "lng" : -1.6051373
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

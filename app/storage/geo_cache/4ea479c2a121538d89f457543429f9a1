@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Walderslade",
+               "short_name" : "Walderslade",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME5",
+               "short_name" : "ME5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Walderslade, Chatham, Chatham, Medway ME5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.342173,
+               "lng" : 0.5307260000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3491425,
+                  "lng" : 0.5467333999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3352024,
+                  "lng" : 0.5147186
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

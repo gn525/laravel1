@@ -1,0 +1,354 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebbsfleet Roundabout",
+               "short_name" : "Ebbsfleet Roundabout",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sandwich",
+               "short_name" : "Sandwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT13 9QL",
+               "short_name" : "CT13 9QL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ebbsfleet Roundabout, Sandwich, Kent CT13 9QL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3121527,
+                  "lng" : 1.3507553
+               },
+               "southwest" : {
+                  "lat" : 51.3117387,
+                  "lng" : 1.3500929
+               }
+            },
+            "location" : {
+               "lat" : 51.3119617,
+               "lng" : 1.350752
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3132946802915,
+                  "lng" : 1.351773080291502
+               },
+               "southwest" : {
+                  "lat" : 51.3105967197085,
+                  "lng" : 1.349075119708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebbsfleet Cottage",
+               "short_name" : "Ebbsfleet Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ebbsfleet Lane",
+               "short_name" : "Ebbsfleet Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramsgate",
+               "short_name" : "Ramsgate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT12 5DJ",
+               "short_name" : "CT12 5DJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ebbsfleet Cottage, Ebbsfleet Lane, Ramsgate, Kent CT12 5DJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3144303,
+               "lng" : 1.3506576
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3157792802915,
+                  "lng" : 1.352006580291502
+               },
+               "southwest" : {
+                  "lat" : 51.3130813197085,
+                  "lng" : 1.349308619708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebbsfleet Road",
+               "short_name" : "Ebbsfleet Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW2",
+               "short_name" : "NW2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ebbsfleet Road, London NW2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5551786,
+                  "lng" : -0.2108097
+               },
+               "southwest" : {
+                  "lat" : 51.5543737,
+                  "lng" : -0.2125787
+               }
+            },
+            "location" : {
+               "lat" : 51.5551786,
+               "lng" : -0.2108097
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5561251302915,
+                  "lng" : -0.210345219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5534271697085,
+                  "lng" : -0.213043180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebbsfleet Lane North",
+               "short_name" : "Ebbsfleet Ln N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramsgate",
+               "short_name" : "Ramsgate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT12 5DN",
+               "short_name" : "CT12 5DN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ebbsfleet Lane North, Ramsgate, Kent CT12 5DN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.33148250000001,
+                  "lng" : 1.3480622
+               },
+               "southwest" : {
+                  "lat" : 51.323439,
+                  "lng" : 1.3450245
+               }
+            },
+            "location" : {
+               "lat" : 51.32754130000001,
+               "lng" : 1.3471864
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.33148250000001,
+                  "lng" : 1.3480622
+               },
+               "southwest" : {
+                  "lat" : 51.323439,
+                  "lng" : 1.3450245
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebbsfleet Walk",
+               "short_name" : "Ebbsfleet Walk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northfleet",
+               "short_name" : "Northfleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gravesend",
+               "short_name" : "Gravesend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DA11 9EN",
+               "short_name" : "DA11 9EN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ebbsfleet Walk, Northfleet, Gravesend, Kent DA11 9EN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4460233,
+                  "lng" : 0.327692
+               },
+               "southwest" : {
+                  "lat" : 51.4447985,
+                  "lng" : 0.3253564
+               }
+            },
+            "location" : {
+               "lat" : 51.44539,
+               "lng" : 0.3264339000000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.44675988029149,
+                  "lng" : 0.327873180291502
+               },
+               "southwest" : {
+                  "lat" : 51.4440619197085,
+                  "lng" : 0.3251752197084979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebbsfleet International",
+               "short_name" : "Ebbsfleet International",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Gravesend",
+               "short_name" : "Gravesend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DA11",
+               "short_name" : "DA11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ebbsfleet International, Gravesend, Kent DA11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.44304,
+               "lng" : 0.32107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4443889802915,
+                  "lng" : 0.322418980291502
+               },
+               "southwest" : {
+                  "lat" : 51.4416910197085,
+                  "lng" : 0.3197210197084979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

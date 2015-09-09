@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NN16",
+               "short_name" : "NN16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Kettering",
+               "short_name" : "Kettering",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kettering, Northamptonshire NN16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4229798,
+                  "lng" : -0.6658132999999999
+               },
+               "southwest" : {
+                  "lat" : 52.3939783,
+                  "lng" : -0.783546
+               }
+            },
+            "location" : {
+               "lat" : 52.407107,
+               "lng" : -0.7136595999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4229798,
+                  "lng" : -0.6658132999999999
+               },
+               "southwest" : {
+                  "lat" : 52.3939783,
+                  "lng" : -0.783546
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

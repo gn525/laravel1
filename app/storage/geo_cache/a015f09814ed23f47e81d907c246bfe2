@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldbrough",
+               "short_name" : "Aldbrough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Riding of Yorkshire",
+               "short_name" : "East Riding of Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HU11",
+               "short_name" : "HU11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aldbrough, Hull, East Riding of Yorkshire HU11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.829211,
+               "lng" : -0.116131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.83579590000001,
+                  "lng" : -0.1001236
+               },
+               "southwest" : {
+                  "lat" : 53.8226251,
+                  "lng" : -0.1321384
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

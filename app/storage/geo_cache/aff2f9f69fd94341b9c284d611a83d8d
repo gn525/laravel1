@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burnham-on-Crouch",
+               "short_name" : "Burnham-on-Crouch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burnham-on-Crouch, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6481718,
+                  "lng" : 0.8305654
+               },
+               "southwest" : {
+                  "lat" : 51.6217909,
+                  "lng" : 0.8004017999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.628347,
+               "lng" : 0.814539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6481718,
+                  "lng" : 0.8305654
+               },
+               "southwest" : {
+                  "lat" : 51.6217909,
+                  "lng" : 0.8004017999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

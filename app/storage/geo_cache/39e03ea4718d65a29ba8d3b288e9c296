@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal Leamington Spa",
+               "short_name" : "Royal Leamington Spa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Royal Leamington Spa, Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3143077,
+                  "lng" : -1.4930289
+               },
+               "southwest" : {
+                  "lat" : 52.2565389,
+                  "lng" : -1.56145
+               }
+            },
+            "location" : {
+               "lat" : 52.2851905,
+               "lng" : -1.5200789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3143077,
+                  "lng" : -1.4930289
+               },
+               "southwest" : {
+                  "lat" : 52.2565389,
+                  "lng" : -1.56145
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

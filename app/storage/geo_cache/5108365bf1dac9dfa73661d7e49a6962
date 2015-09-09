@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DE72",
+               "short_name" : "DE72",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DE72, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.94637160000001,
+                  "lng" : -1.2987117
+               },
+               "southwest" : {
+                  "lat" : 52.8363425,
+                  "lng" : -1.466433
+               }
+            },
+            "location" : {
+               "lat" : 52.8985249,
+               "lng" : -1.3619632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.94637160000001,
+                  "lng" : -1.2987117
+               },
+               "southwest" : {
+                  "lat" : 52.8363425,
+                  "lng" : -1.4324501
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

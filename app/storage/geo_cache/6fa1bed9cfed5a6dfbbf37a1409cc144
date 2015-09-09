@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matlock Bath",
+               "short_name" : "Matlock Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matlock",
+               "short_name" : "Matlock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE4",
+               "short_name" : "DE4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Matlock Bath, Matlock, Derbyshire DE4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.121576,
+               "lng" : -1.562861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1282716,
+                  "lng" : -1.5468536
+               },
+               "southwest" : {
+                  "lat" : 53.1148794,
+                  "lng" : -1.5788684
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

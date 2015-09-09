@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Watchet",
+               "short_name" : "Watchet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Watchet, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1842127,
+                  "lng" : -3.3031252
+               },
+               "southwest" : {
+                  "lat" : 51.1675919,
+                  "lng" : -3.3507681
+               }
+            },
+            "location" : {
+               "lat" : 51.181769,
+               "lng" : -3.329177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1842127,
+                  "lng" : -3.3031252
+               },
+               "southwest" : {
+                  "lat" : 51.1675919,
+                  "lng" : -3.3507681
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

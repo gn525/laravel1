@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neasden",
+               "short_name" : "Neasden",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW10",
+               "short_name" : "NW10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Neasden, London NW10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.55399,
+               "lng" : -0.24981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5553389802915,
+                  "lng" : -0.248461019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5526410197085,
+                  "lng" : -0.251158980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talk to Thailand",
+               "short_name" : "Talk to Thailand",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "South Downs National Park",
+               "short_name" : "South Downs National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Lewes",
+               "short_name" : "Lewes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lewes",
+               "short_name" : "Lewes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN7 9GZ",
+               "short_name" : "BN7 9GZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Talk to Thailand, South Downs National Park, Lewes, East Sussex BN7 9GZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.87939650000001,
+               "lng" : 0.0161717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.88074548029151,
+                  "lng" : 0.01752068029150203
+               },
+               "southwest" : {
+                  "lat" : 50.87804751970851,
+                  "lng" : 0.01482271970849797
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

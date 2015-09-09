@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Henley-in-Arden",
+               "short_name" : "Henley-in-Arden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Henley-in-Arden",
+               "short_name" : "Henley-in-Arden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B95",
+               "short_name" : "B95",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Henley-in-Arden, Henley-in-Arden, Warwickshire B95, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3009951,
+                  "lng" : -1.7571982
+               },
+               "southwest" : {
+                  "lat" : 52.2808552,
+                  "lng" : -1.7877185
+               }
+            },
+            "location" : {
+               "lat" : 52.292549,
+               "lng" : -1.779866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3009951,
+                  "lng" : -1.7571982
+               },
+               "southwest" : {
+                  "lat" : 52.2808552,
+                  "lng" : -1.7877185
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stockwood",
+               "short_name" : "Stockwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dorchester",
+               "short_name" : "Dorchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT2",
+               "short_name" : "DT2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stockwood, Dorchester, Dorset DT2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.86412,
+               "lng" : -2.5860789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.871162,
+                  "lng" : -2.5700715
+               },
+               "southwest" : {
+                  "lat" : 50.857077,
+                  "lng" : -2.6020863
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

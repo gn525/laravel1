@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holbeach",
+               "short_name" : "Holbeach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spalding",
+               "short_name" : "Spalding",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE12",
+               "short_name" : "PE12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Holbeach, Spalding, Lincolnshire PE12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8306085,
+                  "lng" : 0.04568589999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7940043,
+                  "lng" : -0.0130071
+               }
+            },
+            "location" : {
+               "lat" : 52.803991,
+               "lng" : 0.013434
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8306085,
+                  "lng" : 0.04568589999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7940043,
+                  "lng" : -0.0130071
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

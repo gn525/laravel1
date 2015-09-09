@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ellesmere",
+               "short_name" : "Ellesmere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ellesmere",
+               "short_name" : "Ellesmere",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY12",
+               "short_name" : "SY12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ellesmere, Ellesmere, Shropshire SY12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9242894,
+                  "lng" : -2.8825247
+               },
+               "southwest" : {
+                  "lat" : 52.90090439999999,
+                  "lng" : -2.9122303
+               }
+            },
+            "location" : {
+               "lat" : 52.906718,
+               "lng" : -2.900338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9242894,
+                  "lng" : -2.8825247
+               },
+               "southwest" : {
+                  "lat" : 52.90090439999999,
+                  "lng" : -2.9122303
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

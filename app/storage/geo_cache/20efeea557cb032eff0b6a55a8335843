@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bury",
+               "short_name" : "Bury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bury, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.682329,
+                  "lng" : -2.235095
+               },
+               "southwest" : {
+                  "lat" : 53.5522966,
+                  "lng" : -2.3836943
+               }
+            },
+            "location" : {
+               "lat" : 53.6064429,
+               "lng" : -2.3015648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.682329,
+                  "lng" : -2.235095
+               },
+               "southwest" : {
+                  "lat" : 53.5522966,
+                  "lng" : -2.3836943
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

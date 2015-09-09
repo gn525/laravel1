@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almondbank",
+               "short_name" : "Almondbank",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perth",
+               "short_name" : "Perth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Perth and Kinross",
+               "short_name" : "Perth and Kinross",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH1",
+               "short_name" : "PH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Almondbank, Perth, Perth and Kinross PH1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.426134,
+                  "lng" : -3.5029777
+               },
+               "southwest" : {
+                  "lat" : 56.407048,
+                  "lng" : -3.5307351
+               }
+            },
+            "location" : {
+               "lat" : 56.418785,
+               "lng" : -3.515002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.426134,
+                  "lng" : -3.5029777
+               },
+               "southwest" : {
+                  "lat" : 56.407048,
+                  "lng" : -3.5307351
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

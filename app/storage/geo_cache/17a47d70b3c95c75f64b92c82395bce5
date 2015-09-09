@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SO23",
+               "short_name" : "SO23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Winchester",
+               "short_name" : "Winchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Winchester, Hampshire SO23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1120007,
+                  "lng" : -1.2916248
+               },
+               "southwest" : {
+                  "lat" : 51.03908690000001,
+                  "lng" : -1.3405254
+               }
+            },
+            "location" : {
+               "lat" : 51.0729045,
+               "lng" : -1.3050168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1120007,
+                  "lng" : -1.2916248
+               },
+               "southwest" : {
+                  "lat" : 51.03908690000001,
+                  "lng" : -1.3405254
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

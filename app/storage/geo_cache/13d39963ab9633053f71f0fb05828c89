@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bentham",
+               "short_name" : "Bentham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA2",
+               "short_name" : "LA2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bentham, Lancaster, North Yorkshire LA2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1283415,
+                  "lng" : -2.4920255
+               },
+               "southwest" : {
+                  "lat" : 54.1087883,
+                  "lng" : -2.5235926
+               }
+            },
+            "location" : {
+               "lat" : 54.1180014,
+               "lng" : -2.5090175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1283415,
+                  "lng" : -2.4920255
+               },
+               "southwest" : {
+                  "lat" : 54.1087883,
+                  "lng" : -2.5235926
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

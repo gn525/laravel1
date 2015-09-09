@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Twycross",
+               "short_name" : "Twycross",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atherstone",
+               "short_name" : "Atherstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV9",
+               "short_name" : "CV9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Twycross, Atherstone, Leicestershire CV9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.642629,
+               "lng" : -1.504612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.649399,
+                  "lng" : -1.4886046
+               },
+               "southwest" : {
+                  "lat" : 52.635858,
+                  "lng" : -1.5206194
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

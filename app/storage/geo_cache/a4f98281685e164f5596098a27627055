@@ -1,0 +1,261 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wigtown Road",
+               "short_name" : "Wigtown Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sorbie",
+               "short_name" : "Sorbie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG8 8EL",
+               "short_name" : "DG8 8EL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wigtown Road, Sorbie, Newton Stewart, Dumfries and Galloway DG8 8EL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7927312,
+                  "lng" : -4.4334824
+               },
+               "southwest" : {
+                  "lat" : 54.7893775,
+                  "lng" : -4.434956400000001
+               }
+            },
+            "location" : {
+               "lat" : 54.79090100000001,
+               "lng" : -4.4342692
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7927312,
+                  "lng" : -4.432870419708498
+               },
+               "southwest" : {
+                  "lat" : 54.7893775,
+                  "lng" : -4.435568380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wigtown Road",
+               "short_name" : "Wigtown Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG8",
+               "short_name" : "DG8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wigtown Road, Newton Stewart, Newton Stewart, Dumfries and Galloway DG8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9535677,
+                  "lng" : -4.4782658
+               },
+               "southwest" : {
+                  "lat" : 54.9490112,
+                  "lng" : -4.4823095
+               }
+            },
+            "location" : {
+               "lat" : 54.95140929999999,
+               "lng" : -4.4809617
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9535677,
+                  "lng" : -4.4782658
+               },
+               "southwest" : {
+                  "lat" : 54.9490112,
+                  "lng" : -4.4823095
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wigtown",
+               "short_name" : "Wigtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG8",
+               "short_name" : "DG8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wigtown, Newton Stewart, Dumfries and Galloway DG8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8761795,
+                  "lng" : -4.4359848
+               },
+               "southwest" : {
+                  "lat" : 54.8610159,
+                  "lng" : -4.4499635
+               }
+            },
+            "location" : {
+               "lat" : 54.867159,
+               "lng" : -4.444234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8761795,
+                  "lng" : -4.4359848
+               },
+               "southwest" : {
+                  "lat" : 54.8610159,
+                  "lng" : -4.4499635
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wigtown House Hotel",
+               "short_name" : "Wigtown House Hotel",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bank Street",
+               "short_name" : "Bank St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wigtown",
+               "short_name" : "Wigtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG8 9HR",
+               "short_name" : "DG8 9HR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wigtown House Hotel, 19 Bank Street, Wigtown, Newton Stewart, Dumfries and Galloway DG8 9HR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.8688927,
+               "lng" : -4.4405388
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.87024168029149,
+                  "lng" : -4.439189819708497
+               },
+               "southwest" : {
+                  "lat" : 54.8675437197085,
+                  "lng" : -4.441887780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

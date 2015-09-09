@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldridge",
+               "short_name" : "Aldridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Walsall",
+               "short_name" : "Walsall",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WS9",
+               "short_name" : "WS9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aldridge, Walsall, West Midlands WS9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6060779,
+               "lng" : -1.915801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6128535,
+                  "lng" : -1.8997936
+               },
+               "southwest" : {
+                  "lat" : 52.59930120000001,
+                  "lng" : -1.9318084
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

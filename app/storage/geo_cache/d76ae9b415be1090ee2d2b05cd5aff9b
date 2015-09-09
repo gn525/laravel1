@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Midlands Airport",
+               "short_name" : "East Midlands Airport",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "East Midlands Airport",
+               "short_name" : "East Midlands Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Derby",
+               "short_name" : "Derby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE74",
+               "short_name" : "DE74",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Midlands Airport, East Midlands Airport (EMA), Derby, Leicestershire DE74, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.826308,
+               "lng" : -1.327038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.82765698029149,
+                  "lng" : -1.325689019708498
+               },
+               "southwest" : {
+                  "lat" : 52.82495901970849,
+                  "lng" : -1.328386980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

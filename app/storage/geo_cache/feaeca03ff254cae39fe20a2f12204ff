@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castle Bromwich",
+               "short_name" : "Castle Bromwich",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Solihull District",
+               "short_name" : "Solihull District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Castle Bromwich, West Midlands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5144541,
+                  "lng" : -1.7524686
+               },
+               "southwest" : {
+                  "lat" : 52.4995004,
+                  "lng" : -1.7994538
+               }
+            },
+            "location" : {
+               "lat" : 52.50528869999999,
+               "lng" : -1.7720114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5144541,
+                  "lng" : -1.7524686
+               },
+               "southwest" : {
+                  "lat" : 52.4995004,
+                  "lng" : -1.7994538
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

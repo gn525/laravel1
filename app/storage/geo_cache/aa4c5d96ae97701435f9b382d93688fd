@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tibshelf",
+               "short_name" : "Tibshelf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfreton",
+               "short_name" : "Alfreton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE55",
+               "short_name" : "DE55",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tibshelf, Alfreton, Derbyshire DE55, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1560097,
+                  "lng" : -1.3214792
+               },
+               "southwest" : {
+                  "lat" : 53.1342773,
+                  "lng" : -1.3544267
+               }
+            },
+            "location" : {
+               "lat" : 53.140349,
+               "lng" : -1.346878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1560097,
+                  "lng" : -1.3214792
+               },
+               "southwest" : {
+                  "lat" : 53.1342773,
+                  "lng" : -1.3544267
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

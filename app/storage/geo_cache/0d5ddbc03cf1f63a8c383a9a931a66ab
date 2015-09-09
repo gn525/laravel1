@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maidstone, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3323062,
+                  "lng" : 0.7861562999999999
+               },
+               "southwest" : {
+                  "lat" : 51.18777069999999,
+                  "lng" : 0.3276031
+               }
+            },
+            "location" : {
+               "lat" : 51.24078489999999,
+               "lng" : 0.5843292
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3323062,
+                  "lng" : 0.7861562999999999
+               },
+               "southwest" : {
+                  "lat" : 51.18777069999999,
+                  "lng" : 0.3276031
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

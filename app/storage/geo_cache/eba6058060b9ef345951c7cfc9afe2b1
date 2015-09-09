@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Ashton",
+               "short_name" : "Long Ashton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Ashton, Bristol, North Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4395397,
+                  "lng" : -2.6398792
+               },
+               "southwest" : {
+                  "lat" : 51.4223379,
+                  "lng" : -2.6780355
+               }
+            },
+            "location" : {
+               "lat" : 51.431876,
+               "lng" : -2.647401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4395397,
+                  "lng" : -2.6398792
+               },
+               "southwest" : {
+                  "lat" : 51.4223379,
+                  "lng" : -2.6780355
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

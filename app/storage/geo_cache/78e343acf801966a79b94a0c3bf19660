@@ -1,0 +1,236 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA21",
+               "short_name" : "TA21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wellington, Wellington, Somerset TA21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9913993,
+                  "lng" : -3.2089462
+               },
+               "southwest" : {
+                  "lat" : 50.9626491,
+                  "lng" : -3.2437641
+               }
+            },
+            "location" : {
+               "lat" : 50.978564,
+               "lng" : -3.2244989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9913993,
+                  "lng" : -3.2089462
+               },
+               "southwest" : {
+                  "lat" : 50.9626491,
+                  "lng" : -3.2437641
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telford",
+               "short_name" : "Telford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellington, Telford, Telford and Wrekin, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.71458740000001,
+                  "lng" : -2.4934206
+               },
+               "southwest" : {
+                  "lat" : 52.6821603,
+                  "lng" : -2.538889600000001
+               }
+            },
+            "location" : {
+               "lat" : 52.703034,
+               "lng" : -2.518597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.71458740000001,
+                  "lng" : -2.4934206
+               },
+               "southwest" : {
+                  "lat" : 52.6821603,
+                  "lng" : -2.538889600000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hereford",
+               "short_name" : "Hereford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR4",
+               "short_name" : "HR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wellington, Hereford, Herefordshire HR4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.12742,
+               "lng" : -2.747284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1287689802915,
+                  "lng" : -2.745935019708498
+               },
+               "southwest" : {
+                  "lat" : 52.1260710197085,
+                  "lng" : -2.748632980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seascale",
+               "short_name" : "Seascale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA20",
+               "short_name" : "CA20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wellington, Seascale, Cumbria CA20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.423547,
+               "lng" : -3.421363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4248959802915,
+                  "lng" : -3.420014019708498
+               },
+               "southwest" : {
+                  "lat" : 54.4221980197085,
+                  "lng" : -3.422711980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

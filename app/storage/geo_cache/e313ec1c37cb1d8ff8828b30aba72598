@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxton",
+               "short_name" : "Oxton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southwell",
+               "short_name" : "Southwell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG25",
+               "short_name" : "NG25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxton, Southwell, Nottinghamshire NG25, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.058962,
+               "lng" : -1.060908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0656673,
+                  "lng" : -1.0449006
+               },
+               "southwest" : {
+                  "lat" : 53.0522556,
+                  "lng" : -1.0769154
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

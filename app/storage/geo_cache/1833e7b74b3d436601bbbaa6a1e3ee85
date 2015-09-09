@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Honiton",
+               "short_name" : "Honiton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honiton",
+               "short_name" : "Honiton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX14",
+               "short_name" : "EX14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Honiton, Honiton, Devon EX14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.811457,
+                  "lng" : -3.1518907
+               },
+               "southwest" : {
+                  "lat" : 50.78577079999999,
+                  "lng" : -3.2151708
+               }
+            },
+            "location" : {
+               "lat" : 50.799468,
+               "lng" : -3.188683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.811457,
+                  "lng" : -3.1518907
+               },
+               "southwest" : {
+                  "lat" : 50.78577079999999,
+                  "lng" : -3.2151708
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

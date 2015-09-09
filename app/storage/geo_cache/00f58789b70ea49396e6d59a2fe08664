@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruislip Gardens",
+               "short_name" : "Ruislip Gardens",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ruislip",
+               "short_name" : "Ruislip",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ruislip",
+               "short_name" : "Ruislip",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HA4",
+               "short_name" : "HA4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ruislip Gardens, Ruislip, Ruislip, Greater London HA4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.56073,
+               "lng" : -0.41069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5620789802915,
+                  "lng" : -0.409341019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5593810197085,
+                  "lng" : -0.412038980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

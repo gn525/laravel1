@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtownards",
+               "short_name" : "Newtownards",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newtownards",
+               "short_name" : "Newtownards",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ards",
+               "short_name" : "Ards",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT23",
+               "short_name" : "BT23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newtownards, Newtownards, Ards BT23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.59758,
+               "lng" : -5.68609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6040435,
+                  "lng" : -5.6700826
+               },
+               "southwest" : {
+                  "lat" : 54.5911155,
+                  "lng" : -5.7020974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

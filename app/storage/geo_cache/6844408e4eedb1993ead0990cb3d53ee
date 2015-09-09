@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thornaby",
+               "short_name" : "Thornaby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thornaby, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5680446,
+                  "lng" : -1.2669798
+               },
+               "southwest" : {
+                  "lat" : 54.5052381,
+                  "lng" : -1.3406414
+               }
+            },
+            "location" : {
+               "lat" : 54.5403076,
+               "lng" : -1.2936359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5680446,
+                  "lng" : -1.2669798
+               },
+               "southwest" : {
+                  "lat" : 54.5052381,
+                  "lng" : -1.3406414
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

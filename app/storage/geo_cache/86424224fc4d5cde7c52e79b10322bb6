@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tanfield Lea",
+               "short_name" : "Tanfield Lea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tanfield Lea, County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9077087,
+                  "lng" : -1.6856748
+               },
+               "southwest" : {
+                  "lat" : 54.8707147,
+                  "lng" : -1.7369692
+               }
+            },
+            "location" : {
+               "lat" : 54.8804443,
+               "lng" : -1.7113301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9077087,
+                  "lng" : -1.6856748
+               },
+               "southwest" : {
+                  "lat" : 54.8707147,
+                  "lng" : -1.7369692
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

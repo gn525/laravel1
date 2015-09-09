@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B32",
+               "short_name" : "B32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Birmingham B32, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4665525,
+                  "lng" : -1.966257
+               },
+               "southwest" : {
+                  "lat" : 52.40723389999999,
+                  "lng" : -2.0458557
+               }
+            },
+            "location" : {
+               "lat" : 52.43484060000001,
+               "lng" : -2.0097478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4665525,
+                  "lng" : -1.966257
+               },
+               "southwest" : {
+                  "lat" : 52.40723389999999,
+                  "lng" : -2.0458557
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

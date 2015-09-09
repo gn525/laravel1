@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johnstone",
+               "short_name" : "Johnstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Johnstone, Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8438832,
+                  "lng" : -4.492567999999999
+               },
+               "southwest" : {
+                  "lat" : 55.8138416,
+                  "lng" : -4.5428643
+               }
+            },
+            "location" : {
+               "lat" : 55.837324,
+               "lng" : -4.513915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8438832,
+                  "lng" : -4.492567999999999
+               },
+               "southwest" : {
+                  "lat" : 55.8138416,
+                  "lng" : -4.5428643
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

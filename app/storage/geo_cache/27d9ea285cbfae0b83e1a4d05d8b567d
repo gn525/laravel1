@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastcote",
+               "short_name" : "Eastcote",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pinner",
+               "short_name" : "Pinner",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pinner",
+               "short_name" : "Pinner",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HA5",
+               "short_name" : "HA5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eastcote, Pinner, Pinner, Greater London HA5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.58224999999999,
+               "lng" : -0.39658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5891829,
+                  "lng" : -0.3805726
+               },
+               "southwest" : {
+                  "lat" : 51.575316,
+                  "lng" : -0.4125874
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

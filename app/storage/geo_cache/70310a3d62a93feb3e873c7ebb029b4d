@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bacup",
+               "short_name" : "Bacup",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bacup, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7201756,
+                  "lng" : -2.1695669
+               },
+               "southwest" : {
+                  "lat" : 53.685486,
+                  "lng" : -2.2454846
+               }
+            },
+            "location" : {
+               "lat" : 53.707167,
+               "lng" : -2.201259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7201756,
+                  "lng" : -2.1695669
+               },
+               "southwest" : {
+                  "lat" : 53.685486,
+                  "lng" : -2.2454846
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

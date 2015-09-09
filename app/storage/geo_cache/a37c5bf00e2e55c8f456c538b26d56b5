@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hayling Island",
+               "short_name" : "Hayling Island",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hayling Island",
+               "short_name" : "Hayling Island",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO11",
+               "short_name" : "PO11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hayling Island, Hayling Island, Hampshire PO11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.82937399999999,
+               "lng" : -0.97819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8364212,
+                  "lng" : -0.9621825999999999
+               },
+               "southwest" : {
+                  "lat" : 50.8223257,
+                  "lng" : -0.9941974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hayling Island",
+               "short_name" : "Hayling Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hayling Island, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8345433,
+                  "lng" : -0.936106
+               },
+               "southwest" : {
+                  "lat" : 50.7767852,
+                  "lng" : -1.0253446
+               }
+            },
+            "location" : {
+               "lat" : 50.7947565,
+               "lng" : -0.9760186999999998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8345433,
+                  "lng" : -0.936106
+               },
+               "southwest" : {
+                  "lat" : 50.7767852,
+                  "lng" : -1.0253446
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peacemarsh",
+               "short_name" : "Peacemarsh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP8",
+               "short_name" : "SP8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peacemarsh, Gillingham, Gillingham, Dorset SP8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.043392,
+               "lng" : -2.27866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0504069,
+                  "lng" : -2.2626526
+               },
+               "southwest" : {
+                  "lat" : 51.0363761,
+                  "lng" : -2.2946674
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

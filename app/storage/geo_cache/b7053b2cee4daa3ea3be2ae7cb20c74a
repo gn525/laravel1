@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mold",
+               "short_name" : "Mold",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mold",
+               "short_name" : "Mold",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH7",
+               "short_name" : "CH7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mold, Mold, Flintshire CH7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1812052,
+                  "lng" : -3.1224297
+               },
+               "southwest" : {
+                  "lat" : 53.15387490000001,
+                  "lng" : -3.1627015
+               }
+            },
+            "location" : {
+               "lat" : 53.167203,
+               "lng" : -3.141903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1812052,
+                  "lng" : -3.1224297
+               },
+               "southwest" : {
+                  "lat" : 53.15387490000001,
+                  "lng" : -3.1627015
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

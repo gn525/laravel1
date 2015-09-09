@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "KT21",
+               "short_name" : "KT21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "KT21, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.33748240000001,
+                  "lng" : -0.279691
+               },
+               "southwest" : {
+                  "lat" : 51.29603059999999,
+                  "lng" : -0.3272264
+               }
+            },
+            "location" : {
+               "lat" : 51.3203977,
+               "lng" : -0.3096881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.33748240000001,
+                  "lng" : -0.279691
+               },
+               "southwest" : {
+                  "lat" : 51.29603059999999,
+                  "lng" : -0.3272264
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamilton, South Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7958229,
+                  "lng" : -3.9976697
+               },
+               "southwest" : {
+                  "lat" : 55.74721719999999,
+                  "lng" : -4.099885899999999
+               }
+            },
+            "location" : {
+               "lat" : 55.77763299999999,
+               "lng" : -4.053679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7958229,
+                  "lng" : -3.9976697
+               },
+               "southwest" : {
+                  "lat" : 55.74721719999999,
+                  "lng" : -4.099885899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

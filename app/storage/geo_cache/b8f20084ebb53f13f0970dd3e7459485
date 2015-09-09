@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Croxley Business Park",
+               "short_name" : "Croxley Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Courtyard",
+               "short_name" : "The Courtyard",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD18 8YF",
+               "short_name" : "WD18 8YF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Croxley Business Park, 18 The Courtyard, Watford, Hertfordshire WD18 8YF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6446297,
+               "lng" : -0.4300504
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.64597868029149,
+                  "lng" : -0.428701419708498
+               },
+               "southwest" : {
+                  "lat" : 51.64328071970849,
+                  "lng" : -0.431399380291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

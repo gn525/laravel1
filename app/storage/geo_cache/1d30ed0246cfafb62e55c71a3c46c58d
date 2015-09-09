@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Moor",
+               "short_name" : "Upper Moor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pershore",
+               "short_name" : "Pershore",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR10",
+               "short_name" : "WR10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Upper Moor, Pershore, Worcestershire WR10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.125738,
+               "lng" : -2.0383779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.13258769999999,
+                  "lng" : -2.0223705
+               },
+               "southwest" : {
+                  "lat" : 52.1188872,
+                  "lng" : -2.0543853
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

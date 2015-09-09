@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M17",
+               "short_name" : "M17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M17, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4817434,
+                  "lng" : -2.2797878
+               },
+               "southwest" : {
+                  "lat" : 53.45588009999999,
+                  "lng" : -2.369445900000001
+               }
+            },
+            "location" : {
+               "lat" : 53.47072360000001,
+               "lng" : -2.3230574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4817434,
+                  "lng" : -2.2797878
+               },
+               "southwest" : {
+                  "lat" : 53.45588009999999,
+                  "lng" : -2.369445900000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

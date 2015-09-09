@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkland Hall",
+               "short_name" : "Kirkland Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "The Avenue",
+               "short_name" : "The Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Churchtown",
+               "short_name" : "Churchtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR3 0HX",
+               "short_name" : "PR3 0HX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirkland Hall, The Avenue, Churchtown, Preston, Lancashire PR3 0HX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8818183,
+               "lng" : -2.7904086
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8831672802915,
+                  "lng" : -2.789059619708498
+               },
+               "southwest" : {
+                  "lat" : 53.8804693197085,
+                  "lng" : -2.791757580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkland Bridge",
+               "short_name" : "Kirkland Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR3 0HN",
+               "short_name" : "PR3 0HN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirkland Bridge, Preston, Lancashire PR3 0HN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8811056,
+                  "lng" : -2.7791843
+               },
+               "southwest" : {
+                  "lat" : 53.8806441,
+                  "lng" : -2.7799278
+               }
+            },
+            "location" : {
+               "lat" : 53.8810259,
+               "lng" : -2.7798125
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.88222383029149,
+                  "lng" : -2.778207069708498
+               },
+               "southwest" : {
+                  "lat" : 53.87952586970849,
+                  "lng" : -2.780905030291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "kirkland place",
+               "short_name" : "kirkland Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ashton-on-Ribble",
+               "short_name" : "Ashton-on-Ribble",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR2 1QA",
+               "short_name" : "PR2 1QA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "kirkland place, Preston, Lancashire PR2 1QA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7625597,
+                  "lng" : -2.7559642
+               },
+               "southwest" : {
+                  "lat" : 53.76228709999999,
+                  "lng" : -2.7575701
+               }
+            },
+            "location" : {
+               "lat" : 53.76232659999999,
+               "lng" : -2.7567951
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.76377238029149,
+                  "lng" : -2.755418169708498
+               },
+               "southwest" : {
+                  "lat" : 53.76107441970849,
+                  "lng" : -2.758116130291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

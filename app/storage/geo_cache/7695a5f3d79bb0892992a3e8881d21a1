@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ludlow",
+               "short_name" : "Ludlow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ludlow",
+               "short_name" : "Ludlow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY8",
+               "short_name" : "SY8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ludlow, Ludlow, Shropshire SY8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.38600899999999,
+                  "lng" : -2.6844195
+               },
+               "southwest" : {
+                  "lat" : 52.3579584,
+                  "lng" : -2.7350821
+               }
+            },
+            "location" : {
+               "lat" : 52.367749,
+               "lng" : -2.7139129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.38600899999999,
+                  "lng" : -2.6844195
+               },
+               "southwest" : {
+                  "lat" : 52.3579584,
+                  "lng" : -2.7350821
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

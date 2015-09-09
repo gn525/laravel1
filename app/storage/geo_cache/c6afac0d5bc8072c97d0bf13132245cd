@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wing Police Office",
+               "short_name" : "Wing Police Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "73",
+               "short_name" : "73",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Leighton Road",
+               "short_name" : "Leighton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leighton Buzzard",
+               "short_name" : "Leighton Buzzard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leighton Buzzard",
+               "short_name" : "Leighton Buzzard",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LU7 0NN",
+               "short_name" : "LU7 0NN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wing Police Office, 73 Leighton Road, Wing, Leighton Buzzard, Buckinghamshire LU7 0NN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.897237,
+               "lng" : -0.7151854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8985859802915,
+                  "lng" : -0.7138364197084979
+               },
+               "southwest" : {
+                  "lat" : 51.8958880197085,
+                  "lng" : -0.716534380291502
+               }
+            }
+         },
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

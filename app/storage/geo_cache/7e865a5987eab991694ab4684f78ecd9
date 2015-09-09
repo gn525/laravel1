@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holton St. Mary",
+               "short_name" : "Holton St Mary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO7",
+               "short_name" : "CO7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Holton St. Mary, Colchester, Suffolk CO7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.990711,
+               "lng" : 1.000582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.99758139999999,
+                  "lng" : 1.0165894
+               },
+               "southwest" : {
+                  "lat" : 51.98383949999999,
+                  "lng" : 0.9845746000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

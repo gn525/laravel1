@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Falklands Islands Government Office",
+               "short_name" : "Falklands Islands Government Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Falkland House",
+               "short_name" : "Falkland House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westminster",
+               "short_name" : "Westminster",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW1H 0BH",
+               "short_name" : "SW1H 0BH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Falkland House, Falklands Islands Government Office, 14 Broadway, Westminster, London SW1H 0BH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.499222,
+               "lng" : -0.1333601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5005709802915,
+                  "lng" : -0.132011119708498
+               },
+               "southwest" : {
+                  "lat" : 51.4978730197085,
+                  "lng" : -0.134709080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

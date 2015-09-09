@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lakeside",
+               "short_name" : "Lakeside",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ulverston",
+               "short_name" : "Ulverston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA12",
+               "short_name" : "LA12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lakeside, Ulverston, Cumbria LA12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.278851,
+               "lng" : -2.957051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.285365,
+                  "lng" : -2.9410436
+               },
+               "southwest" : {
+                  "lat" : 54.272336,
+                  "lng" : -2.9730584
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

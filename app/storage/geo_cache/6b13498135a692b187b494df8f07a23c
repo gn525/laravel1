@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tenbury Wells",
+               "short_name" : "Tenbury Wells",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tenbury Wells",
+               "short_name" : "Tenbury Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR15",
+               "short_name" : "WR15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tenbury Wells, Tenbury Wells, Worcestershire WR15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3144806,
+                  "lng" : -2.5800323
+               },
+               "southwest" : {
+                  "lat" : 52.2942837,
+                  "lng" : -2.6078204
+               }
+            },
+            "location" : {
+               "lat" : 52.307662,
+               "lng" : -2.596406
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3144806,
+                  "lng" : -2.5800323
+               },
+               "southwest" : {
+                  "lat" : 52.2942837,
+                  "lng" : -2.6078204
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

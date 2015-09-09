@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SK3",
+               "short_name" : "SK3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Stockport",
+               "short_name" : "Stockport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stockport SK3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4094359,
+                  "lng" : -2.1473109
+               },
+               "southwest" : {
+                  "lat" : 53.3806579,
+                  "lng" : -2.2129867
+               }
+            },
+            "location" : {
+               "lat" : 53.3978828,
+               "lng" : -2.1727646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4094359,
+                  "lng" : -2.1473109
+               },
+               "southwest" : {
+                  "lat" : 53.3806579,
+                  "lng" : -2.2129867
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

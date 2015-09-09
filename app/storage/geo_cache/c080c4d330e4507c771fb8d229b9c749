@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TN4",
+               "short_name" : "TN4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Tunbridge Wells",
+               "short_name" : "Tunbridge Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tunbridge Wells TN4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1832283,
+                  "lng" : 0.2868161
+               },
+               "southwest" : {
+                  "lat" : 51.1161699,
+                  "lng" : 0.2225977
+               }
+            },
+            "location" : {
+               "lat" : 51.1530212,
+               "lng" : 0.2612464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1832283,
+                  "lng" : 0.2868161
+               },
+               "southwest" : {
+                  "lat" : 51.1161699,
+                  "lng" : 0.2225977
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

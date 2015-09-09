@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Marston Industrial Estate",
+               "short_name" : "South Marston Industrial Estate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN3",
+               "short_name" : "SN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Marston Industrial Estate, Swindon, Swindon SN3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5983987,
+               "lng" : -1.7366854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6053292,
+                  "lng" : -1.720678
+               },
+               "southwest" : {
+                  "lat" : 51.5914672,
+                  "lng" : -1.7526928
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

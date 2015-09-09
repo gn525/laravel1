@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rainham",
+               "short_name" : "Rainham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rainham, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5469874,
+                  "lng" : 0.2449255
+               },
+               "southwest" : {
+                  "lat" : 51.48727770000001,
+                  "lng" : 0.1584161
+               }
+            },
+            "location" : {
+               "lat" : 51.517732,
+               "lng" : 0.194831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5469874,
+                  "lng" : 0.2449255
+               },
+               "southwest" : {
+                  "lat" : 51.48727770000001,
+                  "lng" : 0.1584161
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

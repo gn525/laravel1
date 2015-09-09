@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EH16",
+               "short_name" : "EH16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh EH16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.943286,
+                  "lng" : -3.1069888
+               },
+               "southwest" : {
+                  "lat" : 55.8988536,
+                  "lng" : -3.1880658
+               }
+            },
+            "location" : {
+               "lat" : 55.92345299999999,
+               "lng" : -3.1522496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.943286,
+                  "lng" : -3.1069888
+               },
+               "southwest" : {
+                  "lat" : 55.8988536,
+                  "lng" : -3.1880658
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Cross",
+               "short_name" : "New Cross",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE14",
+               "short_name" : "SE14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Cross, London SE14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.471022,
+               "lng" : -0.040245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4779719,
+                  "lng" : -0.0242376
+               },
+               "southwest" : {
+                  "lat" : 51.464071,
+                  "lng" : -0.0562524
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Cross",
+               "short_name" : "New Cross",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberystwyth",
+               "short_name" : "Aberystwyth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ceredigion",
+               "short_name" : "Ceredigion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY23",
+               "short_name" : "SY23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Cross, Aberystwyth, Ceredigion SY23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.373645,
+               "lng" : -4.005869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3749939802915,
+                  "lng" : -4.004520019708497
+               },
+               "southwest" : {
+                  "lat" : 52.3722960197085,
+                  "lng" : -4.007217980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Cross",
+               "short_name" : "New Cross",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Petherton",
+               "short_name" : "South Petherton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA13",
+               "short_name" : "TA13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Cross, South Petherton, Somerset TA13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.967659,
+               "lng" : -2.830961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.96900798029149,
+                  "lng" : -2.829612019708498
+               },
+               "southwest" : {
+                  "lat" : 50.96631001970849,
+                  "lng" : -2.832309980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

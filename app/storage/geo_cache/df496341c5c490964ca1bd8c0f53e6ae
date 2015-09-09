@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LS12",
+               "short_name" : "LS12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Yorkshire LS12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8123516,
+                  "lng" : -1.5573709
+               },
+               "southwest" : {
+                  "lat" : 53.7660906,
+                  "lng" : -1.6516953
+               }
+            },
+            "location" : {
+               "lat" : 53.785815,
+               "lng" : -1.6098209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8123516,
+                  "lng" : -1.5573709
+               },
+               "southwest" : {
+                  "lat" : 53.7660906,
+                  "lng" : -1.6516953
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

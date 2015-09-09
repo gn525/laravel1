@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melrose",
+               "short_name" : "Melrose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Melrose",
+               "short_name" : "Melrose",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TD6",
+               "short_name" : "TD6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Melrose, Melrose, Scottish Borders TD6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6040289,
+                  "lng" : -2.7094959
+               },
+               "southwest" : {
+                  "lat" : 55.5838264,
+                  "lng" : -2.7382247
+               }
+            },
+            "location" : {
+               "lat" : 55.598676,
+               "lng" : -2.72191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6040289,
+                  "lng" : -2.7094959
+               },
+               "southwest" : {
+                  "lat" : 55.5838264,
+                  "lng" : -2.7382247
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

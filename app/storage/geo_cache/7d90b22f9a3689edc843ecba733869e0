@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sydney Terrace",
+               "short_name" : "Sydney Terrace",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "King's Lynn",
+               "short_name" : "King's Lynn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE30 5BP",
+               "short_name" : "PE30 5BP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sydney Terrace, King's Lynn, Norfolk PE30 5BP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7379094,
+                  "lng" : 0.395992
+               },
+               "southwest" : {
+                  "lat" : 52.7377952,
+                  "lng" : 0.3948642
+               }
+            },
+            "location" : {
+               "lat" : 52.7378748,
+               "lng" : 0.3948642
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7392012802915,
+                  "lng" : 0.396777080291502
+               },
+               "southwest" : {
+                  "lat" : 52.7365033197085,
+                  "lng" : 0.394079119708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

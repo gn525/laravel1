@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Skellingthorpe",
+               "short_name" : "Skellingthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN6",
+               "short_name" : "LN6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Skellingthorpe, Lincoln, Lincolnshire LN6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2475102,
+                  "lng" : -0.5948998999999999
+               },
+               "southwest" : {
+                  "lat" : 53.2175768,
+                  "lng" : -0.6354894000000001
+               }
+            },
+            "location" : {
+               "lat" : 53.23642,
+               "lng" : -0.620636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2475102,
+                  "lng" : -0.5948998999999999
+               },
+               "southwest" : {
+                  "lat" : 53.2175768,
+                  "lng" : -0.6354894000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

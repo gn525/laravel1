@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worsley",
+               "short_name" : "Worsley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worsley, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5326009,
+                  "lng" : -2.3432722
+               },
+               "southwest" : {
+                  "lat" : 53.4718758,
+                  "lng" : -2.4385809
+               }
+            },
+            "location" : {
+               "lat" : 53.50754,
+               "lng" : -2.391199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5326009,
+                  "lng" : -2.3432722
+               },
+               "southwest" : {
+                  "lat" : 53.4718758,
+                  "lng" : -2.4385809
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

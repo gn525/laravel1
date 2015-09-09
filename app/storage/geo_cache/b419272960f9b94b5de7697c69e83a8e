@@ -1,0 +1,1655 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.95365,
+               "lng" : -0.12739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9549989802915,
+                  "lng" : -0.126041019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9523010197085,
+                  "lng" : -0.128738980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill Uncovered",
+               "short_name" : "Burgess Hill Uncovered",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15 9AA",
+               "short_name" : "RH15 9AA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill Uncovered, Burgess Hill, West Sussex RH15 9AA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.956953,
+               "lng" : -0.133584
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95830198029149,
+                  "lng" : -0.132235019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9556040197085,
+                  "lng" : -0.134932980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill Green Circle Route",
+               "short_name" : "Burgess Hill Green Cir Rte",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15 0DE",
+               "short_name" : "RH15 0DE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill Green Circle Route, Burgess Hill, West Sussex RH15 0DE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9476558,
+                  "lng" : -0.1258785
+               },
+               "southwest" : {
+                  "lat" : 50.9438417,
+                  "lng" : -0.1333355
+               }
+            },
+            "location" : {
+               "lat" : 50.9470197,
+               "lng" : -0.1289322
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9476558,
+                  "lng" : -0.1258785
+               },
+               "southwest" : {
+                  "lat" : 50.9438417,
+                  "lng" : -0.1333355
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "96",
+               "short_name" : "96",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Church Walk",
+               "short_name" : "Church Walk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Mid Sussex",
+               "short_name" : "Mid Sussex",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15 9AS",
+               "short_name" : "RH15 9AS",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, 96 Church Walk, Burgess Hill, West Sussex RH15 9AS, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9562916,
+               "lng" : -0.1315283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9576405802915,
+                  "lng" : -0.130179319708498
+               },
+               "southwest" : {
+                  "lat" : 50.9549426197085,
+                  "lng" : -0.132877280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill RH15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9809259,
+                  "lng" : -0.08892
+               },
+               "southwest" : {
+                  "lat" : 50.9360965,
+                  "lng" : -0.1636678
+               }
+            },
+            "location" : {
+               "lat" : 50.9601188,
+               "lng" : -0.126666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9809259,
+                  "lng" : -0.08892
+               },
+               "southwest" : {
+                  "lat" : 50.9360965,
+                  "lng" : -0.1636678
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill Library",
+               "short_name" : "Burgess Hill Library",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The Martlets",
+               "short_name" : "The Martlets",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15 9NN",
+               "short_name" : "RH15 9NN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Martlets, Burgess Hill Library, Burgess Hill, West Sussex RH15 9NN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9555399,
+               "lng" : -0.1328428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95688888029149,
+                  "lng" : -0.131493819708498
+               },
+               "southwest" : {
+                  "lat" : 50.9541909197085,
+                  "lng" : -0.1341917802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "library", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill School for Girls",
+               "short_name" : "Burgess Hill School for Girls",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Keymer Road",
+               "short_name" : "Keymer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15 0EG",
+               "short_name" : "RH15 0EG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill School for Girls, Keymer Road, Burgess Hill, West Sussex RH15 0EG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.95107300000001,
+               "lng" : -0.125226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95242198029151,
+                  "lng" : -0.123877019708498
+               },
+               "southwest" : {
+                  "lat" : 50.94972401970851,
+                  "lng" : -0.126574980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, adj The Gattons",
+               "short_name" : "Burgess Hill, adj The Gattons",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, adj The Gattons, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.958759,
+               "lng" : -0.146746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9601079802915,
+                  "lng" : -0.145397019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9574100197085,
+                  "lng" : -0.148094980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, opp The Gattons",
+               "short_name" : "Burgess Hill, opp The Gattons",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, opp The Gattons, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.959366,
+               "lng" : -0.148046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9607149802915,
+                  "lng" : -0.146697019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9580170197085,
+                  "lng" : -0.149394980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, adj The Jays",
+               "short_name" : "Burgess Hill, adj The Jays",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, adj The Jays, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.961487,
+               "lng" : -0.148446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9628359802915,
+                  "lng" : -0.147097019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9601380197085,
+                  "lng" : -0.149794980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, opp The Jays",
+               "short_name" : "Burgess Hill, opp The Jays",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, opp The Jays, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.961552,
+               "lng" : -0.147475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.96290098029149,
+                  "lng" : -0.146126019708498
+               },
+               "southwest" : {
+                  "lat" : 50.96020301970849,
+                  "lng" : -0.148823980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, opp The Vineries",
+               "short_name" : "Burgess Hill, opp The Vineries",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, opp The Vineries, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.958313,
+               "lng" : -0.113742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95966198029151,
+                  "lng" : -0.112393019708498
+               },
+               "southwest" : {
+                  "lat" : 50.95696401970851,
+                  "lng" : -0.115090980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, adj The Triangle",
+               "short_name" : "Burgess Hill, adj The Triangle",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, adj The Triangle, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.964935,
+               "lng" : -0.153393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.96628398029149,
+                  "lng" : -0.152044019708498
+               },
+               "southwest" : {
+                  "lat" : 50.96358601970849,
+                  "lng" : -0.154741980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, The Acorn (N-bound)",
+               "short_name" : "Burgess Hill, The Acorn (N-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, The Acorn (N-bound), Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.950283,
+               "lng" : -0.150329
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95163198029149,
+                  "lng" : -0.148980019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9489340197085,
+                  "lng" : -0.151677980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, The Acorn (S-bound)",
+               "short_name" : "Burgess Hill, The Acorn (S-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, The Acorn (S-bound), Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.950668,
+               "lng" : -0.150128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9520169802915,
+                  "lng" : -0.148779019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9493190197085,
+                  "lng" : -0.151476980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, opp The Saffrons",
+               "short_name" : "Burgess Hill, opp The Saffrons",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, opp The Saffrons, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.967247,
+               "lng" : -0.142662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9685959802915,
+                  "lng" : -0.141313019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9658980197085,
+                  "lng" : -0.144010980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, Tesco (E-Bound)",
+               "short_name" : "Burgess Hill, Tesco (E-Bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, Tesco (E-Bound), Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.949493,
+               "lng" : -0.148837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9508419802915,
+                  "lng" : -0.147488019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9481440197085,
+                  "lng" : -0.150185980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, adj The Saffrons",
+               "short_name" : "Burgess Hill, adj The Saffrons",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, adj The Saffrons, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.966953,
+               "lng" : -0.143343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9683019802915,
+                  "lng" : -0.141994019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9656040197085,
+                  "lng" : -0.144691980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, opp The Warren south",
+               "short_name" : "Burgess Hill, opp The Warren south",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, opp The Warren south, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.947662,
+               "lng" : -0.116479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9490109802915,
+                  "lng" : -0.115130019708498
+               },
+               "southwest" : {
+                  "lat" : 50.94631301970851,
+                  "lng" : -0.117827980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, opp Longhurst",
+               "short_name" : "Burgess Hill, opp Longhurst",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, opp Longhurst, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.95343,
+               "lng" : -0.112701
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9547789802915,
+                  "lng" : -0.111352019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9520810197085,
+                  "lng" : -0.114049980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, adj Northway",
+               "short_name" : "Burgess Hill, adj Northway",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, adj Northway, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.963108,
+               "lng" : -0.114858
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.96445698029149,
+                  "lng" : -0.113509019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9617590197085,
+                  "lng" : -0.116206980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, opp Northway",
+               "short_name" : "Burgess Hill, opp Northway",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, opp Northway, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.962978,
+               "lng" : -0.114265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9643269802915,
+                  "lng" : -0.112916019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9616290197085,
+                  "lng" : -0.115613980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, adj The Warren south",
+               "short_name" : "Burgess Hill, adj The Warren south",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, adj The Warren south, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.947685,
+               "lng" : -0.116749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9490339802915,
+                  "lng" : -0.115400019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9463360197085,
+                  "lng" : -0.118097980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, adj Longhurst",
+               "short_name" : "Burgess Hill, adj Longhurst",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, adj Longhurst, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.95372,
+               "lng" : -0.112874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95506898029151,
+                  "lng" : -0.111525019708498
+               },
+               "southwest" : {
+                  "lat" : 50.95237101970851,
+                  "lng" : -0.114222980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, o/s Wivelsfield Station",
+               "short_name" : "Burgess Hill, o/s Wivelsfield Station",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, o/s Wivelsfield Station, Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.964672,
+               "lng" : -0.120449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9660209802915,
+                  "lng" : -0.119100019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9633230197085,
+                  "lng" : -0.121797980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill Police Station",
+               "short_name" : "Burgess Hill Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The Brow",
+               "short_name" : "The Brow",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15 9BU",
+               "short_name" : "RH15 9BU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill Police Station, The Brow, Burgess Hill, West Sussex RH15 9BU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9560971,
+               "lng" : -0.1343716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9574460802915,
+                  "lng" : -0.133022619708498
+               },
+               "southwest" : {
+                  "lat" : 50.9547481197085,
+                  "lng" : -0.135720580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, Valebridge Road (N-Bound)",
+               "short_name" : "Burgess Hill, Valebridge Road (N-Bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, Valebridge Road (N-Bound), Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.970501,
+               "lng" : -0.117165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9718499802915,
+                  "lng" : -0.115816019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9691520197085,
+                  "lng" : -0.118513980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, Malthouse Lane (N-bound)",
+               "short_name" : "Burgess Hill, Malthouse Lane (N-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, Malthouse Lane (N-bound), Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.959232,
+               "lng" : -0.158902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9605809802915,
+                  "lng" : -0.157553019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9578830197085,
+                  "lng" : -0.160250980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, Park Road (S-bound)",
+               "short_name" : "Burgess Hill, Park Road (S-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, Park Road (S-bound), Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.959377,
+               "lng" : -0.13859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.96072598029149,
+                  "lng" : -0.137241019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9580280197085,
+                  "lng" : -0.139938980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgess Hill, Valebridge Road (S-Bound)",
+               "short_name" : "Burgess Hill, Valebridge Road (S-Bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgess Hill",
+               "short_name" : "Burgess Hill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH15",
+               "short_name" : "RH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burgess Hill, Valebridge Road (S-Bound), Burgess Hill, Burgess Hill, West Sussex RH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.97038999999999,
+               "lng" : -0.116956
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.97173898029149,
+                  "lng" : -0.115607019708498
+               },
+               "southwest" : {
+                  "lat" : 50.96904101970849,
+                  "lng" : -0.118304980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

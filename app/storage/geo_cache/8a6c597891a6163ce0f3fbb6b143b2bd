@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thundersley",
+               "short_name" : "Thundersley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benfleet",
+               "short_name" : "Benfleet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS7",
+               "short_name" : "SS7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thundersley, Benfleet, Essex SS7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.56874699999999,
+               "lng" : 0.5959439999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.575682,
+                  "lng" : 0.6119513999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5618109,
+                  "lng" : 0.5799366
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

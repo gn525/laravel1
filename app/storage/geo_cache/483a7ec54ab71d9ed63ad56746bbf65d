@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HP20",
+               "short_name" : "HP20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Aylesbury",
+               "short_name" : "Aylesbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aylesbury, Buckinghamshire HP20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.833101,
+                  "lng" : -0.7754685
+               },
+               "southwest" : {
+                  "lat" : 51.8109177,
+                  "lng" : -0.8230799999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.8205216,
+               "lng" : -0.7980853
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.833101,
+                  "lng" : -0.7754685
+               },
+               "southwest" : {
+                  "lat" : 51.8109177,
+                  "lng" : -0.8230799999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aylesbury",
+               "short_name" : "Aylesbury",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Aylesbury",
+               "short_name" : "Aylesbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aylesbury",
+               "short_name" : "Aylesbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP20",
+               "short_name" : "HP20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aylesbury, Aylesbury, Aylesbury, Buckinghamshire HP20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8139,
+               "lng" : -0.81507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.81524898029149,
+                  "lng" : -0.813721019708498
+               },
+               "southwest" : {
+                  "lat" : 51.8125510197085,
+                  "lng" : -0.8164189802915021
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

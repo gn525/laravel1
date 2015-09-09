@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardenden",
+               "short_name" : "Cardenden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lochgelly",
+               "short_name" : "Lochgelly",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY5",
+               "short_name" : "KY5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cardenden, Lochgelly, Fife KY5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1559709,
+                  "lng" : -3.2394273
+               },
+               "southwest" : {
+                  "lat" : 56.1285531,
+                  "lng" : -3.2789003
+               }
+            },
+            "location" : {
+               "lat" : 56.145247,
+               "lng" : -3.2558919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1559709,
+                  "lng" : -3.2394273
+               },
+               "southwest" : {
+                  "lat" : 56.1285531,
+                  "lng" : -3.2789003
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

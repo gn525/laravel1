@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stansted Mountfitchet",
+               "short_name" : "Stansted Mountfitchet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stansted",
+               "short_name" : "Stansted",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM24",
+               "short_name" : "CM24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stansted Mountfitchet, Stansted, Essex CM24, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8978139,
+               "lng" : 0.198703
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9046986,
+                  "lng" : 0.2147104
+               },
+               "southwest" : {
+                  "lat" : 51.8909282,
+                  "lng" : 0.1826956
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Godalming",
+               "short_name" : "Godalming",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Godalming, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.20869399999999,
+                  "lng" : -0.5840624
+               },
+               "southwest" : {
+                  "lat" : 51.1631339,
+                  "lng" : -0.6378115
+               }
+            },
+            "location" : {
+               "lat" : 51.18573199999999,
+               "lng" : -0.612808
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.20869399999999,
+                  "lng" : -0.5840624
+               },
+               "southwest" : {
+                  "lat" : 51.1631339,
+                  "lng" : -0.6378115
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spennymoor",
+               "short_name" : "Spennymoor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spennymoor, County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7178695,
+                  "lng" : -1.5731147
+               },
+               "southwest" : {
+                  "lat" : 54.6831403,
+                  "lng" : -1.6330004
+               }
+            },
+            "location" : {
+               "lat" : 54.69772099999999,
+               "lng" : -1.58552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7178695,
+                  "lng" : -1.5731147
+               },
+               "southwest" : {
+                  "lat" : 54.6831403,
+                  "lng" : -1.6330004
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WV1",
+               "short_name" : "WV1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Midlands WV1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5986736,
+                  "lng" : -2.0822462
+               },
+               "southwest" : {
+                  "lat" : 52.572439,
+                  "lng" : -2.1511693
+               }
+            },
+            "location" : {
+               "lat" : 52.5853486,
+               "lng" : -2.1000388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5986736,
+                  "lng" : -2.0822462
+               },
+               "southwest" : {
+                  "lat" : 52.572439,
+                  "lng" : -2.1511693
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London Borough of Haringey",
+               "short_name" : "London Borough of Haringey",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London Borough of Haringey, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6112147,
+                  "lng" : -0.0414478
+               },
+               "southwest" : {
+                  "lat" : 51.564635,
+                  "lng" : -0.1712852
+               }
+            },
+            "location" : {
+               "lat" : 51.5906113,
+               "lng" : -0.1109709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6112147,
+                  "lng" : -0.0414478
+               },
+               "southwest" : {
+                  "lat" : 51.564635,
+                  "lng" : -0.1712852
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

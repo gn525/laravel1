@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bovey Tracey",
+               "short_name" : "Bovey Tracey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Abbot",
+               "short_name" : "Newton Abbot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TQ13",
+               "short_name" : "TQ13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bovey Tracey, Newton Abbot, Devon TQ13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6014567,
+                  "lng" : -3.6552513
+               },
+               "southwest" : {
+                  "lat" : 50.5762047,
+                  "lng" : -3.6914346
+               }
+            },
+            "location" : {
+               "lat" : 50.593547,
+               "lng" : -3.672587
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6014567,
+                  "lng" : -3.6552513
+               },
+               "southwest" : {
+                  "lat" : 50.5762047,
+                  "lng" : -3.6914346
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Featherstone",
+               "short_name" : "Featherstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pontefract",
+               "short_name" : "Pontefract",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Featherstone, Pontefract, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6995918,
+                  "lng" : -1.3323501
+               },
+               "southwest" : {
+                  "lat" : 53.6665149,
+                  "lng" : -1.377796
+               }
+            },
+            "location" : {
+               "lat" : 53.674814,
+               "lng" : -1.356949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6995918,
+                  "lng" : -1.3323501
+               },
+               "southwest" : {
+                  "lat" : 53.6665149,
+                  "lng" : -1.377796
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

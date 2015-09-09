@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sands Industrial Estate",
+               "short_name" : "Sands Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "High Wycombe",
+               "short_name" : "High Wycombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "High Wycombe",
+               "short_name" : "High Wycombe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP12",
+               "short_name" : "HP12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sands Industrial Estate, High Wycombe, High Wycombe, Buckinghamshire HP12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6312118,
+               "lng" : -0.7946485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6381373,
+                  "lng" : -0.7786411
+               },
+               "southwest" : {
+                  "lat" : 51.6242853,
+                  "lng" : -0.8106559
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

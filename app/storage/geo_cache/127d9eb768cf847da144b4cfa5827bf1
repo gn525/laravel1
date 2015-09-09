@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishopstoke",
+               "short_name" : "Bishopstoke",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Eastleigh District",
+               "short_name" : "Eastleigh District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO50",
+               "short_name" : "SO50",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bishopstoke, Hampshire SO50, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9876602,
+                  "lng" : -1.3047864
+               },
+               "southwest" : {
+                  "lat" : 50.9546449,
+                  "lng" : -1.3465771
+               }
+            },
+            "location" : {
+               "lat" : 50.9683429,
+               "lng" : -1.3237988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9876602,
+                  "lng" : -1.3047864
+               },
+               "southwest" : {
+                  "lat" : 50.9546449,
+                  "lng" : -1.3465771
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

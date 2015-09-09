@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enham Alamein",
+               "short_name" : "Enham Alamein",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Andover",
+               "short_name" : "Andover",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP11",
+               "short_name" : "SP11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Enham Alamein, Andover, Hampshire SP11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.240022,
+               "lng" : -1.47688
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.247007,
+                  "lng" : -1.4608726
+               },
+               "southwest" : {
+                  "lat" : 51.2330359,
+                  "lng" : -1.4928874
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

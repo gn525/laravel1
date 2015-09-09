@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blaenau Gwent",
+               "short_name" : "Blaenau Gwent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blaenau Gwent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8254832,
+                  "lng" : -3.1060076
+               },
+               "southwest" : {
+                  "lat" : 51.6812847,
+                  "lng" : -3.3100856
+               }
+            },
+            "location" : {
+               "lat" : 51.7875779,
+               "lng" : -3.2043931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8254832,
+                  "lng" : -3.1060076
+               },
+               "southwest" : {
+                  "lat" : 51.6812847,
+                  "lng" : -3.3100856
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

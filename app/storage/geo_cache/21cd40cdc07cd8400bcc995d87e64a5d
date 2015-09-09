@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Littleport",
+               "short_name" : "Littleport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Littleport, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.51360440000001,
+                  "lng" : 0.4293207
+               },
+               "southwest" : {
+                  "lat" : 52.4301306,
+                  "lng" : 0.2416607
+               }
+            },
+            "location" : {
+               "lat" : 52.456703,
+               "lng" : 0.3073659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.51360440000001,
+                  "lng" : 0.4293207
+               },
+               "southwest" : {
+                  "lat" : 52.4301306,
+                  "lng" : 0.2416607
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

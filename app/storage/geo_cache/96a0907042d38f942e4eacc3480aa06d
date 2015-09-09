@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NN14",
+               "short_name" : "NN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Kettering",
+               "short_name" : "Kettering",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kettering NN14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4942108,
+                  "lng" : -0.4057989
+               },
+               "southwest" : {
+                  "lat" : 52.3364075,
+                  "lng" : -0.8592976
+               }
+            },
+            "location" : {
+               "lat" : 52.4236674,
+               "lng" : -0.6096973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4942108,
+                  "lng" : -0.4057989
+               },
+               "southwest" : {
+                  "lat" : 52.3364075,
+                  "lng" : -0.8592976
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

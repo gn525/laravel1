@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lynch Wood",
+               "short_name" : "Lynch Wood",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Hungerford",
+               "short_name" : "Hungerford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG17",
+               "short_name" : "RG17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lynch Wood, Hungerford, West Berkshire RG17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5178747,
+                  "lng" : -1.5272048
+               },
+               "southwest" : {
+                  "lat" : 51.5106586,
+                  "lng" : -1.5380687
+               }
+            },
+            "location" : {
+               "lat" : 51.5142606,
+               "lng" : -1.5295832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5178747,
+                  "lng" : -1.5272048
+               },
+               "southwest" : {
+                  "lat" : 51.5106586,
+                  "lng" : -1.5380687
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

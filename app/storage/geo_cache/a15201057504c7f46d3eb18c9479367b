@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burham",
+               "short_name" : "Burham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME1",
+               "short_name" : "ME1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burham, Rochester, Kent ME1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.337986,
+                  "lng" : 0.4868426
+               },
+               "southwest" : {
+                  "lat" : 51.32606570000001,
+                  "lng" : 0.4676631999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.332323,
+               "lng" : 0.478378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.337986,
+                  "lng" : 0.4868426
+               },
+               "southwest" : {
+                  "lat" : 51.32606570000001,
+                  "lng" : 0.4676631999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

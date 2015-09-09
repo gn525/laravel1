@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "Costa Rica",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Borehamwood",
+               "short_name" : "Borehamwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borehamwood",
+               "short_name" : "Borehamwood",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD6",
+               "short_name" : "WD6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Costa Rica, Borehamwood, Borehamwood, Hertfordshire WD6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6578729,
+                  "lng" : -0.2531806
+               },
+               "southwest" : {
+                  "lat" : 51.6578548,
+                  "lng" : -0.2532154
+               }
+            },
+            "location" : {
+               "lat" : 51.6578623,
+               "lng" : -0.2531978
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.65921283029149,
+                  "lng" : -0.2518490197084979
+               },
+               "southwest" : {
+                  "lat" : 51.6565148697085,
+                  "lng" : -0.254546980291502
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

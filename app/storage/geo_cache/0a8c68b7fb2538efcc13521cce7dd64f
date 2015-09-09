@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clipstone",
+               "short_name" : "Clipstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mansfield",
+               "short_name" : "Mansfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clipstone, Mansfield, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1695365,
+                  "lng" : -1.0984919
+               },
+               "southwest" : {
+                  "lat" : 53.1512466,
+                  "lng" : -1.1344524
+               }
+            },
+            "location" : {
+               "lat" : 53.160813,
+               "lng" : -1.126034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1695365,
+                  "lng" : -1.0984919
+               },
+               "southwest" : {
+                  "lat" : 53.1512466,
+                  "lng" : -1.1344524
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clipstone",
+               "short_name" : "Clipstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leighton Buzzard",
+               "short_name" : "Leighton Buzzard",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LU7",
+               "short_name" : "LU7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clipstone, Leighton Buzzard, Central Bedfordshire LU7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.926828,
+               "lng" : -0.623964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9281769802915,
+                  "lng" : -0.622615019708498
+               },
+               "southwest" : {
+                  "lat" : 51.9254790197085,
+                  "lng" : -0.6253129802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

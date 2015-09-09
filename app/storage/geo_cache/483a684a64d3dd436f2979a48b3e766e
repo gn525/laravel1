@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brockhampton",
+               "short_name" : "Brockhampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL54",
+               "short_name" : "GL54",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brockhampton, Cheltenham, Gloucestershire GL54, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.901182,
+               "lng" : -1.949984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9080662,
+                  "lng" : -1.9339766
+               },
+               "southwest" : {
+                  "lat" : 51.8942968,
+                  "lng" : -1.9659914
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

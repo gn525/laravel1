@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colney Street",
+               "short_name" : "Colney Street",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St Albans",
+               "short_name" : "St Albans",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AL2",
+               "short_name" : "AL2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Colney Street, St Albans, Hertfordshire AL2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.706248,
+               "lng" : -0.328842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.713162,
+                  "lng" : -0.3128346
+               },
+               "southwest" : {
+                  "lat" : 51.69933289999999,
+                  "lng" : -0.3448494
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enfield, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6937545,
+                  "lng" : -0.0067053
+               },
+               "southwest" : {
+                  "lat" : 51.6337413,
+                  "lng" : -0.153915
+               }
+            },
+            "location" : {
+               "lat" : 51.65159999999999,
+               "lng" : -0.0837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6937545,
+                  "lng" : -0.0067053
+               },
+               "southwest" : {
+                  "lat" : 51.6337413,
+                  "lng" : -0.153915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

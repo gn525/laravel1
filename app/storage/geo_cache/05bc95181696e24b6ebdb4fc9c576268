@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horndean",
+               "short_name" : "Horndean",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterlooville",
+               "short_name" : "Waterlooville",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO8",
+               "short_name" : "PO8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Horndean, Waterlooville, Hampshire PO8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.915927,
+               "lng" : -1.002333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.92296109999999,
+                  "lng" : -0.9863255999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9088918,
+                  "lng" : -1.0183404
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

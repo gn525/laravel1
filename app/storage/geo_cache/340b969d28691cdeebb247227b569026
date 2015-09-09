@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Henlow Camp",
+               "short_name" : "Henlow Camp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Henlow",
+               "short_name" : "Henlow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG16",
+               "short_name" : "SG16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Henlow Camp, Henlow, Central Bedfordshire SG16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.009147,
+               "lng" : -0.300323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0160146,
+                  "lng" : -0.2843156
+               },
+               "southwest" : {
+                  "lat" : 52.0022783,
+                  "lng" : -0.3163304
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

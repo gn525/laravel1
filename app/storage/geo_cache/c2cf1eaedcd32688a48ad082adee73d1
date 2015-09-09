@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "L3",
+               "short_name" : "L3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liverpool, Merseyside L3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4334178,
+                  "lng" : -2.959107
+               },
+               "southwest" : {
+                  "lat" : 53.371534,
+                  "lng" : -3.0072719
+               }
+            },
+            "location" : {
+               "lat" : 53.41540180000001,
+               "lng" : -2.9887565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4334178,
+                  "lng" : -2.959107
+               },
+               "southwest" : {
+                  "lat" : 53.371534,
+                  "lng" : -3.0072719
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Martock",
+               "short_name" : "Martock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Martock",
+               "short_name" : "Martock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA12",
+               "short_name" : "TA12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Martock, Martock, Somerset TA12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9855591,
+                  "lng" : -2.7551029
+               },
+               "southwest" : {
+                  "lat" : 50.9561345,
+                  "lng" : -2.7780279
+               }
+            },
+            "location" : {
+               "lat" : 50.975626,
+               "lng" : -2.767086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9855591,
+                  "lng" : -2.7551029
+               },
+               "southwest" : {
+                  "lat" : 50.9561345,
+                  "lng" : -2.7780279
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

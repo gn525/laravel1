@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawling",
+               "short_name" : "Hawling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL54",
+               "short_name" : "GL54",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hawling, Cheltenham, Gloucestershire GL54, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90563700000001,
+               "lng" : -1.906192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.91940289999999,
+                  "lng" : -1.8741772
+               },
+               "southwest" : {
+                  "lat" : 51.8918669,
+                  "lng" : -1.9382068
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

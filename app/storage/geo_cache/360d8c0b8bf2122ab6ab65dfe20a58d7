@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Forres",
+               "short_name" : "Forres",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forres",
+               "short_name" : "Forres",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Moray",
+               "short_name" : "Moray",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IV36",
+               "short_name" : "IV36",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Forres, Forres, Moray IV36, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.61958850000001,
+                  "lng" : -3.5834787
+               },
+               "southwest" : {
+                  "lat" : 57.59293280000001,
+                  "lng" : -3.6411207
+               }
+            },
+            "location" : {
+               "lat" : 57.60979099999999,
+               "lng" : -3.61998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.61958850000001,
+                  "lng" : -3.5834787
+               },
+               "southwest" : {
+                  "lat" : 57.59293280000001,
+                  "lng" : -3.6411207
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

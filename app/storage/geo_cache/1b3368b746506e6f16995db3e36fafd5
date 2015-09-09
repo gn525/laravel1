@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eynsham",
+               "short_name" : "Eynsham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Witney",
+               "short_name" : "Witney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX29",
+               "short_name" : "OX29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eynsham, Witney, Oxfordshire OX29, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.801283,
+                  "lng" : -1.3473434
+               },
+               "southwest" : {
+                  "lat" : 51.7617978,
+                  "lng" : -1.4404754
+               }
+            },
+            "location" : {
+               "lat" : 51.781605,
+               "lng" : -1.376999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.801283,
+                  "lng" : -1.3473434
+               },
+               "southwest" : {
+                  "lat" : 51.7617978,
+                  "lng" : -1.4404754
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,383 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windermere",
+               "short_name" : "Windermere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windermere",
+               "short_name" : "Windermere",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA23",
+               "short_name" : "LA23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windermere, Windermere, Cumbria LA23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.39040989999999,
+                  "lng" : -2.8895619
+               },
+               "southwest" : {
+                  "lat" : 54.3604435,
+                  "lng" : -2.9234861
+               }
+            },
+            "location" : {
+               "lat" : 54.380685,
+               "lng" : -2.906785
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.39040989999999,
+                  "lng" : -2.8895619
+               },
+               "southwest" : {
+                  "lat" : 54.3604435,
+                  "lng" : -2.9234861
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windermere",
+               "short_name" : "Windermere",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birtley",
+               "short_name" : "Birtley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester le Street",
+               "short_name" : "Chester le Street",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DH3 2JU",
+               "short_name" : "DH3 2JU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windermere, Birtley, Chester le Street, Tyne and Wear DH3 2JU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8866314,
+                  "lng" : -1.5611881
+               },
+               "southwest" : {
+                  "lat" : 54.8847847,
+                  "lng" : -1.5662395
+               }
+            },
+            "location" : {
+               "lat" : 54.8863074,
+               "lng" : -1.5641353
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.88705703029149,
+                  "lng" : -1.5611881
+               },
+               "southwest" : {
+                  "lat" : 54.88435906970849,
+                  "lng" : -1.5662395
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windermere",
+               "short_name" : "Windermere",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cleadon",
+               "short_name" : "Cleadon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR6 7QQ",
+               "short_name" : "SR6 7QQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windermere, Cleadon, Sunderland, Tyne and Wear SR6 7QQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9542966,
+                  "lng" : -1.4005484
+               },
+               "southwest" : {
+                  "lat" : 54.95326499999999,
+                  "lng" : -1.4024444
+               }
+            },
+            "location" : {
+               "lat" : 54.9535169,
+               "lng" : -1.4010932
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.95512978029149,
+                  "lng" : -1.400147419708498
+               },
+               "southwest" : {
+                  "lat" : 54.9524318197085,
+                  "lng" : -1.402845380291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windermere",
+               "short_name" : "Windermere",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Kilbride",
+               "short_name" : "East Kilbride",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G75 8BS",
+               "short_name" : "G75 8BS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windermere, East Kilbride, Glasgow, South Lanarkshire G75 8BS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.744921,
+                  "lng" : -4.219600799999999
+               },
+               "southwest" : {
+                  "lat" : 55.7436363,
+                  "lng" : -4.220402
+               }
+            },
+            "location" : {
+               "lat" : 55.7442983,
+               "lng" : -4.2201571
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7456276302915,
+                  "lng" : -4.218652419708498
+               },
+               "southwest" : {
+                  "lat" : 55.7429296697085,
+                  "lng" : -4.221350380291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windermere",
+               "short_name" : "Windermere",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faversham",
+               "short_name" : "Faversham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faversham",
+               "short_name" : "Faversham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME13",
+               "short_name" : "ME13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windermere, Faversham, Faversham, Kent ME13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3104327,
+                  "lng" : 0.9048378
+               },
+               "southwest" : {
+                  "lat" : 51.3090262,
+                  "lng" : 0.9005212
+               }
+            },
+            "location" : {
+               "lat" : 51.3097159,
+               "lng" : 0.9025909999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3110784302915,
+                  "lng" : 0.9048378
+               },
+               "southwest" : {
+                  "lat" : 51.3083804697085,
+                  "lng" : 0.9005212
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windermere",
+               "short_name" : "Windermere",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wilnecote",
+               "short_name" : "Wilnecote",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B77 5TD",
+               "short_name" : "B77 5TD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windermere, Wilnecote, Tamworth, Staffordshire B77 5TD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.60800640000001,
+                  "lng" : -1.6549559
+               },
+               "southwest" : {
+                  "lat" : 52.6075946,
+                  "lng" : -1.6554899
+               }
+            },
+            "location" : {
+               "lat" : 52.607805,
+               "lng" : -1.6552579
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6091494802915,
+                  "lng" : -1.653873919708498
+               },
+               "southwest" : {
+                  "lat" : 52.6064515197085,
+                  "lng" : -1.656571880291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bodiam",
+               "short_name" : "Bodiam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Robertsbridge",
+               "short_name" : "Robertsbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN32",
+               "short_name" : "TN32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bodiam, Robertsbridge, East Sussex TN32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.00404,
+               "lng" : 0.536928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0110608,
+                  "lng" : 0.5529354
+               },
+               "southwest" : {
+                  "lat" : 50.9970181,
+                  "lng" : 0.5209206
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

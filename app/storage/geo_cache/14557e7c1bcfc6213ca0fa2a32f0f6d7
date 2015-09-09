@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TN14",
+               "short_name" : "TN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Sevenoaks",
+               "short_name" : "Sevenoaks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sevenoaks TN14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3541022,
+                  "lng" : 0.2207608
+               },
+               "southwest" : {
+                  "lat" : 51.216224,
+                  "lng" : 0.06386789999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.29453669999999,
+               "lng" : 0.1281882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3541022,
+                  "lng" : 0.2207608
+               },
+               "southwest" : {
+                  "lat" : 51.216224,
+                  "lng" : 0.06386789999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sevenoaks",
+               "short_name" : "Sevenoaks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sevenoaks",
+               "short_name" : "Sevenoaks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sevenoaks, Sevenoaks, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3024898,
+                  "lng" : 0.2215394
+               },
+               "southwest" : {
+                  "lat" : 51.2453604,
+                  "lng" : 0.1493634
+               }
+            },
+            "location" : {
+               "lat" : 51.27241000000001,
+               "lng" : 0.190898
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3024898,
+                  "lng" : 0.2215394
+               },
+               "southwest" : {
+                  "lat" : 51.2453604,
+                  "lng" : 0.1493634
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

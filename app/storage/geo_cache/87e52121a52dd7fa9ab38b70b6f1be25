@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RG1",
+               "short_name" : "RG1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading RG1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.466506,
+                  "lng" : -0.9381956
+               },
+               "southwest" : {
+                  "lat" : 51.4334791,
+                  "lng" : -1.0001971
+               }
+            },
+            "location" : {
+               "lat" : 51.45326439999999,
+               "lng" : -0.9634222000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.466506,
+                  "lng" : -0.9381956
+               },
+               "southwest" : {
+                  "lat" : 51.4334791,
+                  "lng" : -1.0001971
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG1",
+               "short_name" : "RG1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Reading, Reading, Reading, Reading RG1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.45879000000001,
+               "lng" : -0.9718399999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.46013898029151,
+                  "lng" : -0.9704910197084979
+               },
+               "southwest" : {
+                  "lat" : 51.45744101970851,
+                  "lng" : -0.973188980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

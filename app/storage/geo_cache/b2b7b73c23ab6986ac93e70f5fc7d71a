@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gants Hill",
+               "short_name" : "Gants Hill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ilford",
+               "short_name" : "Ilford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilford",
+               "short_name" : "Ilford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IG2",
+               "short_name" : "IG2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gants Hill, Ilford, Ilford, Greater London IG2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.57936400000001,
+               "lng" : 0.064863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5862974,
+                  "lng" : 0.0808704
+               },
+               "southwest" : {
+                  "lat" : 51.57242960000001,
+                  "lng" : 0.0488556
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

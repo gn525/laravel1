@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Benfleet",
+               "short_name" : "South Benfleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benfleet",
+               "short_name" : "Benfleet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS7",
+               "short_name" : "SS7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Benfleet, Benfleet, Essex SS7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.545415,
+               "lng" : 0.568599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5523536,
+                  "lng" : 0.5846064
+               },
+               "southwest" : {
+                  "lat" : 51.5384754,
+                  "lng" : 0.5525916
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

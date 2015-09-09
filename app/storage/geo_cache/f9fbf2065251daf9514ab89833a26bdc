@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dryburgh Industrial Estate",
+               "short_name" : "Dryburgh Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD2",
+               "short_name" : "DD2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dryburgh Industrial Estate, Dundee, Dundee, Dundee City DD2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.4842198,
+               "lng" : -3.0131326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.49038040000001,
+                  "lng" : -2.9971252
+               },
+               "southwest" : {
+                  "lat" : 56.4780582,
+                  "lng" : -3.02914
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

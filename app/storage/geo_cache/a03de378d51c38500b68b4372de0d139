@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NE3",
+               "short_name" : "NE3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tyne and Wear NE3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.04554779999999,
+                  "lng" : -1.5885947
+               },
+               "southwest" : {
+                  "lat" : 54.9902211,
+                  "lng" : -1.6811707
+               }
+            },
+            "location" : {
+               "lat" : 55.0108956,
+               "lng" : -1.629325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.04554779999999,
+                  "lng" : -1.5885947
+               },
+               "southwest" : {
+                  "lat" : 54.9902211,
+                  "lng" : -1.6811707
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

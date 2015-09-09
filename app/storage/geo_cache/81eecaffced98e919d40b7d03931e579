@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calderdale",
+               "short_name" : "Calderdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HX1",
+               "short_name" : "HX1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Calderdale, Halifax, Halifax, West Yorkshire HX1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.716157,
+               "lng" : -1.85846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7227596,
+                  "lng" : -1.8424526
+               },
+               "southwest" : {
+                  "lat" : 53.7095533,
+                  "lng" : -1.8744674
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marlow Common",
+               "short_name" : "Marlow Common",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marlow",
+               "short_name" : "Marlow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL7 2QP",
+               "short_name" : "SL7 2QP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marlow Common, Marlow, Buckinghamshire SL7 2QP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.57842669999999,
+                  "lng" : -0.8049273
+               },
+               "southwest" : {
+                  "lat" : 51.5741239,
+                  "lng" : -0.8132959999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.5761852,
+               "lng" : -0.8092555
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.57842669999999,
+                  "lng" : -0.8049273
+               },
+               "southwest" : {
+                  "lat" : 51.5741239,
+                  "lng" : -0.8132959999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

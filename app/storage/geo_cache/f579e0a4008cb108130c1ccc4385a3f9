@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, Merseyside, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4844962,
+                  "lng" : -3.0102969
+               },
+               "southwest" : {
+                  "lat" : 53.4673777,
+                  "lng" : -3.0457792
+               }
+            },
+            "location" : {
+               "lat" : 53.474511,
+               "lng" : -3.030151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4844962,
+                  "lng" : -3.0102969
+               },
+               "southwest" : {
+                  "lat" : 53.4673777,
+                  "lng" : -3.0457792
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lambeth",
+               "short_name" : "Lambeth",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE1",
+               "short_name" : "SE1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, Lambeth, London SE1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5033,
+               "lng" : -0.11475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5046489802915,
+                  "lng" : -0.113401019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5019510197085,
+                  "lng" : -0.116098980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Skye",
+               "short_name" : "Isle of Skye",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IV42",
+               "short_name" : "IV42",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, Isle of Skye, Highland IV42, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.239297,
+               "lng" : -5.876990999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2406459802915,
+                  "lng" : -5.875642019708497
+               },
+               "southwest" : {
+                  "lat" : 57.2379480197085,
+                  "lng" : -5.878339980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chesterfield",
+               "short_name" : "Chesterfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S45",
+               "short_name" : "S45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, Chesterfield, Derbyshire S45, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.167167,
+               "lng" : -1.376092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1685159802915,
+                  "lng" : -1.374743019708498
+               },
+               "southwest" : {
+                  "lat" : 53.1658180197085,
+                  "lng" : -1.377440980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR10",
+               "short_name" : "NR10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, Norwich, Norfolk NR10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.724336,
+               "lng" : 1.286131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7256849802915,
+                  "lng" : 1.287479980291502
+               },
+               "southwest" : {
+                  "lat" : 52.7229870197085,
+                  "lng" : 1.284782019708498
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whitchurch",
+               "short_name" : "Whitchurch",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY13",
+               "short_name" : "SY13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, Whitchurch, Shropshire SY13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8926329,
+               "lng" : -2.755329
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8939818802915,
+                  "lng" : -2.753980019708498
+               },
+               "southwest" : {
+                  "lat" : 52.8912839197085,
+                  "lng" : -2.756677980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

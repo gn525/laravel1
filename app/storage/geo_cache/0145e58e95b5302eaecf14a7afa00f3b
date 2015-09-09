@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marchington",
+               "short_name" : "Marchington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uttoxeter",
+               "short_name" : "Uttoxeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST14",
+               "short_name" : "ST14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marchington, Uttoxeter, Staffordshire ST14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.87720299999999,
+               "lng" : -1.804816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8839366,
+                  "lng" : -1.7888086
+               },
+               "southwest" : {
+                  "lat" : 52.8704683,
+                  "lng" : -1.8208234
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

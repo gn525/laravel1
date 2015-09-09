@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stalybridge",
+               "short_name" : "Stalybridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stalybridge, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5164403,
+                  "lng" : -1.9633883
+               },
+               "southwest" : {
+                  "lat" : 53.46597089999999,
+                  "lng" : -2.0755441
+               }
+            },
+            "location" : {
+               "lat" : 53.48380599999999,
+               "lng" : -2.0500759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5164403,
+                  "lng" : -1.9633883
+               },
+               "southwest" : {
+                  "lat" : 53.46597089999999,
+                  "lng" : -2.0755441
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

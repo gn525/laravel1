@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bodelwyddan",
+               "short_name" : "Bodelwyddan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bodelwyddan, Denbighshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2749724,
+                  "lng" : -3.4919407
+               },
+               "southwest" : {
+                  "lat" : 53.2595632,
+                  "lng" : -3.5283799
+               }
+            },
+            "location" : {
+               "lat" : 53.268061,
+               "lng" : -3.498458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2749724,
+                  "lng" : -3.4919407
+               },
+               "southwest" : {
+                  "lat" : 53.2595632,
+                  "lng" : -3.5283799
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

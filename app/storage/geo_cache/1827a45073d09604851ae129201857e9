@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heckfield",
+               "short_name" : "Heckfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hook",
+               "short_name" : "Hook",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG27",
+               "short_name" : "RG27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Heckfield, Hook, Hampshire RG27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.339792,
+               "lng" : -0.9602999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3467619,
+                  "lng" : -0.9442925999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3328211,
+                  "lng" : -0.9763074
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

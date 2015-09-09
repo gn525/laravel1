@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durkar",
+               "short_name" : "Durkar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wakefield",
+               "short_name" : "Wakefield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durkar, Wakefield, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6582141,
+                  "lng" : -1.5074233
+               },
+               "southwest" : {
+                  "lat" : 53.6424616,
+                  "lng" : -1.5327935
+               }
+            },
+            "location" : {
+               "lat" : 53.6496412,
+               "lng" : -1.5248067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6582141,
+                  "lng" : -1.5074233
+               },
+               "southwest" : {
+                  "lat" : 53.6424616,
+                  "lng" : -1.5327935
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

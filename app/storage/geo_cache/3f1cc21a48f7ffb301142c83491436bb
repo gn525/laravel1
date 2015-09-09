@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montpellier",
+               "short_name" : "Montpellier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL50",
+               "short_name" : "GL50",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Montpellier, Cheltenham, Gloucestershire GL50, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.892072,
+               "lng" : -2.081918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8989576,
+                  "lng" : -2.0659106
+               },
+               "southwest" : {
+                  "lat" : 51.8851854,
+                  "lng" : -2.0979254
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

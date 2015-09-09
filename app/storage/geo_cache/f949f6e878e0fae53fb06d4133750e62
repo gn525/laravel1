@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carlisle",
+               "short_name" : "Carlisle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carlisle",
+               "short_name" : "Carlisle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carlisle, Carlisle, Cumbria, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9351411,
+                  "lng" : -2.8800731
+               },
+               "southwest" : {
+                  "lat" : 54.8648239,
+                  "lng" : -2.9934616
+               }
+            },
+            "location" : {
+               "lat" : 54.892473,
+               "lng" : -2.932931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9351411,
+                  "lng" : -2.8800731
+               },
+               "southwest" : {
+                  "lat" : 54.8648239,
+                  "lng" : -2.9934616
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkburton",
+               "short_name" : "Kirkburton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirkburton, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.62630060000001,
+                  "lng" : -1.6769539
+               },
+               "southwest" : {
+                  "lat" : 53.6027646,
+                  "lng" : -1.7235863
+               }
+            },
+            "location" : {
+               "lat" : 53.608535,
+               "lng" : -1.701087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.62630060000001,
+                  "lng" : -1.6769539
+               },
+               "southwest" : {
+                  "lat" : 53.6027646,
+                  "lng" : -1.7235863
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northop Hall",
+               "short_name" : "Northop Hall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northop Hall, Flintshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2054744,
+                  "lng" : -3.0796113
+               },
+               "southwest" : {
+                  "lat" : 53.1941699,
+                  "lng" : -3.1041833
+               }
+            },
+            "location" : {
+               "lat" : 53.20036,
+               "lng" : -3.099152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2054744,
+                  "lng" : -3.0796113
+               },
+               "southwest" : {
+                  "lat" : 53.1941699,
+                  "lng" : -3.1041833
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

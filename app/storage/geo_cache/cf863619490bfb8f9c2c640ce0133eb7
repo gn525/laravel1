@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Croxley Green",
+               "short_name" : "Croxley Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Croxley Green, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6599096,
+                  "lng" : -0.427034
+               },
+               "southwest" : {
+                  "lat" : 51.6381677,
+                  "lng" : -0.4669041
+               }
+            },
+            "location" : {
+               "lat" : 51.6458299,
+               "lng" : -0.452023
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6599096,
+                  "lng" : -0.427034
+               },
+               "southwest" : {
+                  "lat" : 51.6381677,
+                  "lng" : -0.4669041
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

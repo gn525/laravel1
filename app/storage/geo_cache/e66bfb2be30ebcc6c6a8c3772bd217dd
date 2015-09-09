@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minster on Sea",
+               "short_name" : "Minster on Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minster on Sea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4395716,
+                  "lng" : 0.8602578
+               },
+               "southwest" : {
+                  "lat" : 51.3605891,
+                  "lng" : 0.7501624
+               }
+            },
+            "location" : {
+               "lat" : 51.4211991,
+               "lng" : 0.7976002999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4395716,
+                  "lng" : 0.8602578
+               },
+               "southwest" : {
+                  "lat" : 51.3605891,
+                  "lng" : 0.7501624
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minster",
+               "short_name" : "Minster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsgate",
+               "short_name" : "Ramsgate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT12",
+               "short_name" : "CT12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Minster, Ramsgate, Kent CT12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3455538,
+                  "lng" : 1.3370776
+               },
+               "southwest" : {
+                  "lat" : 51.3290355,
+                  "lng" : 1.2932762
+               }
+            },
+            "location" : {
+               "lat" : 51.336651,
+               "lng" : 1.314436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3455538,
+                  "lng" : 1.3370776
+               },
+               "southwest" : {
+                  "lat" : 51.3290355,
+                  "lng" : 1.2932762
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minster",
+               "short_name" : "Minster",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Minster on Sea",
+               "short_name" : "Minster on Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheerness",
+               "short_name" : "Sheerness",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME12",
+               "short_name" : "ME12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Minster, Minster on Sea, Sheerness, Kent ME12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4217323,
+               "lng" : 0.8110474999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4230812802915,
+                  "lng" : 0.812396480291502
+               },
+               "southwest" : {
+                  "lat" : 51.4203833197085,
+                  "lng" : 0.8096985197084979
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minster",
+               "short_name" : "Minster",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ramsgate",
+               "short_name" : "Ramsgate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT12",
+               "short_name" : "CT12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Minster, Ramsgate, Kent CT12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.32918,
+               "lng" : 1.31724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3305289802915,
+                  "lng" : 1.318588980291502
+               },
+               "southwest" : {
+                  "lat" : 51.3278310197085,
+                  "lng" : 1.315891019708498
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

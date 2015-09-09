@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HA6",
+               "short_name" : "HA6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "HA6, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6378005,
+                  "lng" : -0.4007274
+               },
+               "southwest" : {
+                  "lat" : 51.5905994,
+                  "lng" : -0.4569625
+               }
+            },
+            "location" : {
+               "lat" : 51.6141643,
+               "lng" : -0.4315896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6378005,
+                  "lng" : -0.4007274
+               },
+               "southwest" : {
+                  "lat" : 51.5905994,
+                  "lng" : -0.4569625
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwood",
+               "short_name" : "Northwood",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Northwood",
+               "short_name" : "Northwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northwood",
+               "short_name" : "Northwood",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HA6",
+               "short_name" : "HA6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northwood, Northwood, Northwood, Greater London HA6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.61105,
+               "lng" : -0.42381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6123989802915,
+                  "lng" : -0.4224610197084979
+               },
+               "southwest" : {
+                  "lat" : 51.6097010197085,
+                  "lng" : -0.425158980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

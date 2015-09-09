@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Church",
+               "short_name" : "Church",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Church, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.76750089999999,
+                  "lng" : -2.3731094
+               },
+               "southwest" : {
+                  "lat" : 53.7485915,
+                  "lng" : -2.4108742
+               }
+            },
+            "location" : {
+               "lat" : 53.757238,
+               "lng" : -2.387909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.76750089999999,
+                  "lng" : -2.3731094
+               },
+               "southwest" : {
+                  "lat" : 53.7485915,
+                  "lng" : -2.4108742
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

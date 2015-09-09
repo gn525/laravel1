@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meppershall",
+               "short_name" : "Meppershall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meppershall, Central Bedfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.03194970000001,
+                  "lng" : -0.3104479
+               },
+               "southwest" : {
+                  "lat" : 52.0080322,
+                  "lng" : -0.3701141
+               }
+            },
+            "location" : {
+               "lat" : 52.0171769,
+               "lng" : -0.339999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03194970000001,
+                  "lng" : -0.3104479
+               },
+               "southwest" : {
+                  "lat" : 52.0080322,
+                  "lng" : -0.3701141
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CO6",
+               "short_name" : "CO6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "CO6, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0426817,
+                  "lng" : 0.9574398999999999
+               },
+               "southwest" : {
+                  "lat" : 51.8536709,
+                  "lng" : 0.6344029999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.9133581,
+               "lng" : 0.7433388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0426817,
+                  "lng" : 0.9574398999999999
+               },
+               "southwest" : {
+                  "lat" : 51.8536709,
+                  "lng" : 0.6344029999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

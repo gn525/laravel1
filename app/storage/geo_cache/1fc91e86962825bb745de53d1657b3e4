@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sydney",
+               "short_name" : "Sydney",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Crewe",
+               "short_name" : "Crewe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crewe",
+               "short_name" : "Crewe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CW1",
+               "short_name" : "CW1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sydney, Crewe, Crewe, Cheshire East CW1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.103164,
+               "lng" : -2.419842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1098625,
+                  "lng" : -2.4038346
+               },
+               "southwest" : {
+                  "lat" : 53.0964645,
+                  "lng" : -2.4358494
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

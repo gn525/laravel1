@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Freckleton",
+               "short_name" : "Freckleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR4",
+               "short_name" : "PR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Freckleton, Preston, Lancashire PR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7649164,
+                  "lng" : -2.8509845
+               },
+               "southwest" : {
+                  "lat" : 53.7424145,
+                  "lng" : -2.8848664
+               }
+            },
+            "location" : {
+               "lat" : 53.753825,
+               "lng" : -2.868558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7649164,
+                  "lng" : -2.8509845
+               },
+               "southwest" : {
+                  "lat" : 53.7424145,
+                  "lng" : -2.8848664
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

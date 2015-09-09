@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tottenham Court Road",
+               "short_name" : "Tottenham Ct Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tottenham Court Road, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.525241,
+                  "lng" : -0.1296672
+               },
+               "southwest" : {
+                  "lat" : 51.5129306,
+                  "lng" : -0.1385707
+               }
+            },
+            "location" : {
+               "lat" : 51.5193076,
+               "lng" : -0.1330117
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.525241,
+                  "lng" : -0.1296672
+               },
+               "southwest" : {
+                  "lat" : 51.5129306,
+                  "lng" : -0.1385707
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

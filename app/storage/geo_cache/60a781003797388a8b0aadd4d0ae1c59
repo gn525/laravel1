@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "G21",
+               "short_name" : "G21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow G21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8984047,
+                  "lng" : -4.1910215
+               },
+               "southwest" : {
+                  "lat" : 55.8659866,
+                  "lng" : -4.251918
+               }
+            },
+            "location" : {
+               "lat" : 55.8804501,
+               "lng" : -4.2176503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8984047,
+                  "lng" : -4.1910215
+               },
+               "southwest" : {
+                  "lat" : 55.8659866,
+                  "lng" : -4.251918
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

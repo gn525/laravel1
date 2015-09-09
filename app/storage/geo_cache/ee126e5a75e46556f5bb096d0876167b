@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Needham Market",
+               "short_name" : "Needham Market",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP6",
+               "short_name" : "IP6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Needham Market, Ipswich, Suffolk IP6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1633855,
+                  "lng" : 1.0686022
+               },
+               "southwest" : {
+                  "lat" : 52.1432163,
+                  "lng" : 1.0383545
+               }
+            },
+            "location" : {
+               "lat" : 52.155608,
+               "lng" : 1.049566
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1633855,
+                  "lng" : 1.0686022
+               },
+               "southwest" : {
+                  "lat" : 52.1432163,
+                  "lng" : 1.0383545
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

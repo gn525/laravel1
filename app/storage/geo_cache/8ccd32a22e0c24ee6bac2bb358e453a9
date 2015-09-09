@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shoreditch",
+               "short_name" : "Shoreditch",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA3",
+               "short_name" : "TA3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shoreditch, Taunton, Somerset TA3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.994405,
+               "lng" : -3.082239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0014273,
+                  "lng" : -3.0662316
+               },
+               "southwest" : {
+                  "lat" : 50.9873817,
+                  "lng" : -3.0982464
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shoreditch",
+               "short_name" : "Shoreditch",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1",
+               "short_name" : "N1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shoreditch, London N1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52849,
+               "lng" : -0.084728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52983898029149,
+                  "lng" : -0.08337901970849797
+               },
+               "southwest" : {
+                  "lat" : 51.52714101970849,
+                  "lng" : -0.08607698029150204
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

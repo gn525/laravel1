@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wooburn Green",
+               "short_name" : "Wooburn Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wooburn Green, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.608213,
+                  "lng" : -0.6574732
+               },
+               "southwest" : {
+                  "lat" : 51.5622334,
+                  "lng" : -0.7170225
+               }
+            },
+            "location" : {
+               "lat" : 51.588221,
+               "lng" : -0.679696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.608213,
+                  "lng" : -0.6574732
+               },
+               "southwest" : {
+                  "lat" : 51.5622334,
+                  "lng" : -0.7170225
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

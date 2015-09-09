@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coatbridge",
+               "short_name" : "Coatbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coatbridge, North Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8823221,
+                  "lng" : -3.99122
+               },
+               "southwest" : {
+                  "lat" : 55.83754570000001,
+                  "lng" : -4.0691613
+               }
+            },
+            "location" : {
+               "lat" : 55.862241,
+               "lng" : -4.019337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8823221,
+                  "lng" : -3.99122
+               },
+               "southwest" : {
+                  "lat" : 55.83754570000001,
+                  "lng" : -4.0691613
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

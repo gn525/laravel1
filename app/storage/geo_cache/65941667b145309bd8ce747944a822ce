@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cawthorne",
+               "short_name" : "Cawthorne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cawthorne, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5872797,
+                  "lng" : -1.5404441
+               },
+               "southwest" : {
+                  "lat" : 53.5471934,
+                  "lng" : -1.6247655
+               }
+            },
+            "location" : {
+               "lat" : 53.5686899,
+               "lng" : -1.571806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5872797,
+                  "lng" : -1.5404441
+               },
+               "southwest" : {
+                  "lat" : 53.5471934,
+                  "lng" : -1.6247655
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

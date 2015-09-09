@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llansamlet",
+               "short_name" : "Llansamlet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Llansamlet, Swansea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.676385,
+                  "lng" : -3.871054
+               },
+               "southwest" : {
+                  "lat" : 51.649644,
+                  "lng" : -3.9243161
+               }
+            },
+            "location" : {
+               "lat" : 51.664173,
+               "lng" : -3.900516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.676385,
+                  "lng" : -3.871054
+               },
+               "southwest" : {
+                  "lat" : 51.649644,
+                  "lng" : -3.9243161
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

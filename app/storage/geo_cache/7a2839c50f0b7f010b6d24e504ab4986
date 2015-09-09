@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nantgarw",
+               "short_name" : "Nantgarw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF15",
+               "short_name" : "CF15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nantgarw, Cardiff, Rhondda Cynon Taff CF15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.562789,
+               "lng" : -3.265045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5697249,
+                  "lng" : -3.2490376
+               },
+               "southwest" : {
+                  "lat" : 51.55585199999999,
+                  "lng" : -3.2810524
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

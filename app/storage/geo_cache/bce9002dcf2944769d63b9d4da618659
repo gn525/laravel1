@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whiteley",
+               "short_name" : "Whiteley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Whiteley, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8967334,
+                  "lng" : -1.2163151
+               },
+               "southwest" : {
+                  "lat" : 50.863766,
+                  "lng" : -1.2682002
+               }
+            },
+            "location" : {
+               "lat" : 50.880939,
+               "lng" : -1.24068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8967334,
+                  "lng" : -1.2163151
+               },
+               "southwest" : {
+                  "lat" : 50.863766,
+                  "lng" : -1.2682002
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

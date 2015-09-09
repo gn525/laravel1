@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wimblington",
+               "short_name" : "Wimblington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wimblington, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.536428,
+                  "lng" : 0.1811432
+               },
+               "southwest" : {
+                  "lat" : 52.4750628,
+                  "lng" : 0.0590393
+               }
+            },
+            "location" : {
+               "lat" : 52.51379499999999,
+               "lng" : 0.07967289999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.536428,
+                  "lng" : 0.1811432
+               },
+               "southwest" : {
+                  "lat" : 52.4750628,
+                  "lng" : 0.0590393
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Billingham",
+               "short_name" : "Billingham",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Billingham, Stockton-on-Tees, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.63196139999999,
+                  "lng" : -1.1535482
+               },
+               "southwest" : {
+                  "lat" : 54.5718401,
+                  "lng" : -1.3297896
+               }
+            },
+            "location" : {
+               "lat" : 54.612537,
+               "lng" : -1.290961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.63196139999999,
+                  "lng" : -1.1535482
+               },
+               "southwest" : {
+                  "lat" : 54.5718401,
+                  "lng" : -1.3297896
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

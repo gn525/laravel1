@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raunds",
+               "short_name" : "Raunds",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Raunds, Northamptonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3708904,
+                  "lng" : -0.4773555
+               },
+               "southwest" : {
+                  "lat" : 52.3215416,
+                  "lng" : -0.5785947
+               }
+            },
+            "location" : {
+               "lat" : 52.34169499999999,
+               "lng" : -0.541032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3708904,
+                  "lng" : -0.4773555
+               },
+               "southwest" : {
+                  "lat" : 52.3215416,
+                  "lng" : -0.5785947
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

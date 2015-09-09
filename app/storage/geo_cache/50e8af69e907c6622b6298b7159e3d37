@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nixs Hill Industrial Estate",
+               "short_name" : "Nixs Hill Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Somercotes",
+               "short_name" : "Somercotes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfreton",
+               "short_name" : "Alfreton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE55 7GN",
+               "short_name" : "DE55 7GN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nixs Hill Industrial Estate, Somercotes, Alfreton, Derbyshire DE55 7GN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08847309999999,
+               "lng" : -1.3796954
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0898220802915,
+                  "lng" : -1.378346419708498
+               },
+               "southwest" : {
+                  "lat" : 53.0871241197085,
+                  "lng" : -1.381044380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

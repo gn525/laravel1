@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Euroway Industrial Estate",
+               "short_name" : "Euroway Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD4",
+               "short_name" : "BD4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Euroway Industrial Estate, Bradford, Bradford, West Yorkshire BD4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.757188,
+               "lng" : -1.7410174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7637842,
+                  "lng" : -1.72501
+               },
+               "southwest" : {
+                  "lat" : 53.7505908,
+                  "lng" : -1.7570248
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isle of Wight",
+               "short_name" : "IOW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isle of Wight, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7675539,
+                  "lng" : -1.0697787
+               },
+               "southwest" : {
+                  "lat" : 50.5748342,
+                  "lng" : -1.5917317
+               }
+            },
+            "location" : {
+               "lat" : 50.69271759999999,
+               "lng" : -1.3167103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7675539,
+                  "lng" : -1.0697787
+               },
+               "southwest" : {
+                  "lat" : 50.5748342,
+                  "lng" : -1.5917317
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

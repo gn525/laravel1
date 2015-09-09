@@ -1,0 +1,290 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crossgates",
+               "short_name" : "Crossgates",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cowdenbeath",
+               "short_name" : "Cowdenbeath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY4",
+               "short_name" : "KY4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crossgates, Cowdenbeath, Fife KY4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.09339569999999,
+                  "lng" : -3.3603487
+               },
+               "southwest" : {
+                  "lat" : 56.0786794,
+                  "lng" : -3.3857775
+               }
+            },
+            "location" : {
+               "lat" : 56.082953,
+               "lng" : -3.374334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.09339569999999,
+                  "lng" : -3.3603487
+               },
+               "southwest" : {
+                  "lat" : 56.0786794,
+                  "lng" : -3.3857775
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crossgates",
+               "short_name" : "Crossgates",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llandrindod Wells",
+               "short_name" : "Llandrindod Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD1",
+               "short_name" : "LD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crossgates, Llandrindod Wells, Powys LD1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.27509,
+               "lng" : -3.337831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.27643898029149,
+                  "lng" : -3.336482019708498
+               },
+               "southwest" : {
+                  "lat" : 52.2737410197085,
+                  "lng" : -3.339179980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crossgates",
+               "short_name" : "Crossgates",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Scarborough",
+               "short_name" : "Scarborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO12",
+               "short_name" : "YO12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crossgates, Scarborough, North Yorkshire YO12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.24403299999999,
+               "lng" : -0.420736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2453819802915,
+                  "lng" : -0.419387019708498
+               },
+               "southwest" : {
+                  "lat" : 54.2426840197085,
+                  "lng" : -0.422084980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cross Gates",
+               "short_name" : "Cross Gates",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cross Gates, Leeds, Leeds, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.815184,
+                  "lng" : -1.4490366
+               },
+               "southwest" : {
+                  "lat" : 53.8034893,
+                  "lng" : -1.4674045
+               }
+            },
+            "location" : {
+               "lat" : 53.806346,
+               "lng" : -1.450575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.815184,
+                  "lng" : -1.4490366
+               },
+               "southwest" : {
+                  "lat" : 53.8034893,
+                  "lng" : -1.4674045
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crossgates",
+               "short_name" : "Crossgates",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perth",
+               "short_name" : "Perth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Perth and Kinross",
+               "short_name" : "Perth and Kinross",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH2",
+               "short_name" : "PH2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crossgates, Perth, Perth and Kinross PH2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.3706514,
+               "lng" : -3.542195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3720003802915,
+                  "lng" : -3.540846019708498
+               },
+               "southwest" : {
+                  "lat" : 56.3693024197085,
+                  "lng" : -3.543543980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

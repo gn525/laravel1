@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Codnor",
+               "short_name" : "Codnor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Codnor, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0520985,
+                  "lng" : -1.3522193
+               },
+               "southwest" : {
+                  "lat" : 53.0303306,
+                  "lng" : -1.3876179
+               }
+            },
+            "location" : {
+               "lat" : 53.04198599999999,
+               "lng" : -1.374906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0520985,
+                  "lng" : -1.3522193
+               },
+               "southwest" : {
+                  "lat" : 53.0303306,
+                  "lng" : -1.3876179
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

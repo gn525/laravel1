@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bognor Regis",
+               "short_name" : "Bognor Regis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bognor Regis, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8211094,
+                  "lng" : -0.5925573
+               },
+               "southwest" : {
+                  "lat" : 50.7678014,
+                  "lng" : -0.7648267
+               }
+            },
+            "location" : {
+               "lat" : 50.782998,
+               "lng" : -0.673061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8211094,
+                  "lng" : -0.5925573
+               },
+               "southwest" : {
+                  "lat" : 50.7678014,
+                  "lng" : -0.7648267
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

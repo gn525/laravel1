@@ -1,0 +1,197 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bruges Close",
+               "short_name" : "Bruges Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chippenham",
+               "short_name" : "Chippenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chippenham",
+               "short_name" : "Chippenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN15 3SG",
+               "short_name" : "SN15 3SG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bruges Close, Chippenham, Wiltshire SN15 3SG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4594537,
+                  "lng" : -2.1035372
+               },
+               "southwest" : {
+                  "lat" : 51.4591529,
+                  "lng" : -2.1049252
+               }
+            },
+            "location" : {
+               "lat" : 51.4592657,
+               "lng" : -2.1042131
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4606522802915,
+                  "lng" : -2.102882219708498
+               },
+               "southwest" : {
+                  "lat" : 51.4579543197085,
+                  "lng" : -2.105580180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bruges Close",
+               "short_name" : "Bruges Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harwich",
+               "short_name" : "Harwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harwich",
+               "short_name" : "Harwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO12 3SN",
+               "short_name" : "CO12 3SN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bruges Close, Harwich, Essex CO12 3SN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9256417,
+                  "lng" : 1.2637606
+               },
+               "southwest" : {
+                  "lat" : 51.9253637,
+                  "lng" : 1.2628838
+               }
+            },
+            "location" : {
+               "lat" : 51.9255146,
+               "lng" : 1.263091
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9268516802915,
+                  "lng" : 1.264671180291502
+               },
+               "southwest" : {
+                  "lat" : 51.9241537197085,
+                  "lng" : 1.261973219708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bruges Road",
+               "short_name" : "Bruges Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canvey Island",
+               "short_name" : "Canvey Island",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canvey Island",
+               "short_name" : "Canvey Island",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS8 7EZ",
+               "short_name" : "SS8 7EZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bruges Road, Canvey Island, Essex SS8 7EZ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5170809,
+                  "lng" : 0.6001316
+               },
+               "southwest" : {
+                  "lat" : 51.5169975,
+                  "lng" : 0.5996516
+               }
+            },
+            "location" : {
+               "lat" : 51.5170768,
+               "lng" : 0.6001316
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5183881802915,
+                  "lng" : 0.6012405802915021
+               },
+               "southwest" : {
+                  "lat" : 51.5156902197085,
+                  "lng" : 0.598542619708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Headingley",
+               "short_name" : "Headingley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Headingley, Leeds, Leeds, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.83227189999999,
+                  "lng" : -1.5610302
+               },
+               "southwest" : {
+                  "lat" : 53.8131442,
+                  "lng" : -1.5900562
+               }
+            },
+            "location" : {
+               "lat" : 53.821421,
+               "lng" : -1.577795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.83227189999999,
+                  "lng" : -1.5610302
+               },
+               "southwest" : {
+                  "lat" : 53.8131442,
+                  "lng" : -1.5900562
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

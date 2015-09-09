@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Annitsford",
+               "short_name" : "Annitsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cramlington",
+               "short_name" : "Cramlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE23",
+               "short_name" : "NE23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Annitsford, Cramlington NE23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0658621,
+                  "lng" : -1.5764032
+               },
+               "southwest" : {
+                  "lat" : 55.05494969999999,
+                  "lng" : -1.5904741
+               }
+            },
+            "location" : {
+               "lat" : 55.0603396,
+               "lng" : -1.5832128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0658621,
+                  "lng" : -1.5764032
+               },
+               "southwest" : {
+                  "lat" : 55.05494969999999,
+                  "lng" : -1.5904741
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

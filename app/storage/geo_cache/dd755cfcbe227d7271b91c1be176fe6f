@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stavanger Close",
+               "short_name" : "Stavanger Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corby",
+               "short_name" : "Corby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corby",
+               "short_name" : "Corby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN18",
+               "short_name" : "NN18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stavanger Close, Corby, Corby, Northamptonshire NN18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4734335,
+                  "lng" : -0.7325923999999999
+               },
+               "southwest" : {
+                  "lat" : 52.4725546,
+                  "lng" : -0.7352123
+               }
+            },
+            "location" : {
+               "lat" : 52.4728012,
+               "lng" : -0.7338878
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4743430302915,
+                  "lng" : -0.7325533697084979
+               },
+               "southwest" : {
+                  "lat" : 52.4716450697085,
+                  "lng" : -0.735251330291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

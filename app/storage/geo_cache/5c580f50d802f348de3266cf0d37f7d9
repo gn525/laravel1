@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deddington",
+               "short_name" : "Deddington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banbury",
+               "short_name" : "Banbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX15",
+               "short_name" : "OX15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Deddington, Banbury, Oxfordshire OX15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9864215,
+                  "lng" : -1.3083446
+               },
+               "southwest" : {
+                  "lat" : 51.9756211,
+                  "lng" : -1.3336624
+               }
+            },
+            "location" : {
+               "lat" : 51.9821927,
+               "lng" : -1.3233086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9864215,
+                  "lng" : -1.3083446
+               },
+               "southwest" : {
+                  "lat" : 51.9756211,
+                  "lng" : -1.3336624
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

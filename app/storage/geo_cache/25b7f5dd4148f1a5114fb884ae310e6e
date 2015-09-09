@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coulby Newham",
+               "short_name" : "Coulby Newham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coulby Newham, Middlesbrough, Middlesbrough, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5326713,
+                  "lng" : -1.2011505
+               },
+               "southwest" : {
+                  "lat" : 54.5095497,
+                  "lng" : -1.2385383
+               }
+            },
+            "location" : {
+               "lat" : 54.520803,
+               "lng" : -1.21972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5326713,
+                  "lng" : -1.2011505
+               },
+               "southwest" : {
+                  "lat" : 54.5095497,
+                  "lng" : -1.2385383
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

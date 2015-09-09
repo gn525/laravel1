@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sawbridgeworth",
+               "short_name" : "Sawbridgeworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sawbridgeworth, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8282803,
+                  "lng" : 0.1667707
+               },
+               "southwest" : {
+                  "lat" : 51.79715400000001,
+                  "lng" : 0.1243904
+               }
+            },
+            "location" : {
+               "lat" : 51.81554,
+               "lng" : 0.14721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8282803,
+                  "lng" : 0.1667707
+               },
+               "southwest" : {
+                  "lat" : 51.79715400000001,
+                  "lng" : 0.1243904
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

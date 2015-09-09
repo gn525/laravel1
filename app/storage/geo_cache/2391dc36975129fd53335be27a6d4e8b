@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torrington",
+               "short_name" : "Torrington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torrington",
+               "short_name" : "Torrington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX38",
+               "short_name" : "EX38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Torrington, Torrington, Devon EX38, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.95209699999999,
+               "lng" : -4.136852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95912569999999,
+                  "lng" : -4.1208446
+               },
+               "southwest" : {
+                  "lat" : 50.9450673,
+                  "lng" : -4.1528594
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

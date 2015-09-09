@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monmouthshire",
+               "short_name" : "Monmouthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monmouthshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9831361,
+                  "lng" : -2.649806
+               },
+               "southwest" : {
+                  "lat" : 51.5540205,
+                  "lng" : -3.1573445
+               }
+            },
+            "location" : {
+               "lat" : 51.774928,
+               "lng" : -2.8759245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9831361,
+                  "lng" : -2.649806
+               },
+               "southwest" : {
+                  "lat" : 51.5540205,
+                  "lng" : -3.1573445
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

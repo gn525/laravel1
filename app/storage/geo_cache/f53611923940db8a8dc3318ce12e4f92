@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St Helier",
+               "short_name" : "St Helier",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Morden",
+               "short_name" : "Morden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morden",
+               "short_name" : "Morden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SM4",
+               "short_name" : "SM4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St Helier, Morden, Morden, Greater London SM4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3899,
+               "lng" : -0.19875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.39124898029149,
+                  "lng" : -0.197401019708498
+               },
+               "southwest" : {
+                  "lat" : 51.38855101970849,
+                  "lng" : -0.200098980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Helier",
+               "short_name" : "St Helier",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Carshalton",
+               "short_name" : "Carshalton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carshalton",
+               "short_name" : "Carshalton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SM5",
+               "short_name" : "SM5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Helier, Carshalton, Carshalton, Greater London SM5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.38542899999999,
+               "lng" : -0.178818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.38677798029149,
+                  "lng" : -0.177469019708498
+               },
+               "southwest" : {
+                  "lat" : 51.3840800197085,
+                  "lng" : -0.180166980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

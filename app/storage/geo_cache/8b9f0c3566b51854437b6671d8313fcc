@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "IP32",
+               "short_name" : "IP32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bury Saint Edmunds",
+               "short_name" : "Bury Saint Edmunds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bury Saint Edmunds, Suffolk IP32, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2705989,
+                  "lng" : 0.7656265
+               },
+               "southwest" : {
+                  "lat" : 52.2367913,
+                  "lng" : 0.6827373999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.247382,
+               "lng" : 0.733996
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2705989,
+                  "lng" : 0.7656265
+               },
+               "southwest" : {
+                  "lat" : 52.2367913,
+                  "lng" : 0.6827373999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bury St Edmunds",
+               "short_name" : "Bury St Edmunds",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bury Saint Edmunds",
+               "short_name" : "Bury Saint Edmunds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP32",
+               "short_name" : "IP32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bury St Edmunds, Bury Saint Edmunds, Suffolk IP32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.25378,
+               "lng" : 0.71334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2551289802915,
+                  "lng" : 0.7146889802915021
+               },
+               "southwest" : {
+                  "lat" : 52.2524310197085,
+                  "lng" : 0.711991019708498
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Allerton Mauleverer",
+               "short_name" : "Allerton Mauleverer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Knaresborough",
+               "short_name" : "Knaresborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HG5",
+               "short_name" : "HG5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Allerton Mauleverer, Knaresborough, North Yorkshire HG5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.016122,
+               "lng" : -1.3675927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0226774,
+                  "lng" : -1.3515853
+               },
+               "southwest" : {
+                  "lat" : 54.0095655,
+                  "lng" : -1.3836001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

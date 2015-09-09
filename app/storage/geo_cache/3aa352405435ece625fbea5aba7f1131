@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birmingham International Airpo",
+               "short_name" : "Birmingham International Airpo",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Birmingham International Airport",
+               "short_name" : "Birmingham International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B26 3QL",
+               "short_name" : "B26 3QL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Birmingham International Airpo, Birmingham International Airport, Birmingham, West Midlands B26 3QL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4525267,
+               "lng" : -1.7316437
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4538756802915,
+                  "lng" : -1.730294719708498
+               },
+               "southwest" : {
+                  "lat" : 52.4511777197085,
+                  "lng" : -1.732992680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Airport Way",
+               "short_name" : "Airport Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Diamond House",
+               "short_name" : "Diamond House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Birmingham International Airport",
+               "short_name" : "Birmingham International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B26 3QL",
+               "short_name" : "B26 3QL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Diamond House, Birmingham International Airport, Airport Way, Birmingham, West Midlands B26 3QL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4525267,
+                  "lng" : -1.7300011
+               },
+               "southwest" : {
+                  "lat" : 52.4467259,
+                  "lng" : -1.7316437
+               }
+            },
+            "location" : {
+               "lat" : 52.4497713,
+               "lng" : -1.7303103
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4525267,
+                  "lng" : -1.729473419708498
+               },
+               "southwest" : {
+                  "lat" : 52.4467259,
+                  "lng" : -1.732171380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,458 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PPS GI",
+               "short_name" : "PPS GI",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stoke Prior",
+               "short_name" : "Stoke Prior",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bromsgrove",
+               "short_name" : "Bromsgrove",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B60",
+               "short_name" : "B60",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "PPS GI, Stoke Prior, Bromsgrove, Worcestershire B60, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2991518,
+               "lng" : -2.0757768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.30050078029151,
+                  "lng" : -2.074427819708498
+               },
+               "southwest" : {
+                  "lat" : 52.29780281970851,
+                  "lng" : -2.077125780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daley G I",
+               "short_name" : "Daley G I",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Walton Road",
+               "short_name" : "Walton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gosport",
+               "short_name" : "Gosport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gosport",
+               "short_name" : "Gosport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO12 3QG",
+               "short_name" : "PO12 3QG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Daley G I, 22 Walton Road, Gosport, Hampshire PO12 3QG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.79343799999999,
+               "lng" : -1.1429135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7947869802915,
+                  "lng" : -1.141564519708498
+               },
+               "southwest" : {
+                  "lat" : 50.7920890197085,
+                  "lng" : -1.144262480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GI Physiology Unit, UCH",
+               "short_name" : "GI Physiology Unit, UCH",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lower Ground Floor, EGA Wing",
+               "short_name" : "Lower Ground Floor, EGA Wing",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University College London Hospital",
+               "short_name" : "University College London Hospital",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of London",
+               "short_name" : "University of London",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Gower Street",
+               "short_name" : "Gower St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kings Cross",
+               "short_name" : "Kings Cross",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1E 6BP",
+               "short_name" : "WC1E 6BP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower Ground Floor, EGA Wing, University College London Hospital, GI Physiology Unit, UCH, University of London, University College London, Gower Street, Kings Cross, London WC1E 6BP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52474910000001,
+               "lng" : -0.1356313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52609808029151,
+                  "lng" : -0.134282319708498
+               },
+               "southwest" : {
+                  "lat" : 51.52340011970851,
+                  "lng" : -0.136980280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gi's Driving School",
+               "short_name" : "Gi's Driving School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Loose Lane",
+               "short_name" : "Loose Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sompting",
+               "short_name" : "Sompting",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancing",
+               "short_name" : "Lancing",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN15 0BL",
+               "short_name" : "BN15 0BL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gi's Driving School, 23 Loose Lane, Sompting, Lancing, West Sussex BN15 0BL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.831914,
+               "lng" : -0.3462513
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.83326298029149,
+                  "lng" : -0.3449023197084979
+               },
+               "southwest" : {
+                  "lat" : 50.8305650197085,
+                  "lng" : -0.347600280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Golders Green Bus Station",
+               "short_name" : "Golders Green Bus Station",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW11",
+               "short_name" : "NW11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Golders Green Bus Station, London NW11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5721609,
+                  "lng" : -0.1941389
+               },
+               "southwest" : {
+                  "lat" : 51.57200169999999,
+                  "lng" : -0.1945829
+               }
+            },
+            "location" : {
+               "lat" : 51.5720974,
+               "lng" : -0.1943562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5734302802915,
+                  "lng" : -0.193011919708498
+               },
+               "southwest" : {
+                  "lat" : 51.5707323197085,
+                  "lng" : -0.195709880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shin Gi Tai Karate",
+               "short_name" : "Shin Gi Tai Karate",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1-19",
+               "short_name" : "1-19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Love Lane",
+               "short_name" : "Love Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochford",
+               "short_name" : "Rochford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rayleigh",
+               "short_name" : "Rayleigh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS6 7",
+               "short_name" : "SS6 7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shin Gi Tai Karate, 1-19 Love Lane, Rochford, Rayleigh, Essex SS6 7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.585012,
+               "lng" : 0.6022531
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5863609802915,
+                  "lng" : 0.6036020802915021
+               },
+               "southwest" : {
+                  "lat" : 51.5836630197085,
+                  "lng" : 0.600904119708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "shin-gi-tai karate club",
+               "short_name" : "shin-gi-tai karate club",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The Green",
+               "short_name" : "The Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Weavering",
+               "short_name" : "Weavering",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME14 5TQ",
+               "short_name" : "ME14 5TQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "shin-gi-tai karate club, The Green, Weavering, Maidstone, Kent ME14 5TQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.275971,
+               "lng" : 0.5587040000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2773199802915,
+                  "lng" : 0.5600529802915022
+               },
+               "southwest" : {
+                  "lat" : 51.2746220197085,
+                  "lng" : 0.5573550197084981
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

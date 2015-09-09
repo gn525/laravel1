@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minehead",
+               "short_name" : "Minehead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minehead, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2164539,
+                  "lng" : -3.4504644
+               },
+               "southwest" : {
+                  "lat" : 51.18780479999999,
+                  "lng" : -3.5068115
+               }
+            },
+            "location" : {
+               "lat" : 51.20428,
+               "lng" : -3.481152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2164539,
+                  "lng" : -3.4504644
+               },
+               "southwest" : {
+                  "lat" : 51.18780479999999,
+                  "lng" : -3.5068115
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

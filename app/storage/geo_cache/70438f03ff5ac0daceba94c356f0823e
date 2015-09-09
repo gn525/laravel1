@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marsden",
+               "short_name" : "Marsden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HD7",
+               "short_name" : "HD7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marsden, Huddersfield, West Yorkshire HD7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6130323,
+                  "lng" : -1.9033166
+               },
+               "southwest" : {
+                  "lat" : 53.5903009,
+                  "lng" : -1.9386753
+               }
+            },
+            "location" : {
+               "lat" : 53.599752,
+               "lng" : -1.930075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6130323,
+                  "lng" : -1.9033166
+               },
+               "southwest" : {
+                  "lat" : 53.5903009,
+                  "lng" : -1.9386753
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

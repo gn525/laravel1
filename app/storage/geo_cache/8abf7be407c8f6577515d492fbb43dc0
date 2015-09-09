@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northfleet",
+               "short_name" : "Northfleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northfleet, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4649625,
+                  "lng" : 0.3640673
+               },
+               "southwest" : {
+                  "lat" : 51.4179322,
+                  "lng" : 0.3106564
+               }
+            },
+            "location" : {
+               "lat" : 51.44107200000001,
+               "lng" : 0.33694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4649625,
+                  "lng" : 0.3640673
+               },
+               "southwest" : {
+                  "lat" : 51.4179322,
+                  "lng" : 0.3106564
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

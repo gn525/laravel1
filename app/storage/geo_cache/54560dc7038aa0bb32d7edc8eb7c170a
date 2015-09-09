@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stonehaven",
+               "short_name" : "Stonehaven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stonehaven, Aberdeenshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9762949,
+                  "lng" : -2.1998186
+               },
+               "southwest" : {
+                  "lat" : 56.9418836,
+                  "lng" : -2.2401131
+               }
+            },
+            "location" : {
+               "lat" : 56.96366099999999,
+               "lng" : -2.209288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9762949,
+                  "lng" : -2.1998186
+               },
+               "southwest" : {
+                  "lat" : 56.9418836,
+                  "lng" : -2.2401131
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selkirk",
+               "short_name" : "Selkirk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selkirk",
+               "short_name" : "Selkirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TD7",
+               "short_name" : "TD7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Selkirk, Selkirk, Scottish Borders TD7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5593583,
+                  "lng" : -2.8274335
+               },
+               "southwest" : {
+                  "lat" : 55.540504,
+                  "lng" : -2.863602
+               }
+            },
+            "location" : {
+               "lat" : 55.550658,
+               "lng" : -2.838524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5593583,
+                  "lng" : -2.8274335
+               },
+               "southwest" : {
+                  "lat" : 55.540504,
+                  "lng" : -2.863602
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

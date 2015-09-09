@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inchinnan",
+               "short_name" : "Inchinnan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Inchinnan, Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8965237,
+                  "lng" : -4.4213007
+               },
+               "southwest" : {
+                  "lat" : 55.87478420000001,
+                  "lng" : -4.4625656
+               }
+            },
+            "location" : {
+               "lat" : 55.893245,
+               "lng" : -4.440016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8965237,
+                  "lng" : -4.4213007
+               },
+               "southwest" : {
+                  "lat" : 55.87478420000001,
+                  "lng" : -4.4625656
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester-le-Street",
+               "short_name" : "Chester-le-Street",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester le Street",
+               "short_name" : "Chester le Street",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DH3",
+               "short_name" : "DH3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester-le-Street, Chester le Street, County Durham DH3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.859463,
+               "lng" : -1.570672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8658848,
+                  "lng" : -1.5546646
+               },
+               "southwest" : {
+                  "lat" : 54.85304009999999,
+                  "lng" : -1.5866794
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

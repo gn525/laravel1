@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ferndown",
+               "short_name" : "Ferndown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ferndown, Dorset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8191774,
+                  "lng" : -1.8637199
+               },
+               "southwest" : {
+                  "lat" : 50.7761367,
+                  "lng" : -1.9196726
+               }
+            },
+            "location" : {
+               "lat" : 50.807364,
+               "lng" : -1.899776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8191774,
+                  "lng" : -1.8637199
+               },
+               "southwest" : {
+                  "lat" : 50.7761367,
+                  "lng" : -1.9196726
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

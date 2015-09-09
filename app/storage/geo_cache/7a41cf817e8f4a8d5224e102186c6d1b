@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "G41",
+               "short_name" : "G41",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow, Glasgow, Glasgow City G41, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8535927,
+                  "lng" : -4.2552542
+               },
+               "southwest" : {
+                  "lat" : 55.8219108,
+                  "lng" : -4.317955299999999
+               }
+            },
+            "location" : {
+               "lat" : 55.8335643,
+               "lng" : -4.2841111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8535927,
+                  "lng" : -4.2552542
+               },
+               "southwest" : {
+                  "lat" : 55.8219108,
+                  "lng" : -4.317955299999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

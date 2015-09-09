@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Basing",
+               "short_name" : "Old Basing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Old Basing, Basingstoke, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2857857,
+                  "lng" : -1.0245737
+               },
+               "southwest" : {
+                  "lat" : 51.255999,
+                  "lng" : -1.0554487
+               }
+            },
+            "location" : {
+               "lat" : 51.2712379,
+               "lng" : -1.048876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2857857,
+                  "lng" : -1.0245737
+               },
+               "southwest" : {
+                  "lat" : 51.255999,
+                  "lng" : -1.0554487
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

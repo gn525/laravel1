@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wales, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            },
+            "location" : {
+               "lat" : 52.1306607,
+               "lng" : -3.7837117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6692082
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

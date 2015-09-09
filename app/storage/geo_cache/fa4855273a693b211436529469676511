@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Ayrshire",
+               "short_name" : "East Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7637845,
+                  "lng" : -3.9570569
+               },
+               "southwest" : {
+                  "lat" : 55.13805139999999,
+                  "lng" : -4.6386119
+               }
+            },
+            "location" : {
+               "lat" : 55.45923149999999,
+               "lng" : -4.3338032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7637845,
+                  "lng" : -3.9570569
+               },
+               "southwest" : {
+                  "lat" : 55.13805139999999,
+                  "lng" : -4.6386119
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

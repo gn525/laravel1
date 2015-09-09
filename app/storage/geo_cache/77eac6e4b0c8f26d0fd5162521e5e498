@@ -1,0 +1,353 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wood Green",
+               "short_name" : "Wood Green",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N22",
+               "short_name" : "N22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wood Green, London N22, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.59748,
+               "lng" : -0.10986
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5988289802915,
+                  "lng" : -0.108511019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5961310197085,
+                  "lng" : -0.111208980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Woodgreen",
+               "short_name" : "Woodgreen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fordingbridge",
+               "short_name" : "Fordingbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP6",
+               "short_name" : "SP6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Woodgreen, Fordingbridge, Hampshire SP6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.959112,
+               "lng" : -1.75602
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9604609802915,
+                  "lng" : -1.754671019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9577630197085,
+                  "lng" : -1.757368980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wood Green",
+               "short_name" : "Wood Green",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Long Stratton",
+               "short_name" : "Long Stratton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR15",
+               "short_name" : "NR15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wood Green, Long Stratton, Norwich, Norfolk NR15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4778779,
+               "lng" : 1.247776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.47922688029149,
+                  "lng" : 1.249124980291502
+               },
+               "southwest" : {
+                  "lat" : 52.47652891970849,
+                  "lng" : 1.246427019708498
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wood's Green",
+               "short_name" : "Wood's Green",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wadhurst",
+               "short_name" : "Wadhurst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wadhurst",
+               "short_name" : "Wadhurst",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN5",
+               "short_name" : "TN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wood's Green, Wadhurst, Wadhurst, East Sussex TN5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.076794,
+               "lng" : 0.338127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0781429802915,
+                  "lng" : 0.3394759802915021
+               },
+               "southwest" : {
+                  "lat" : 51.0754450197085,
+                  "lng" : 0.336778019708498
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wood Green",
+               "short_name" : "Wood Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leyland",
+               "short_name" : "Leyland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leyland",
+               "short_name" : "Leyland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR25 2YL",
+               "short_name" : "PR25 2YL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wood Green, Leyland, Lancashire PR25 2YL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6981914,
+                  "lng" : -2.7062785
+               },
+               "southwest" : {
+                  "lat" : 53.6965571,
+                  "lng" : -2.7088829
+               }
+            },
+            "location" : {
+               "lat" : 53.6973573,
+               "lng" : -2.7075723
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6987232302915,
+                  "lng" : -2.706231719708498
+               },
+               "southwest" : {
+                  "lat" : 53.6960252697085,
+                  "lng" : -2.708929680291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wood Green",
+               "short_name" : "Wood Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castleford",
+               "short_name" : "Castleford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castleford",
+               "short_name" : "Castleford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WF10 5PH",
+               "short_name" : "WF10 5PH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wood Green, Castleford, West Yorkshire WF10 5PH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7140058,
+                  "lng" : -1.3809172
+               },
+               "southwest" : {
+                  "lat" : 53.7124697,
+                  "lng" : -1.3835603
+               }
+            },
+            "location" : {
+               "lat" : 53.71356979999999,
+               "lng" : -1.3825433
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7145867302915,
+                  "lng" : -1.380889769708498
+               },
+               "southwest" : {
+                  "lat" : 53.7118887697085,
+                  "lng" : -1.383587730291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

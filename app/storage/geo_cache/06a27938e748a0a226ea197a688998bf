@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HP22",
+               "short_name" : "HP22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Aylesbury",
+               "short_name" : "Aylesbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aylesbury HP22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.90533,
+                  "lng" : -0.6834155000000001
+               },
+               "southwest" : {
+                  "lat" : 51.7230621,
+                  "lng" : -0.9704594999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.8391447,
+               "lng" : -0.7775157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90533,
+                  "lng" : -0.6834155000000001
+               },
+               "southwest" : {
+                  "lat" : 51.7230621,
+                  "lng" : -0.9704594999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

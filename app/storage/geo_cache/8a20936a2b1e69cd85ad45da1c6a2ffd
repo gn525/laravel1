@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter International Airport",
+               "short_name" : "Exeter International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX5 2BD",
+               "short_name" : "EX5 2BD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Exeter International Airport, Exeter, Devon EX5 2BD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7411068,
+                  "lng" : -3.3967947
+               },
+               "southwest" : {
+                  "lat" : 50.7291,
+                  "lng" : -3.4303006
+               }
+            },
+            "location" : {
+               "lat" : 50.731072,
+               "lng" : -3.4162507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7411068,
+                  "lng" : -3.3967947
+               },
+               "southwest" : {
+                  "lat" : 50.7291,
+                  "lng" : -3.4303006
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

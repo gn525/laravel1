@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erskine",
+               "short_name" : "Erskine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erskine, Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9200992,
+                  "lng" : -4.4225203
+               },
+               "southwest" : {
+                  "lat" : 55.8891424,
+                  "lng" : -4.4835556
+               }
+            },
+            "location" : {
+               "lat" : 55.909243,
+               "lng" : -4.462418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9200992,
+                  "lng" : -4.4225203
+               },
+               "southwest" : {
+                  "lat" : 55.8891424,
+                  "lng" : -4.4835556
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

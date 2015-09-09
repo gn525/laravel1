@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hook",
+               "short_name" : "Hook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hook",
+               "short_name" : "Hook",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hook, Hook, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3049202,
+                  "lng" : -0.9219676999999999
+               },
+               "southwest" : {
+                  "lat" : 51.2675873,
+                  "lng" : -0.9841844
+               }
+            },
+            "location" : {
+               "lat" : 51.280906,
+               "lng" : -0.9630429999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3049202,
+                  "lng" : -0.9219676999999999
+               },
+               "southwest" : {
+                  "lat" : 51.2675873,
+                  "lng" : -0.9841844
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

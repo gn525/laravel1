@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kettering",
+               "short_name" : "Kettering",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kettering",
+               "short_name" : "Kettering",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kettering, Kettering, Northamptonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.42193409999999,
+                  "lng" : -0.6788639
+               },
+               "southwest" : {
+                  "lat" : 52.3716689,
+                  "lng" : -0.7529165999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.396322,
+               "lng" : -0.7302489999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.42193409999999,
+                  "lng" : -0.6788639
+               },
+               "southwest" : {
+                  "lat" : 52.3716689,
+                  "lng" : -0.7529165999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

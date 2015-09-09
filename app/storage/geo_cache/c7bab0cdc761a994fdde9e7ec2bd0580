@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wishaw",
+               "short_name" : "Wishaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wishaw, North Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8109282,
+                  "lng" : -3.8855166
+               },
+               "southwest" : {
+                  "lat" : 55.757284,
+                  "lng" : -3.9769625
+               }
+            },
+            "location" : {
+               "lat" : 55.773543,
+               "lng" : -3.919354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8109282,
+                  "lng" : -3.8855166
+               },
+               "southwest" : {
+                  "lat" : 55.757284,
+                  "lng" : -3.9769625
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

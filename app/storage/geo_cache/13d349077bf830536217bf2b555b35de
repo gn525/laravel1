@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biddestone",
+               "short_name" : "Biddestone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chippenham",
+               "short_name" : "Chippenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN14",
+               "short_name" : "SN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biddestone, Chippenham, Wiltshire SN14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.45923,
+               "lng" : -2.194276
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4661817,
+                  "lng" : -2.1782686
+               },
+               "southwest" : {
+                  "lat" : 51.4522772,
+                  "lng" : -2.2102834
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

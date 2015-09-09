@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emersons Green",
+               "short_name" : "Emersons Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Gloucestershire",
+               "short_name" : "South Gloucestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Emersons Green, Bristol, South Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5103073,
+                  "lng" : -2.4669103
+               },
+               "southwest" : {
+                  "lat" : 51.47520900000001,
+                  "lng" : -2.4987494
+               }
+            },
+            "location" : {
+               "lat" : 51.4939421,
+               "lng" : -2.4809537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5103073,
+                  "lng" : -2.4669103
+               },
+               "southwest" : {
+                  "lat" : 51.47520900000001,
+                  "lng" : -2.4987494
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

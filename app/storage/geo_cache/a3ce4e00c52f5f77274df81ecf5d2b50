@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CT2",
+               "short_name" : "CT2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canterbury, Kent CT2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3306842,
+                  "lng" : 1.1542512
+               },
+               "southwest" : {
+                  "lat" : 51.2655332,
+                  "lng" : 0.9724765000000001
+               }
+            },
+            "location" : {
+               "lat" : 51.289939,
+               "lng" : 1.0469061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3306842,
+                  "lng" : 1.1542512
+               },
+               "southwest" : {
+                  "lat" : 51.2655332,
+                  "lng" : 0.9724765000000001
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canterbury, Canterbury, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3061023,
+                  "lng" : 1.1237432
+               },
+               "southwest" : {
+                  "lat" : 51.25098550000001,
+                  "lng" : 1.0439585
+               }
+            },
+            "location" : {
+               "lat" : 51.280233,
+               "lng" : 1.0789089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3061023,
+                  "lng" : 1.1237432
+               },
+               "southwest" : {
+                  "lat" : 51.25098550000001,
+                  "lng" : 1.0439585
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sayers Common",
+               "short_name" : "Sayers Common",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hassocks",
+               "short_name" : "Hassocks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN6",
+               "short_name" : "BN6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sayers Common, Hassocks, West Sussex BN6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9492756,
+               "lng" : -0.1981543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9563047,
+                  "lng" : -0.1821469
+               },
+               "southwest" : {
+                  "lat" : 50.9422454,
+                  "lng" : -0.2141617
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

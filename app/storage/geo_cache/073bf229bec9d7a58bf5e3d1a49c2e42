@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Gransden",
+               "short_name" : "Great Gransden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sandy",
+               "short_name" : "Sandy",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG19",
+               "short_name" : "SG19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Great Gransden, Sandy, Cambridgeshire SG19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.186843,
+               "lng" : -0.150557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1936833,
+                  "lng" : -0.1345496
+               },
+               "southwest" : {
+                  "lat" : 52.1800016,
+                  "lng" : -0.1665644
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

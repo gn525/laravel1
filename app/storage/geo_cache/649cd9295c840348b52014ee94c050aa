@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor, Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2379054,
+                  "lng" : -4.1062198
+               },
+               "southwest" : {
+                  "lat" : 53.2039826,
+                  "lng" : -4.1791598
+               }
+            },
+            "location" : {
+               "lat" : 53.22739,
+               "lng" : -4.129263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2379054,
+                  "lng" : -4.1062198
+               },
+               "southwest" : {
+                  "lat" : 53.2039826,
+                  "lng" : -4.1791598
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Down",
+               "short_name" : "North Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT20",
+               "short_name" : "BT20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangor, Bangor, North Down BT20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.65654,
+               "lng" : -5.67529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6578889802915,
+                  "lng" : -5.673941019708497
+               },
+               "southwest" : {
+                  "lat" : 54.6551910197085,
+                  "lng" : -5.676638980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor-on-Dee",
+               "short_name" : "Bangor-on-Dee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL13",
+               "short_name" : "LL13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bangor-on-Dee, Wrexham, Wrexham LL13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0171858,
+                  "lng" : -2.8814062
+               },
+               "southwest" : {
+                  "lat" : 52.9775906,
+                  "lng" : -2.9376267
+               }
+            },
+            "location" : {
+               "lat" : 53.00403499999999,
+               "lng" : -2.909421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0171858,
+                  "lng" : -2.8814062
+               },
+               "southwest" : {
+                  "lat" : 52.9775906,
+                  "lng" : -2.9376267
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

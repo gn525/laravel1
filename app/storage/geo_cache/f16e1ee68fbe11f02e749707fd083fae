@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sandiacre",
+               "short_name" : "Sandiacre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sandiacre, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9368086,
+                  "lng" : -1.2778435
+               },
+               "southwest" : {
+                  "lat" : 52.9082887,
+                  "lng" : -1.3232256
+               }
+            },
+            "location" : {
+               "lat" : 52.926499,
+               "lng" : -1.288894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9368086,
+                  "lng" : -1.2778435
+               },
+               "southwest" : {
+                  "lat" : 52.9082887,
+                  "lng" : -1.3232256
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

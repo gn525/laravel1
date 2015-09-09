@@ -1,0 +1,247 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bradville",
+               "short_name" : "Bradville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK13 7BA",
+               "short_name" : "MK13 7BA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, Bradville, Milton Keynes, Milton Keynes MK13 7BA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0605328,
+                  "lng" : -0.7751142
+               },
+               "southwest" : {
+                  "lat" : 52.0581469,
+                  "lng" : -0.7801156
+               }
+            },
+            "location" : {
+               "lat" : 52.05952540000001,
+               "lng" : -0.7768613999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0606888302915,
+                  "lng" : -0.7751142
+               },
+               "southwest" : {
+                  "lat" : 52.0579908697085,
+                  "lng" : -0.7801156
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Royal Tunbridge Wells",
+               "short_name" : "Royal Tunbridge Wells",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tunbridge Wells",
+               "short_name" : "Tunbridge Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN2 3NF",
+               "short_name" : "TN2 3NF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, Tunbridge Wells, Kent TN2 3NF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1385495,
+                  "lng" : 0.281719
+               },
+               "southwest" : {
+                  "lat" : 51.1352473,
+                  "lng" : 0.2801609
+               }
+            },
+            "location" : {
+               "lat" : 51.1368435,
+               "lng" : 0.2809459
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1385495,
+                  "lng" : 0.282288930291502
+               },
+               "southwest" : {
+                  "lat" : 51.1352473,
+                  "lng" : 0.2795909697084979
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charvil",
+               "short_name" : "Charvil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wokingham",
+               "short_name" : "Wokingham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG10 9QW",
+               "short_name" : "RG10 9QW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, Charvil, Reading, Wokingham RG10 9QW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.476533,
+                  "lng" : -0.8812985
+               },
+               "southwest" : {
+                  "lat" : 51.4758151,
+                  "lng" : -0.8818513
+               }
+            },
+            "location" : {
+               "lat" : 51.476101,
+               "lng" : -0.8815510999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4775230302915,
+                  "lng" : -0.880225919708498
+               },
+               "southwest" : {
+                  "lat" : 51.4748250697085,
+                  "lng" : -0.882923880291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "North York Moors National Park",
+               "short_name" : "North York Moors National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Whitby",
+               "short_name" : "Whitby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO21",
+               "short_name" : "YO21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, North York Moors National Park, Whitby, North Yorkshire YO21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.4833333,
+               "lng" : -0.9166667000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4846822802915,
+                  "lng" : -0.915317719708498
+               },
+               "southwest" : {
+                  "lat" : 54.4819843197085,
+                  "lng" : -0.918015680291502
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

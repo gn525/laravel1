@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Devizes",
+               "short_name" : "Devizes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Devizes, Wiltshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3851405,
+                  "lng" : -1.9573711
+               },
+               "southwest" : {
+                  "lat" : 51.3330434,
+                  "lng" : -2.040186
+               }
+            },
+            "location" : {
+               "lat" : 51.3489069,
+               "lng" : -1.994828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3851405,
+                  "lng" : -1.9573711
+               },
+               "southwest" : {
+                  "lat" : 51.3330434,
+                  "lng" : -2.040186
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

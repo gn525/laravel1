@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Highland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.6973508,
+                  "lng" : -3.0240041
+               },
+               "southwest" : {
+                  "lat" : 56.4971768,
+                  "lng" : -6.7896387
+               }
+            },
+            "location" : {
+               "lat" : 57.3596139,
+               "lng" : -5.0992763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.6719228,
+                  "lng" : -3.0240041
+               },
+               "southwest" : {
+                  "lat" : 56.4971768,
+                  "lng" : -6.228145
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cranbrook",
+               "short_name" : "Cranbrook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cranbrook",
+               "short_name" : "Cranbrook",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN17",
+               "short_name" : "TN17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cranbrook, Cranbrook, Kent TN17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1073546,
+                  "lng" : 0.5503914
+               },
+               "southwest" : {
+                  "lat" : 51.07824,
+                  "lng" : 0.4982920999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.095582,
+               "lng" : 0.537639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1073546,
+                  "lng" : 0.5503914
+               },
+               "southwest" : {
+                  "lat" : 51.07824,
+                  "lng" : 0.4982920999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

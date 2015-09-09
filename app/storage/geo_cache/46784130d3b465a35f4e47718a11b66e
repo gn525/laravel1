@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downton Industrial Estate",
+               "short_name" : "Downton Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Downton Business Centre",
+               "short_name" : "Downton Business Centre",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Batten Road",
+               "short_name" : "Batten Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downton Industrial Estate",
+               "short_name" : "Downton Industrial Estate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP5 3HU",
+               "short_name" : "SP5 3HU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Downton Industrial Estate, Downton Business Centre, Batten Road, Downton Industrial Estate, Salisbury, Wiltshire SP5 3HU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.99604249999999,
+               "lng" : -1.756196
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9973914802915,
+                  "lng" : -1.754847019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9946935197085,
+                  "lng" : -1.757544980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

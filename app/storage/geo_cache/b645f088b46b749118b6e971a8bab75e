@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banchory",
+               "short_name" : "Banchory",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banchory",
+               "short_name" : "Banchory",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB31",
+               "short_name" : "AB31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banchory, Banchory, Aberdeenshire AB31, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.06490160000001,
+                  "lng" : -2.4647589
+               },
+               "southwest" : {
+                  "lat" : 57.0384909,
+                  "lng" : -2.5274771
+               }
+            },
+            "location" : {
+               "lat" : 57.053856,
+               "lng" : -2.49096
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.06490160000001,
+                  "lng" : -2.4647589
+               },
+               "southwest" : {
+                  "lat" : 57.0384909,
+                  "lng" : -2.5274771
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

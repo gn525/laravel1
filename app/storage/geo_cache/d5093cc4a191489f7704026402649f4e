@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B72",
+               "short_name" : "B72",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Midlands B72, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5699638,
+                  "lng" : -1.8098467
+               },
+               "southwest" : {
+                  "lat" : 52.5313477,
+                  "lng" : -1.8318917
+               }
+            },
+            "location" : {
+               "lat" : 52.5472725,
+               "lng" : -1.8188425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5699638,
+                  "lng" : -1.8098467
+               },
+               "southwest" : {
+                  "lat" : 52.5313477,
+                  "lng" : -1.8318917
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

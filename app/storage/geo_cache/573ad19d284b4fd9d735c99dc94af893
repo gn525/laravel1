@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nelson",
+               "short_name" : "Nelson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nelson, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8505541,
+                  "lng" : -2.1786375
+               },
+               "southwest" : {
+                  "lat" : 53.8202552,
+                  "lng" : -2.2400693
+               }
+            },
+            "location" : {
+               "lat" : 53.835187,
+               "lng" : -2.219377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8505541,
+                  "lng" : -2.1786375
+               },
+               "southwest" : {
+                  "lat" : 53.8202552,
+                  "lng" : -2.2400693
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nelson",
+               "short_name" : "Nelson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nelson, Caerphilly, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6640537,
+                  "lng" : -3.2576418
+               },
+               "southwest" : {
+                  "lat" : 51.61496899999999,
+                  "lng" : -3.313845
+               }
+            },
+            "location" : {
+               "lat" : 51.65229,
+               "lng" : -3.2836949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6640537,
+                  "lng" : -3.2576418
+               },
+               "southwest" : {
+                  "lat" : 51.61496899999999,
+                  "lng" : -3.313845
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

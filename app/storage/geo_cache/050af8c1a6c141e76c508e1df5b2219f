@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farlington",
+               "short_name" : "Farlington",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Farlington, Portsmouth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8522117,
+                  "lng" : -1.0204839
+               },
+               "southwest" : {
+                  "lat" : 50.8264603,
+                  "lng" : -1.0433623
+               }
+            },
+            "location" : {
+               "lat" : 50.846,
+               "lng" : -1.033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8522117,
+                  "lng" : -1.0204839
+               },
+               "southwest" : {
+                  "lat" : 50.8264603,
+                  "lng" : -1.0433623
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

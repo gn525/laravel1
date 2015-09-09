@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alderley Edge",
+               "short_name" : "Alderley Edge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alderley Edge, Cheshire East, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3139891,
+                  "lng" : -2.2101519
+               },
+               "southwest" : {
+                  "lat" : 53.2906361,
+                  "lng" : -2.2760096
+               }
+            },
+            "location" : {
+               "lat" : 53.301554,
+               "lng" : -2.237216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3139891,
+                  "lng" : -2.2101519
+               },
+               "southwest" : {
+                  "lat" : 53.2906361,
+                  "lng" : -2.2760096
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

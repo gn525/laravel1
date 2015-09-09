@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armagh",
+               "short_name" : "Armagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Armagh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.50765,
+                  "lng" : -6.35665
+               },
+               "southwest" : {
+                  "lat" : 54.1790999,
+                  "lng" : -6.87808
+               }
+            },
+            "location" : {
+               "lat" : 54.29401480000001,
+               "lng" : -6.6659185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.50765,
+                  "lng" : -6.35665
+               },
+               "southwest" : {
+                  "lat" : 54.1790999,
+                  "lng" : -6.87808
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

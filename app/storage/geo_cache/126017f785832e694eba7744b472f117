@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Little Chesterford",
+               "short_name" : "Little Chesterford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saffron Walden",
+               "short_name" : "Saffron Walden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB10",
+               "short_name" : "CB10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Little Chesterford, Saffron Walden, Essex CB10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.0540639,
+               "lng" : 0.211946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0609246,
+                  "lng" : 0.2279534
+               },
+               "southwest" : {
+                  "lat" : 52.0472021,
+                  "lng" : 0.1959386
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

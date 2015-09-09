@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiln Farm",
+               "short_name" : "Kiln Farm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kiln Farm, Milton Keynes, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0503768,
+                  "lng" : -0.8157932
+               },
+               "southwest" : {
+                  "lat" : 52.0405686,
+                  "lng" : -0.8322628999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.0463006,
+               "lng" : -0.8235802999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0503768,
+                  "lng" : -0.8157932
+               },
+               "southwest" : {
+                  "lat" : 52.0405686,
+                  "lng" : -0.8322628999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

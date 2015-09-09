@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fordwater Trading Estate",
+               "short_name" : "Fordwater Trading Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Fordwater Road",
+               "short_name" : "Fordwater Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chertsey",
+               "short_name" : "Chertsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chertsey",
+               "short_name" : "Chertsey",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KT16 8HE",
+               "short_name" : "KT16 8HE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fordwater Trading Estate, Fordwater Road, Chertsey, Surrey KT16 8HE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3873842,
+               "lng" : -0.4954231
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3887331802915,
+                  "lng" : -0.494074119708498
+               },
+               "southwest" : {
+                  "lat" : 51.3860352197085,
+                  "lng" : -0.496772080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Stratford",
+               "short_name" : "Old Stratford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Old Stratford, Milton Keynes, Northamptonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0686135,
+                  "lng" : -0.8567608
+               },
+               "southwest" : {
+                  "lat" : 52.0559593,
+                  "lng" : -0.8753481999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.06315799999999,
+               "lng" : -0.864726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0686135,
+                  "lng" : -0.8567608
+               },
+               "southwest" : {
+                  "lat" : 52.0559593,
+                  "lng" : -0.8753481999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

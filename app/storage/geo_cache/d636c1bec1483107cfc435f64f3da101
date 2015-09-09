@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staunton Harold",
+               "short_name" : "Staunton Harold",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "North West Leicestershire District",
+               "short_name" : "North West Leicestershire District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Staunton Harold, Leicestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8025767,
+                  "lng" : -1.4119804
+               },
+               "southwest" : {
+                  "lat" : 52.7621766,
+                  "lng" : -1.4554972
+               }
+            },
+            "location" : {
+               "lat" : 52.7852268,
+               "lng" : -1.4257781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8025767,
+                  "lng" : -1.4119804
+               },
+               "southwest" : {
+                  "lat" : 52.7621766,
+                  "lng" : -1.4554972
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

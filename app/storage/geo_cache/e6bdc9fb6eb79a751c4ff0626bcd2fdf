@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mitcham",
+               "short_name" : "Mitcham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mitcham, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.41988440000001,
+                  "lng" : -0.1241514
+               },
+               "southwest" : {
+                  "lat" : 51.3798525,
+                  "lng" : -0.1859636
+               }
+            },
+            "location" : {
+               "lat" : 51.402869,
+               "lng" : -0.166709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41988440000001,
+                  "lng" : -0.1241514
+               },
+               "southwest" : {
+                  "lat" : 51.3798525,
+                  "lng" : -0.1859636
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

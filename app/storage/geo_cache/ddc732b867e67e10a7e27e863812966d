@@ -1,0 +1,246 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "On Site Lodge",
+               "short_name" : "On Site Lodge",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mansfield Road",
+               "short_name" : "Mansfield Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastwood",
+               "short_name" : "Eastwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG16 3AR",
+               "short_name" : "NG16 3AR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "On Site Lodge, 9 Mansfield Road, Eastwood, Nottingham, Nottinghamshire NG16 3AR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0186845,
+               "lng" : -1.3086206
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0200334802915,
+                  "lng" : -1.307271619708498
+               },
+               "southwest" : {
+                  "lat" : 53.0173355197085,
+                  "lng" : -1.309969580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caravan on Site Of",
+               "short_name" : "Caravan on Site Of",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saint Helen's Way",
+               "short_name" : "St Helen's Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allesley",
+               "short_name" : "Allesley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV5 9DX",
+               "short_name" : "CV5 9DX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Caravan on Site Of, 20 Saint Helen's Way, Allesley, Coventry, West Midlands CV5 9DX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4320306,
+               "lng" : -1.5655068
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4333795802915,
+                  "lng" : -1.564157819708498
+               },
+               "southwest" : {
+                  "lat" : 52.4306816197085,
+                  "lng" : -1.566855780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arndilly House on Site of Church",
+               "short_name" : "Arndilly House on Site of Church",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Aberlour",
+               "short_name" : "Aberlour",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Moray",
+               "short_name" : "Moray",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB38",
+               "short_name" : "AB38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arndilly House on Site of Church, Aberlour, Moray AB38, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.50856179999999,
+               "lng" : -3.1858881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5099107802915,
+                  "lng" : -3.184539119708498
+               },
+               "southwest" : {
+                  "lat" : 57.50721281970849,
+                  "lng" : -3.187237080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "On Site Medical Services",
+               "short_name" : "On Site Medical Services",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ridgacre Lane",
+               "short_name" : "Ridgacre Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Quinton",
+               "short_name" : "Quinton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B32 1PY",
+               "short_name" : "B32 1PY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "On Site Medical Services, Ridgacre Lane, Quinton, Birmingham, West Midlands B32 1PY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4567306,
+               "lng" : -1.9995222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4580795802915,
+                  "lng" : -1.998173219708498
+               },
+               "southwest" : {
+                  "lat" : 52.4553816197085,
+                  "lng" : -2.000871180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

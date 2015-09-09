@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ewell",
+               "short_name" : "Ewell",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Epsom",
+               "short_name" : "Epsom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Epsom",
+               "short_name" : "Epsom",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KT17",
+               "short_name" : "KT17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ewell, Epsom, Epsom, Surrey KT17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3514399,
+               "lng" : -0.2502740000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.358408,
+                  "lng" : -0.2342666
+               },
+               "southwest" : {
+                  "lat" : 51.3444707,
+                  "lng" : -0.2662814
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

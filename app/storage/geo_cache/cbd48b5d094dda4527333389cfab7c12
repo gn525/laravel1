@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pewsey",
+               "short_name" : "Pewsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pewsey",
+               "short_name" : "Pewsey",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN9",
+               "short_name" : "SN9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pewsey, Pewsey, Wiltshire SN9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3511391,
+                  "lng" : -1.7494784
+               },
+               "southwest" : {
+                  "lat" : 51.3293104,
+                  "lng" : -1.7821865
+               }
+            },
+            "location" : {
+               "lat" : 51.339277,
+               "lng" : -1.76478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3511391,
+                  "lng" : -1.7494784
+               },
+               "southwest" : {
+                  "lat" : 51.3293104,
+                  "lng" : -1.7821865
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

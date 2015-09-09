@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Willand",
+               "short_name" : "Willand",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cullompton",
+               "short_name" : "Cullompton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX15",
+               "short_name" : "EX15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Willand, Cullompton, Devon EX15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8971531,
+                  "lng" : -3.3598016
+               },
+               "southwest" : {
+                  "lat" : 50.8804465,
+                  "lng" : -3.3814776
+               }
+            },
+            "location" : {
+               "lat" : 50.886118,
+               "lng" : -3.372925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8971531,
+                  "lng" : -3.3598016
+               },
+               "southwest" : {
+                  "lat" : 50.8804465,
+                  "lng" : -3.3814776
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

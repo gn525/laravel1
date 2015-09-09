@@ -1,0 +1,532 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greek Tourist Board",
+               "short_name" : "Greek Tourist Board",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Conduit Street",
+               "short_name" : "Conduit St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1S 2DJ",
+               "short_name" : "W1S 2DJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greek Tourist Board, 4 Conduit Street, Mayfair, London W1S 2DJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.512867,
+               "lng" : -0.1412437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5142159802915,
+                  "lng" : -0.139894719708498
+               },
+               "southwest" : {
+                  "lat" : 51.5115180197085,
+                  "lng" : -0.142592680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of Greece",
+               "short_name" : "Embassy of Greece",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1A",
+               "short_name" : "1A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Holland Park",
+               "short_name" : "Holland Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Notting Hill",
+               "short_name" : "Notting Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W11 3TP",
+               "short_name" : "W11 3TP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of Greece, 1A Holland Park, Notting Hill, London W11 3TP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5056439,
+               "lng" : -0.2045873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50699288029149,
+                  "lng" : -0.203238319708498
+               },
+               "southwest" : {
+                  "lat" : 51.50429491970849,
+                  "lng" : -0.205936280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greece: Athens",
+               "short_name" : "Greece: Athens",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1B",
+               "short_name" : "WC1B",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greece: Athens, London WC1B, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.51935659999999,
+                  "lng" : -0.1279753
+               },
+               "southwest" : {
+                  "lat" : 51.5191996,
+                  "lng" : -0.1282178
+               }
+            },
+            "location" : {
+               "lat" : 51.51927060000001,
+               "lng" : -0.1280978
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52062708029149,
+                  "lng" : -0.126747569708498
+               },
+               "southwest" : {
+                  "lat" : 51.5179291197085,
+                  "lng" : -0.129445530291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "early Greece",
+               "short_name" : "early Greece",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1B",
+               "short_name" : "WC1B",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "early Greece, London WC1B, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.51879169999999,
+                  "lng" : -0.1268114
+               },
+               "southwest" : {
+                  "lat" : 51.51867559999999,
+                  "lng" : -0.1270126
+               }
+            },
+            "location" : {
+               "lat" : 51.518738,
+               "lng" : -0.1269007
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5200826302915,
+                  "lng" : -0.125563019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5173846697085,
+                  "lng" : -0.128260980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greece: Parthenon",
+               "short_name" : "Greece: Parthenon",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1B",
+               "short_name" : "WC1B",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greece: Parthenon, London WC1B, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5193003,
+                  "lng" : -0.127626
+               },
+               "southwest" : {
+                  "lat" : 51.5186256,
+                  "lng" : -0.128514
+               }
+            },
+            "location" : {
+               "lat" : 51.5188601,
+               "lng" : -0.1279122
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5203119302915,
+                  "lng" : -0.126721019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5176139697085,
+                  "lng" : -0.129418980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Consulate General Of Greece",
+               "short_name" : "Consulate General Of Greece",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W11 3TP",
+               "short_name" : "W11 3TP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Consulate General Of Greece, Kensington, London W11 3TP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5054169,
+               "lng" : -0.2044565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5067658802915,
+                  "lng" : -0.203107519708498
+               },
+               "southwest" : {
+                  "lat" : 51.5040679197085,
+                  "lng" : -0.205805480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Activity Holidays Greece",
+               "short_name" : "Activity Holidays Greece",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Isleworth",
+               "short_name" : "Isleworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Old Isleworth",
+               "short_name" : "Old Isleworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW7 7BJ",
+               "short_name" : "TW7 7BJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Activity Holidays Greece, Isleworth, Old Isleworth, Middlesex TW7 7BJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.468605,
+               "lng" : -0.324246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4699539802915,
+                  "lng" : -0.3228970197084979
+               },
+               "southwest" : {
+                  "lat" : 51.4672560197085,
+                  "lng" : -0.325594980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Consulate For Greece",
+               "short_name" : "Consulate For Greece",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5A",
+               "short_name" : "5A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Norfolk Road",
+               "short_name" : "Norfolk Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edgbaston",
+               "short_name" : "Edgbaston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B15 3PR",
+               "short_name" : "B15 3PR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Consulate For Greece, 5A Norfolk Road, Birmingham, West Midlands B15 3PR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4700316,
+               "lng" : -1.9433385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4713805802915,
+                  "lng" : -1.941989519708498
+               },
+               "southwest" : {
+                  "lat" : 52.4686826197085,
+                  "lng" : -1.944687480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

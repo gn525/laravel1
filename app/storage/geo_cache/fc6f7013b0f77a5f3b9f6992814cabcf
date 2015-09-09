@@ -1,0 +1,615 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Road",
+               "short_name" : "New Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neath",
+               "short_name" : "Neath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Neath Port Talbot",
+               "short_name" : "Neath Port Talbot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA10 6UT",
+               "short_name" : "SA10 6UT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Road, Neath, Neath Port Talbot SA10 6UT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6633091,
+                  "lng" : -3.8253608
+               },
+               "southwest" : {
+                  "lat" : 51.6602154,
+                  "lng" : -3.8516958
+               }
+            },
+            "location" : {
+               "lat" : 51.660912,
+               "lng" : -3.8389325
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6633091,
+                  "lng" : -3.8253608
+               },
+               "southwest" : {
+                  "lat" : 51.6602154,
+                  "lng" : -3.8516958
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Road",
+               "short_name" : "New Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jersey Marine",
+               "short_name" : "Jersey Marine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Neath",
+               "short_name" : "Neath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Neath Port Talbot",
+               "short_name" : "Neath Port Talbot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA10",
+               "short_name" : "SA10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Road, Jersey Marine, Neath, Neath Port Talbot SA10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6402159,
+                  "lng" : -3.8472732
+               },
+               "southwest" : {
+                  "lat" : 51.6291206,
+                  "lng" : -3.862685
+               }
+            },
+            "location" : {
+               "lat" : 51.6345152,
+               "lng" : -3.8547801
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6402159,
+                  "lng" : -3.8472732
+               },
+               "southwest" : {
+                  "lat" : 51.6291206,
+                  "lng" : -3.862685
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Jersey(LS)",
+               "short_name" : "New Jersey(LS)",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Borehamwood",
+               "short_name" : "Borehamwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borehamwood",
+               "short_name" : "Borehamwood",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD6",
+               "short_name" : "WD6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Jersey(LS), Borehamwood, Borehamwood, Hertfordshire WD6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6578186,
+                  "lng" : -0.2531193
+               },
+               "southwest" : {
+                  "lat" : 51.6577986,
+                  "lng" : -0.2531591
+               }
+            },
+            "location" : {
+               "lat" : 51.6578084,
+               "lng" : -0.2531423
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6591575802915,
+                  "lng" : -0.2517902197084979
+               },
+               "southwest" : {
+                  "lat" : 51.6564596197085,
+                  "lng" : -0.254488180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Cottage",
+               "short_name" : "Jersey Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Market Hill",
+               "short_name" : "Market Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cowes",
+               "short_name" : "Cowes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cowes",
+               "short_name" : "Cowes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Isle of Wight",
+               "short_name" : "IOW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO31 7TR",
+               "short_name" : "PO31 7TR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jersey Cottage, Market Hill, Cowes, Isle of Wight PO31 7TR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.7633157,
+               "lng" : -1.2998118
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7646646802915,
+                  "lng" : -1.298462819708498
+               },
+               "southwest" : {
+                  "lat" : 50.7619667197085,
+                  "lng" : -1.301160780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Street",
+               "short_name" : "Jersey St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newark-on-Trent",
+               "short_name" : "Newark-on-Trent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG24 4NE",
+               "short_name" : "NG24 4NE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jersey Street, Newark, Nottinghamshire NG24 4NE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.06259799999999,
+                  "lng" : -0.8131357
+               },
+               "southwest" : {
+                  "lat" : 53.0614861,
+                  "lng" : -0.8161676000000001
+               }
+            },
+            "location" : {
+               "lat" : 53.0622446,
+               "lng" : -0.8141035
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.06339103029149,
+                  "lng" : -0.8131357
+               },
+               "southwest" : {
+                  "lat" : 53.0606930697085,
+                  "lng" : -0.8161676000000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Close",
+               "short_name" : "Jersey Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO16",
+               "short_name" : "SO16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jersey Close, Southampton, Southampton, Southampton SO16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.936618,
+                  "lng" : -1.4594664
+               },
+               "southwest" : {
+                  "lat" : 50.9357845,
+                  "lng" : -1.4607243
+               }
+            },
+            "location" : {
+               "lat" : 50.9362431,
+               "lng" : -1.4597321
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9375502302915,
+                  "lng" : -1.458746369708498
+               },
+               "southwest" : {
+                  "lat" : 50.9348522697085,
+                  "lng" : -1.461444330291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Road",
+               "short_name" : "Jersey Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH12",
+               "short_name" : "BH12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jersey Road, Poole, Poole, Poole BH12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7496868,
+                  "lng" : -1.935532
+               },
+               "southwest" : {
+                  "lat" : 50.7486071,
+                  "lng" : -1.9372132
+               }
+            },
+            "location" : {
+               "lat" : 50.7490999,
+               "lng" : -1.9364339
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7504959302915,
+                  "lng" : -1.935023619708498
+               },
+               "southwest" : {
+                  "lat" : 50.7477979697085,
+                  "lng" : -1.937721580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Close",
+               "short_name" : "Jersey Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH12 4LH",
+               "short_name" : "BH12 4LH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jersey Close, Poole, Poole BH12 4LH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7496912,
+                  "lng" : -1.9365951
+               },
+               "southwest" : {
+                  "lat" : 50.7490025,
+                  "lng" : -1.9375092
+               }
+            },
+            "location" : {
+               "lat" : 50.7494273,
+               "lng" : -1.9373038
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7506958302915,
+                  "lng" : -1.935703169708498
+               },
+               "southwest" : {
+                  "lat" : 50.74799786970851,
+                  "lng" : -1.938401130291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Marine, New Road (NE-bound)",
+               "short_name" : "Jersey Marine, New Road (NE-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Skewen",
+               "short_name" : "Skewen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Neath",
+               "short_name" : "Neath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Neath Port Talbot",
+               "short_name" : "Neath Port Talbot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA10",
+               "short_name" : "SA10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jersey Marine, New Road (NE-bound), Skewen, Neath, Neath Port Talbot SA10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.630119,
+               "lng" : -3.862334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6314679802915,
+                  "lng" : -3.860985019708497
+               },
+               "southwest" : {
+                  "lat" : 51.6287700197085,
+                  "lng" : -3.863682980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Marine, New Road (SW-bound)",
+               "short_name" : "Jersey Marine, New Road (SW-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Skewen",
+               "short_name" : "Skewen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Neath",
+               "short_name" : "Neath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Neath Port Talbot",
+               "short_name" : "Neath Port Talbot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA10",
+               "short_name" : "SA10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jersey Marine, New Road (SW-bound), Skewen, Neath, Neath Port Talbot SA10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.629784,
+               "lng" : -3.862465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6311329802915,
+                  "lng" : -3.861116019708497
+               },
+               "southwest" : {
+                  "lat" : 51.6284350197085,
+                  "lng" : -3.863813980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

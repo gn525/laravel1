@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canning Town",
+               "short_name" : "Canning Town",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E16",
+               "short_name" : "E16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Canning Town, London E16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.514105,
+               "lng" : 0.01874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5210483,
+                  "lng" : 0.0347474
+               },
+               "southwest" : {
+                  "lat" : 51.5071606,
+                  "lng" : 0.0027326
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canning Town",
+               "short_name" : "Canning Town",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E16",
+               "short_name" : "E16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Canning Town, London E16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51412999999999,
+               "lng" : 0.00813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5154789802915,
+                  "lng" : 0.009478980291502031
+               },
+               "southwest" : {
+                  "lat" : 51.5127810197085,
+                  "lng" : 0.00678101970849797
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canning Town",
+               "short_name" : "Canning Town",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E16",
+               "short_name" : "E16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Canning Town, London E16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51358,
+               "lng" : 0.00835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51492898029149,
+                  "lng" : 0.00969898029150203
+               },
+               "southwest" : {
+                  "lat" : 51.5122310197085,
+                  "lng" : 0.007001019708497969
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

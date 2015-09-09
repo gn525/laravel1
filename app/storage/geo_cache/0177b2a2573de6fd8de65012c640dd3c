@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Girvan",
+               "short_name" : "Girvan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Ayrshire",
+               "short_name" : "South Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Girvan, South Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.2555405,
+                  "lng" : -4.8384452
+               },
+               "southwest" : {
+                  "lat" : 55.2254058,
+                  "lng" : -4.8649986
+               }
+            },
+            "location" : {
+               "lat" : 55.240164,
+               "lng" : -4.854217999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2555405,
+                  "lng" : -4.8384452
+               },
+               "southwest" : {
+                  "lat" : 55.2254058,
+                  "lng" : -4.8649986
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

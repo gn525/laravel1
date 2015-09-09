@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lockerbie",
+               "short_name" : "Lockerbie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lockerbie",
+               "short_name" : "Lockerbie",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG11",
+               "short_name" : "DG11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lockerbie, Lockerbie, Dumfries and Galloway DG11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1336613,
+                  "lng" : -3.3429324
+               },
+               "southwest" : {
+                  "lat" : 55.1067231,
+                  "lng" : -3.3729821
+               }
+            },
+            "location" : {
+               "lat" : 55.12224500000001,
+               "lng" : -3.349008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1336613,
+                  "lng" : -3.3429324
+               },
+               "southwest" : {
+                  "lat" : 55.1067231,
+                  "lng" : -3.3729821
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

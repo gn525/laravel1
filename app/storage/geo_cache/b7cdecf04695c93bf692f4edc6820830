@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Linlithgow",
+               "short_name" : "Linlithgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Linlithgow",
+               "short_name" : "Linlithgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Lothian",
+               "short_name" : "West Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH49",
+               "short_name" : "EH49",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Linlithgow, Linlithgow, West Lothian EH49, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9885302,
+                  "lng" : -3.5651775
+               },
+               "southwest" : {
+                  "lat" : 55.9633796,
+                  "lng" : -3.6396874
+               }
+            },
+            "location" : {
+               "lat" : 55.9716266,
+               "lng" : -3.6025847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9885302,
+                  "lng" : -3.5651775
+               },
+               "southwest" : {
+                  "lat" : 55.9633796,
+                  "lng" : -3.6396874
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

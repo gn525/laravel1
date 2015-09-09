@@ -1,0 +1,472 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Opportunities House",
+               "short_name" : "Opportunities House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "270",
+               "short_name" : "270",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Marsh Lane",
+               "short_name" : "Marsh Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bootle",
+               "short_name" : "Bootle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bootle",
+               "short_name" : "Bootle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L20 5BW",
+               "short_name" : "L20 5BW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Opportunities House, 270 Marsh Lane, Bootle, Merseyside L20 5BW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.453933,
+               "lng" : -2.9928624
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4552819802915,
+                  "lng" : -2.991513419708499
+               },
+               "southwest" : {
+                  "lat" : 53.4525840197085,
+                  "lng" : -2.994211380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Museum of Bath at Work",
+               "short_name" : "Museum of Bath at Work",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Camden Works",
+               "short_name" : "Camden Works",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Julian Road",
+               "short_name" : "Julian Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA1 2RH",
+               "short_name" : "BA1 2RH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Camden Works, Museum of Bath at Work, Julian Road, Bath, Somerset BA1 2RH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.388115,
+               "lng" : -2.362451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3894639802915,
+                  "lng" : -2.361102019708498
+               },
+               "southwest" : {
+                  "lat" : 51.3867660197085,
+                  "lng" : -2.363799980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Work Road",
+               "short_name" : "Work Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kirkwall",
+               "short_name" : "Kirkwall",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Orkney",
+               "short_name" : "Ork",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KW15 1UF",
+               "short_name" : "KW15 1UF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Work Road, Kirkwall, Orkney KW15 1UF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.0049039,
+                  "lng" : -2.9166673
+               },
+               "southwest" : {
+                  "lat" : 58.98457800000001,
+                  "lng" : -2.9439541
+               }
+            },
+            "location" : {
+               "lat" : 58.994466,
+               "lng" : -2.9290294
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.0049039,
+                  "lng" : -2.9166673
+               },
+               "southwest" : {
+                  "lat" : 58.98457800000001,
+                  "lng" : -2.9439541
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Workshop",
+               "short_name" : "The Workshop",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Newport Street",
+               "short_name" : "Newport St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Town Centre",
+               "short_name" : "Town Centre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BL1 1NE",
+               "short_name" : "BL1 1NE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Workshop, 39 Newport Street, Bolton, Bolton BL1 1NE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5771508,
+               "lng" : -2.4288905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5784997802915,
+                  "lng" : -2.427541519708498
+               },
+               "southwest" : {
+                  "lat" : 53.5758018197085,
+                  "lng" : -2.430239480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "UK Work Permits Ltd",
+               "short_name" : "UK Work Permits Ltd",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Watling Street",
+               "short_name" : "Watling St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC4M 9BR",
+               "short_name" : "EC4M 9BR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UK Work Permits Ltd, 25 Watling Street, London EC4M 9BR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.512974,
+               "lng" : -0.0940153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5143229802915,
+                  "lng" : -0.09266631970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5116250197085,
+                  "lng" : -0.09536428029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heatherbank Museum",
+               "short_name" : "Heatherbank Museum",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Glasgow Caledonian University",
+               "short_name" : "Glasgow Caledonian University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G4",
+               "short_name" : "G4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Heatherbank Museum, Glasgow Caledonian University, Glasgow, Glasgow, Glasgow City G4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.8660562,
+               "lng" : -4.2502084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8674051802915,
+                  "lng" : -4.248859419708498
+               },
+               "southwest" : {
+                  "lat" : 55.8647072197085,
+                  "lng" : -4.251557380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DEHOV - Work-Based Learning",
+               "short_name" : "DEHOV - Work-Based Learning",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The Innovation Centre",
+               "short_name" : "The Innovation Centre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ebbw Vale",
+               "short_name" : "Ebbw Vale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Blaenau Gwent",
+               "short_name" : "Blaenau Gwent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP23 8XA",
+               "short_name" : "NP23 8XA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Innovation Centre, DEHOV - Work-Based Learning, Ebbw Vale, Blaenau Gwent NP23 8XA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7603357,
+               "lng" : -3.1992069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76168468029149,
+                  "lng" : -3.197857919708498
+               },
+               "southwest" : {
+                  "lat" : 51.7589867197085,
+                  "lng" : -3.200555880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bay of Work",
+               "short_name" : "Bay of Work",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bay of Work, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.0053134,
+               "lng" : -2.9068625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.00666238029151,
+                  "lng" : -2.905513519708498
+               },
+               "southwest" : {
+                  "lat" : 59.0039644197085,
+                  "lng" : -2.908211480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

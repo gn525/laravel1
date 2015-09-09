@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Betws",
+               "short_name" : "Betws",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ammanford",
+               "short_name" : "Ammanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ammanford",
+               "short_name" : "Ammanford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA18",
+               "short_name" : "SA18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Betws, Ammanford, Ammanford, Carmarthenshire SA18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.78892099999999,
+               "lng" : -3.983381999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7958224,
+                  "lng" : -3.9673746
+               },
+               "southwest" : {
+                  "lat" : 51.7820186,
+                  "lng" : -3.9993894
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Betws",
+               "short_name" : "Betws",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Betws, Carmarthenshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8013152,
+                  "lng" : -3.936502999999999
+               },
+               "southwest" : {
+                  "lat" : 51.76374089999999,
+                  "lng" : -3.9995471
+               }
+            },
+            "location" : {
+               "lat" : 51.7804443,
+               "lng" : -3.9598569
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8013152,
+                  "lng" : -3.936502999999999
+               },
+               "southwest" : {
+                  "lat" : 51.76374089999999,
+                  "lng" : -3.9995471
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

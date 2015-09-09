@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grimethorpe",
+               "short_name" : "Grimethorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S72",
+               "short_name" : "S72",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grimethorpe, Barnsley, South Yorkshire S72, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5922352,
+                  "lng" : -1.3500567
+               },
+               "southwest" : {
+                  "lat" : 53.5594842,
+                  "lng" : -1.4031607
+               }
+            },
+            "location" : {
+               "lat" : 53.575458,
+               "lng" : -1.382291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5922352,
+                  "lng" : -1.3500567
+               },
+               "southwest" : {
+                  "lat" : 53.5594842,
+                  "lng" : -1.4031607
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

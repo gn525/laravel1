@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dorrington",
+               "short_name" : "Dorrington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shrewsbury",
+               "short_name" : "Shrewsbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY5",
+               "short_name" : "SY5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dorrington, Shrewsbury, Shropshire SY5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.622946,
+               "lng" : -2.775056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.629719,
+                  "lng" : -2.7590486
+               },
+               "southwest" : {
+                  "lat" : 52.6161719,
+                  "lng" : -2.7910634
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dorrington",
+               "short_name" : "Dorrington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN4",
+               "short_name" : "LN4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dorrington, Lincoln, Lincolnshire LN4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.062342,
+               "lng" : -0.391346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0636909802915,
+                  "lng" : -0.3899970197084979
+               },
+               "southwest" : {
+                  "lat" : 53.0609930197085,
+                  "lng" : -0.392694980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

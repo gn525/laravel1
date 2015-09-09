@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnwood",
+               "short_name" : "Barnwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barnwood, Gloucester, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8665833,
+                  "lng" : -2.1911561
+               },
+               "southwest" : {
+                  "lat" : 51.8522267,
+                  "lng" : -2.2118989
+               }
+            },
+            "location" : {
+               "lat" : 51.8611689,
+               "lng" : -2.204252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8665833,
+                  "lng" : -2.1911561
+               },
+               "southwest" : {
+                  "lat" : 51.8522267,
+                  "lng" : -2.2118989
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

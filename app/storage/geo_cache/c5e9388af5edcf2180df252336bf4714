@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buckden",
+               "short_name" : "Buckden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Neots",
+               "short_name" : "Saint Neots",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE19",
+               "short_name" : "PE19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buckden, Saint Neots, Cambridgeshire PE19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.294332,
+               "lng" : -0.248909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3011558,
+                  "lng" : -0.2329016
+               },
+               "southwest" : {
+                  "lat" : 52.2875072,
+                  "lng" : -0.2649164
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buckden",
+               "short_name" : "Buckden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD23",
+               "short_name" : "BD23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buckden, Skipton, North Yorkshire BD23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.191349,
+               "lng" : -2.087077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1926979802915,
+                  "lng" : -2.085728019708498
+               },
+               "southwest" : {
+                  "lat" : 54.1900000197085,
+                  "lng" : -2.088425980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

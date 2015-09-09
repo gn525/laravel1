@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dringhouses",
+               "short_name" : "Dringhouses",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dringhouses, York, York, York, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9470167,
+                  "lng" : -1.099756
+               },
+               "southwest" : {
+                  "lat" : 53.9296412,
+                  "lng" : -1.1239995
+               }
+            },
+            "location" : {
+               "lat" : 53.94016,
+               "lng" : -1.11688
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9470167,
+                  "lng" : -1.099756
+               },
+               "southwest" : {
+                  "lat" : 53.9296412,
+                  "lng" : -1.1239995
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

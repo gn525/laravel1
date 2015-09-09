@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Lancing",
+               "short_name" : "South Lancing",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lancing",
+               "short_name" : "Lancing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancing",
+               "short_name" : "Lancing",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN15",
+               "short_name" : "BN15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Lancing, Lancing, Lancing, West Sussex BN15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.824734,
+               "lng" : -0.322893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8317819,
+                  "lng" : -0.3068856
+               },
+               "southwest" : {
+                  "lat" : 50.817685,
+                  "lng" : -0.3389004
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

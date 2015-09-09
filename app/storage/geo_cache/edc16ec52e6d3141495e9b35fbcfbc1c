@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hothfield",
+               "short_name" : "Hothfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashford",
+               "short_name" : "Ashford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN26",
+               "short_name" : "TN26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hothfield, Ashford, Kent TN26, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.16651299999999,
+               "lng" : 0.8124389999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1735092,
+                  "lng" : 0.8284463999999999
+               },
+               "southwest" : {
+                  "lat" : 51.1595157,
+                  "lng" : 0.7964316
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

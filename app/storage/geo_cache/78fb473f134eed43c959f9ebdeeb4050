@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beijing House",
+               "short_name" : "Beijing House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kingsthorpe Road",
+               "short_name" : "Kingsthorpe Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN2 6EZ",
+               "short_name" : "NN2 6EZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beijing House, 43 Kingsthorpe Road, Northampton, Northamptonshire NN2 6EZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.250328,
+               "lng" : -0.8978855
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.25167698029151,
+                  "lng" : -0.896536519708498
+               },
+               "southwest" : {
+                  "lat" : 52.24897901970851,
+                  "lng" : -0.8992344802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

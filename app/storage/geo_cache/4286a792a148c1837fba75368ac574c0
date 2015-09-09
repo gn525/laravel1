@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EC3N",
+               "short_name" : "EC3N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London EC3N, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5248016,
+                  "lng" : -0.0706151
+               },
+               "southwest" : {
+                  "lat" : 51.5068302,
+                  "lng" : -0.1121881
+               }
+            },
+            "location" : {
+               "lat" : 51.5103833,
+               "lng" : -0.0770274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5148094,
+                  "lng" : -0.0706151
+               },
+               "southwest" : {
+                  "lat" : 51.5068302,
+                  "lng" : -0.08032500000000001
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

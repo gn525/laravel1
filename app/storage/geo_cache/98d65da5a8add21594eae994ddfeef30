@@ -1,0 +1,154 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LE2",
+               "short_name" : "LE2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "LE2, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6393329,
+                  "lng" : -1.0096077
+               },
+               "southwest" : {
+                  "lat" : 52.57301469999999,
+                  "lng" : -1.1868329
+               }
+            },
+            "location" : {
+               "lat" : 52.60174989999999,
+               "lng" : -1.072559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6393329,
+                  "lng" : -1.0096077
+               },
+               "southwest" : {
+                  "lat" : 52.57301469999999,
+                  "lng" : -1.1868329
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Leicester Airport",
+               "short_name" : "Leicester Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE2",
+               "short_name" : "LE2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leicester, Leicester Airport, Leicester, Leicestershire LE2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.60611,
+               "lng" : -1.031944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6074589802915,
+                  "lng" : -1.030595019708498
+               },
+               "southwest" : {
+                  "lat" : 52.6047610197085,
+                  "lng" : -1.033292980291502
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE2",
+               "short_name" : "LE2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leicester, Leicester, Leicester, Leicester LE2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.63144,
+               "lng" : -1.12527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.63278898029149,
+                  "lng" : -1.123921019708498
+               },
+               "southwest" : {
+                  "lat" : 52.63009101970849,
+                  "lng" : -1.126618980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

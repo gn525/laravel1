@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orlando",
+               "short_name" : "Orlando",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Kilbride",
+               "short_name" : "East Kilbride",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G74 3RQ",
+               "short_name" : "G74 3RQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Orlando, East Kilbride, Glasgow, South Lanarkshire G74 3RQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.77986929999999,
+                  "lng" : -4.151142699999999
+               },
+               "southwest" : {
+                  "lat" : 55.7791912,
+                  "lng" : -4.1525454
+               }
+            },
+            "location" : {
+               "lat" : 55.7793146,
+               "lng" : -4.1517969
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7808792302915,
+                  "lng" : -4.150495069708498
+               },
+               "southwest" : {
+                  "lat" : 55.7781812697085,
+                  "lng" : -4.153193030291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

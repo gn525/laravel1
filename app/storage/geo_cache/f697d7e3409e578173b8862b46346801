@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dufftown",
+               "short_name" : "Dufftown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Keith",
+               "short_name" : "Keith",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Moray",
+               "short_name" : "Moray",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB55",
+               "short_name" : "AB55",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dufftown, Keith, Moray AB55, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.45537809999999,
+                  "lng" : -3.1141385
+               },
+               "southwest" : {
+                  "lat" : 57.4405052,
+                  "lng" : -3.1447325
+               }
+            },
+            "location" : {
+               "lat" : 57.443623,
+               "lng" : -3.12838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.45537809999999,
+                  "lng" : -3.1141385
+               },
+               "southwest" : {
+                  "lat" : 57.4405052,
+                  "lng" : -3.1447325
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

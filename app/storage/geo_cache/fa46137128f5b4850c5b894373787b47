@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caldicot",
+               "short_name" : "Caldicot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caldicot",
+               "short_name" : "Caldicot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Monmouthshire",
+               "short_name" : "Monmouthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP26",
+               "short_name" : "NP26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Caldicot, Caldicot, Monmouthshire NP26, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.600552,
+                  "lng" : -2.733136500000001
+               },
+               "southwest" : {
+                  "lat" : 51.58302550000001,
+                  "lng" : -2.7685233
+               }
+            },
+            "location" : {
+               "lat" : 51.591518,
+               "lng" : -2.750868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.600552,
+                  "lng" : -2.733136500000001
+               },
+               "southwest" : {
+                  "lat" : 51.58302550000001,
+                  "lng" : -2.7685233
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

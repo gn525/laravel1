@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Worthing",
+               "short_name" : "West Worthing",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Worthing",
+               "short_name" : "Worthing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worthing",
+               "short_name" : "Worthing",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN11",
+               "short_name" : "BN11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Worthing, Worthing, Worthing, West Sussex BN11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.81834,
+               "lng" : -0.39296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8196889802915,
+                  "lng" : -0.3916110197084979
+               },
+               "southwest" : {
+                  "lat" : 50.8169910197085,
+                  "lng" : -0.394308980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

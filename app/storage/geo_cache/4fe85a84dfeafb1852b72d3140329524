@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lightwater",
+               "short_name" : "Lightwater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lightwater",
+               "short_name" : "Lightwater",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU18",
+               "short_name" : "GU18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lightwater, Lightwater, Surrey GU18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3496049,
+               "lng" : -0.6792403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3565733,
+                  "lng" : -0.6632329
+               },
+               "southwest" : {
+                  "lat" : 51.3426355,
+                  "lng" : -0.6952477
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

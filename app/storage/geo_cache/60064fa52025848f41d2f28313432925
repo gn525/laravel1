@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llandrindod Wells",
+               "short_name" : "Llandrindod Wells",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llandrindod Wells",
+               "short_name" : "Llandrindod Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD1",
+               "short_name" : "LD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llandrindod Wells, Llandrindod Wells, Powys LD1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.25738029999999,
+                  "lng" : -3.3554519
+               },
+               "southwest" : {
+                  "lat" : 52.22204079999999,
+                  "lng" : -3.3942992
+               }
+            },
+            "location" : {
+               "lat" : 52.24169999999999,
+               "lng" : -3.377742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.25738029999999,
+                  "lng" : -3.3554519
+               },
+               "southwest" : {
+                  "lat" : 52.22204079999999,
+                  "lng" : -3.3942992
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GL1",
+               "short_name" : "GL1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gloucester, Gloucestershire GL1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8779771,
+                  "lng" : -2.2139249
+               },
+               "southwest" : {
+                  "lat" : 51.82661419999999,
+                  "lng" : -2.2754306
+               }
+            },
+            "location" : {
+               "lat" : 51.8574043,
+               "lng" : -2.2408605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8779771,
+                  "lng" : -2.2223613
+               },
+               "southwest" : {
+                  "lat" : 51.8396414,
+                  "lng" : -2.2702676
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

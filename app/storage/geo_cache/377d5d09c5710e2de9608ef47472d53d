@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashford",
+               "short_name" : "Ashford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashford",
+               "short_name" : "Ashford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashford, Ashford, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1841519,
+                  "lng" : 0.9148839999999999
+               },
+               "southwest" : {
+                  "lat" : 51.1228136,
+                  "lng" : 0.8276781
+               }
+            },
+            "location" : {
+               "lat" : 51.1464659,
+               "lng" : 0.875019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1841519,
+                  "lng" : 0.9148839999999999
+               },
+               "southwest" : {
+                  "lat" : 51.1228136,
+                  "lng" : 0.8276781
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

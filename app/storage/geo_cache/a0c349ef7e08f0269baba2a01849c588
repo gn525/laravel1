@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taunton, Taunton, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0505742,
+                  "lng" : -3.0493422
+               },
+               "southwest" : {
+                  "lat" : 50.9922982,
+                  "lng" : -3.1505358
+               }
+            },
+            "location" : {
+               "lat" : 51.015344,
+               "lng" : -3.106849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0505742,
+                  "lng" : -3.0493422
+               },
+               "southwest" : {
+                  "lat" : 50.9922982,
+                  "lng" : -3.1505358
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

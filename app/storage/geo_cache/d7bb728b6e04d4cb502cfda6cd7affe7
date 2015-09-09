@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portishead",
+               "short_name" : "Portishead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portishead, North Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4952098,
+                  "lng" : -2.7409098
+               },
+               "southwest" : {
+                  "lat" : 51.45901,
+                  "lng" : -2.8217817
+               }
+            },
+            "location" : {
+               "lat" : 51.485155,
+               "lng" : -2.767948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4952098,
+                  "lng" : -2.7409098
+               },
+               "southwest" : {
+                  "lat" : 51.45901,
+                  "lng" : -2.8217817
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

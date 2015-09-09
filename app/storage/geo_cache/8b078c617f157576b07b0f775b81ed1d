@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorleston-on-Sea",
+               "short_name" : "Gorleston-on-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Great Yarmouth",
+               "short_name" : "Great Yarmouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gorleston-on-Sea, Great Yarmouth, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.592166,
+                  "lng" : 1.7386372
+               },
+               "southwest" : {
+                  "lat" : 52.5488361,
+                  "lng" : 1.7023578
+               }
+            },
+            "location" : {
+               "lat" : 52.570645,
+               "lng" : 1.734211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.592166,
+                  "lng" : 1.7386372
+               },
+               "southwest" : {
+                  "lat" : 52.5488361,
+                  "lng" : 1.7023578
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings Langley",
+               "short_name" : "Kings Langley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kings Langley, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7279798,
+                  "lng" : -0.4157196
+               },
+               "southwest" : {
+                  "lat" : 51.7007848,
+                  "lng" : -0.4764964
+               }
+            },
+            "location" : {
+               "lat" : 51.716249,
+               "lng" : -0.456157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7279798,
+                  "lng" : -0.4157196
+               },
+               "southwest" : {
+                  "lat" : 51.7007848,
+                  "lng" : -0.4764964
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

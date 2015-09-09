@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banbury Business Park",
+               "short_name" : "Banbury Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Aynho Road",
+               "short_name" : "Aynho Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Adderbury",
+               "short_name" : "Adderbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banbury",
+               "short_name" : "Banbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX17 3NS",
+               "short_name" : "OX17 3NS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banbury Business Park, Aynho Road, Adderbury, Banbury, Oxfordshire OX17 3NS, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.0122799,
+               "lng" : -1.291654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.01362888029149,
+                  "lng" : -1.290305019708498
+               },
+               "southwest" : {
+                  "lat" : 52.01093091970849,
+                  "lng" : -1.293002980291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wrotham Park",
+               "short_name" : "Wrotham Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN5",
+               "short_name" : "EN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wrotham Park, Barnet, Hertfordshire EN5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6763819,
+               "lng" : -0.200285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.68330049999999,
+                  "lng" : -0.1842776
+               },
+               "southwest" : {
+                  "lat" : 51.6694623,
+                  "lng" : -0.2162924
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

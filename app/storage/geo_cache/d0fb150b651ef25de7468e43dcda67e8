@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DD1",
+               "short_name" : "DD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DD1, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4691659,
+                  "lng" : -2.9112019
+               },
+               "southwest" : {
+                  "lat" : 56.4500794,
+                  "lng" : -2.9967835
+               }
+            },
+            "location" : {
+               "lat" : 56.4617751,
+               "lng" : -2.9687003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4691659,
+                  "lng" : -2.9112019
+               },
+               "southwest" : {
+                  "lat" : 56.4500794,
+                  "lng" : -2.9967835
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD1",
+               "short_name" : "DD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dundee, Dundee, Dundee, Dundee City DD1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.45647,
+               "lng" : -2.97121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4578189802915,
+                  "lng" : -2.969861019708498
+               },
+               "southwest" : {
+                  "lat" : 56.4551210197085,
+                  "lng" : -2.972558980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OL12",
+               "short_name" : "OL12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Rochdale",
+               "short_name" : "Rochdale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rochdale OL12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6895598,
+                  "lng" : -2.1106483
+               },
+               "southwest" : {
+                  "lat" : 53.6127321,
+                  "lng" : -2.2874164
+               }
+            },
+            "location" : {
+               "lat" : 53.66276999999999,
+               "lng" : -2.187286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6895598,
+                  "lng" : -2.1106483
+               },
+               "southwest" : {
+                  "lat" : 53.6127321,
+                  "lng" : -2.2874164
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rawmarsh",
+               "short_name" : "Rawmarsh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rawmarsh, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.47823709999999,
+                  "lng" : -1.2963449
+               },
+               "southwest" : {
+                  "lat" : 53.4421843,
+                  "lng" : -1.3723589
+               }
+            },
+            "location" : {
+               "lat" : 53.4616366,
+               "lng" : -1.3442806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47823709999999,
+                  "lng" : -1.2963449
+               },
+               "southwest" : {
+                  "lat" : 53.4421843,
+                  "lng" : -1.3723589
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

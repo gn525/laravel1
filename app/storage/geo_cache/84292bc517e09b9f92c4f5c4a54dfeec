@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Down",
+               "short_name" : "Down",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8",
+               "short_name" : "BT8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Down, Belfast, Castlereagh BT8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.49682,
+               "lng" : -5.904920000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5032995,
+                  "lng" : -5.888912599999999
+               },
+               "southwest" : {
+                  "lat" : 54.4903395,
+                  "lng" : -5.9209274
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oman House",
+               "short_name" : "Oman House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Golders Green Road",
+               "short_name" : "Golders Green Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW11 9PY",
+               "short_name" : "NW11 9PY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oman House, Golders Green Road, London NW11 9PY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.580507,
+               "lng" : -0.2095598
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5818559802915,
+                  "lng" : -0.208210819708498
+               },
+               "southwest" : {
+                  "lat" : 51.5791580197085,
+                  "lng" : -0.210908780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oman Avenue",
+               "short_name" : "Oman Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW2 6AX",
+               "short_name" : "NW2 6AX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oman Avenue, London NW2 6AX, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.55666129999999,
+                  "lng" : -0.2264213
+               },
+               "southwest" : {
+                  "lat" : 51.5547578,
+                  "lng" : -0.2281776
+               }
+            },
+            "location" : {
+               "lat" : 51.5562263,
+               "lng" : -0.2266577
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5570585302915,
+                  "lng" : -0.2259504697084979
+               },
+               "southwest" : {
+                  "lat" : 51.5543605697085,
+                  "lng" : -0.228648430291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

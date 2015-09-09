@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chirk",
+               "short_name" : "Chirk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL14",
+               "short_name" : "LL14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chirk, Wrexham, Wrexham LL14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9475707,
+                  "lng" : -3.0464766
+               },
+               "southwest" : {
+                  "lat" : 52.9290491,
+                  "lng" : -3.0694052
+               }
+            },
+            "location" : {
+               "lat" : 52.9322792,
+               "lng" : -3.0567818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9475707,
+                  "lng" : -3.0464766
+               },
+               "southwest" : {
+                  "lat" : 52.9290491,
+                  "lng" : -3.0694052
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BN12",
+               "short_name" : "BN12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Worthing",
+               "short_name" : "Worthing",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worthing, West Sussex BN12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.83559289999999,
+                  "lng" : -0.39994
+               },
+               "southwest" : {
+                  "lat" : 50.8014866,
+                  "lng" : -0.4615113
+               }
+            },
+            "location" : {
+               "lat" : 50.8187887,
+               "lng" : -0.4425852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.83559289999999,
+                  "lng" : -0.39994
+               },
+               "southwest" : {
+                  "lat" : 50.8014866,
+                  "lng" : -0.4615113
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

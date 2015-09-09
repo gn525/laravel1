@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cockermouth",
+               "short_name" : "Cockermouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cockermouth",
+               "short_name" : "Cockermouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA13",
+               "short_name" : "CA13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cockermouth, Cockermouth, Cumbria CA13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.672338,
+                  "lng" : -3.3416802
+               },
+               "southwest" : {
+                  "lat" : 54.6489586,
+                  "lng" : -3.3825681
+               }
+            },
+            "location" : {
+               "lat" : 54.663261,
+               "lng" : -3.367985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.672338,
+                  "lng" : -3.3416802
+               },
+               "southwest" : {
+                  "lat" : 54.6489586,
+                  "lng" : -3.3825681
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

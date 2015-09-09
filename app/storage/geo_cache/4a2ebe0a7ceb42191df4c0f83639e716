@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biddulph",
+               "short_name" : "Biddulph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biddulph, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1373768,
+                  "lng" : -2.1516102
+               },
+               "southwest" : {
+                  "lat" : 53.1068235,
+                  "lng" : -2.1859877
+               }
+            },
+            "location" : {
+               "lat" : 53.119197,
+               "lng" : -2.171608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1373768,
+                  "lng" : -2.1516102
+               },
+               "southwest" : {
+                  "lat" : 53.1068235,
+                  "lng" : -2.1859877
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

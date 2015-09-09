@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cottesmore",
+               "short_name" : "Cottesmore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oakham",
+               "short_name" : "Oakham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rutland",
+               "short_name" : "Rutland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE15",
+               "short_name" : "LE15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cottesmore, Oakham, Rutland LE15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.73060659999999,
+                  "lng" : -0.6378317999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7076339,
+                  "lng" : -0.6739788
+               }
+            },
+            "location" : {
+               "lat" : 52.711747,
+               "lng" : -0.66532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.73060659999999,
+                  "lng" : -0.6378317999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7076339,
+                  "lng" : -0.6739788
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

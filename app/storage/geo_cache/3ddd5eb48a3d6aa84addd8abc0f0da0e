@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newtown, Powys, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5457699,
+                  "lng" : -3.2549193
+               },
+               "southwest" : {
+                  "lat" : 52.48906479999999,
+                  "lng" : -3.3667212
+               }
+            },
+            "location" : {
+               "lat" : 52.51211199999999,
+               "lng" : -3.313106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5457699,
+                  "lng" : -3.2549193
+               },
+               "southwest" : {
+                  "lat" : 52.48906479999999,
+                  "lng" : -3.3667212
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP3",
+               "short_name" : "SP3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newtown, Salisbury, Wiltshire SP3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.059448,
+               "lng" : -2.119442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0607969802915,
+                  "lng" : -2.118093019708498
+               },
+               "southwest" : {
+                  "lat" : 51.0580990197085,
+                  "lng" : -2.120790980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newbury",
+               "short_name" : "Newbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG20",
+               "short_name" : "RG20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newtown, Newbury, Hampshire RG20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.370332,
+               "lng" : -1.316569
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3716809802915,
+                  "lng" : -1.315220019708498
+               },
+               "southwest" : {
+                  "lat" : 51.3689830197085,
+                  "lng" : -1.317917980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "High Peak",
+               "short_name" : "High Peak",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK22",
+               "short_name" : "SK22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newtown, High Peak, Derbyshire SK22, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3580791,
+               "lng" : -2.0102333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3594280802915,
+                  "lng" : -2.008884319708498
+               },
+               "southwest" : {
+                  "lat" : 53.3567301197085,
+                  "lng" : -2.011582280291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fareham",
+               "short_name" : "Fareham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO17",
+               "short_name" : "PO17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newtown, Fareham, Hampshire PO17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.914063,
+               "lng" : -1.132507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.91541198029149,
+                  "lng" : -1.131158019708498
+               },
+               "southwest" : {
+                  "lat" : 50.9127140197085,
+                  "lng" : -1.133855980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Isle of Wight",
+               "short_name" : "IOW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO30",
+               "short_name" : "PO30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newtown, Newport, Isle of Wight PO30, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.71525099999999,
+               "lng" : -1.400251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.71659998029149,
+                  "lng" : -1.398902019708498
+               },
+               "southwest" : {
+                  "lat" : 50.71390201970849,
+                  "lng" : -1.401599980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

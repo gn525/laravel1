@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuckfield",
+               "short_name" : "Cuckfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haywards Heath",
+               "short_name" : "Haywards Heath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuckfield, Haywards Heath, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.01736959999999,
+                  "lng" : -0.124847
+               },
+               "southwest" : {
+                  "lat" : 50.9995045,
+                  "lng" : -0.1546576
+               }
+            },
+            "location" : {
+               "lat" : 51.005813,
+               "lng" : -0.143636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.01736959999999,
+                  "lng" : -0.124847
+               },
+               "southwest" : {
+                  "lat" : 50.9995045,
+                  "lng" : -0.1546576
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

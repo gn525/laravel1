@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clieves Hills",
+               "short_name" : "Clieves Hills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Halsall",
+               "short_name" : "Halsall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ormskirk",
+               "short_name" : "Ormskirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L39",
+               "short_name" : "L39",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clieves Hills, Halsall, Ormskirk, Lancashire L39, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5661289,
+               "lng" : -2.943162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.57275509999999,
+                  "lng" : -2.9271546
+               },
+               "southwest" : {
+                  "lat" : 53.5595017,
+                  "lng" : -2.9591694
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

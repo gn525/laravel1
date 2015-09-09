@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Copthorne",
+               "short_name" : "Copthorne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Copthorne, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1574724,
+                  "lng" : -0.08653029999999999
+               },
+               "southwest" : {
+                  "lat" : 51.1254579,
+                  "lng" : -0.1414545
+               }
+            },
+            "location" : {
+               "lat" : 51.139809,
+               "lng" : -0.121265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1574724,
+                  "lng" : -0.08653029999999999
+               },
+               "southwest" : {
+                  "lat" : 51.1254579,
+                  "lng" : -0.1414545
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

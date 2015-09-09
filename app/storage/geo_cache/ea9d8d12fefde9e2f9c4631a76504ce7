@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rugby",
+               "short_name" : "Rugby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rugby",
+               "short_name" : "Rugby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rugby, Rugby, Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.408051,
+                  "lng" : -1.1987548
+               },
+               "southwest" : {
+                  "lat" : 52.3464304,
+                  "lng" : -1.3056411
+               }
+            },
+            "location" : {
+               "lat" : 52.370878,
+               "lng" : -1.265032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.408051,
+                  "lng" : -1.1987548
+               },
+               "southwest" : {
+                  "lat" : 52.3464304,
+                  "lng" : -1.3056411
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

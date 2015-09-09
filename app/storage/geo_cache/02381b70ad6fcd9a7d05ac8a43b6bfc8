@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baglan",
+               "short_name" : "Baglan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Neath Port Talbot",
+               "short_name" : "Neath Port Talbot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baglan, Neath Port Talbot, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6291011,
+                  "lng" : -3.7758958
+               },
+               "southwest" : {
+                  "lat" : 51.5983345,
+                  "lng" : -3.8222018
+               }
+            },
+            "location" : {
+               "lat" : 51.619954,
+               "lng" : -3.814203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6291011,
+                  "lng" : -3.7758958
+               },
+               "southwest" : {
+                  "lat" : 51.5983345,
+                  "lng" : -3.8222018
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baglan",
+               "short_name" : "Baglan",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Port Talbot",
+               "short_name" : "Port Talbot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Port Talbot",
+               "short_name" : "Port Talbot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Neath Port Talbot",
+               "short_name" : "Neath Port Talbot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA12",
+               "short_name" : "SA12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baglan, Port Talbot, Port Talbot, Neath Port Talbot SA12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.61554,
+               "lng" : -3.81115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.61688898029151,
+                  "lng" : -3.809801019708498
+               },
+               "southwest" : {
+                  "lat" : 51.61419101970851,
+                  "lng" : -3.812498980291503
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

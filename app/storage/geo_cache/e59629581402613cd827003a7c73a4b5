@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hatfield Woodhouse",
+               "short_name" : "Hatfield Woodhouse",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hatfield",
+               "short_name" : "Hatfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doncaster",
+               "short_name" : "Doncaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN7",
+               "short_name" : "DN7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hatfield Woodhouse, Hatfield, Doncaster, South Yorkshire DN7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5707767,
+               "lng" : -0.9764517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5774021,
+                  "lng" : -0.9604442999999999
+               },
+               "southwest" : {
+                  "lat" : 53.5641502,
+                  "lng" : -0.9924591
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

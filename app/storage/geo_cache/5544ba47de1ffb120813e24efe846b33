@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sandtoft",
+               "short_name" : "Sandtoft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doncaster",
+               "short_name" : "Doncaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lincolnshire",
+               "short_name" : "North Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN8",
+               "short_name" : "DN8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sandtoft, Doncaster, North Lincolnshire DN8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.565174,
+               "lng" : -0.8787769999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5718003,
+                  "lng" : -0.8627695999999999
+               },
+               "southwest" : {
+                  "lat" : 53.5585467,
+                  "lng" : -0.8947843999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

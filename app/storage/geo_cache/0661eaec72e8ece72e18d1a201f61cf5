@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0313682,
+                  "lng" : -3.711135
+               },
+               "southwest" : {
+                  "lat" : 55.7347607,
+                  "lng" : -4.1945028
+               }
+            },
+            "location" : {
+               "lat" : 55.8289139,
+               "lng" : -3.9221958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0313682,
+                  "lng" : -3.711135
+               },
+               "southwest" : {
+                  "lat" : 55.7347607,
+                  "lng" : -4.1945028
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

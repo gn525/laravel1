@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ransomes Industrial Estate",
+               "short_name" : "Ransomes Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP3",
+               "short_name" : "IP3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ransomes Industrial Estate, Ipswich, Ipswich, Suffolk IP3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.029557,
+               "lng" : 1.2086072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0364215,
+                  "lng" : 1.2246146
+               },
+               "southwest" : {
+                  "lat" : 52.0226915,
+                  "lng" : 1.1925998
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cirencester",
+               "short_name" : "Cirencester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cirencester",
+               "short_name" : "Cirencester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL7",
+               "short_name" : "GL7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cirencester, Cirencester, Gloucestershire GL7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7298793,
+                  "lng" : -1.941325
+               },
+               "southwest" : {
+                  "lat" : 51.70008,
+                  "lng" : -1.9912892
+               }
+            },
+            "location" : {
+               "lat" : 51.718495,
+               "lng" : -1.968243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7298793,
+                  "lng" : -1.941325
+               },
+               "southwest" : {
+                  "lat" : 51.70008,
+                  "lng" : -1.9912892
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

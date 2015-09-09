@@ -1,0 +1,792 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda House",
+               "short_name" : "Breda House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Drumart Drive",
+               "short_name" : "Drumart Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 7EU",
+               "short_name" : "BT8 7EU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda House, Drumart Drive, Belfast, Castlereagh BT8 7EU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5489847,
+               "lng" : -5.928562299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.55033368029149,
+                  "lng" : -5.927213319708497
+               },
+               "southwest" : {
+                  "lat" : 54.5476357197085,
+                  "lng" : -5.929911280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Drive",
+               "short_name" : "Breda Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6JU",
+               "short_name" : "BT8 6JU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Drive, Castlereagh, Belfast, Castlereagh BT8 6JU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5603591,
+                  "lng" : -5.9024359
+               },
+               "southwest" : {
+                  "lat" : 54.5590469,
+                  "lng" : -5.9060209
+               }
+            },
+            "location" : {
+               "lat" : 54.5601451,
+               "lng" : -5.9037732
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5610519802915,
+                  "lng" : -5.9024359
+               },
+               "southwest" : {
+                  "lat" : 54.5583540197085,
+                  "lng" : -5.9060209
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Road",
+               "short_name" : "Breda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 7BU",
+               "short_name" : "BT8 7BU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Road, Castlereagh, Belfast, Castlereagh BT8 7BU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5578029,
+                  "lng" : -5.9100024
+               },
+               "southwest" : {
+                  "lat" : 54.5554101,
+                  "lng" : -5.9128769
+               }
+            },
+            "location" : {
+               "lat" : 54.5567527,
+               "lng" : -5.9102191
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5579554802915,
+                  "lng" : -5.9100024
+               },
+               "southwest" : {
+                  "lat" : 54.5552575197085,
+                  "lng" : -5.9128769
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Terrace",
+               "short_name" : "Breda Terrace",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 7BY",
+               "short_name" : "BT8 7BY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Terrace, Castlereagh, Belfast, Castlereagh BT8 7BY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5557081,
+                  "lng" : -5.908618700000001
+               },
+               "southwest" : {
+                  "lat" : 54.5550668,
+                  "lng" : -5.9122946
+               }
+            },
+            "location" : {
+               "lat" : 54.55527,
+               "lng" : -5.91074
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.55673643029149,
+                  "lng" : -5.908618700000001
+               },
+               "southwest" : {
+                  "lat" : 54.5540384697085,
+                  "lng" : -5.9122946
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Avenue",
+               "short_name" : "Breda Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6JS",
+               "short_name" : "BT8 6JS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Avenue, Castlereagh, Belfast, Castlereagh BT8 6JS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5596638,
+                  "lng" : -5.907275299999999
+               },
+               "southwest" : {
+                  "lat" : 54.55848570000001,
+                  "lng" : -5.9080363
+               }
+            },
+            "location" : {
+               "lat" : 54.5590387,
+               "lng" : -5.907786199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5604237302915,
+                  "lng" : -5.906306819708497
+               },
+               "southwest" : {
+                  "lat" : 54.5577257697085,
+                  "lng" : -5.909004780291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Gardens",
+               "short_name" : "Breda Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6BZ",
+               "short_name" : "BT8 6BZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Gardens, Castlereagh, Belfast, Castlereagh BT8 6BZ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5587885,
+                  "lng" : -5.9095243
+               },
+               "southwest" : {
+                  "lat" : 54.557952,
+                  "lng" : -5.9113883
+               }
+            },
+            "location" : {
+               "lat" : 54.5584748,
+               "lng" : -5.910486499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5597192302915,
+                  "lng" : -5.909107319708498
+               },
+               "southwest" : {
+                  "lat" : 54.55702126970851,
+                  "lng" : -5.911805280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda House",
+               "short_name" : "Breda House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB33 8NN",
+               "short_name" : "AB33 8NN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda House, Alford, Aberdeenshire AB33 8NN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.2344167,
+               "lng" : -2.7567611
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2357656802915,
+                  "lng" : -2.755412119708498
+               },
+               "southwest" : {
+                  "lat" : 57.2330677197085,
+                  "lng" : -2.758110080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Parade",
+               "short_name" : "Breda Parade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6JW",
+               "short_name" : "BT8 6JW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Parade, Castlereagh, Belfast, Castlereagh BT8 6JW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5591659,
+                  "lng" : -5.9062168
+               },
+               "southwest" : {
+                  "lat" : 54.5585001,
+                  "lng" : -5.907786199999999
+               }
+            },
+            "location" : {
+               "lat" : 54.558915,
+               "lng" : -5.9071149
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5601819802915,
+                  "lng" : -5.905652519708497
+               },
+               "southwest" : {
+                  "lat" : 54.5574840197085,
+                  "lng" : -5.908350480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Crescent",
+               "short_name" : "Breda Cres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6JT",
+               "short_name" : "BT8 6JT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Crescent, Castlereagh, Belfast, Castlereagh BT8 6JT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.55993600000001,
+                  "lng" : -5.9061904
+               },
+               "southwest" : {
+                  "lat" : 54.55942229999999,
+                  "lng" : -5.906745799999999
+               }
+            },
+            "location" : {
+               "lat" : 54.5597936,
+               "lng" : -5.906322299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5610281302915,
+                  "lng" : -5.905119119708497
+               },
+               "southwest" : {
+                  "lat" : 54.5583301697085,
+                  "lng" : -5.907817080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Court",
+               "short_name" : "Breda Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spalding",
+               "short_name" : "Spalding",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spalding",
+               "short_name" : "Spalding",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE11",
+               "short_name" : "PE11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Court, Spalding, Spalding, Lincolnshire PE11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.77973189999999,
+                  "lng" : -0.1712029
+               },
+               "southwest" : {
+                  "lat" : 52.7792446,
+                  "lng" : -0.1718346
+               }
+            },
+            "location" : {
+               "lat" : 52.7796194,
+               "lng" : -0.1715889
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7808372302915,
+                  "lng" : -0.170169769708498
+               },
+               "southwest" : {
+                  "lat" : 52.7781392697085,
+                  "lng" : -0.172867730291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Mews",
+               "short_name" : "Breda Mews",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6JT",
+               "short_name" : "BT8 6JT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Mews, Castlereagh, Belfast, Castlereagh BT8 6JT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5596901,
+               "lng" : -5.9078748
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.56103908029149,
+                  "lng" : -5.906525819708498
+               },
+               "southwest" : {
+                  "lat" : 54.55834111970849,
+                  "lng" : -5.909223780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Court",
+               "short_name" : "Breda Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6HB",
+               "short_name" : "BT8 6HB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Court, Castlereagh, Belfast, Castlereagh BT8 6HB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5599309,
+               "lng" : -5.908434
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5612798802915,
+                  "lng" : -5.907085019708497
+               },
+               "southwest" : {
+                  "lat" : 54.5585819197085,
+                  "lng" : -5.909782980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda Park",
+               "short_name" : "Breda Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 6JR",
+               "short_name" : "BT8 6JR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Breda Park, Castlereagh, Belfast, Castlereagh BT8 6JR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5601579,
+                  "lng" : -5.9054728
+               },
+               "southwest" : {
+                  "lat" : 54.5583849,
+                  "lng" : -5.9094855
+               }
+            },
+            "location" : {
+               "lat" : 54.5595435,
+               "lng" : -5.906990299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5606203802915,
+                  "lng" : -5.9054728
+               },
+               "southwest" : {
+                  "lat" : 54.5579224197085,
+                  "lng" : -5.9094855
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

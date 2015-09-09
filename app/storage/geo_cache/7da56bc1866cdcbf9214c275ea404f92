@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heathfield Industrial Estate",
+               "short_name" : "Heathfield Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ayr",
+               "short_name" : "Ayr",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ayr",
+               "short_name" : "Ayr",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Ayrshire",
+               "short_name" : "South Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA8",
+               "short_name" : "KA8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Heathfield Industrial Estate, Ayr, Ayr, South Ayrshire KA8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.47849069999999,
+               "lng" : -4.6003017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4848136,
+                  "lng" : -4.5842943
+               },
+               "southwest" : {
+                  "lat" : 55.4721668,
+                  "lng" : -4.6163091
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

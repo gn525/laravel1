@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Magherafelt",
+               "short_name" : "Magherafelt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Magherafelt",
+               "short_name" : "Magherafelt",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Magherafelt",
+               "short_name" : "Magherafelt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT45",
+               "short_name" : "BT45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Magherafelt, Magherafelt, Magherafelt BT45, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.75639,
+               "lng" : -6.60636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7628283,
+                  "lng" : -6.5903526
+               },
+               "southwest" : {
+                  "lat" : 54.7499507,
+                  "lng" : -6.6223674
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

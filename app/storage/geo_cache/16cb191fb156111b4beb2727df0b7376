@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sherburn in Elmet",
+               "short_name" : "Sherburn in Elmet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS25",
+               "short_name" : "LS25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sherburn in Elmet, Leeds, North Yorkshire LS25, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8045908,
+                  "lng" : -1.2143714
+               },
+               "southwest" : {
+                  "lat" : 53.7819118,
+                  "lng" : -1.2653672
+               }
+            },
+            "location" : {
+               "lat" : 53.796994,
+               "lng" : -1.249604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8045908,
+                  "lng" : -1.2143714
+               },
+               "southwest" : {
+                  "lat" : 53.7819118,
+                  "lng" : -1.2653672
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

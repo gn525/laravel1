@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guiseley",
+               "short_name" : "Guiseley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guiseley, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8935695,
+                  "lng" : -1.6860722
+               },
+               "southwest" : {
+                  "lat" : 53.8632637,
+                  "lng" : -1.7493531
+               }
+            },
+            "location" : {
+               "lat" : 53.877118,
+               "lng" : -1.706645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8935695,
+                  "lng" : -1.6860722
+               },
+               "southwest" : {
+                  "lat" : 53.8632637,
+                  "lng" : -1.7493531
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

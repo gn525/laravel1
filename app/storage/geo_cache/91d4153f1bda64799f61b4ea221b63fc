@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purley",
+               "short_name" : "Purley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Purley, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3495171,
+                  "lng" : -0.07882989999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3112264,
+                  "lng" : -0.1498133
+               }
+            },
+            "location" : {
+               "lat" : 51.339228,
+               "lng" : -0.119711
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3495171,
+                  "lng" : -0.07882989999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3112264,
+                  "lng" : -0.1498133
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

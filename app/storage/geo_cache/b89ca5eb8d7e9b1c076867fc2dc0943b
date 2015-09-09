@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehouse Industrial Estate",
+               "short_name" : "Whitehouse Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Runcorn",
+               "short_name" : "Runcorn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Runcorn",
+               "short_name" : "Runcorn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Halton",
+               "short_name" : "Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA7 3BE",
+               "short_name" : "WA7 3BE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitehouse Industrial Estate, Runcorn, Halton WA7 3BE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3140466,
+               "lng" : -2.6593779
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.31539558029149,
+                  "lng" : -2.658028919708498
+               },
+               "southwest" : {
+                  "lat" : 53.3126976197085,
+                  "lng" : -2.660726880291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

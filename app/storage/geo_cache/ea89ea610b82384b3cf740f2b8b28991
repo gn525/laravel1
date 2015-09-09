@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rode",
+               "short_name" : "Rode",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frome",
+               "short_name" : "Frome",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA11",
+               "short_name" : "BA11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rode, Frome, Somerset BA11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2841205,
+               "lng" : -2.2816188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2910988,
+                  "lng" : -2.2656114
+               },
+               "southwest" : {
+                  "lat" : 51.27714109999999,
+                  "lng" : -2.2976262
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

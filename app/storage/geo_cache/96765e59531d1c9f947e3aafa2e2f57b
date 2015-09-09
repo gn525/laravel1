@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Littlehampton",
+               "short_name" : "Littlehampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Littlehampton, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8238913,
+                  "lng" : -0.5149197
+               },
+               "southwest" : {
+                  "lat" : 50.7997297,
+                  "lng" : -0.5606685
+               }
+            },
+            "location" : {
+               "lat" : 50.811057,
+               "lng" : -0.5386609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8238913,
+                  "lng" : -0.5149197
+               },
+               "southwest" : {
+                  "lat" : 50.7997297,
+                  "lng" : -0.5606685
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

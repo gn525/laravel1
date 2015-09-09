@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SG1",
+               "short_name" : "SG1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hertfordshire SG1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9405991,
+                  "lng" : -0.1597445
+               },
+               "southwest" : {
+                  "lat" : 51.88135310000001,
+                  "lng" : -0.237156
+               }
+            },
+            "location" : {
+               "lat" : 51.9049501,
+               "lng" : -0.202641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9405991,
+                  "lng" : -0.1597445
+               },
+               "southwest" : {
+                  "lat" : 51.88135310000001,
+                  "lng" : -0.237156
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stevenage",
+               "short_name" : "Stevenage",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Stevenage",
+               "short_name" : "Stevenage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stevenage",
+               "short_name" : "Stevenage",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG1",
+               "short_name" : "SG1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stevenage, Stevenage, Stevenage, Hertfordshire SG1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90169280000001,
+               "lng" : -0.2070859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90304178029151,
+                  "lng" : -0.205736919708498
+               },
+               "southwest" : {
+                  "lat" : 51.90034381970851,
+                  "lng" : -0.208434880291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

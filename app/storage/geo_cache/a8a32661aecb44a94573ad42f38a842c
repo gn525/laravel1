@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rothley",
+               "short_name" : "Rothley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE7",
+               "short_name" : "LE7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rothley, Leicester, Leicestershire LE7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.70915,
+               "lng" : -1.137362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7159097,
+                  "lng" : -1.1213546
+               },
+               "southwest" : {
+                  "lat" : 52.70238930000001,
+                  "lng" : -1.1533694
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

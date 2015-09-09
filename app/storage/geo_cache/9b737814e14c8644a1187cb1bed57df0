@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SN1",
+               "short_name" : "SN1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swindon, Wiltshire SN1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.573431,
+                  "lng" : -1.719875
+               },
+               "southwest" : {
+                  "lat" : 51.5296257,
+                  "lng" : -1.8382948
+               }
+            },
+            "location" : {
+               "lat" : 51.5487433,
+               "lng" : -1.7880953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.573431,
+                  "lng" : -1.7540927
+               },
+               "southwest" : {
+                  "lat" : 51.5296257,
+                  "lng" : -1.8382948
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

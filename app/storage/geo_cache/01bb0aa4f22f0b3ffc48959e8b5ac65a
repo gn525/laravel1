@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crawley, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1527353,
+                  "lng" : -0.1337785
+               },
+               "southwest" : {
+                  "lat" : 51.0867581,
+                  "lng" : -0.2322959
+               }
+            },
+            "location" : {
+               "lat" : 51.1091401,
+               "lng" : -0.1872275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1527353,
+                  "lng" : -0.1337785
+               },
+               "southwest" : {
+                  "lat" : 51.0867581,
+                  "lng" : -0.2322959
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawley Railway Station",
+               "short_name" : "Crawley Railway Station",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crawley",
+               "short_name" : "Crawley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH10",
+               "short_name" : "RH10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crawley Railway Station, Crawley, Crawley, West Sussex RH10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1121883,
+               "lng" : -0.1864694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1135372802915,
+                  "lng" : -0.185120419708498
+               },
+               "southwest" : {
+                  "lat" : 51.1108393197085,
+                  "lng" : -0.187818380291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

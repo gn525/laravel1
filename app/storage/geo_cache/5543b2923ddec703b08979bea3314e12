@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gatwick Airport",
+               "short_name" : "Gatwick Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH6 0NP",
+               "short_name" : "RH6 0NP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gatwick Airport (LGW), West Sussex RH6 0NP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1646674,
+                  "lng" : -0.1486517
+               },
+               "southwest" : {
+                  "lat" : 51.1424556,
+                  "lng" : -0.215728
+               }
+            },
+            "location" : {
+               "lat" : 51.1536621,
+               "lng" : -0.1820629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1646674,
+                  "lng" : -0.1486517
+               },
+               "southwest" : {
+                  "lat" : 51.1424556,
+                  "lng" : -0.215728
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Ireland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.31294,
+                  "lng" : -5.426810100000001
+               },
+               "southwest" : {
+                  "lat" : 54.02261,
+                  "lng" : -8.17754
+               }
+            },
+            "location" : {
+               "lat" : 54.7877149,
+               "lng" : -6.4923145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.31294,
+                  "lng" : -5.426810100000001
+               },
+               "southwest" : {
+                  "lat" : 54.02261,
+                  "lng" : -8.17754
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

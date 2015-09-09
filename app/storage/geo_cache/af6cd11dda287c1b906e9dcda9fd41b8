@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sellafield",
+               "short_name" : "Sellafield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seascale",
+               "short_name" : "Seascale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA20",
+               "short_name" : "CA20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sellafield, Seascale, Cumbria CA20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.42385600000001,
+               "lng" : -3.506257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.430347,
+                  "lng" : -3.4902496
+               },
+               "southwest" : {
+                  "lat" : 54.4173639,
+                  "lng" : -3.5222644
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

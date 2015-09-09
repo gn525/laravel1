@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bearsden",
+               "short_name" : "Bearsden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Dunbartonshire",
+               "short_name" : "East Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bearsden, Glasgow, East Dunbartonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9380877,
+                  "lng" : -4.299144399999999
+               },
+               "southwest" : {
+                  "lat" : 55.8962997,
+                  "lng" : -4.362944
+               }
+            },
+            "location" : {
+               "lat" : 55.92169,
+               "lng" : -4.335525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9380877,
+                  "lng" : -4.299144399999999
+               },
+               "southwest" : {
+                  "lat" : 55.8962997,
+                  "lng" : -4.362944
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

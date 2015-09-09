@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EH10",
+               "short_name" : "EH10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh EH10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9410817,
+                  "lng" : -3.1803792
+               },
+               "southwest" : {
+                  "lat" : 55.869697,
+                  "lng" : -3.2346288
+               }
+            },
+            "location" : {
+               "lat" : 55.8997335,
+               "lng" : -3.20764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9410817,
+                  "lng" : -3.1803792
+               },
+               "southwest" : {
+                  "lat" : 55.869697,
+                  "lng" : -3.2346288
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Grinstead",
+               "short_name" : "East Grinstead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Grinstead, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1585136,
+                  "lng" : 0.0277926
+               },
+               "southwest" : {
+                  "lat" : 51.0959922,
+                  "lng" : -0.06036639999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.128742,
+               "lng" : -0.014468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1585136,
+                  "lng" : 0.0277926
+               },
+               "southwest" : {
+                  "lat" : 51.0959922,
+                  "lng" : -0.06036639999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

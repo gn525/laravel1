@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS15",
+               "short_name" : "BS15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol BS15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4788801,
+                  "lng" : -2.4744054
+               },
+               "southwest" : {
+                  "lat" : 51.4271016,
+                  "lng" : -2.5395282
+               }
+            },
+            "location" : {
+               "lat" : 51.46205990000001,
+               "lng" : -2.504007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4788801,
+                  "lng" : -2.4744054
+               },
+               "southwest" : {
+                  "lat" : 51.4271016,
+                  "lng" : -2.5395282
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

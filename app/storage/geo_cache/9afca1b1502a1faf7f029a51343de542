@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BR4",
+               "short_name" : "BR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London BR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3918043,
+                  "lng" : 0.0188971
+               },
+               "southwest" : {
+                  "lat" : 51.3552,
+                  "lng" : -0.0272231
+               }
+            },
+            "location" : {
+               "lat" : 51.373235,
+               "lng" : -0.0175092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3918043,
+                  "lng" : 0.0188971
+               },
+               "southwest" : {
+                  "lat" : 51.3552,
+                  "lng" : -0.0272231
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

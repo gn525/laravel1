@@ -1,0 +1,186 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dearne Valley",
+               "short_name" : "Dearne Valley",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stuart Street",
+               "short_name" : "Stuart St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thurnscoe",
+               "short_name" : "Thurnscoe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rotherham",
+               "short_name" : "Rotherham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S63 0ED",
+               "short_name" : "S63 0ED",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dearne Valley, 46 Stuart Street, Thurnscoe, Rotherham, South Yorkshire S63 0ED, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.5471667,
+               "lng" : -1.3029843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54851568029149,
+                  "lng" : -1.301635319708498
+               },
+               "southwest" : {
+                  "lat" : 53.5458177197085,
+                  "lng" : -1.304333280291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dearne Valley Parkway",
+               "short_name" : "Dearne Valley Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S74",
+               "short_name" : "S74",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dearne Valley Parkway, Barnsley, South Yorkshire S74, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5152069,
+                  "lng" : -1.3790264
+               },
+               "southwest" : {
+                  "lat" : 53.49870920000001,
+                  "lng" : -1.4746345
+               }
+            },
+            "location" : {
+               "lat" : 53.5100263,
+               "lng" : -1.4262472
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5152069,
+                  "lng" : -1.3790264
+               },
+               "southwest" : {
+                  "lat" : 53.49870920000001,
+                  "lng" : -1.4746345
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "RSPB Dearne Valley - Old Moor",
+               "short_name" : "RSPB Dearne Valley - Old Moor",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Old Moor Lane",
+               "short_name" : "Old Moor Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bolton upon Dearne",
+               "short_name" : "Bolton upon Dearne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S73 0YF",
+               "short_name" : "S73 0YF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "RSPB Dearne Valley - Old Moor, Old Moor Lane, Bolton upon Dearne, Barnsley, South Yorkshire S73 0YF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.51549970000001,
+               "lng" : -1.3646716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51684868029151,
+                  "lng" : -1.363322619708498
+               },
+               "southwest" : {
+                  "lat" : 53.51415071970851,
+                  "lng" : -1.366020580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "natural_feature", "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

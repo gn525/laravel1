@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheadle",
+               "short_name" : "Cheadle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheadle, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4023093,
+                  "lng" : -2.1867343
+               },
+               "southwest" : {
+                  "lat" : 53.3732864,
+                  "lng" : -2.2272755
+               }
+            },
+            "location" : {
+               "lat" : 53.394361,
+               "lng" : -2.214115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4023093,
+                  "lng" : -2.1867343
+               },
+               "southwest" : {
+                  "lat" : 53.3732864,
+                  "lng" : -2.2272755
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheadle",
+               "short_name" : "Cheadle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST10",
+               "short_name" : "ST10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheadle, Stoke-on-Trent, Staffordshire ST10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0214473,
+                  "lng" : -1.9400189
+               },
+               "southwest" : {
+                  "lat" : 52.9586482,
+                  "lng" : -2.0478924
+               }
+            },
+            "location" : {
+               "lat" : 52.98488400000001,
+               "lng" : -1.986503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0214473,
+                  "lng" : -1.9400189
+               },
+               "southwest" : {
+                  "lat" : 52.9586482,
+                  "lng" : -2.0478924
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

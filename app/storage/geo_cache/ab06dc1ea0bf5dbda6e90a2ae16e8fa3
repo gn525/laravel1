@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheddleton",
+               "short_name" : "Cheddleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheddleton, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.08206180000001,
+                  "lng" : -2.0259771
+               },
+               "southwest" : {
+                  "lat" : 53.0454041,
+                  "lng" : -2.056028
+               }
+            },
+            "location" : {
+               "lat" : 53.068533,
+               "lng" : -2.043669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.08206180000001,
+                  "lng" : -2.0259771
+               },
+               "southwest" : {
+                  "lat" : 53.0454041,
+                  "lng" : -2.056028
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

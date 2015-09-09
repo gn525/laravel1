@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newbridge",
+               "short_name" : "Newbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newbridge",
+               "short_name" : "Newbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH28",
+               "short_name" : "EH28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newbridge, Newbridge, City of Edinburgh EH28, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.943197,
+               "lng" : -3.411193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9494451,
+                  "lng" : -3.3951856
+               },
+               "southwest" : {
+                  "lat" : 55.9369479,
+                  "lng" : -3.4272004
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newbridge",
+               "short_name" : "Newbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newbridge, Caerphilly, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6788106,
+                  "lng" : -3.1242405
+               },
+               "southwest" : {
+                  "lat" : 51.6569266,
+                  "lng" : -3.1686658
+               }
+            },
+            "location" : {
+               "lat" : 51.665206,
+               "lng" : -3.144116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6788106,
+                  "lng" : -3.1242405
+               },
+               "southwest" : {
+                  "lat" : 51.6569266,
+                  "lng" : -3.1686658
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newbridge",
+               "short_name" : "Newbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penzance",
+               "short_name" : "Penzance",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR20",
+               "short_name" : "TR20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newbridge, Penzance, Cornwall TR20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.127972,
+               "lng" : -5.604508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1293209802915,
+                  "lng" : -5.603159019708498
+               },
+               "southwest" : {
+                  "lat" : 50.1266230197085,
+                  "lng" : -5.605856980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newbridge",
+               "short_name" : "Newbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL14",
+               "short_name" : "LL14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newbridge, Wrexham, Wrexham LL14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.967821,
+               "lng" : -3.065765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9691699802915,
+                  "lng" : -3.064416019708498
+               },
+               "southwest" : {
+                  "lat" : 52.9664720197085,
+                  "lng" : -3.067113980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newbridge on Wye",
+               "short_name" : "Newbridge on Wye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llandrindod Wells",
+               "short_name" : "Llandrindod Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD1",
+               "short_name" : "LD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newbridge on Wye, Llandrindod Wells, Powys LD1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.215687,
+               "lng" : -3.442604
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2170359802915,
+                  "lng" : -3.441255019708498
+               },
+               "southwest" : {
+                  "lat" : 52.2143380197085,
+                  "lng" : -3.443952980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newbridge",
+               "short_name" : "Newbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Witney",
+               "short_name" : "Witney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX29",
+               "short_name" : "OX29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newbridge, Witney, Oxfordshire OX29, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.710811,
+               "lng" : -1.417679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7121599802915,
+                  "lng" : -1.416330019708498
+               },
+               "southwest" : {
+                  "lat" : 51.7094620197085,
+                  "lng" : -1.419027980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

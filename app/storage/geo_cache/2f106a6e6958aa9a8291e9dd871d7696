@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kintbury",
+               "short_name" : "Kintbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kintbury, West Berkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4109895,
+                  "lng" : -1.410511
+               },
+               "southwest" : {
+                  "lat" : 51.3726507,
+                  "lng" : -1.5024754
+               }
+            },
+            "location" : {
+               "lat" : 51.396893,
+               "lng" : -1.442128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4109895,
+                  "lng" : -1.410511
+               },
+               "southwest" : {
+                  "lat" : 51.3726507,
+                  "lng" : -1.5024754
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windmill Hill",
+               "short_name" : "Windmill Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Runcorn",
+               "short_name" : "Runcorn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Halton",
+               "short_name" : "Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA7",
+               "short_name" : "WA7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windmill Hill, Runcorn, Halton WA7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3442793,
+                  "lng" : -2.6639114
+               },
+               "southwest" : {
+                  "lat" : 53.3314475,
+                  "lng" : -2.6866818
+               }
+            },
+            "location" : {
+               "lat" : 53.3374757,
+               "lng" : -2.6702891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3442793,
+                  "lng" : -2.6639114
+               },
+               "southwest" : {
+                  "lat" : 53.3314475,
+                  "lng" : -2.6866818
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

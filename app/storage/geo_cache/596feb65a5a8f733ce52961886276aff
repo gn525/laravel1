@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Attleborough Fields Ind Estate",
+               "short_name" : "Attleborough Fields Ind Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Nuneaton",
+               "short_name" : "Nuneaton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nuneaton",
+               "short_name" : "Nuneaton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV11 6GX",
+               "short_name" : "CV11 6GX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Attleborough Fields Ind Estate, Nuneaton, Warwickshire CV11 6GX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5186006,
+               "lng" : -1.4480093
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5199495802915,
+                  "lng" : -1.446660319708498
+               },
+               "southwest" : {
+                  "lat" : 52.5172516197085,
+                  "lng" : -1.449358280291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

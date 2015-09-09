@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surrey Docks Farm London",
+               "short_name" : "Surrey Docks Farm London",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Rotherhithe Street",
+               "short_name" : "Rotherhithe St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE16 5ET",
+               "short_name" : "SE16 5ET",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Surrey Docks Farm London, Rotherhithe Street, London SE16 5ET, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.50005590000001,
+                  "lng" : -0.0326294
+               },
+               "southwest" : {
+                  "lat" : 51.4993691,
+                  "lng" : -0.0342982
+               }
+            },
+            "location" : {
+               "lat" : 51.49967299999999,
+               "lng" : -0.033034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5010614802915,
+                  "lng" : -0.03211481970849796
+               },
+               "southwest" : {
+                  "lat" : 51.49836351970851,
+                  "lng" : -0.03481278029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

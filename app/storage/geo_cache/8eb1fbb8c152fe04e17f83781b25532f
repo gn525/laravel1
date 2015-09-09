@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cairndow",
+               "short_name" : "Cairndow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cairndow",
+               "short_name" : "Cairndow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA26",
+               "short_name" : "PA26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cairndow, Cairndow, Argyll and Bute PA26, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.255885,
+               "lng" : -4.937012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2620826,
+                  "lng" : -4.9210046
+               },
+               "southwest" : {
+                  "lat" : 56.24968639999999,
+                  "lng" : -4.9530194
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

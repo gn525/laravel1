@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hatfield Peverel",
+               "short_name" : "Hatfield Peverel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelmsford",
+               "short_name" : "Chelmsford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM3",
+               "short_name" : "CM3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hatfield Peverel, Chelmsford, Essex CM3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7815017,
+                  "lng" : 0.616497
+               },
+               "southwest" : {
+                  "lat" : 51.7683986,
+                  "lng" : 0.5839457
+               }
+            },
+            "location" : {
+               "lat" : 51.775127,
+               "lng" : 0.5930099999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7815017,
+                  "lng" : 0.616497
+               },
+               "southwest" : {
+                  "lat" : 51.7683986,
+                  "lng" : 0.5839457
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

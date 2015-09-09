@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HP13",
+               "short_name" : "HP13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "High Wycombe",
+               "short_name" : "High Wycombe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "High Wycombe, Buckinghamshire HP13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6585618,
+                  "lng" : -0.6955127999999999
+               },
+               "southwest" : {
+                  "lat" : 51.61317750000001,
+                  "lng" : -0.7898569
+               }
+            },
+            "location" : {
+               "lat" : 51.6337535,
+               "lng" : -0.7299337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6585618,
+                  "lng" : -0.6955127999999999
+               },
+               "southwest" : {
+                  "lat" : 51.61317750000001,
+                  "lng" : -0.7898569
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

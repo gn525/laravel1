@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tisbury",
+               "short_name" : "Tisbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tisbury, Wiltshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0897994,
+                  "lng" : -2.0420673
+               },
+               "southwest" : {
+                  "lat" : 51.035658,
+                  "lng" : -2.1132395
+               }
+            },
+            "location" : {
+               "lat" : 51.063138,
+               "lng" : -2.079703
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0897994,
+                  "lng" : -2.0420673
+               },
+               "southwest" : {
+                  "lat" : 51.035658,
+                  "lng" : -2.1132395
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

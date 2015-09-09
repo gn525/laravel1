@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyde Park",
+               "short_name" : "Hyde Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hyde Park, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.513085,
+                  "lng" : -0.1519136
+               },
+               "southwest" : {
+                  "lat" : 51.5021755,
+                  "lng" : -0.1746995
+               }
+            },
+            "location" : {
+               "lat" : 51.5072682,
+               "lng" : -0.1657303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.513085,
+                  "lng" : -0.1519136
+               },
+               "southwest" : {
+                  "lat" : 51.5021755,
+                  "lng" : -0.1746995
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

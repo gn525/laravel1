@@ -1,0 +1,377 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloomsbury Free Library",
+               "short_name" : "Bloomsbury Free Library",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B7",
+               "short_name" : "B7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bloomsbury Free Library, Birmingham, Birmingham, West Midlands B7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4924023,
+               "lng" : -1.8716514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.49375128029151,
+                  "lng" : -1.870302419708498
+               },
+               "southwest" : {
+                  "lat" : 52.49105331970851,
+                  "lng" : -1.873000380291502
+               }
+            }
+         },
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloomsbury",
+               "short_name" : "Bloomsbury",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU1",
+               "short_name" : "GU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bloomsbury, Guildford, Guildford, Surrey GU1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2488059,
+                  "lng" : -0.5787555999999999
+               },
+               "southwest" : {
+                  "lat" : 51.2487691,
+                  "lng" : -0.5788122
+               }
+            },
+            "location" : {
+               "lat" : 51.24879259999999,
+               "lng" : -0.5787827999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.25013648029149,
+                  "lng" : -0.5774349197084979
+               },
+               "southwest" : {
+                  "lat" : 51.2474385197085,
+                  "lng" : -0.580132880291502
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloomsbury House",
+               "short_name" : "Bloomsbury House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Melton Road",
+               "short_name" : "Melton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Langton",
+               "short_name" : "East Langton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Market Harborough",
+               "short_name" : "Market Harborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE16 7TH",
+               "short_name" : "LE16 7TH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bloomsbury House, Melton Road, East Langton, Market Harborough, Leicestershire LE16 7TH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5180787,
+               "lng" : -0.9396409
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.51942768029149,
+                  "lng" : -0.9382919197084979
+               },
+               "southwest" : {
+                  "lat" : 52.51672971970849,
+                  "lng" : -0.940989880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloomsbury Way",
+               "short_name" : "Bloomsbury Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1A 2SA",
+               "short_name" : "WC1A 2SA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bloomsbury Way, London WC1A 2SA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5186497,
+                  "lng" : -0.12179
+               },
+               "southwest" : {
+                  "lat" : 51.5172396,
+                  "lng" : -0.1252117
+               }
+            },
+            "location" : {
+               "lat" : 51.5178387,
+               "lng" : -0.1236966
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5192936302915,
+                  "lng" : -0.12179
+               },
+               "southwest" : {
+                  "lat" : 51.5165956697085,
+                  "lng" : -0.1252117
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloomsbury Street",
+               "short_name" : "Bloomsbury St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1B 3QJ",
+               "short_name" : "WC1B 3QJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bloomsbury Street, London WC1B 3QJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.52325219999999,
+                  "lng" : -0.126877
+               },
+               "southwest" : {
+                  "lat" : 51.5169151,
+                  "lng" : -0.1290073
+               }
+            },
+            "location" : {
+               "lat" : 51.51889,
+               "lng" : -0.1287733
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52325219999999,
+                  "lng" : -0.126593169708498
+               },
+               "southwest" : {
+                  "lat" : 51.5169151,
+                  "lng" : -0.129291130291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloomsbury Cottage",
+               "short_name" : "Bloomsbury Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "The Balk",
+               "short_name" : "The Balk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pocklington",
+               "short_name" : "Pocklington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Riding of Yorkshire",
+               "short_name" : "East Riding of Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO42 2QQ",
+               "short_name" : "YO42 2QQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bloomsbury Cottage, The Balk, Pocklington, York, East Riding of Yorkshire YO42 2QQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9284566,
+               "lng" : -0.7768724
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9298055802915,
+                  "lng" : -0.7755234197084979
+               },
+               "southwest" : {
+                  "lat" : 53.9271076197085,
+                  "lng" : -0.778221380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

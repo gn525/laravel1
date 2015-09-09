@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chartham",
+               "short_name" : "Chartham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT4",
+               "short_name" : "CT4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chartham, Canterbury, Kent CT4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2650017,
+                  "lng" : 1.0663933
+               },
+               "southwest" : {
+                  "lat" : 51.2283615,
+                  "lng" : 0.9861441000000001
+               }
+            },
+            "location" : {
+               "lat" : 51.254943,
+               "lng" : 1.020534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2650017,
+                  "lng" : 1.0663933
+               },
+               "southwest" : {
+                  "lat" : 51.2283615,
+                  "lng" : 0.9861441000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridge Cottage",
+               "short_name" : "Bridge Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Long Street",
+               "short_name" : "Long St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Topcliffe",
+               "short_name" : "Topcliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thirsk",
+               "short_name" : "Thirsk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO7 3PB",
+               "short_name" : "YO7 3PB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bridge Cottage, Long Street, Topcliffe, Thirsk, North Yorkshire YO7 3PB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.1778797,
+               "lng" : -1.3901261
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.17922868029149,
+                  "lng" : -1.388777119708498
+               },
+               "southwest" : {
+                  "lat" : 54.1765307197085,
+                  "lng" : -1.391475080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

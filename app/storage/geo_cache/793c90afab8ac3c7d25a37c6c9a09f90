@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4553026,
+                  "lng" : -1.7574089
+               },
+               "southwest" : {
+                  "lat" : 51.9665565,
+                  "lng" : -2.6632102
+               }
+            },
+            "location" : {
+               "lat" : 52.2545225,
+               "lng" : -2.2668382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4553026,
+                  "lng" : -1.7574089
+               },
+               "southwest" : {
+                  "lat" : 51.9665565,
+                  "lng" : -2.6632102
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

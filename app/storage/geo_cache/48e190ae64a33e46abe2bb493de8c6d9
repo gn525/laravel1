@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE9",
+               "short_name" : "PE9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stamford, Stamford, Lincolnshire PE9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6672263,
+                  "lng" : -0.4479905
+               },
+               "southwest" : {
+                  "lat" : 52.6362368,
+                  "lng" : -0.5200537
+               }
+            },
+            "location" : {
+               "lat" : 52.65128199999999,
+               "lng" : -0.4802159999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6672263,
+                  "lng" : -0.4479905
+               },
+               "southwest" : {
+                  "lat" : 52.6362368,
+                  "lng" : -0.5200537
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

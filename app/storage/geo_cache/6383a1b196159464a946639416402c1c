@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haddington",
+               "short_name" : "Haddington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haddington",
+               "short_name" : "Haddington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Lothian",
+               "short_name" : "East Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH41",
+               "short_name" : "EH41",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haddington, Haddington, East Lothian EH41, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9633584,
+                  "lng" : -2.7566751
+               },
+               "southwest" : {
+                  "lat" : 55.9470505,
+                  "lng" : -2.8120325
+               }
+            },
+            "location" : {
+               "lat" : 55.95867399999999,
+               "lng" : -2.774864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9633584,
+                  "lng" : -2.7566751
+               },
+               "southwest" : {
+                  "lat" : 55.9470505,
+                  "lng" : -2.8120325
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haddington",
+               "short_name" : "Haddington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN5",
+               "short_name" : "LN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haddington, Lincoln, Lincolnshire LN5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1540899,
+               "lng" : -0.6366999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.15543888029149,
+                  "lng" : -0.6353510197084979
+               },
+               "southwest" : {
+                  "lat" : 53.15274091970849,
+                  "lng" : -0.638048980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

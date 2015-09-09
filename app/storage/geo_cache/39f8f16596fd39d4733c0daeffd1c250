@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Benfleet",
+               "short_name" : "Benfleet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS7",
+               "short_name" : "SS7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Benfleet SS7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5861116,
+                  "lng" : 0.6337516999999999
+               },
+               "southwest" : {
+                  "lat" : 51.53185509999999,
+                  "lng" : 0.5280168
+               }
+            },
+            "location" : {
+               "lat" : 51.56616709999999,
+               "lng" : 0.5792811999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5861116,
+                  "lng" : 0.6337516999999999
+               },
+               "southwest" : {
+                  "lat" : 51.53185509999999,
+                  "lng" : 0.5280168
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

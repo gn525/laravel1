@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isle of Man",
+               "short_name" : "Isle of Man",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramsgreave",
+               "short_name" : "Ramsgreave",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blackburn",
+               "short_name" : "Blackburn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BB1 9BW",
+               "short_name" : "BB1 9BW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isle of Man, Ramsgreave, Blackburn, Lancashire BB1 9BW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.780245,
+                  "lng" : -2.4831273
+               },
+               "southwest" : {
+                  "lat" : 53.7788751,
+                  "lng" : -2.4837473
+               }
+            },
+            "location" : {
+               "lat" : 53.780245,
+               "lng" : -2.4837258
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7809090302915,
+                  "lng" : -2.482088319708498
+               },
+               "southwest" : {
+                  "lat" : 53.7782110697085,
+                  "lng" : -2.484786280291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

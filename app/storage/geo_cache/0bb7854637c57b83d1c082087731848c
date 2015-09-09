@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brize Norton",
+               "short_name" : "Brize Norton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carterton",
+               "short_name" : "Carterton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX18",
+               "short_name" : "OX18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brize Norton, Carterton, Oxfordshire OX18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7788804,
+                  "lng" : -1.5601691
+               },
+               "southwest" : {
+                  "lat" : 51.7581535,
+                  "lng" : -1.5941208
+               }
+            },
+            "location" : {
+               "lat" : 51.767658,
+               "lng" : -1.566767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7788804,
+                  "lng" : -1.5601691
+               },
+               "southwest" : {
+                  "lat" : 51.7581535,
+                  "lng" : -1.5941208
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

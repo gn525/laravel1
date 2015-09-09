@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swadlincote",
+               "short_name" : "Swadlincote",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swadlincote",
+               "short_name" : "Swadlincote",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE11",
+               "short_name" : "DE11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swadlincote, Swadlincote, Derbyshire DE11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.78352109999999,
+                  "lng" : -1.5390095
+               },
+               "southwest" : {
+                  "lat" : 52.7646835,
+                  "lng" : -1.5897587
+               }
+            },
+            "location" : {
+               "lat" : 52.771318,
+               "lng" : -1.554997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.78352109999999,
+                  "lng" : -1.5390095
+               },
+               "southwest" : {
+                  "lat" : 52.7646835,
+                  "lng" : -1.5897587
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

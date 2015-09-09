@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PE20",
+               "short_name" : "PE20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boston PE20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0470389,
+                  "lng" : 0.077819
+               },
+               "southwest" : {
+                  "lat" : 52.86692189999999,
+                  "lng" : -0.2466091
+               }
+            },
+            "location" : {
+               "lat" : 52.9384361,
+               "lng" : -0.1236279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0470389,
+                  "lng" : 0.077819
+               },
+               "southwest" : {
+                  "lat" : 52.86692189999999,
+                  "lng" : -0.2466091
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

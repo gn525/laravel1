@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GL5",
+               "short_name" : "GL5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Stroud",
+               "short_name" : "Stroud",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stroud, Gloucestershire GL5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7578658,
+                  "lng" : -2.1691548
+               },
+               "southwest" : {
+                  "lat" : 51.701346,
+                  "lng" : -2.2721281
+               }
+            },
+            "location" : {
+               "lat" : 51.73600219999999,
+               "lng" : -2.23729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7578658,
+                  "lng" : -2.1691548
+               },
+               "southwest" : {
+                  "lat" : 51.701346,
+                  "lng" : -2.2721281
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stroud",
+               "short_name" : "Stroud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stroud, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.76052,
+                  "lng" : -2.1827343
+               },
+               "southwest" : {
+                  "lat" : 51.7239782,
+                  "lng" : -2.2637751
+               }
+            },
+            "location" : {
+               "lat" : 51.745734,
+               "lng" : -2.217758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76052,
+                  "lng" : -2.1827343
+               },
+               "southwest" : {
+                  "lat" : 51.7239782,
+                  "lng" : -2.2637751
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

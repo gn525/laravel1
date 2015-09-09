@@ -1,0 +1,338 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingswood",
+               "short_name" : "Kingswood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingswood, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6371726,
+                  "lng" : -2.3509435
+               },
+               "southwest" : {
+                  "lat" : 51.5964219,
+                  "lng" : -2.4005612
+               }
+            },
+            "location" : {
+               "lat" : 51.626435,
+               "lng" : -2.368647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6371726,
+                  "lng" : -2.3509435
+               },
+               "southwest" : {
+                  "lat" : 51.5964219,
+                  "lng" : -2.4005612
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingswood",
+               "short_name" : "Kingswood",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Gloucestershire",
+               "short_name" : "South Gloucestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS15",
+               "short_name" : "BS15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kingswood, Bristol, Bristol, South Gloucestershire BS15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.46167699999999,
+               "lng" : -2.502351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.46302598029149,
+                  "lng" : -2.501002019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4603280197085,
+                  "lng" : -2.503699980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingswood",
+               "short_name" : "Kingswood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maidstone",
+               "short_name" : "Maidstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME17",
+               "short_name" : "ME17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kingswood, Maidstone, Kent ME17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.23206,
+                  "lng" : 0.6477143000000001
+               },
+               "southwest" : {
+                  "lat" : 51.2230395,
+                  "lng" : 0.6217262
+               }
+            },
+            "location" : {
+               "lat" : 51.22661600000001,
+               "lng" : 0.629228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.23206,
+                  "lng" : 0.6477143000000001
+               },
+               "southwest" : {
+                  "lat" : 51.2230395,
+                  "lng" : 0.6217262
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingswood",
+               "short_name" : "Kingswood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aylesbury",
+               "short_name" : "Aylesbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP18",
+               "short_name" : "HP18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kingswood, Aylesbury, Buckinghamshire HP18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.865158,
+               "lng" : -0.995619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8665069802915,
+                  "lng" : -0.9942700197084979
+               },
+               "southwest" : {
+                  "lat" : 51.8638090197085,
+                  "lng" : -0.996967980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingswood",
+               "short_name" : "Kingswood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kington",
+               "short_name" : "Kington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR5",
+               "short_name" : "HR5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kingswood, Kington, Herefordshire HR5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.182933,
+               "lng" : -3.033268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1842819802915,
+                  "lng" : -3.031919019708498
+               },
+               "southwest" : {
+                  "lat" : 52.1815840197085,
+                  "lng" : -3.034616980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingswood",
+               "short_name" : "Kingswood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Welshpool",
+               "short_name" : "Welshpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY21",
+               "short_name" : "SY21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kingswood, Welshpool, Powys SY21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.615408,
+               "lng" : -3.127587
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.61675698029149,
+                  "lng" : -3.126238019708498
+               },
+               "southwest" : {
+                  "lat" : 52.61405901970849,
+                  "lng" : -3.128935980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "City of Westminster",
+               "short_name" : "City of Westminster",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "City of Westminster, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5397932,
+                  "lng" : -0.1111016
+               },
+               "southwest" : {
+                  "lat" : 51.4838163,
+                  "lng" : -0.2160886
+               }
+            },
+            "location" : {
+               "lat" : 51.5001754,
+               "lng" : -0.1332326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5397932,
+                  "lng" : -0.1111016
+               },
+               "southwest" : {
+                  "lat" : 51.4838163,
+                  "lng" : -0.2160886
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

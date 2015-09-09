@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jeddah Way",
+               "short_name" : "Jeddah Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kennett",
+               "short_name" : "Kennett",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newmarket",
+               "short_name" : "Newmarket",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB8 7PN",
+               "short_name" : "CB8 7PN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jeddah Way, Kennett, Newmarket, Suffolk CB8 7PN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2709944,
+                  "lng" : 0.4902005
+               },
+               "southwest" : {
+                  "lat" : 52.2681836,
+                  "lng" : 0.4888412
+               }
+            },
+            "location" : {
+               "lat" : 52.269572,
+               "lng" : 0.4894477
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2709944,
+                  "lng" : 0.4908698302915021
+               },
+               "southwest" : {
+                  "lat" : 52.2681836,
+                  "lng" : 0.488171869708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

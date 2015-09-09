@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cwmbran",
+               "short_name" : "Cwmbran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cwmbran",
+               "short_name" : "Cwmbran",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Torfaen",
+               "short_name" : "Torfaen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP44",
+               "short_name" : "NP44",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cwmbran, Cwmbran, Torfaen NP44, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6705869,
+                  "lng" : -2.9919099
+               },
+               "southwest" : {
+                  "lat" : 51.6325625,
+                  "lng" : -3.0673076
+               }
+            },
+            "location" : {
+               "lat" : 51.653,
+               "lng" : -3.021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6705869,
+                  "lng" : -2.9919099
+               },
+               "southwest" : {
+                  "lat" : 51.6325625,
+                  "lng" : -3.0673076
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

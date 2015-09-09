@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lichfield",
+               "short_name" : "Lichfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lichfield",
+               "short_name" : "Lichfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lichfield, Lichfield, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7032567,
+                  "lng" : -1.7877096
+               },
+               "southwest" : {
+                  "lat" : 52.6579063,
+                  "lng" : -1.8652339
+               }
+            },
+            "location" : {
+               "lat" : 52.681602,
+               "lng" : -1.831672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7032567,
+                  "lng" : -1.7877096
+               },
+               "southwest" : {
+                  "lat" : 52.6579063,
+                  "lng" : -1.8652339
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ripley",
+               "short_name" : "Ripley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ripley, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0629807,
+                  "lng" : -1.3791119
+               },
+               "southwest" : {
+                  "lat" : 53.0272928,
+                  "lng" : -1.4270786
+               }
+            },
+            "location" : {
+               "lat" : 53.05281900000001,
+               "lng" : -1.405792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0629807,
+                  "lng" : -1.3791119
+               },
+               "southwest" : {
+                  "lat" : 53.0272928,
+                  "lng" : -1.4270786
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ripley",
+               "short_name" : "Ripley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ripley, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3131372,
+                  "lng" : -0.4633966
+               },
+               "southwest" : {
+                  "lat" : 51.2705461,
+                  "lng" : -0.5244415
+               }
+            },
+            "location" : {
+               "lat" : 51.300173,
+               "lng" : -0.49327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3131372,
+                  "lng" : -0.4633966
+               },
+               "southwest" : {
+                  "lat" : 51.2705461,
+                  "lng" : -0.5244415
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ripley",
+               "short_name" : "Ripley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrogate",
+               "short_name" : "Harrogate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HG3",
+               "short_name" : "HG3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ripley, Harrogate, North Yorkshire HG3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.04274419999999,
+                  "lng" : -1.5645197
+               },
+               "southwest" : {
+                  "lat" : 54.0359807,
+                  "lng" : -1.5720428
+               }
+            },
+            "location" : {
+               "lat" : 54.041,
+               "lng" : -1.568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.04274419999999,
+                  "lng" : -1.5645197
+               },
+               "southwest" : {
+                  "lat" : 54.0359807,
+                  "lng" : -1.5720428
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ripley",
+               "short_name" : "Ripley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH23",
+               "short_name" : "BH23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ripley, Christchurch, Hampshire BH23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.790299,
+               "lng" : -1.770726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.79164798029151,
+                  "lng" : -1.769377019708498
+               },
+               "southwest" : {
+                  "lat" : 50.78895001970851,
+                  "lng" : -1.772074980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

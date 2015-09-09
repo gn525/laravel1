@@ -1,0 +1,242 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clapham Common",
+               "short_name" : "Clapham Common",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW4",
+               "short_name" : "SW4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clapham Common, London SW4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.46174,
+               "lng" : -0.13829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4630889802915,
+                  "lng" : -0.136941019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4603910197085,
+                  "lng" : -0.139638980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clapham Common",
+               "short_name" : "Clapham Common",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW4 9DE",
+               "short_name" : "SW4 9DE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clapham Common, London SW4 9DE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4634027,
+                  "lng" : -0.1377798
+               },
+               "southwest" : {
+                  "lat" : 51.4528869,
+                  "lng" : -0.1618613
+               }
+            },
+            "location" : {
+               "lat" : 51.4578309,
+               "lng" : -0.1481652
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4634027,
+                  "lng" : -0.1377798
+               },
+               "southwest" : {
+                  "lat" : 51.4528869,
+                  "lng" : -0.1618613
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clapham Common",
+               "short_name" : "Clapham Common",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clapham",
+               "short_name" : "Clapham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worthing",
+               "short_name" : "Worthing",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN13 3UR",
+               "short_name" : "BN13 3UR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clapham Common, Clapham, Worthing, West Sussex BN13 3UR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8415063,
+                  "lng" : -0.4492350999999999
+               },
+               "southwest" : {
+                  "lat" : 50.8408361,
+                  "lng" : -0.4513923
+               }
+            },
+            "location" : {
+               "lat" : 50.84113970000001,
+               "lng" : -0.4504323
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8425201802915,
+                  "lng" : -0.4489647197084979
+               },
+               "southwest" : {
+                  "lat" : 50.8398222197085,
+                  "lng" : -0.451662680291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clapham Common",
+               "short_name" : "Clapham Common",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bellevue Road",
+               "short_name" : "Bellevue Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW17 7EG",
+               "short_name" : "SW17 7EG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clapham Common, Bellevue Road, London SW17 7EG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4455854,
+               "lng" : -0.1659859
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4469343802915,
+                  "lng" : -0.164636919708498
+               },
+               "southwest" : {
+                  "lat" : 51.4442364197085,
+                  "lng" : -0.167334880291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

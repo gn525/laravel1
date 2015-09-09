@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Dunmow",
+               "short_name" : "Great Dunmow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunmow",
+               "short_name" : "Dunmow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM6",
+               "short_name" : "CM6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Great Dunmow, Dunmow, Essex CM6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.872924,
+               "lng" : 0.361707
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8798125,
+                  "lng" : 0.3777144
+               },
+               "southwest" : {
+                  "lat" : 51.8660344,
+                  "lng" : 0.3456996
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llangunnor",
+               "short_name" : "Llangunnor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carmarthen",
+               "short_name" : "Carmarthen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA31",
+               "short_name" : "SA31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llangunnor, Carmarthen, Carmarthenshire SA31, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.858005,
+               "lng" : -4.282524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8648958,
+                  "lng" : -4.2665166
+               },
+               "southwest" : {
+                  "lat" : 51.8511132,
+                  "lng" : -4.2985314
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

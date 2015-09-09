@@ -1,0 +1,256 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prague Bungalow",
+               "short_name" : "Prague Bungalow",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Sutherland Grove",
+               "short_name" : "Sutherland Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shotton Colliery",
+               "short_name" : "Shotton Colliery",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DH6 2YF",
+               "short_name" : "DH6 2YF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prague Bungalow, Sutherland Grove, Shotton Colliery, Durham, County Durham DH6 2YF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.7637683,
+               "lng" : -1.3939103
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7651172802915,
+                  "lng" : -1.392561319708498
+               },
+               "southwest" : {
+                  "lat" : 54.7624193197085,
+                  "lng" : -1.395259280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prague House",
+               "short_name" : "Prague House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF10 5NS",
+               "short_name" : "CF10 5NS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prague House, Cardiff, Cardiff CF10 5NS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4679576,
+                  "lng" : -3.1730773
+               },
+               "southwest" : {
+                  "lat" : 51.4677053,
+                  "lng" : -3.1736916
+               }
+            },
+            "location" : {
+               "lat" : 51.467855,
+               "lng" : -3.1734298
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4691804302915,
+                  "lng" : -3.172035469708498
+               },
+               "southwest" : {
+                  "lat" : 51.4664824697085,
+                  "lng" : -3.174733430291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prague Place",
+               "short_name" : "Prague Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brixton",
+               "short_name" : "Brixton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW2 5ED",
+               "short_name" : "SW2 5ED",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prague Place, Brixton, London SW2 5ED, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4556578,
+                  "lng" : -0.1258472
+               },
+               "southwest" : {
+                  "lat" : 51.4551054,
+                  "lng" : -0.1279738
+               }
+            },
+            "location" : {
+               "lat" : 51.4553724,
+               "lng" : -0.1269235
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4567305802915,
+                  "lng" : -0.125561519708498
+               },
+               "southwest" : {
+                  "lat" : 51.4540326197085,
+                  "lng" : -0.128259480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prague Place",
+               "short_name" : "Prague Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW2",
+               "short_name" : "SW2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prague Place, London SW2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4553933,
+               "lng" : -0.1278703
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4567422802915,
+                  "lng" : -0.126521319708498
+               },
+               "southwest" : {
+                  "lat" : 51.4540443197085,
+                  "lng" : -0.129219280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

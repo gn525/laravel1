@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North East Lincolnshire",
+               "short_name" : "North East Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North East Lincolnshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6401915,
+                  "lng" : 0.0303056
+               },
+               "southwest" : {
+                  "lat" : 53.4335754,
+                  "lng" : -0.2921103
+               }
+            },
+            "location" : {
+               "lat" : 53.5418558,
+               "lng" : -0.1263736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6401915,
+                  "lng" : 0.0303056
+               },
+               "southwest" : {
+                  "lat" : 53.4335754,
+                  "lng" : -0.2921103
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

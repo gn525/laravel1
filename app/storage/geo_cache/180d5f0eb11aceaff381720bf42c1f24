@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swanscombe",
+               "short_name" : "Swanscombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swanscombe",
+               "short_name" : "Swanscombe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DA10",
+               "short_name" : "DA10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swanscombe, Swanscombe, Kent DA10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4454097,
+               "lng" : 0.3054348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4523635,
+                  "lng" : 0.3214422
+               },
+               "southwest" : {
+                  "lat" : 51.4384548,
+                  "lng" : 0.2894274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

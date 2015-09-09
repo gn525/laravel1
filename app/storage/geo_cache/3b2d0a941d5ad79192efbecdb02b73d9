@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lostock",
+               "short_name" : "Lostock",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lostock, Bolton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.58798239999999,
+                  "lng" : -2.4823657
+               },
+               "southwest" : {
+                  "lat" : 53.5577147,
+                  "lng" : -2.5456287
+               }
+            },
+            "location" : {
+               "lat" : 53.571292,
+               "lng" : -2.497125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58798239999999,
+                  "lng" : -2.4823657
+               },
+               "southwest" : {
+                  "lat" : 53.5577147,
+                  "lng" : -2.5456287
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olympia",
+               "short_name" : "Olympia",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W14",
+               "short_name" : "W14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Olympia, London W14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4975268,
+                  "lng" : -0.2087841
+               },
+               "southwest" : {
+                  "lat" : 51.4952878,
+                  "lng" : -0.212408
+               }
+            },
+            "location" : {
+               "lat" : 51.4960948,
+               "lng" : -0.211094
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4977562802915,
+                  "lng" : -0.2087841
+               },
+               "southwest" : {
+                  "lat" : 51.4950583197085,
+                  "lng" : -0.212408
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hemswell Cliff",
+               "short_name" : "Hemswell Cliff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gainsborough",
+               "short_name" : "Gainsborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN21",
+               "short_name" : "DN21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hemswell Cliff, Gainsborough, Lincolnshire DN21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.39588,
+               "lng" : -0.5702619999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4025328,
+                  "lng" : -0.5542545999999999
+               },
+               "southwest" : {
+                  "lat" : 53.3892262,
+                  "lng" : -0.5862693999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

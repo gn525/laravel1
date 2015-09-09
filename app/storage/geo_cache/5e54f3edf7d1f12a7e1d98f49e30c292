@@ -1,0 +1,855 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LX",
+               "short_name" : "GL51 8LX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, Cheltenham, Gloucestershire GL51 8LX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.9057899,
+               "lng" : -2.0925742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90713888029151,
+                  "lng" : -2.091225219708498
+               },
+               "southwest" : {
+                  "lat" : 51.90444091970851,
+                  "lng" : -2.093923180291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alstone (Cheltenham), opp Cheltenham Trade Park",
+               "short_name" : "Alstone (Cheltenham), opp Cheltenham Trade Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51",
+               "short_name" : "GL51",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alstone (Cheltenham), opp Cheltenham Trade Park, Cheltenham, Cheltenham, Gloucestershire GL51, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90506,
+               "lng" : -2.095226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90640898029149,
+                  "lng" : -2.093877019708498
+               },
+               "southwest" : {
+                  "lat" : 51.9037110197085,
+                  "lng" : -2.096574980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "23-24",
+               "short_name" : "23-24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enterprise Way",
+               "short_name" : "Enterprise Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LZ",
+               "short_name" : "GL51 8LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 23-24 Enterprise Way, Cheltenham, Gloucestershire GL51 8LZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90605799999999,
+               "lng" : -2.0945371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90740698029149,
+                  "lng" : -2.093188119708498
+               },
+               "southwest" : {
+                  "lat" : 51.9047090197085,
+                  "lng" : -2.095886080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "26-27",
+               "short_name" : "26-27",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enterprise Way",
+               "short_name" : "Enterprise Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LZ",
+               "short_name" : "GL51 8LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 26-27 Enterprise Way, Cheltenham, Gloucestershire GL51 8LZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90605799999999,
+               "lng" : -2.0945371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90740698029149,
+                  "lng" : -2.093188119708498
+               },
+               "southwest" : {
+                  "lat" : 51.9047090197085,
+                  "lng" : -2.095886080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enterprise Way",
+               "short_name" : "Enterprise Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LZ",
+               "short_name" : "GL51 8LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 17 Enterprise Way, Cheltenham, Gloucestershire GL51 8LZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90605799999999,
+               "lng" : -2.0945371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90740698029149,
+                  "lng" : -2.093188119708498
+               },
+               "southwest" : {
+                  "lat" : 51.9047090197085,
+                  "lng" : -2.095886080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enterprise Way",
+               "short_name" : "Enterprise Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LZ",
+               "short_name" : "GL51 8LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 5 Enterprise Way, Cheltenham, Gloucestershire GL51 8LZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90605799999999,
+               "lng" : -2.0945371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90740698029149,
+                  "lng" : -2.093188119708498
+               },
+               "southwest" : {
+                  "lat" : 51.9047090197085,
+                  "lng" : -2.095886080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "11-12",
+               "short_name" : "11-12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enterprise Way",
+               "short_name" : "Enterprise Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LZ",
+               "short_name" : "GL51 8LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 11-12 Enterprise Way, Cheltenham, Gloucestershire GL51 8LZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90605799999999,
+               "lng" : -2.0945371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90740698029149,
+                  "lng" : -2.093188119708498
+               },
+               "southwest" : {
+                  "lat" : 51.9047090197085,
+                  "lng" : -2.095886080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enterprise Way",
+               "short_name" : "Enterprise Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LZ",
+               "short_name" : "GL51 8LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 16 Enterprise Way, Cheltenham, Gloucestershire GL51 8LZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90605799999999,
+               "lng" : -2.0945371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90740698029149,
+                  "lng" : -2.093188119708498
+               },
+               "southwest" : {
+                  "lat" : 51.9047090197085,
+                  "lng" : -2.095886080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Enterprise Way",
+               "short_name" : "Enterprise Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LZ",
+               "short_name" : "GL51 8LZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 13 Enterprise Way, Cheltenham, Gloucestershire GL51 8LZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90605799999999,
+               "lng" : -2.0945371
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90740698029149,
+                  "lng" : -2.093188119708498
+               },
+               "southwest" : {
+                  "lat" : 51.9047090197085,
+                  "lng" : -2.095886080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "32-33",
+               "short_name" : "32-33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Central Way",
+               "short_name" : "Central Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LX",
+               "short_name" : "GL51 8LX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 32-33 Central Way, Cheltenham, Gloucestershire GL51 8LX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.9057899,
+               "lng" : -2.0925742
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90713888029151,
+                  "lng" : -2.091225219708498
+               },
+               "southwest" : {
+                  "lat" : 51.90444091970851,
+                  "lng" : -2.093923180291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Central Way",
+               "short_name" : "Central Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LX",
+               "short_name" : "GL51 8LX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 41 Central Way, Cheltenham, Gloucestershire GL51 8LX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90559220000001,
+               "lng" : -2.0922161
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90694118029151,
+                  "lng" : -2.090867119708498
+               },
+               "southwest" : {
+                  "lat" : 51.90424321970851,
+                  "lng" : -2.093565080291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Central Way",
+               "short_name" : "Central Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LX",
+               "short_name" : "GL51 8LX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park, 43 Central Way, Cheltenham, Gloucestershire GL51 8LX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.9057899,
+               "lng" : -2.0925742
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90713888029151,
+                  "lng" : -2.091225219708498
+               },
+               "southwest" : {
+                  "lat" : 51.90444091970851,
+                  "lng" : -2.093923180291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alstone (Cheltenham), Cheltenham Trade Park (SE-bound)",
+               "short_name" : "Alstone (Cheltenham), Cheltenham Trade Park (SE-bound)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51",
+               "short_name" : "GL51",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alstone (Cheltenham), Cheltenham Trade Park (SE-bound), Cheltenham, Cheltenham, Gloucestershire GL51, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90501399999999,
+               "lng" : -2.094906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90636298029149,
+                  "lng" : -2.093557019708499
+               },
+               "southwest" : {
+                  "lat" : 51.9036650197085,
+                  "lng" : -2.096254980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheltenham Trade Park Central Way",
+               "short_name" : "Cheltenham Trade Park Central Way",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cheltenham Trade Park",
+               "short_name" : "Cheltenham Trade Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL51 8LX",
+               "short_name" : "GL51 8LX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham Trade Park Central Way, Cheltenham Trade Park, Cheltenham, Gloucestershire GL51 8LX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.9057899,
+               "lng" : -2.0925742
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.90713888029151,
+                  "lng" : -2.091225219708498
+               },
+               "southwest" : {
+                  "lat" : 51.90444091970851,
+                  "lng" : -2.093923180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

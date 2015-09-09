@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nostell",
+               "short_name" : "Nostell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wakefield",
+               "short_name" : "Wakefield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WF4",
+               "short_name" : "WF4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nostell, Wakefield, West Yorkshire WF4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6460477,
+               "lng" : -1.3941341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6526613,
+                  "lng" : -1.3781267
+               },
+               "southwest" : {
+                  "lat" : 53.639433,
+                  "lng" : -1.4101415
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnard Castle",
+               "short_name" : "Barnard Castle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnard Castle",
+               "short_name" : "Barnard Castle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL12",
+               "short_name" : "DL12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barnard Castle, Barnard Castle, County Durham DL12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5572495,
+                  "lng" : -1.8993901
+               },
+               "southwest" : {
+                  "lat" : 54.53404889999999,
+                  "lng" : -1.9431331
+               }
+            },
+            "location" : {
+               "lat" : 54.545284,
+               "lng" : -1.923741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5572495,
+                  "lng" : -1.8993901
+               },
+               "southwest" : {
+                  "lat" : 54.53404889999999,
+                  "lng" : -1.9431331
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

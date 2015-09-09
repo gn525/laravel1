@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Blvd Blythe Valley Park",
+               "short_name" : "Central Blvd Blythe Valley Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shirley",
+               "short_name" : "Shirley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solihull",
+               "short_name" : "Solihull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B90 9ZZ",
+               "short_name" : "B90 9ZZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Blvd Blythe Valley Park, Shirley, Solihull, West Midlands B90 9ZZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4081033,
+               "lng" : -1.8259501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4094522802915,
+                  "lng" : -1.824601119708498
+               },
+               "southwest" : {
+                  "lat" : 52.4067543197085,
+                  "lng" : -1.827299080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

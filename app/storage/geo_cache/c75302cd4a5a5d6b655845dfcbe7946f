@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midhurst",
+               "short_name" : "Midhurst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Midhurst",
+               "short_name" : "Midhurst",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU29",
+               "short_name" : "GU29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Midhurst, Midhurst, West Sussex GU29, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9932684,
+                  "lng" : -0.7293185999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9702671,
+                  "lng" : -0.7577292999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.9868979,
+               "lng" : -0.737274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9932684,
+                  "lng" : -0.7293185999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9702671,
+                  "lng" : -0.7577292999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

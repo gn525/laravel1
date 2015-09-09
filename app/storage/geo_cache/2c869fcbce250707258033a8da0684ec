@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liskeard",
+               "short_name" : "Liskeard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liskeard",
+               "short_name" : "Liskeard",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL14",
+               "short_name" : "PL14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Liskeard, Liskeard, Cornwall PL14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4665538,
+                  "lng" : -4.442989
+               },
+               "southwest" : {
+                  "lat" : 50.4397664,
+                  "lng" : -4.4959969
+               }
+            },
+            "location" : {
+               "lat" : 50.45552,
+               "lng" : -4.464719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4665538,
+                  "lng" : -4.442989
+               },
+               "southwest" : {
+                  "lat" : 50.4397664,
+                  "lng" : -4.4959969
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

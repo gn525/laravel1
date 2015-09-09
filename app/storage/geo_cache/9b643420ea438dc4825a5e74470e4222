@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisboa Cottage",
+               "short_name" : "Lisboa Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Milley Bridge",
+               "short_name" : "Milley Bridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Windsor and Maidenhead",
+               "short_name" : "Windsor and Maidenhead",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG10 0LH",
+               "short_name" : "RG10 0LH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lisboa Cottage, Milley Bridge, Waltham Saint Lawrence, Reading, Windsor and Maidenhead RG10 0LH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4873389,
+               "lng" : -0.8249755999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4886878802915,
+                  "lng" : -0.8236266197084979
+               },
+               "southwest" : {
+                  "lat" : 51.4859899197085,
+                  "lng" : -0.826324580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

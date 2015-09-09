@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lutterworth",
+               "short_name" : "Lutterworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lutterworth",
+               "short_name" : "Lutterworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE17",
+               "short_name" : "LE17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lutterworth, Lutterworth, Leicestershire LE17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.470139,
+                  "lng" : -1.1886154
+               },
+               "southwest" : {
+                  "lat" : 52.44558139999999,
+                  "lng" : -1.2260068
+               }
+            },
+            "location" : {
+               "lat" : 52.45599499999999,
+               "lng" : -1.199159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.470139,
+                  "lng" : -1.1886154
+               },
+               "southwest" : {
+                  "lat" : 52.44558139999999,
+                  "lng" : -1.2260068
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

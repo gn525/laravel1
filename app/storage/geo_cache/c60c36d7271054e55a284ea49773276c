@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orton Southgate",
+               "short_name" : "Orton Southgate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE2",
+               "short_name" : "PE2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Orton Southgate, Peterborough, Peterborough, Peterborough PE2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5409261,
+               "lng" : -0.3118518
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.54771179999999,
+                  "lng" : -0.2958444
+               },
+               "southwest" : {
+                  "lat" : 52.5341393,
+                  "lng" : -0.3278592
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chadwell Heath",
+               "short_name" : "Chadwell Heath",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dagenham",
+               "short_name" : "Dagenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romford",
+               "short_name" : "Romford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RM6",
+               "short_name" : "RM6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chadwell Heath, Dagenham, Romford, Greater London RM6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.57149399999999,
+               "lng" : 0.137373
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5784286,
+                  "lng" : 0.1533804
+               },
+               "southwest" : {
+                  "lat" : 51.5645584,
+                  "lng" : 0.1213656
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

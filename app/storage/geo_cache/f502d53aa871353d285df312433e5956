@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acton Green",
+               "short_name" : "Acton Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR6",
+               "short_name" : "WR6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Acton Green, Worcester, Herefordshire WR6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.149287,
+               "lng" : -2.443184
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1561331,
+                  "lng" : -2.4271766
+               },
+               "southwest" : {
+                  "lat" : 52.1424399,
+                  "lng" : -2.4591914
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

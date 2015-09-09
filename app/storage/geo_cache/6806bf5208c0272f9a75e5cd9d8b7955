@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boldre",
+               "short_name" : "Boldre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lymington",
+               "short_name" : "Lymington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO41",
+               "short_name" : "SO41",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boldre, Lymington, Hampshire SO41, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.781776,
+               "lng" : -1.554313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.78883039999999,
+                  "lng" : -1.5383056
+               },
+               "southwest" : {
+                  "lat" : 50.77472050000001,
+                  "lng" : -1.5703204
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Measham",
+               "short_name" : "Measham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swadlincote",
+               "short_name" : "Swadlincote",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE12",
+               "short_name" : "DE12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Measham, Swadlincote, Leicestershire DE12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7156026,
+                  "lng" : -1.4936716
+               },
+               "southwest" : {
+                  "lat" : 52.6898601,
+                  "lng" : -1.5251395
+               }
+            },
+            "location" : {
+               "lat" : 52.710459,
+               "lng" : -1.502566
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7156026,
+                  "lng" : -1.4936716
+               },
+               "southwest" : {
+                  "lat" : 52.6898601,
+                  "lng" : -1.5251395
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

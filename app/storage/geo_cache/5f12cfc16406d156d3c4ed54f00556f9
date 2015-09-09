@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rennes House",
+               "short_name" : "Rennes House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Vaughan Road",
+               "short_name" : "Vaughan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX1 3JW",
+               "short_name" : "EX1 3JW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rennes House, Vaughan Road, Exeter, Devon EX1 3JW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.7307515,
+               "lng" : -3.4912036
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.73210048029151,
+                  "lng" : -3.489854619708498
+               },
+               "southwest" : {
+                  "lat" : 50.72940251970851,
+                  "lng" : -3.492552580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rennes Drive",
+               "short_name" : "Rennes Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX4",
+               "short_name" : "EX4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rennes Drive, Exeter, Exeter, Devon EX4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7390718,
+                  "lng" : -3.5296659
+               },
+               "southwest" : {
+                  "lat" : 50.73553620000001,
+                  "lng" : -3.5325189
+               }
+            },
+            "location" : {
+               "lat" : 50.736475,
+               "lng" : -3.5307672
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7390718,
+                  "lng" : -3.5296659
+               },
+               "southwest" : {
+                  "lat" : 50.73553620000001,
+                  "lng" : -3.5325189
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rennes Close",
+               "short_name" : "Rennes Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ashby-de-la-Zouch",
+               "short_name" : "Ashby-de-la-Zouch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashby-de-la-Zouch",
+               "short_name" : "Ashby-de-la-Zouch",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE65",
+               "short_name" : "LE65",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rennes Close, Ashby-de-la-Zouch, Ashby-de-la-Zouch, Leicestershire LE65, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7492664,
+                  "lng" : -1.4793328
+               },
+               "southwest" : {
+                  "lat" : 52.7490019,
+                  "lng" : -1.4800886
+               }
+            },
+            "location" : {
+               "lat" : 52.749119,
+               "lng" : -1.4796914
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.75048313029149,
+                  "lng" : -1.478361719708498
+               },
+               "southwest" : {
+                  "lat" : 52.7477851697085,
+                  "lng" : -1.481059680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kilmarnock",
+               "short_name" : "Kilmarnock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kilmarnock",
+               "short_name" : "Kilmarnock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Ayrshire",
+               "short_name" : "East Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kilmarnock, Kilmarnock, East Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6398543,
+                  "lng" : -4.4664905
+               },
+               "southwest" : {
+                  "lat" : 55.5781885,
+                  "lng" : -4.5400368
+               }
+            },
+            "location" : {
+               "lat" : 55.614719,
+               "lng" : -4.498792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6398543,
+                  "lng" : -4.4664905
+               },
+               "southwest" : {
+                  "lat" : 55.5781885,
+                  "lng" : -4.5400368
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

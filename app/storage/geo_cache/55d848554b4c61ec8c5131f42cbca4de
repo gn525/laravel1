@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monetary Authority Of Singapore",
+               "short_name" : "Monetary Authority Of Singapore",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Old Change House",
+               "short_name" : "Old Change House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "128",
+               "short_name" : "128",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Queen Victoria Street",
+               "short_name" : "Queen Victoria St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC4V 4BJ",
+               "short_name" : "EC4V 4BJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Change House, Monetary Authority Of Singapore, 128 Queen Victoria Street, London EC4V 4BJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5121468,
+               "lng" : -0.09759649999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5134957802915,
+                  "lng" : -0.09624751970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5107978197085,
+                  "lng" : -0.09894548029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Singapore Road",
+               "short_name" : "Singapore Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W13",
+               "short_name" : "W13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Singapore Road, London W13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5112072,
+                  "lng" : -0.3235667
+               },
+               "southwest" : {
+                  "lat" : 51.5100504,
+                  "lng" : -0.328458
+               }
+            },
+            "location" : {
+               "lat" : 51.5107223,
+               "lng" : -0.3260944
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5119777802915,
+                  "lng" : -0.3235667
+               },
+               "southwest" : {
+                  "lat" : 51.5092798197085,
+                  "lng" : -0.328458
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

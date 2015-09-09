@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Euxton",
+               "short_name" : "Euxton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Euxton, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6815357,
+                  "lng" : -2.6412517
+               },
+               "southwest" : {
+                  "lat" : 53.65252109999999,
+                  "lng" : -2.7208142
+               }
+            },
+            "location" : {
+               "lat" : 53.669783,
+               "lng" : -2.674662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6815357,
+                  "lng" : -2.6412517
+               },
+               "southwest" : {
+                  "lat" : 53.65252109999999,
+                  "lng" : -2.7208142
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

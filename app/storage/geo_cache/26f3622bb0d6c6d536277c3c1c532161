@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastleigh",
+               "short_name" : "Eastleigh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastleigh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0089366,
+                  "lng" : -1.2738374
+               },
+               "southwest" : {
+                  "lat" : 50.9450358,
+                  "lng" : -1.4170749
+               }
+            },
+            "location" : {
+               "lat" : 50.97335169999999,
+               "lng" : -1.3417792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0089366,
+                  "lng" : -1.2738374
+               },
+               "southwest" : {
+                  "lat" : 50.9450358,
+                  "lng" : -1.4170749
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

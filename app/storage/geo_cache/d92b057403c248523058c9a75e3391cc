@@ -1,0 +1,102 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishop's Stortford",
+               "short_name" : "Bishop's Stortford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bishop's Stortford",
+               "short_name" : "Bishop's Stortford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bishop's Stortford, Bishop's Stortford, Hertfordshire, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.869052,
+               "lng" : 0.158605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8759411,
+                  "lng" : 0.1746124
+               },
+               "southwest" : {
+                  "lat" : 51.8621619,
+                  "lng" : 0.1425976
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishops Stortford",
+               "short_name" : "Bishops Stortford",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bishop's Stortford",
+               "short_name" : "Bishop's Stortford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM23",
+               "short_name" : "CM23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bishops Stortford, Bishop's Stortford, Hertfordshire CM23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.86669999999999,
+               "lng" : 0.16492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8680489802915,
+                  "lng" : 0.166268980291502
+               },
+               "southwest" : {
+                  "lat" : 51.8653510197085,
+                  "lng" : 0.163571019708498
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

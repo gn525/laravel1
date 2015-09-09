@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kents Hill",
+               "short_name" : "Kents Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kents Hill, Milton Keynes, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0336631,
+                  "lng" : -0.6903798000000001
+               },
+               "southwest" : {
+                  "lat" : 52.0206258,
+                  "lng" : -0.7156861999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.028664,
+               "lng" : -0.6951315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0336631,
+                  "lng" : -0.6903798000000001
+               },
+               "southwest" : {
+                  "lat" : 52.0206258,
+                  "lng" : -0.7156861999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

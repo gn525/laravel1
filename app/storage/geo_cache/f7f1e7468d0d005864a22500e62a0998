@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salsburgh",
+               "short_name" : "Salsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shotts",
+               "short_name" : "Shotts",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML7",
+               "short_name" : "ML7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salsburgh, Shotts, North Lanarkshire ML7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.842731,
+               "lng" : -3.872609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8489953,
+                  "lng" : -3.8566016
+               },
+               "southwest" : {
+                  "lat" : 55.83646570000001,
+                  "lng" : -3.8886164
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

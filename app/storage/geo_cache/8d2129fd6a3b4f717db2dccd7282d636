@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BH8",
+               "short_name" : "BH8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bournemouth BH8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7740107,
+                  "lng" : -1.8175833
+               },
+               "southwest" : {
+                  "lat" : 50.7216633,
+                  "lng" : -1.8739823
+               }
+            },
+            "location" : {
+               "lat" : 50.75309499999999,
+               "lng" : -1.8446155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7740107,
+                  "lng" : -1.8175833
+               },
+               "southwest" : {
+                  "lat" : 50.7216633,
+                  "lng" : -1.8739823
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH8",
+               "short_name" : "BH8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bournemouth, Bournemouth, Bournemouth, Bournemouth BH8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.72726000000001,
+               "lng" : -1.86449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.72860898029151,
+                  "lng" : -1.863141019708498
+               },
+               "southwest" : {
+                  "lat" : 50.72591101970851,
+                  "lng" : -1.865838980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow Airport",
+               "short_name" : "Glasgow Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Paisley",
+               "short_name" : "Paisley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA3 2SW",
+               "short_name" : "PA3 2SW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glasgow Airport (GLA), Paisley, Renfrewshire PA3 2SW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.881761,
+                  "lng" : -4.4145674
+               },
+               "southwest" : {
+                  "lat" : 55.85930699999999,
+                  "lng" : -4.456488999999999
+               }
+            },
+            "location" : {
+               "lat" : 55.8690744,
+               "lng" : -4.4350529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.881761,
+                  "lng" : -4.4145674
+               },
+               "southwest" : {
+                  "lat" : 55.85930699999999,
+                  "lng" : -4.456488999999999
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

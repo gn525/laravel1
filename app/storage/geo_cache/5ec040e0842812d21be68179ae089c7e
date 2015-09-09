@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishop's Stortford",
+               "short_name" : "Bishop's Stortford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bishop's Stortford",
+               "short_name" : "Bishop's Stortford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bishop's Stortford, Bishop's Stortford, Hertfordshire, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.872,
+               "lng" : 0.1725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8788886,
+                  "lng" : 0.1885074
+               },
+               "southwest" : {
+                  "lat" : 51.8651103,
+                  "lng" : 0.1564926
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

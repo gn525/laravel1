@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bures",
+               "short_name" : "Bures",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bures",
+               "short_name" : "Bures",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO8",
+               "short_name" : "CO8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bures, Bures, Suffolk CO8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9811979,
+                  "lng" : 0.7879661999999999
+               },
+               "southwest" : {
+                  "lat" : 51.9653651,
+                  "lng" : 0.7617853
+               }
+            },
+            "location" : {
+               "lat" : 51.973881,
+               "lng" : 0.777277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9811979,
+                  "lng" : 0.7879661999999999
+               },
+               "southwest" : {
+                  "lat" : 51.9653651,
+                  "lng" : 0.7617853
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

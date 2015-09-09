@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ince-in-Makerfield",
+               "short_name" : "Ince",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wigan",
+               "short_name" : "Wigan",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ince-in-Makerfield, Wigan, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5520813,
+                  "lng" : -2.5793331
+               },
+               "southwest" : {
+                  "lat" : 53.5194555,
+                  "lng" : -2.6287501
+               }
+            },
+            "location" : {
+               "lat" : 53.536413,
+               "lng" : -2.619493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5520813,
+                  "lng" : -2.5793331
+               },
+               "southwest" : {
+                  "lat" : 53.5194555,
+                  "lng" : -2.6287501
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ince",
+               "short_name" : "Ince",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH2",
+               "short_name" : "CH2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ince, Chester, Cheshire West and Chester CH2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.281457,
+               "lng" : -2.826638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2828059802915,
+                  "lng" : -2.825289019708498
+               },
+               "southwest" : {
+                  "lat" : 53.2801080197085,
+                  "lng" : -2.827986980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ince",
+               "short_name" : "Ince",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ince-in-Makerfield",
+               "short_name" : "Ince",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wigan",
+               "short_name" : "Wigan",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WN3",
+               "short_name" : "WN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ince, Ince-in-Makerfield, Wigan WN3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.53893,
+               "lng" : -2.611520000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5402789802915,
+                  "lng" : -2.610171019708499
+               },
+               "southwest" : {
+                  "lat" : 53.5375810197085,
+                  "lng" : -2.612868980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

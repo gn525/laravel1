@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldeburgh",
+               "short_name" : "Aldeburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aldeburgh, Suffolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1684466,
+                  "lng" : 1.6058171
+               },
+               "southwest" : {
+                  "lat" : 52.1449893,
+                  "lng" : 1.5736386
+               }
+            },
+            "location" : {
+               "lat" : 52.155357,
+               "lng" : 1.600446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1684466,
+                  "lng" : 1.6058171
+               },
+               "southwest" : {
+                  "lat" : 52.1449893,
+                  "lng" : 1.5736386
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

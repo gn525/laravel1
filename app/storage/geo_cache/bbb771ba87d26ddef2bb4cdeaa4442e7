@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roby Road",
+               "short_name" : "Roby Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roby Road, Liverpool, Liverpool, Merseyside, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4092779,
+                  "lng" : -2.8480834
+               },
+               "southwest" : {
+                  "lat" : 53.4063521,
+                  "lng" : -2.8815131
+               }
+            },
+            "location" : {
+               "lat" : 53.4079998,
+               "lng" : -2.8660425
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4092779,
+                  "lng" : -2.8480834
+               },
+               "southwest" : {
+                  "lat" : 53.4063521,
+                  "lng" : -2.8815131
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

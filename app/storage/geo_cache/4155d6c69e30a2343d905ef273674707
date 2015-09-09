@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abbots Bromley",
+               "short_name" : "Abbots Bromley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abbots Bromley, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8629633,
+                  "lng" : -1.8217519
+               },
+               "southwest" : {
+                  "lat" : 52.7823027,
+                  "lng" : -1.9227336
+               }
+            },
+            "location" : {
+               "lat" : 52.81800200000001,
+               "lng" : -1.882179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8629633,
+                  "lng" : -1.8217519
+               },
+               "southwest" : {
+                  "lat" : 52.7823027,
+                  "lng" : -1.9227336
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

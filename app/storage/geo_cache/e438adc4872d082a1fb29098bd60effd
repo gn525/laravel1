@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pembrokeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1176059,
+                  "lng" : -4.485517499999999
+               },
+               "southwest" : {
+                  "lat" : 51.59607829999999,
+                  "lng" : -5.670226899999999
+               }
+            },
+            "location" : {
+               "lat" : 51.8757077,
+               "lng" : -4.939193299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1176059,
+                  "lng" : -4.485517499999999
+               },
+               "southwest" : {
+                  "lat" : 51.59607829999999,
+                  "lng" : -5.4827052
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

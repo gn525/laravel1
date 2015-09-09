@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanterre Court",
+               "short_name" : "Nanterre Court",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "63-67",
+               "short_name" : "63-67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hempstead Road",
+               "short_name" : "Hempstead Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD17 3AF",
+               "short_name" : "WD17 3AF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nanterre Court, 63-67 Hempstead Road, Watford, Hertfordshire WD17 3AF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6617486,
+               "lng" : -0.407872
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.66309758029149,
+                  "lng" : -0.4065230197084979
+               },
+               "southwest" : {
+                  "lat" : 51.6603996197085,
+                  "lng" : -0.409220980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

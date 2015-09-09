@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oundle",
+               "short_name" : "Oundle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE8",
+               "short_name" : "PE8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oundle, Peterborough, Northamptonshire PE8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.48020200000001,
+               "lng" : -0.47267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4869971,
+                  "lng" : -0.4566626
+               },
+               "southwest" : {
+                  "lat" : 52.4734059,
+                  "lng" : -0.4886774
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

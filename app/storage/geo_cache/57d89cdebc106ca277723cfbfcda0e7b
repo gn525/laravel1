@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashington",
+               "short_name" : "Ashington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashington, Northumberland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.2056424,
+                  "lng" : -1.5302675
+               },
+               "southwest" : {
+                  "lat" : 55.1615425,
+                  "lng" : -1.6513219
+               }
+            },
+            "location" : {
+               "lat" : 55.182978,
+               "lng" : -1.5659829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2056424,
+                  "lng" : -1.5302675
+               },
+               "southwest" : {
+                  "lat" : 55.1615425,
+                  "lng" : -1.6513219
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

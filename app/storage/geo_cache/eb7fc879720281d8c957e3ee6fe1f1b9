@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morpeth",
+               "short_name" : "Morpeth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morpeth",
+               "short_name" : "Morpeth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE61",
+               "short_name" : "NE61",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Morpeth, Morpeth, Northumberland NE61, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.18831280000001,
+                  "lng" : -1.6592571
+               },
+               "southwest" : {
+                  "lat" : 55.1482633,
+                  "lng" : -1.7206632
+               }
+            },
+            "location" : {
+               "lat" : 55.16875,
+               "lng" : -1.687493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.18831280000001,
+                  "lng" : -1.6592571
+               },
+               "southwest" : {
+                  "lat" : 55.1482633,
+                  "lng" : -1.7206632
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9269711,
+                  "lng" : 1.6435661
+               },
+               "southwest" : {
+                  "lat" : 52.4064229,
+                  "lng" : 0.8157593999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.65358209999999,
+               "lng" : 1.2371039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9269711,
+                  "lng" : 1.6435661
+               },
+               "southwest" : {
+                  "lat" : 52.4064229,
+                  "lng" : 0.8157593999999999
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lufton Trading Estate",
+               "short_name" : "Lufton Trading Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lufton",
+               "short_name" : "Lufton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yeovil",
+               "short_name" : "Yeovil",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA22 8UU",
+               "short_name" : "BA22 8UU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lufton Trading Estate, Lufton, Yeovil, Somerset BA22 8UU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9529489,
+               "lng" : -2.6772334
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95429788029149,
+                  "lng" : -2.675884419708498
+               },
+               "southwest" : {
+                  "lat" : 50.95159991970849,
+                  "lng" : -2.678582380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

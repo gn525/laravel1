@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WD18",
+               "short_name" : "WD18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hertfordshire WD18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6638806,
+                  "lng" : -0.3900036
+               },
+               "southwest" : {
+                  "lat" : 51.6327188,
+                  "lng" : -0.4480669
+               }
+            },
+            "location" : {
+               "lat" : 51.6484434,
+               "lng" : -0.4172582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6638806,
+                  "lng" : -0.3900036
+               },
+               "southwest" : {
+                  "lat" : 51.6327188,
+                  "lng" : -0.4480669
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

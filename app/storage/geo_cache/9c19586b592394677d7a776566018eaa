@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milford Haven",
+               "short_name" : "Milford Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milford Haven, Pembrokeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7299928,
+                  "lng" : -5.016951
+               },
+               "southwest" : {
+                  "lat" : 51.7072656,
+                  "lng" : -5.063415
+               }
+            },
+            "location" : {
+               "lat" : 51.714306,
+               "lng" : -5.042697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7299928,
+                  "lng" : -5.016951
+               },
+               "southwest" : {
+                  "lat" : 51.7072656,
+                  "lng" : -5.063415
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

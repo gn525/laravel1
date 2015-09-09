@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadfield",
+               "short_name" : "Hadfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hadfield, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.469871,
+                  "lng" : -1.9587795
+               },
+               "southwest" : {
+                  "lat" : 53.4520212,
+                  "lng" : -1.9888372
+               }
+            },
+            "location" : {
+               "lat" : 53.460691,
+               "lng" : -1.967414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.469871,
+                  "lng" : -1.9587795
+               },
+               "southwest" : {
+                  "lat" : 53.4520212,
+                  "lng" : -1.9888372
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

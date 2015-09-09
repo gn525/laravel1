@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norton Fitzwarren",
+               "short_name" : "Norton Fitzwarren",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norton Fitzwarren, Taunton, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0433861,
+                  "lng" : -3.1330397
+               },
+               "southwest" : {
+                  "lat" : 51.0165179,
+                  "lng" : -3.1892689
+               }
+            },
+            "location" : {
+               "lat" : 51.027515,
+               "lng" : -3.144923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0433861,
+                  "lng" : -3.1330397
+               },
+               "southwest" : {
+                  "lat" : 51.0165179,
+                  "lng" : -3.1892689
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DY1",
+               "short_name" : "DY1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Midlands DY1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5367939,
+                  "lng" : -2.0629909
+               },
+               "southwest" : {
+                  "lat" : 52.4945159,
+                  "lng" : -2.1260916
+               }
+            },
+            "location" : {
+               "lat" : 52.5185307,
+               "lng" : -2.1044733
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5367939,
+                  "lng" : -2.0629909
+               },
+               "southwest" : {
+                  "lat" : 52.4945159,
+                  "lng" : -2.1260916
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

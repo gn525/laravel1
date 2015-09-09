@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brynmenyn Industrial Estate",
+               "short_name" : "Brynmenyn Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Brynmenyn",
+               "short_name" : "Brynmenyn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF32",
+               "short_name" : "CF32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brynmenyn Industrial Estate, Brynmenyn, Bridgend, Bridgend CF32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.548875,
+               "lng" : -3.5765456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.555813,
+                  "lng" : -3.5605382
+               },
+               "southwest" : {
+                  "lat" : 51.5419359,
+                  "lng" : -3.592553
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

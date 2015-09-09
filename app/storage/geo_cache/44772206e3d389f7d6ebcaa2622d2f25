@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gwent",
+               "short_name" : "Gwent",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Northcliffe",
+               "short_name" : "Northcliffe",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Penarth",
+               "short_name" : "Penarth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penarth",
+               "short_name" : "Penarth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Vale of Glamorgan",
+               "short_name" : "Vale of Glamorgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF64 1DY",
+               "short_name" : "CF64 1DY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gwent, Northcliffe, Penarth, Vale of Glamorgan CF64 1DY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.443909,
+                  "lng" : -3.1662753
+               },
+               "southwest" : {
+                  "lat" : 51.4433188,
+                  "lng" : -3.1670586
+               }
+            },
+            "location" : {
+               "lat" : 51.4436139,
+               "lng" : -3.1666669
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4449628802915,
+                  "lng" : -3.165317969708498
+               },
+               "southwest" : {
+                  "lat" : 51.4422649197085,
+                  "lng" : -3.168015930291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

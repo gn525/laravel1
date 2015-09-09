@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dalry",
+               "short_name" : "Dalry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dalry",
+               "short_name" : "Dalry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA24",
+               "short_name" : "KA24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dalry, Dalry, North Ayrshire KA24, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7167934,
+                  "lng" : -4.693942499999999
+               },
+               "southwest" : {
+                  "lat" : 55.69640399999999,
+                  "lng" : -4.7411539
+               }
+            },
+            "location" : {
+               "lat" : 55.711116,
+               "lng" : -4.723153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7167934,
+                  "lng" : -4.693942499999999
+               },
+               "southwest" : {
+                  "lat" : 55.69640399999999,
+                  "lng" : -4.7411539
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

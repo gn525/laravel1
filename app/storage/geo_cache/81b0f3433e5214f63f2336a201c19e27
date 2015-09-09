@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shillingstone",
+               "short_name" : "Shillingstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blandford Forum",
+               "short_name" : "Blandford Forum",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT11",
+               "short_name" : "DT11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shillingstone, Blandford Forum, Dorset DT11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.91140799999999,
+                  "lng" : -2.2342892
+               },
+               "southwest" : {
+                  "lat" : 50.88967539999999,
+                  "lng" : -2.2590086
+               }
+            },
+            "location" : {
+               "lat" : 50.89891000000001,
+               "lng" : -2.24982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.91140799999999,
+                  "lng" : -2.2342892
+               },
+               "southwest" : {
+                  "lat" : 50.88967539999999,
+                  "lng" : -2.2590086
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

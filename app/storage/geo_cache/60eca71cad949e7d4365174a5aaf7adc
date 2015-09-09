@@ -1,0 +1,363 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tower Hill",
+               "short_name" : "Tower Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC3N 4DR",
+               "short_name" : "EC3N 4DR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tower Hill, London EC3N 4DR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5101427,
+                  "lng" : -0.073652
+               },
+               "southwest" : {
+                  "lat" : 51.50915570000001,
+                  "lng" : -0.0784971
+               }
+            },
+            "location" : {
+               "lat" : 51.50956780000001,
+               "lng" : -0.0761356
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5109981802915,
+                  "lng" : -0.073652
+               },
+               "southwest" : {
+                  "lat" : 51.5083002197085,
+                  "lng" : -0.0784971
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tower Hill",
+               "short_name" : "Tower Hill",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC3N",
+               "short_name" : "EC3N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tower Hill, London EC3N, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50997,
+               "lng" : -0.07651999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5113189802915,
+                  "lng" : -0.07517101970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5086210197085,
+                  "lng" : -0.07786898029150202
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tower Hill",
+               "short_name" : "Tower Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Witney",
+               "short_name" : "Witney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Witney",
+               "short_name" : "Witney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX28",
+               "short_name" : "OX28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tower Hill, Witney, Witney, Oxfordshire OX28, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.78939099999999,
+               "lng" : -1.499793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.79073998029149,
+                  "lng" : -1.498444019708498
+               },
+               "southwest" : {
+                  "lat" : 51.78804201970849,
+                  "lng" : -1.501141980291502
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tower Hill",
+               "short_name" : "Tower Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Witney",
+               "short_name" : "Witney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Witney",
+               "short_name" : "Witney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX28 5ES",
+               "short_name" : "OX28 5ES",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tower Hill, Witney, Witney, Oxfordshire OX28 5ES, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7900759,
+                  "lng" : -1.4968632
+               },
+               "southwest" : {
+                  "lat" : 51.7855522,
+                  "lng" : -1.5014377
+               }
+            },
+            "location" : {
+               "lat" : 51.7873493,
+               "lng" : -1.500471
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7900759,
+                  "lng" : -1.4968632
+               },
+               "southwest" : {
+                  "lat" : 51.7855522,
+                  "lng" : -1.5014377
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tower Hill",
+               "short_name" : "Tower Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Williton",
+               "short_name" : "Williton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA4 4JR",
+               "short_name" : "TA4 4JR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tower Hill, Williton, Taunton, Somerset TA4 4JR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1605146,
+                  "lng" : -3.3098936
+               },
+               "southwest" : {
+                  "lat" : 51.1569949,
+                  "lng" : -3.3210596
+               }
+            },
+            "location" : {
+               "lat" : 51.1579561,
+               "lng" : -3.3162724
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1605146,
+                  "lng" : -3.3098936
+               },
+               "southwest" : {
+                  "lat" : 51.1569949,
+                  "lng" : -3.3210596
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tower Hill",
+               "short_name" : "Tower Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dilton Marsh",
+               "short_name" : "Dilton Marsh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westbury",
+               "short_name" : "Westbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA13 3SP",
+               "short_name" : "BA13 3SP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tower Hill, Dilton Marsh, Westbury, Wiltshire BA13 3SP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2466865,
+                  "lng" : -2.204935
+               },
+               "southwest" : {
+                  "lat" : 51.2430702,
+                  "lng" : -2.2107997
+               }
+            },
+            "location" : {
+               "lat" : 51.2444771,
+               "lng" : -2.2069318
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2466865,
+                  "lng" : -2.204935
+               },
+               "southwest" : {
+                  "lat" : 51.2430702,
+                  "lng" : -2.2107997
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

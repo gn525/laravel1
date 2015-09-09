@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frome",
+               "short_name" : "Frome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frome",
+               "short_name" : "Frome",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA11",
+               "short_name" : "BA11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Frome, Frome, Somerset BA11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.249848,
+                  "lng" : -2.2890864
+               },
+               "southwest" : {
+                  "lat" : 51.2137538,
+                  "lng" : -2.3591645
+               }
+            },
+            "location" : {
+               "lat" : 51.230751,
+               "lng" : -2.320096
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.249848,
+                  "lng" : -2.2890864
+               },
+               "southwest" : {
+                  "lat" : 51.2137538,
+                  "lng" : -2.3591645
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

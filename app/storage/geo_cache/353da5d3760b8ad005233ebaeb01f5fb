@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OX1",
+               "short_name" : "OX1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, Oxfordshire OX1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.76511490000001,
+                  "lng" : -1.233607
+               },
+               "southwest" : {
+                  "lat" : 51.7032726,
+                  "lng" : -1.329731
+               }
+            },
+            "location" : {
+               "lat" : 51.7239721,
+               "lng" : -1.2751145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76511490000001,
+                  "lng" : -1.233607
+               },
+               "southwest" : {
+                  "lat" : 51.7032726,
+                  "lng" : -1.329731
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX1",
+               "short_name" : "OX1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford, Oxford, Oxford, Oxfordshire OX1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7534996,
+               "lng" : -1.2701352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7548485802915,
+                  "lng" : -1.268786219708498
+               },
+               "southwest" : {
+                  "lat" : 51.7521506197085,
+                  "lng" : -1.271484180291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

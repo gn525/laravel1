@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "YO1",
+               "short_name" : "YO1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "York, York, York YO1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.96415829999999,
+                  "lng" : -1.0705306
+               },
+               "southwest" : {
+                  "lat" : 53.953043,
+                  "lng" : -1.0946455
+               }
+            },
+            "location" : {
+               "lat" : 53.957433,
+               "lng" : -1.0843268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.96415829999999,
+                  "lng" : -1.0705306
+               },
+               "southwest" : {
+                  "lat" : 53.953043,
+                  "lng" : -1.0946455
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

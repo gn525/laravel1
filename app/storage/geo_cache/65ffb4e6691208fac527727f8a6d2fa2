@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goonhilly Downs",
+               "short_name" : "Goonhilly Downs",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Helston",
+               "short_name" : "Helston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR12",
+               "short_name" : "TR12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goonhilly Downs, Helston, Cornwall TR12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.05,
+               "lng" : -5.2
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0571642,
+                  "lng" : -5.1839926
+               },
+               "southwest" : {
+                  "lat" : 50.0428347,
+                  "lng" : -5.2160074
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

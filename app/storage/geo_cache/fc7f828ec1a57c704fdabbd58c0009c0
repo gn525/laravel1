@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birmingham Airport",
+               "short_name" : "Birmingham Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B26 3QJ",
+               "short_name" : "B26 3QJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Birmingham Airport, Birmingham, West Midlands B26 3QJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.46753150000001,
+                  "lng" : -1.7249531
+               },
+               "southwest" : {
+                  "lat" : 52.4412594,
+                  "lng" : -1.7637479
+               }
+            },
+            "location" : {
+               "lat" : 52.45238209999999,
+               "lng" : -1.7435071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.46753150000001,
+                  "lng" : -1.7249531
+               },
+               "southwest" : {
+                  "lat" : 52.4412594,
+                  "lng" : -1.7637479
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

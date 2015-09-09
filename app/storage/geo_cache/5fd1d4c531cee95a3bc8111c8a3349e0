@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TF7",
+               "short_name" : "TF7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Telford",
+               "short_name" : "Telford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telford TF7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6548787,
+                  "lng" : -2.4163651
+               },
+               "southwest" : {
+                  "lat" : 52.6184548,
+                  "lng" : -2.4845453
+               }
+            },
+            "location" : {
+               "lat" : 52.6401862,
+               "lng" : -2.4457598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6548787,
+                  "lng" : -2.4163651
+               },
+               "southwest" : {
+                  "lat" : 52.6184548,
+                  "lng" : -2.4845453
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

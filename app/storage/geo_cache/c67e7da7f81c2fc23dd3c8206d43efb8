@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salfords",
+               "short_name" : "Salfords",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Redhill",
+               "short_name" : "Redhill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH1",
+               "short_name" : "RH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salfords, Redhill, Surrey RH1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.204263,
+               "lng" : -0.167968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2112535,
+                  "lng" : -0.1519606
+               },
+               "southwest" : {
+                  "lat" : 51.1972715,
+                  "lng" : -0.1839754
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Battle",
+               "short_name" : "Battle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Battle, East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9465042,
+                  "lng" : 0.5462437999999999
+               },
+               "southwest" : {
+                  "lat" : 50.892106,
+                  "lng" : 0.4294205
+               }
+            },
+            "location" : {
+               "lat" : 50.917405,
+               "lng" : 0.483679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9465042,
+                  "lng" : 0.5462437999999999
+               },
+               "southwest" : {
+                  "lat" : 50.892106,
+                  "lng" : 0.4294205
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

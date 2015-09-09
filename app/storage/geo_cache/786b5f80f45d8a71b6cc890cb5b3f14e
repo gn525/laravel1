@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lochailort",
+               "short_name" : "Lochailort",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH38",
+               "short_name" : "PH38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lochailort PH38, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9258581,
+                  "lng" : -5.4859553
+               },
+               "southwest" : {
+                  "lat" : 56.74947969999999,
+                  "lng" : -5.8668175
+               }
+            },
+            "location" : {
+               "lat" : 56.8131862,
+               "lng" : -5.7099787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9258581,
+                  "lng" : -5.4859553
+               },
+               "southwest" : {
+                  "lat" : 56.74947969999999,
+                  "lng" : -5.8668175
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inverness College",
+               "short_name" : "Inverness College",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Longman Road",
+               "short_name" : "Longman Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inverness",
+               "short_name" : "Inverness",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inverness",
+               "short_name" : "Inverness",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Inverness-Shire",
+               "short_name" : "Inverness-Shire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IV1 1SA",
+               "short_name" : "IV1 1SA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Inverness College, 3 Longman Road, Inverness, Inverness-Shire IV1 1SA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.48593959999999,
+                  "lng" : -4.2208865
+               },
+               "southwest" : {
+                  "lat" : 57.4838289,
+                  "lng" : -4.2244064
+               }
+            },
+            "location" : {
+               "lat" : 57.485003,
+               "lng" : -4.2226057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.48623323029151,
+                  "lng" : -4.2208865
+               },
+               "southwest" : {
+                  "lat" : 57.4835352697085,
+                  "lng" : -4.2244064
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inverness bus station",
+               "short_name" : "Inverness bus station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Margaret Street",
+               "short_name" : "Margaret St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inverness",
+               "short_name" : "Inverness",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inverness",
+               "short_name" : "Inverness",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Inverness-Shire",
+               "short_name" : "Inverness-Shire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IV1 1LT",
+               "short_name" : "IV1 1LT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Inverness bus station, Margaret Street, Inverness, Inverness-Shire IV1 1LT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.4805275,
+               "lng" : -4.2251087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.4818764802915,
+                  "lng" : -4.223759719708498
+               },
+               "southwest" : {
+                  "lat" : 57.47917851970849,
+                  "lng" : -4.226457680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

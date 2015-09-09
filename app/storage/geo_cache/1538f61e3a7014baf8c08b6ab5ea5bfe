@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southbourne",
+               "short_name" : "Southbourne",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH6",
+               "short_name" : "BH6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southbourne, Bournemouth, Bournemouth, Bournemouth BH6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.7243,
+               "lng" : -1.79429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7313631,
+                  "lng" : -1.7782826
+               },
+               "southwest" : {
+                  "lat" : 50.7172359,
+                  "lng" : -1.8102974
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southbourne",
+               "short_name" : "Southbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Emsworth",
+               "short_name" : "Emsworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO10",
+               "short_name" : "PO10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southbourne, Emsworth, West Sussex PO10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.844258,
+               "lng" : -0.9069529999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8456069802915,
+                  "lng" : -0.9056040197084979
+               },
+               "southwest" : {
+                  "lat" : 50.8429090197085,
+                  "lng" : -0.908301980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

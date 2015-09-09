@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moneyreagh",
+               "short_name" : "Moneyreagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newtownards",
+               "short_name" : "Newtownards",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Castlereagh",
+               "short_name" : "Castlereagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT23",
+               "short_name" : "BT23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moneyreagh, Newtownards, Castlereagh BT23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.53248,
+               "lng" : -5.82862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.53895379999999,
+                  "lng" : -5.8126126
+               },
+               "southwest" : {
+                  "lat" : 54.5260052,
+                  "lng" : -5.844627399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

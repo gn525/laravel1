@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebbw Vale",
+               "short_name" : "Ebbw Vale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ebbw Vale",
+               "short_name" : "Ebbw Vale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Blaenau Gwent",
+               "short_name" : "Blaenau Gwent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP23",
+               "short_name" : "NP23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ebbw Vale, Ebbw Vale, Blaenau Gwent NP23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7961754,
+                  "lng" : -3.1930609
+               },
+               "southwest" : {
+                  "lat" : 51.7658851,
+                  "lng" : -3.2319642
+               }
+            },
+            "location" : {
+               "lat" : 51.777532,
+               "lng" : -3.206151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7961754,
+                  "lng" : -3.1930609
+               },
+               "southwest" : {
+                  "lat" : 51.7658851,
+                  "lng" : -3.2319642
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

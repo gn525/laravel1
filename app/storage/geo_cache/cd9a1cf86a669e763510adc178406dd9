@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuala Lumpur Lane",
+               "short_name" : "Kuala Lumpur Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G40 4QB",
+               "short_name" : "G40 4QB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuala Lumpur Lane, Glasgow, Glasgow City G40 4QB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.83890659999999,
+                  "lng" : -4.2056742
+               },
+               "southwest" : {
+                  "lat" : 55.8383288,
+                  "lng" : -4.205998699999999
+               }
+            },
+            "location" : {
+               "lat" : 55.8386675,
+               "lng" : -4.205843199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8399666802915,
+                  "lng" : -4.204487469708498
+               },
+               "southwest" : {
+                  "lat" : 55.8372687197085,
+                  "lng" : -4.207185430291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

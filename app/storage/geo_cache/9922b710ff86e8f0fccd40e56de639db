@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crawley Down",
+               "short_name" : "Crawley Down",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crawley Down, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1377275,
+                  "lng" : -0.0532435
+               },
+               "southwest" : {
+                  "lat" : 51.09706389999999,
+                  "lng" : -0.1506432
+               }
+            },
+            "location" : {
+               "lat" : 51.1254769,
+               "lng" : -0.08151899999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1377275,
+                  "lng" : -0.0532435
+               },
+               "southwest" : {
+                  "lat" : 51.09706389999999,
+                  "lng" : -0.1506432
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DN1",
+               "short_name" : "DN1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Doncaster",
+               "short_name" : "Doncaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Doncaster, South Yorkshire DN1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5395532,
+                  "lng" : -1.1181878
+               },
+               "southwest" : {
+                  "lat" : 53.50913809999999,
+                  "lng" : -1.1462187
+               }
+            },
+            "location" : {
+               "lat" : 53.5284644,
+               "lng" : -1.1318534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5395532,
+                  "lng" : -1.1181878
+               },
+               "southwest" : {
+                  "lat" : 53.50913809999999,
+                  "lng" : -1.1462187
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,384 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Stirling",
+               "short_name" : "University of Stirling",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK9 4LA",
+               "short_name" : "FK9 4LA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Stirling, Stirling, Stirling FK9 4LA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1509063,
+                  "lng" : -3.9044401
+               },
+               "southwest" : {
+                  "lat" : 56.1399828,
+                  "lng" : -3.930158399999999
+               }
+            },
+            "location" : {
+               "lat" : 56.1459667,
+               "lng" : -3.9197915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1509063,
+                  "lng" : -3.9044401
+               },
+               "southwest" : {
+                  "lat" : 56.1399828,
+                  "lng" : -3.930158399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling Road",
+               "short_name" : "Stirling Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Camelon",
+               "short_name" : "Camelon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK1 4EP",
+               "short_name" : "FK1 4EP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stirling Road, Camelon, Falkirk, Falkirk FK1 4EP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.04194469999999,
+                  "lng" : -3.8154203
+               },
+               "southwest" : {
+                  "lat" : 56.0044603,
+                  "lng" : -3.8609106
+               }
+            },
+            "location" : {
+               "lat" : 56.02316399999999,
+               "lng" : -3.8370177
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.04194469999999,
+                  "lng" : -3.8154203
+               },
+               "southwest" : {
+                  "lat" : 56.0044603,
+                  "lng" : -3.8609106
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling Street",
+               "short_name" : "Stirling St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Denny",
+               "short_name" : "Denny",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denny",
+               "short_name" : "Denny",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK6 6JR",
+               "short_name" : "FK6 6JR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stirling Street, Denny, Denny, Falkirk FK6 6JR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0358682,
+                  "lng" : -3.907397099999999
+               },
+               "southwest" : {
+                  "lat" : 56.0229605,
+                  "lng" : -3.9176568
+               }
+            },
+            "location" : {
+               "lat" : 56.0295441,
+               "lng" : -3.913860499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0358682,
+                  "lng" : -3.907397099999999
+               },
+               "southwest" : {
+                  "lat" : 56.0229605,
+                  "lng" : -3.9176568
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling Road",
+               "short_name" : "Stirling Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fallin",
+               "short_name" : "Fallin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK7 7JP",
+               "short_name" : "FK7 7JP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stirling Road, Fallin, Stirling, Stirling FK7 7JP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1062824,
+                  "lng" : -3.8717614
+               },
+               "southwest" : {
+                  "lat" : 56.1030428,
+                  "lng" : -3.8823586
+               }
+            },
+            "location" : {
+               "lat" : 56.1046558,
+               "lng" : -3.8768067
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1062824,
+                  "lng" : -3.8717614
+               },
+               "southwest" : {
+                  "lat" : 56.1030428,
+                  "lng" : -3.8823586
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling Street",
+               "short_name" : "Stirling St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tillicoultry",
+               "short_name" : "Tillicoultry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Clackmannanshire",
+               "short_name" : "Clackmannanshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK13 6EA",
+               "short_name" : "FK13 6EA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stirling Street, Tillicoultry, Clackmannanshire FK13 6EA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1557476,
+                  "lng" : -3.7446398
+               },
+               "southwest" : {
+                  "lat" : 56.1528596,
+                  "lng" : -3.802728699999999
+               }
+            },
+            "location" : {
+               "lat" : 56.1530622,
+               "lng" : -3.7984781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1557476,
+                  "lng" : -3.7446398
+               },
+               "southwest" : {
+                  "lat" : 56.1528596,
+                  "lng" : -3.802728699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling Castle",
+               "short_name" : "Stirling Castle",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Castle Esplanade",
+               "short_name" : "Castle Esplanade",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK8 1EJ",
+               "short_name" : "FK8 1EJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Castle Esplanade, Stirling Castle, Stirling, Stirling FK8 1EJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1252486,
+                  "lng" : -3.9462134
+               },
+               "southwest" : {
+                  "lat" : 56.1228823,
+                  "lng" : -3.9495906
+               }
+            },
+            "location" : {
+               "lat" : 56.1237904,
+               "lng" : -3.947428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1254144302915,
+                  "lng" : -3.9462134
+               },
+               "southwest" : {
+                  "lat" : 56.12271646970851,
+                  "lng" : -3.9495906
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

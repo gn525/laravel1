@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandler's Ford",
+               "short_name" : "Chandler's Ford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chandler's Ford, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0043687,
+                  "lng" : -1.357449
+               },
+               "southwest" : {
+                  "lat" : 50.9628276,
+                  "lng" : -1.4136826
+               }
+            },
+            "location" : {
+               "lat" : 50.983953,
+               "lng" : -1.379259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0043687,
+                  "lng" : -1.357449
+               },
+               "southwest" : {
+                  "lat" : 50.9628276,
+                  "lng" : -1.4136826
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

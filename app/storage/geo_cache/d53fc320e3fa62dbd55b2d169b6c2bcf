@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Apeldoorn",
+               "short_name" : "Apeldoorn",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Benfleet",
+               "short_name" : "Benfleet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS7 4EH",
+               "short_name" : "SS7 4EH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Apeldoorn, Benfleet, Essex SS7 4EH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5731152,
+                  "lng" : 0.5522256
+               },
+               "southwest" : {
+                  "lat" : 51.5727213,
+                  "lng" : 0.5519376
+               }
+            },
+            "location" : {
+               "lat" : 51.5729941,
+               "lng" : 0.5519702
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5742672302915,
+                  "lng" : 0.5534305802915021
+               },
+               "southwest" : {
+                  "lat" : 51.5715692697085,
+                  "lng" : 0.550732619708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

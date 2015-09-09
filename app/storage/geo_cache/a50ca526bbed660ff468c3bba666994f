@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunwear",
+               "short_name" : "Dunwear",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bridgwater",
+               "short_name" : "Bridgwater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgwater",
+               "short_name" : "Bridgwater",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA7",
+               "short_name" : "TA7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunwear, Bridgwater, Bridgwater, Somerset TA7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1151071,
+               "lng" : -2.9786271
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1221111,
+                  "lng" : -2.9626197
+               },
+               "southwest" : {
+                  "lat" : 51.1081021,
+                  "lng" : -2.9946345
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

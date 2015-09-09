@@ -1,0 +1,266 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Switzerland Tourism",
+               "short_name" : "Switzerland Tourism",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bedford Street",
+               "short_name" : "Bedford St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC2E 9ED",
+               "short_name" : "WC2E 9ED",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Switzerland Tourism, 30 Bedford Street, London WC2E 9ED, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5111301,
+               "lng" : -0.1247579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51247908029149,
+                  "lng" : -0.123408919708498
+               },
+               "southwest" : {
+                  "lat" : 51.5097811197085,
+                  "lng" : -0.126106880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of Switzerland",
+               "short_name" : "Embassy of Switzerland",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "16-18",
+               "short_name" : "16-18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Montagu Place",
+               "short_name" : "Montagu Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marylebone",
+               "short_name" : "Marylebone",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1H 2BQ",
+               "short_name" : "W1H 2BQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of Switzerland, 16-18 Montagu Place, Marylebone, London W1H 2BQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51856309999999,
+               "lng" : -0.1606463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5199120802915,
+                  "lng" : -0.159297319708498
+               },
+               "southwest" : {
+                  "lat" : 51.5172141197085,
+                  "lng" : -0.161995280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hero of Switzerland",
+               "short_name" : "Hero of Switzerland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "148",
+               "short_name" : "148",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Loughborough Road",
+               "short_name" : "Loughborough Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brixton",
+               "short_name" : "Brixton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW9 7LL",
+               "short_name" : "SW9 7LL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hero of Switzerland, 148 Loughborough Road, Brixton, London SW9 7LL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4671184,
+               "lng" : -0.1051016
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4684673802915,
+                  "lng" : -0.103752619708498
+               },
+               "southwest" : {
+                  "lat" : 51.4657694197085,
+                  "lng" : -0.106450580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Little Switzerland",
+               "short_name" : "Little Switzerland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Wear Bay Road",
+               "short_name" : "Wear Bay Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Folkestone",
+               "short_name" : "Folkestone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Folkestone",
+               "short_name" : "Folkestone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT19 6QA",
+               "short_name" : "CT19 6QA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Little Switzerland, Wear Bay Road, Folkestone, Kent CT19 6QA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0907256,
+               "lng" : 1.2020404
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0920745802915,
+                  "lng" : 1.203389380291502
+               },
+               "southwest" : {
+                  "lat" : 51.0893766197085,
+                  "lng" : 1.200691419708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

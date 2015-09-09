@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clayton-le-Moors",
+               "short_name" : "Clayton-le-Moors",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clayton-le-Moors, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.79391,
+                  "lng" : -2.3640721
+               },
+               "southwest" : {
+                  "lat" : 53.7635128,
+                  "lng" : -2.4010008
+               }
+            },
+            "location" : {
+               "lat" : 53.778598,
+               "lng" : -2.385428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.79391,
+                  "lng" : -2.3640721
+               },
+               "southwest" : {
+                  "lat" : 53.7635128,
+                  "lng" : -2.4010008
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

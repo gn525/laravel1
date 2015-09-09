@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crowthorne",
+               "short_name" : "Crowthorne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bracknell Forest",
+               "short_name" : "Bracknell Forest",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crowthorne, Bracknell Forest, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3868989,
+                  "lng" : -0.7653567
+               },
+               "southwest" : {
+                  "lat" : 51.3592464,
+                  "lng" : -0.8297024000000001
+               }
+            },
+            "location" : {
+               "lat" : 51.36690100000001,
+               "lng" : -0.795353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3868989,
+                  "lng" : -0.7653567
+               },
+               "southwest" : {
+                  "lat" : 51.3592464,
+                  "lng" : -0.8297024000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

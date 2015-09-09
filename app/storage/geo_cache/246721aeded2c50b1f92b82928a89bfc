@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oakham",
+               "short_name" : "Oakham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oakham",
+               "short_name" : "Oakham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rutland",
+               "short_name" : "Rutland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE15",
+               "short_name" : "LE15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oakham, Oakham, Rutland LE15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6832779,
+                  "lng" : -0.7055908
+               },
+               "southwest" : {
+                  "lat" : 52.6500996,
+                  "lng" : -0.7945287999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.6695629,
+               "lng" : -0.726625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6832779,
+                  "lng" : -0.7055908
+               },
+               "southwest" : {
+                  "lat" : 52.6500996,
+                  "lng" : -0.7945287999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

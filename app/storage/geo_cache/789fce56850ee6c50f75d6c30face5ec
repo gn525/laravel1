@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Leonards",
+               "short_name" : "St Leonards",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Leonards, East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.86476039999999,
+                  "lng" : 0.5667304
+               },
+               "southwest" : {
+                  "lat" : 50.8493463,
+                  "lng" : 0.5324163
+               }
+            },
+            "location" : {
+               "lat" : 50.85563819999999,
+               "lng" : 0.5525772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.86476039999999,
+                  "lng" : 0.5667304
+               },
+               "southwest" : {
+                  "lat" : 50.8493463,
+                  "lng" : 0.5324163
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

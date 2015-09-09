@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WA2",
+               "short_name" : "WA2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warrington WA2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4580929,
+                  "lng" : -2.5330062
+               },
+               "southwest" : {
+                  "lat" : 53.38824899999999,
+                  "lng" : -2.6235241
+               }
+            },
+            "location" : {
+               "lat" : 53.4166298,
+               "lng" : -2.5882879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4580929,
+                  "lng" : -2.5330062
+               },
+               "southwest" : {
+                  "lat" : 53.38824899999999,
+                  "lng" : -2.6235241
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

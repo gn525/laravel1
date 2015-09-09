@@ -1,0 +1,117 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath Spa",
+               "short_name" : "Bath Spa",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bath and North East Somerset",
+               "short_name" : "Bath and North East Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA1",
+               "short_name" : "BA1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bath Spa, Bath, Bath, Bath and North East Somerset BA1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.37768,
+               "lng" : -2.35702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.37902898029149,
+                  "lng" : -2.355671019708498
+               },
+               "southwest" : {
+                  "lat" : 51.37633101970849,
+                  "lng" : -2.358368980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath Spa University",
+               "short_name" : "Bath Spa University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bath and North East Somerset",
+               "short_name" : "Bath and North East Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA2 9BN",
+               "short_name" : "BA2 9BN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bath Spa University, Bath, Bath and North East Somerset BA2 9BN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.379213,
+                  "lng" : -2.4360792
+               },
+               "southwest" : {
+                  "lat" : 51.3712162,
+                  "lng" : -2.4446475
+               }
+            },
+            "location" : {
+               "lat" : 51.3758998,
+               "lng" : -2.4386609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.379213,
+                  "lng" : -2.4360792
+               },
+               "southwest" : {
+                  "lat" : 51.3712162,
+                  "lng" : -2.4446475
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

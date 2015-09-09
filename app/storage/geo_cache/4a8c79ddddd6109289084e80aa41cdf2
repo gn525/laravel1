@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stirling, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.54710249999999,
+                  "lng" : -3.7979163
+               },
+               "southwest" : {
+                  "lat" : 55.95722800000001,
+                  "lng" : -4.8544952
+               }
+            },
+            "location" : {
+               "lat" : 56.1165329,
+               "lng" : -3.9369086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.54710249999999,
+                  "lng" : -3.7979163
+               },
+               "southwest" : {
+                  "lat" : 55.95722800000001,
+                  "lng" : -4.8544952
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

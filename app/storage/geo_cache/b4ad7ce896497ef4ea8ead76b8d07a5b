@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lacey Green",
+               "short_name" : "Lacey Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Princes Risborough",
+               "short_name" : "Princes Risborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP27",
+               "short_name" : "HP27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lacey Green, Princes Risborough, Buckinghamshire HP27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6947199,
+               "lng" : -0.8055129999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7016357,
+                  "lng" : -0.7895055999999999
+               },
+               "southwest" : {
+                  "lat" : 51.6878031,
+                  "lng" : -0.8215203999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

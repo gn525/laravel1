@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton St. Loe",
+               "short_name" : "Newton St Loe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bath and North East Somerset",
+               "short_name" : "Bath and North East Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA2",
+               "short_name" : "BA2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newton St. Loe, Bath, Bath and North East Somerset BA2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.384954,
+               "lng" : -2.425443
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.391917,
+                  "lng" : -2.4094356
+               },
+               "southwest" : {
+                  "lat" : 51.3779899,
+                  "lng" : -2.4414504
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

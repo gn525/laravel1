@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirriemuir",
+               "short_name" : "Kirriemuir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kirriemuir",
+               "short_name" : "Kirriemuir",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Angus",
+               "short_name" : "Angus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD8",
+               "short_name" : "DD8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirriemuir, Kirriemuir, Angus DD8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.681521,
+                  "lng" : -2.9897269
+               },
+               "southwest" : {
+                  "lat" : 56.6622567,
+                  "lng" : -3.0245276
+               }
+            },
+            "location" : {
+               "lat" : 56.675117,
+               "lng" : -3.003501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.681521,
+                  "lng" : -2.9897269
+               },
+               "southwest" : {
+                  "lat" : 56.6622567,
+                  "lng" : -3.0245276
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

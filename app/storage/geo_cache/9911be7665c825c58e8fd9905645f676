@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grassington",
+               "short_name" : "Grassington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD23",
+               "short_name" : "BD23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grassington, Skipton, North Yorkshire BD23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.07834829999999,
+                  "lng" : -1.9909085
+               },
+               "southwest" : {
+                  "lat" : 54.0665266,
+                  "lng" : -2.0077635
+               }
+            },
+            "location" : {
+               "lat" : 54.069208,
+               "lng" : -1.999407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.07834829999999,
+                  "lng" : -1.9909085
+               },
+               "southwest" : {
+                  "lat" : 54.0665266,
+                  "lng" : -2.0077635
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rostherne",
+               "short_name" : "Rostherne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Knutsford",
+               "short_name" : "Knutsford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA16",
+               "short_name" : "WA16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rostherne, Knutsford, Cheshire East WA16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.344751,
+               "lng" : -2.387895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3514118,
+                  "lng" : -2.3718876
+               },
+               "southwest" : {
+                  "lat" : 53.3380892,
+                  "lng" : -2.4039024
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

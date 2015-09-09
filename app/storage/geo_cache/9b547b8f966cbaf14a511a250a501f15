@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.09266239999999,
+                  "lng" : 1.2965922
+               },
+               "southwest" : {
+                  "lat" : 51.4510028,
+                  "lng" : -0.0197695
+               }
+            },
+            "location" : {
+               "lat" : 51.76683689999999,
+               "lng" : 0.4757762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.09266239999999,
+                  "lng" : 1.2965922
+               },
+               "southwest" : {
+                  "lat" : 51.4510028,
+                  "lng" : -0.0197695
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

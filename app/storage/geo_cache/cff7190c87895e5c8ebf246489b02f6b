@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arundel",
+               "short_name" : "Arundel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arundel",
+               "short_name" : "Arundel",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN18",
+               "short_name" : "BN18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arundel, Arundel, West Sussex BN18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8771889,
+                  "lng" : -0.5389296
+               },
+               "southwest" : {
+                  "lat" : 50.8408415,
+                  "lng" : -0.6116598
+               }
+            },
+            "location" : {
+               "lat" : 50.855171,
+               "lng" : -0.555119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8771889,
+                  "lng" : -0.5389296
+               },
+               "southwest" : {
+                  "lat" : 50.8408415,
+                  "lng" : -0.6116598
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Crendon",
+               "short_name" : "Long Crendon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Crendon, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.792405,
+                  "lng" : -0.9577733
+               },
+               "southwest" : {
+                  "lat" : 51.7521148,
+                  "lng" : -1.0449553
+               }
+            },
+            "location" : {
+               "lat" : 51.773991,
+               "lng" : -1.001586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.792405,
+                  "lng" : -0.9577733
+               },
+               "southwest" : {
+                  "lat" : 51.7521148,
+                  "lng" : -1.0449553
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

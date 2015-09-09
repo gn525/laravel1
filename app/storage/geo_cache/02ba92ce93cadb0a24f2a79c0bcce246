@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "G T X Karting",
+               "short_name" : "G T X Karting",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rhosddu Industrial Estate",
+               "short_name" : "Rhosddu Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Rhosrobin",
+               "short_name" : "Rhosrobin",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gwersyllt",
+               "short_name" : "Gwersyllt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrexham",
+               "short_name" : "Wrexham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Clwyd",
+               "short_name" : "Clwyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL11 4YL",
+               "short_name" : "LL11 4YL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rhosddu Industrial Estate, G T X Karting, Gwersyllt, Wrexham, Clwyd LL11 4YL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.0650643,
+               "lng" : -3.005691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0664132802915,
+                  "lng" : -3.004342019708498
+               },
+               "southwest" : {
+                  "lat" : 53.0637153197085,
+                  "lng" : -3.007039980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "amusement_park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

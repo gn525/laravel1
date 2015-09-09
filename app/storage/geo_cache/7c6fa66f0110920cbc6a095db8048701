@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WF1",
+               "short_name" : "WF1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Wakefield",
+               "short_name" : "Wakefield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wakefield, West Yorkshire WF1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.71606980000001,
+                  "lng" : -1.4228746
+               },
+               "southwest" : {
+                  "lat" : 53.6531402,
+                  "lng" : -1.5186855
+               }
+            },
+            "location" : {
+               "lat" : 53.689919,
+               "lng" : -1.473526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.71606980000001,
+                  "lng" : -1.4228746
+               },
+               "southwest" : {
+                  "lat" : 53.6531402,
+                  "lng" : -1.5186855
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

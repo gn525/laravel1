@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monmouth",
+               "short_name" : "Monmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monmouth",
+               "short_name" : "Monmouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Monmouthshire",
+               "short_name" : "Monmouthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP25",
+               "short_name" : "NP25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Monmouth, Monmouth NP25, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8382359,
+                  "lng" : -2.6961074
+               },
+               "southwest" : {
+                  "lat" : 51.8016219,
+                  "lng" : -2.7388662
+               }
+            },
+            "location" : {
+               "lat" : 51.816132,
+               "lng" : -2.714501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8382359,
+                  "lng" : -2.6961074
+               },
+               "southwest" : {
+                  "lat" : 51.8016219,
+                  "lng" : -2.7388662
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

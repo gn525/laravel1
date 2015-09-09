@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Down",
+               "short_name" : "Co Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Down, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.49568,
+                  "lng" : -5.522689799999999
+               },
+               "southwest" : {
+                  "lat" : 54.1669899,
+                  "lng" : -6.0759099
+               }
+            },
+            "location" : {
+               "lat" : 54.3412911,
+               "lng" : -5.7484854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.49568,
+                  "lng" : -5.522689799999999
+               },
+               "southwest" : {
+                  "lat" : 54.1669899,
+                  "lng" : -6.0759099
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Hendred",
+               "short_name" : "East Hendred",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wantage",
+               "short_name" : "Wantage",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX12",
+               "short_name" : "OX12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Hendred, Wantage, Oxfordshire OX12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.594728,
+               "lng" : -1.337347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.601659,
+                  "lng" : -1.3213396
+               },
+               "southwest" : {
+                  "lat" : 51.5877959,
+                  "lng" : -1.3533544
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

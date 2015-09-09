@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TW12",
+               "short_name" : "TW12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "TW12, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4384697,
+                  "lng" : -0.3499302
+               },
+               "southwest" : {
+                  "lat" : 51.4079758,
+                  "lng" : -0.3939362
+               }
+            },
+            "location" : {
+               "lat" : 51.4251271,
+               "lng" : -0.3697277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4384697,
+                  "lng" : -0.3499302
+               },
+               "southwest" : {
+                  "lat" : 51.4079758,
+                  "lng" : -0.3939362
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

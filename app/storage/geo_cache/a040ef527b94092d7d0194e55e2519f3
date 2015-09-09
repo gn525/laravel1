@@ -1,0 +1,315 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teesside House",
+               "short_name" : "Teesside House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Borough Road",
+               "short_name" : "Borough Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS1 2ET",
+               "short_name" : "TS1 2ET",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Teesside House, Borough Road, Middlesbrough, Middlesbrough TS1 2ET, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5729251,
+               "lng" : -1.2338893
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5742740802915,
+                  "lng" : -1.232540319708498
+               },
+               "southwest" : {
+                  "lat" : 54.5715761197085,
+                  "lng" : -1.235238280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teesside University",
+               "short_name" : "Teesside University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Borough Road",
+               "short_name" : "Borough Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tees Valley",
+               "short_name" : "Tees Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS1 3BA",
+               "short_name" : "TS1 3BA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Teesside University, Borough Road, Tees Valley, Middlesbrough, Middlesbrough TS1 3BA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.57286269999999,
+                  "lng" : -1.2314216
+               },
+               "southwest" : {
+                  "lat" : 54.56668819999999,
+                  "lng" : -1.2384524
+               }
+            },
+            "location" : {
+               "lat" : 54.5696242,
+               "lng" : -1.2354464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.57286269999999,
+                  "lng" : -1.2314216
+               },
+               "southwest" : {
+                  "lat" : 54.56668819999999,
+                  "lng" : -1.2384524
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Teesside",
+               "short_name" : "University of Teesside",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Teesside University",
+               "short_name" : "Teesside University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Clarendon Road",
+               "short_name" : "Clarendon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS1",
+               "short_name" : "TS1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Teesside, Teesside University, Clarendon Road, Middlesbrough, Cleveland TS1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.571931,
+               "lng" : -1.235243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5732799802915,
+                  "lng" : -1.233894019708498
+               },
+               "southwest" : {
+                  "lat" : 54.5705820197085,
+                  "lng" : -1.236591980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teesside Karting",
+               "short_name" : "Teesside Karting",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Teesside Autodrome",
+               "short_name" : "Teesside Autodrome",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "South Tees Motor Sports Park",
+               "short_name" : "South Tees Motor Sports Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "South Bank Road",
+               "short_name" : "S Bank Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS6 6XH",
+               "short_name" : "TS6 6XH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Teesside Autodrome, South Tees Motor Sports Park, Teesside Karting, South Bank Road, Middlesbrough, Middlesbrough TS6 6XH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5761081,
+               "lng" : -1.1887179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5774570802915,
+                  "lng" : -1.187368919708498
+               },
+               "southwest" : {
+                  "lat" : 54.5747591197085,
+                  "lng" : -1.190066880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "amusement_park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teesside International",
+               "short_name" : "Teesside International",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Durham Tees Valley International Airport",
+               "short_name" : "Durham Tees Valley International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Darlington",
+               "short_name" : "Darlington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL2",
+               "short_name" : "DL2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Teesside International (MME), Durham Tees Valley International Airport, Darlington, Darlington DL2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.509167,
+               "lng" : -1.429167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5105159802915,
+                  "lng" : -1.427818019708498
+               },
+               "southwest" : {
+                  "lat" : 54.5078180197085,
+                  "lng" : -1.430515980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

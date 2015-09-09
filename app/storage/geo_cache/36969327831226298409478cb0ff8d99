@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DE14",
+               "short_name" : "DE14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Burton-on-Trent",
+               "short_name" : "Burton-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burton-on-Trent DE14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.82715289999999,
+                  "lng" : -1.60651
+               },
+               "southwest" : {
+                  "lat" : 52.7708814,
+                  "lng" : -1.6910708
+               }
+            },
+            "location" : {
+               "lat" : 52.803688,
+               "lng" : -1.6546591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.82715289999999,
+                  "lng" : -1.60651
+               },
+               "southwest" : {
+                  "lat" : 52.7708814,
+                  "lng" : -1.6910708
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

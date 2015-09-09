@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CV34",
+               "short_name" : "CV34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warwickshire CV34, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3062723,
+                  "lng" : -1.5337441
+               },
+               "southwest" : {
+                  "lat" : 52.2490105,
+                  "lng" : -1.6143606
+               }
+            },
+            "location" : {
+               "lat" : 52.2763228,
+               "lng" : -1.5798447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3062723,
+                  "lng" : -1.5337441
+               },
+               "southwest" : {
+                  "lat" : 52.2490105,
+                  "lng" : -1.6143606
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warwick",
+               "short_name" : "Warwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warwick, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.29999919999999,
+                  "lng" : -1.5469337
+               },
+               "southwest" : {
+                  "lat" : 52.2587786,
+                  "lng" : -1.6137947
+               }
+            },
+            "location" : {
+               "lat" : 52.28231599999999,
+               "lng" : -1.584927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29999919999999,
+                  "lng" : -1.5469337
+               },
+               "southwest" : {
+                  "lat" : 52.2587786,
+                  "lng" : -1.6137947
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

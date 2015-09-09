@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehouse Business Park",
+               "short_name" : "Whitehouse Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Peterlee",
+               "short_name" : "Peterlee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterlee",
+               "short_name" : "Peterlee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR8 2RU",
+               "short_name" : "SR8 2RU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitehouse Business Park, Peterlee, County Durham SR8 2RU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.7593933,
+               "lng" : -1.374722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7607422802915,
+                  "lng" : -1.373373019708498
+               },
+               "southwest" : {
+                  "lat" : 54.7580443197085,
+                  "lng" : -1.376070980291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehouse Business Park",
+               "short_name" : "Whitehouse Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Traynor Way",
+               "short_name" : "Traynor Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peterlee",
+               "short_name" : "Peterlee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterlee",
+               "short_name" : "Peterlee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR8 2RU",
+               "short_name" : "SR8 2RU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitehouse Business Park, 5 Traynor Way, Peterlee, County Durham SR8 2RU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.7593933,
+               "lng" : -1.374722
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7607422802915,
+                  "lng" : -1.373373019708498
+               },
+               "southwest" : {
+                  "lat" : 54.7580443197085,
+                  "lng" : -1.376070980291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehouse Business Park",
+               "short_name" : "Whitehouse Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Traynor Way",
+               "short_name" : "Traynor Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peterlee",
+               "short_name" : "Peterlee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterlee",
+               "short_name" : "Peterlee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR8 2RU",
+               "short_name" : "SR8 2RU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitehouse Business Park, 2 Traynor Way, Peterlee, County Durham SR8 2RU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.7593933,
+               "lng" : -1.374722
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7607422802915,
+                  "lng" : -1.373373019708498
+               },
+               "southwest" : {
+                  "lat" : 54.7580443197085,
+                  "lng" : -1.376070980291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehouse Business Park",
+               "short_name" : "Whitehouse Business Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Whiteash Green",
+               "short_name" : "Whiteash Green",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Halstead",
+               "short_name" : "Halstead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO9 1PB",
+               "short_name" : "CO9 1PB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitehouse Business Park, Halstead, Essex CO9 1PB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.94857039999999,
+               "lng" : 0.6150002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.94991938029149,
+                  "lng" : 0.616349180291502
+               },
+               "southwest" : {
+                  "lat" : 51.94722141970849,
+                  "lng" : 0.6136512197084979
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

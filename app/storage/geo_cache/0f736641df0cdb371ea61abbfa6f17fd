@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Withernsea",
+               "short_name" : "Withernsea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Riding of Yorkshire",
+               "short_name" : "East Riding of Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Withernsea, East Riding of Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.74148659999999,
+                  "lng" : 0.0486247
+               },
+               "southwest" : {
+                  "lat" : 53.71534459999999,
+                  "lng" : 0.0134008
+               }
+            },
+            "location" : {
+               "lat" : 53.73125599999999,
+               "lng" : 0.032889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.74148659999999,
+                  "lng" : 0.0486247
+               },
+               "southwest" : {
+                  "lat" : 53.71534459999999,
+                  "lng" : 0.0134008
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chorleywood",
+               "short_name" : "Chorleywood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chorleywood, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6730724,
+                  "lng" : -0.4938629
+               },
+               "southwest" : {
+                  "lat" : 51.637362,
+                  "lng" : -0.5410315
+               }
+            },
+            "location" : {
+               "lat" : 51.655632,
+               "lng" : -0.5161829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6730724,
+                  "lng" : -0.4938629
+               },
+               "southwest" : {
+                  "lat" : 51.637362,
+                  "lng" : -0.5410315
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

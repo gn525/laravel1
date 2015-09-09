@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northiam",
+               "short_name" : "Northiam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rye",
+               "short_name" : "Rye",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN31",
+               "short_name" : "TN31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northiam, Rye, East Sussex TN31, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0032092,
+                  "lng" : 0.6155297
+               },
+               "southwest" : {
+                  "lat" : 50.9846821,
+                  "lng" : 0.5919656
+               }
+            },
+            "location" : {
+               "lat" : 50.99459599999999,
+               "lng" : 0.599765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0032092,
+                  "lng" : 0.6155297
+               },
+               "southwest" : {
+                  "lat" : 50.9846821,
+                  "lng" : 0.5919656
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

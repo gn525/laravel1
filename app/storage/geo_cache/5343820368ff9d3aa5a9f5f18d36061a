@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkcudbright",
+               "short_name" : "Kirkcudbright",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirkcudbright, Dumfries and Galloway, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8559689,
+                  "lng" : -4.0294907
+               },
+               "southwest" : {
+                  "lat" : 54.8258063,
+                  "lng" : -4.0638321
+               }
+            },
+            "location" : {
+               "lat" : 54.83756899999999,
+               "lng" : -4.04878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8559689,
+                  "lng" : -4.0294907
+               },
+               "southwest" : {
+                  "lat" : 54.8258063,
+                  "lng" : -4.0638321
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

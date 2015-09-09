@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dumfries and Galloway, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.46405009999999,
+                  "lng" : -2.8573637
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -5.187639
+               }
+            },
+            "location" : {
+               "lat" : 54.988285,
+               "lng" : -3.8577839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.46405009999999,
+                  "lng" : -2.8573637
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -5.187639
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

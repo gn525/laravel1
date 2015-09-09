@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagshot",
+               "short_name" : "Bagshot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bagshot, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.37943139999999,
+                  "lng" : -0.6669763
+               },
+               "southwest" : {
+                  "lat" : 51.3504394,
+                  "lng" : -0.7127237
+               }
+            },
+            "location" : {
+               "lat" : 51.360343,
+               "lng" : -0.697894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.37943139999999,
+                  "lng" : -0.6669763
+               },
+               "southwest" : {
+                  "lat" : 51.3504394,
+                  "lng" : -0.7127237
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

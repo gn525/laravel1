@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunninghill",
+               "short_name" : "Sunninghill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ascot",
+               "short_name" : "Ascot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Windsor and Maidenhead",
+               "short_name" : "Windsor and Maidenhead",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL5",
+               "short_name" : "SL5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sunninghill, Ascot, Windsor and Maidenhead SL5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4013122,
+               "lng" : -0.6557005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4082727,
+                  "lng" : -0.6396931
+               },
+               "southwest" : {
+                  "lat" : 51.3943506,
+                  "lng" : -0.6717079
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

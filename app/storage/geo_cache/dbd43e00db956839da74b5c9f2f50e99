@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cowbridge",
+               "short_name" : "Cowbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cowbridge",
+               "short_name" : "Cowbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Vale of Glamorgan",
+               "short_name" : "Vale of Glamorgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF71",
+               "short_name" : "CF71",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cowbridge, Cowbridge, Vale of Glamorgan CF71, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4746061,
+                  "lng" : -3.3964625
+               },
+               "southwest" : {
+                  "lat" : 51.44442009999999,
+                  "lng" : -3.4880822
+               }
+            },
+            "location" : {
+               "lat" : 51.46209,
+               "lng" : -3.449581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4746061,
+                  "lng" : -3.3964625
+               },
+               "southwest" : {
+                  "lat" : 51.44442009999999,
+                  "lng" : -3.4880822
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

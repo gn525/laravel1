@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haybrook Estate Agent Banner Cross",
+               "short_name" : "Haybrook Estate Agent Banner Cross",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S11 8TR",
+               "short_name" : "S11 8TR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haybrook Estate Agent Banner Cross, Sheffield, South Yorkshire S11 8TR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3614395,
+               "lng" : -1.5085094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.36278848029151,
+                  "lng" : -1.507160419708498
+               },
+               "southwest" : {
+                  "lat" : 53.36009051970851,
+                  "lng" : -1.509858380291502
+               }
+            }
+         },
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

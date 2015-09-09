@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blantyre",
+               "short_name" : "Blantyre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blantyre, South Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8125331,
+                  "lng" : -4.0622303
+               },
+               "southwest" : {
+                  "lat" : 55.76816849999999,
+                  "lng" : -4.116734399999999
+               }
+            },
+            "location" : {
+               "lat" : 55.793868,
+               "lng" : -4.09492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8125331,
+                  "lng" : -4.0622303
+               },
+               "southwest" : {
+                  "lat" : 55.76816849999999,
+                  "lng" : -4.116734399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

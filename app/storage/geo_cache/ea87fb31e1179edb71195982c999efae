@@ -1,0 +1,167 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swan Valley Way",
+               "short_name" : "Swan Valley Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN4 9BS",
+               "short_name" : "NN4 9BS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swan Valley Way, Northampton, Northamptonshire NN4 9BS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2158753,
+                  "lng" : -0.9410504000000001
+               },
+               "southwest" : {
+                  "lat" : 52.2106305,
+                  "lng" : -0.9500358999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.2139321,
+               "lng" : -0.9447402
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2158753,
+                  "lng" : -0.9410504000000001
+               },
+               "southwest" : {
+                  "lat" : 52.2106305,
+                  "lng" : -0.9500358999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swan Valley, adj Blacks",
+               "short_name" : "Swan Valley, adj Blacks",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN4",
+               "short_name" : "NN4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swan Valley, adj Blacks, Northampton, Northamptonshire NN4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.218781,
+               "lng" : -0.946637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2201299802915,
+                  "lng" : -0.9452880197084979
+               },
+               "southwest" : {
+                  "lat" : 52.2174320197085,
+                  "lng" : -0.9479859802915019
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swan Valley Way",
+               "short_name" : "Swan Valley Way",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN4 8BD",
+               "short_name" : "NN4 8BD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swan Valley Way, Northampton, Northamptonshire NN4 8BD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2156465,
+               "lng" : -0.8974412
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2169954802915,
+                  "lng" : -0.896092219708498
+               },
+               "southwest" : {
+                  "lat" : 52.2142975197085,
+                  "lng" : -0.898790180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

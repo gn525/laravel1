@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ballymena",
+               "short_name" : "Ballymena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballymena",
+               "short_name" : "Ballymena",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ballymena",
+               "short_name" : "Ballymena",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT43",
+               "short_name" : "BT43",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ballymena, Ballymena, Ballymena BT43, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.86537999999999,
+               "lng" : -6.28038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8718009,
+                  "lng" : -6.2643726
+               },
+               "southwest" : {
+                  "lat" : 54.8589581,
+                  "lng" : -6.2963874
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wrekin",
+               "short_name" : "Wrekin",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Telford",
+               "short_name" : "Telford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TF6",
+               "short_name" : "TF6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wrekin, Telford, Telford and Wrekin TF6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.681784,
+               "lng" : -2.540885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6885479,
+                  "lng" : -2.5248776
+               },
+               "southwest" : {
+                  "lat" : 52.675019,
+                  "lng" : -2.5568924
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Georgetown",
+               "short_name" : "Georgetown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Johnstone",
+               "short_name" : "Johnstone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA6",
+               "short_name" : "PA6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Georgetown, Johnstone, Renfrewshire PA6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.876378,
+               "lng" : -4.473076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.88263689999999,
+                  "lng" : -4.457068599999999
+               },
+               "southwest" : {
+                  "lat" : 55.8701181,
+                  "lng" : -4.4890834
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

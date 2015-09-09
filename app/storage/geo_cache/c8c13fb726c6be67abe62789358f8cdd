@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Easton on the Hill",
+               "short_name" : "Easton on the Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE9",
+               "short_name" : "PE9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Easton on the Hill, Stamford, Northamptonshire PE9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.63283509999999,
+                  "lng" : -0.4950941
+               },
+               "southwest" : {
+                  "lat" : 52.6212514,
+                  "lng" : -0.5193139
+               }
+            },
+            "location" : {
+               "lat" : 52.6264252,
+               "lng" : -0.5066109999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.63283509999999,
+                  "lng" : -0.4950941
+               },
+               "southwest" : {
+                  "lat" : 52.6212514,
+                  "lng" : -0.5193139
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

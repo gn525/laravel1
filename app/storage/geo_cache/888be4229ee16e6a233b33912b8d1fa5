@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chard",
+               "short_name" : "Chard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chard",
+               "short_name" : "Chard",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA20",
+               "short_name" : "TA20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chard, Chard, Somerset TA20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.88691240000001,
+                  "lng" : -2.9386537
+               },
+               "southwest" : {
+                  "lat" : 50.8587819,
+                  "lng" : -2.9788626
+               }
+            },
+            "location" : {
+               "lat" : 50.8697919,
+               "lng" : -2.963316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.88691240000001,
+                  "lng" : -2.9386537
+               },
+               "southwest" : {
+                  "lat" : 50.8587819,
+                  "lng" : -2.9788626
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

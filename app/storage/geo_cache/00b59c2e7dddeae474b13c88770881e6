@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beccles",
+               "short_name" : "Beccles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beccles",
+               "short_name" : "Beccles",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR34",
+               "short_name" : "NR34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beccles, Beccles, Suffolk NR34, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4786692,
+                  "lng" : 1.6005665
+               },
+               "southwest" : {
+                  "lat" : 52.4361575,
+                  "lng" : 1.5441355
+               }
+            },
+            "location" : {
+               "lat" : 52.459333,
+               "lng" : 1.566053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4786692,
+                  "lng" : 1.6005665
+               },
+               "southwest" : {
+                  "lat" : 52.4361575,
+                  "lng" : 1.5441355
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

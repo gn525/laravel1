@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ML4",
+               "short_name" : "ML4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ML4, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8406297,
+                  "lng" : -3.98318
+               },
+               "southwest" : {
+                  "lat" : 55.7971304,
+                  "lng" : -4.052440799999999
+               }
+            },
+            "location" : {
+               "lat" : 55.82030229999999,
+               "lng" : -4.0165014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8406297,
+                  "lng" : -3.98318
+               },
+               "southwest" : {
+                  "lat" : 55.7971304,
+                  "lng" : -4.052440799999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

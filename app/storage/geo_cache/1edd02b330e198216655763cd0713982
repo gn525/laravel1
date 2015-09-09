@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Headcorn",
+               "short_name" : "Headcorn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashford",
+               "short_name" : "Ashford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN27",
+               "short_name" : "TN27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Headcorn, Ashford, Kent TN27, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1807206,
+                  "lng" : 0.6440292999999999
+               },
+               "southwest" : {
+                  "lat" : 51.16367529999999,
+                  "lng" : 0.6037547999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.16943000000001,
+               "lng" : 0.619856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1807206,
+                  "lng" : 0.6440292999999999
+               },
+               "southwest" : {
+                  "lat" : 51.16367529999999,
+                  "lng" : 0.6037547999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cape Cottage",
+               "short_name" : "Cape Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "E H Building Preservation Serv",
+               "short_name" : "E H Building Preservation Serv",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1311",
+               "short_name" : "1311",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carmarthen Road",
+               "short_name" : "Carmarthen Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fforest-fach",
+               "short_name" : "Fforest-fach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA5 4BP",
+               "short_name" : "SA5 4BP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cape Cottage, E H Building Preservation Serv, 1311 Carmarthen Road, Fforest-fach, Swansea, Swansea SA5 4BP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6496484,
+               "lng" : -3.9932127
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6509973802915,
+                  "lng" : -3.991863719708498
+               },
+               "southwest" : {
+                  "lat" : 51.6482994197085,
+                  "lng" : -3.994561680291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cape House",
+               "short_name" : "Cape House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bellingdon Road",
+               "short_name" : "Bellingdon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chesham",
+               "short_name" : "Chesham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chesham",
+               "short_name" : "Chesham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP5 2HQ",
+               "short_name" : "HP5 2HQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cape House, 105 Bellingdon Road, Chesham, Buckinghamshire HP5 2HQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7106845,
+               "lng" : -0.6129751
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7120334802915,
+                  "lng" : -0.611626119708498
+               },
+               "southwest" : {
+                  "lat" : 51.7093355197085,
+                  "lng" : -0.6143240802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capecastle",
+               "short_name" : "Capecastle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballycastle",
+               "short_name" : "Ballycastle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Moyle",
+               "short_name" : "Moyle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT54",
+               "short_name" : "BT54",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Capecastle, Ballycastle, Moyle BT54, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.1667847,
+               "lng" : -6.2987782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1681336802915,
+                  "lng" : -6.297429219708498
+               },
+               "southwest" : {
+                  "lat" : 55.1654357197085,
+                  "lng" : -6.300127180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

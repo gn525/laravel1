@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antrim",
+               "short_name" : "Antrim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antrim, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8118,
+                  "lng" : -5.9861
+               },
+               "southwest" : {
+                  "lat" : 54.58299,
+                  "lng" : -6.4800601
+               }
+            },
+            "location" : {
+               "lat" : 54.666248,
+               "lng" : -6.2864659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8118,
+                  "lng" : -5.9861
+               },
+               "southwest" : {
+                  "lat" : 54.58299,
+                  "lng" : -6.4800601
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

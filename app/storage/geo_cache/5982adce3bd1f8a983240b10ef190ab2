@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worldwide House",
+               "short_name" : "Worldwide House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Thorpe Wood",
+               "short_name" : "Thorpe Wood",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE3 6SB",
+               "short_name" : "PE3 6SB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Worldwide House, Thorpe Wood, Peterborough, Peterborough PE3 6SB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.57083129999999,
+               "lng" : -0.3006158
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5721802802915,
+                  "lng" : -0.2992668197084979
+               },
+               "southwest" : {
+                  "lat" : 52.5694823197085,
+                  "lng" : -0.301964780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worldwide Way",
+               "short_name" : "Worldwide Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stallingborough",
+               "short_name" : "Stallingborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grimsby",
+               "short_name" : "Grimsby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North East Lincolnshire",
+               "short_name" : "North East Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN41 8DY",
+               "short_name" : "DN41 8DY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Worldwide Way, Stallingborough, Grimsby, North East Lincolnshire DN41 8DY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6092794,
+                  "lng" : -0.1660249
+               },
+               "southwest" : {
+                  "lat" : 53.60728100000001,
+                  "lng" : -0.1710114
+               }
+            },
+            "location" : {
+               "lat" : 53.6083432,
+               "lng" : -0.1686395
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.60962918029151,
+                  "lng" : -0.1660249
+               },
+               "southwest" : {
+                  "lat" : 53.60693121970851,
+                  "lng" : -0.1710114
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

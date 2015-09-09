@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kendal",
+               "short_name" : "Kendal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kendal",
+               "short_name" : "Kendal",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kendal, Kendal, Cumbria, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3481643,
+                  "lng" : -2.7136303
+               },
+               "southwest" : {
+                  "lat" : 54.3050503,
+                  "lng" : -2.7684631
+               }
+            },
+            "location" : {
+               "lat" : 54.32800599999999,
+               "lng" : -2.74629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3481643,
+                  "lng" : -2.7136303
+               },
+               "southwest" : {
+                  "lat" : 54.3050503,
+                  "lng" : -2.7684631
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

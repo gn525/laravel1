@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milton Brae",
+               "short_name" : "Milton Brae",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dumbarton",
+               "short_name" : "Dumbarton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Dunbartonshire",
+               "short_name" : "West Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G82",
+               "short_name" : "G82",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milton Brae, Dumbarton, West Dunbartonshire G82, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.94776530000001,
+                  "lng" : -4.5171559
+               },
+               "southwest" : {
+                  "lat" : 55.9361152,
+                  "lng" : -4.539927899999999
+               }
+            },
+            "location" : {
+               "lat" : 55.9425055,
+               "lng" : -4.5218736
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.94776530000001,
+                  "lng" : -4.5171559
+               },
+               "southwest" : {
+                  "lat" : 55.9361152,
+                  "lng" : -4.539927899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

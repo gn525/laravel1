@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Winscombe",
+               "short_name" : "Winscombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winscombe",
+               "short_name" : "Winscombe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS25",
+               "short_name" : "BS25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Winscombe, Winscombe, North Somerset BS25, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3271297,
+                  "lng" : -2.8116856
+               },
+               "southwest" : {
+                  "lat" : 51.2995635,
+                  "lng" : -2.8602189
+               }
+            },
+            "location" : {
+               "lat" : 51.303663,
+               "lng" : -2.847222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3271297,
+                  "lng" : -2.8116856
+               },
+               "southwest" : {
+                  "lat" : 51.2995635,
+                  "lng" : -2.8602189
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

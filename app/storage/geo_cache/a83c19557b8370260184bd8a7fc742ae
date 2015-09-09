@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tiptree",
+               "short_name" : "Tiptree",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO5",
+               "short_name" : "CO5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tiptree, Colchester, Essex CO5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.823437,
+                  "lng" : 0.7766185999999999
+               },
+               "southwest" : {
+                  "lat" : 51.80331289999999,
+                  "lng" : 0.7246994
+               }
+            },
+            "location" : {
+               "lat" : 51.812119,
+               "lng" : 0.74656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.823437,
+                  "lng" : 0.7766185999999999
+               },
+               "southwest" : {
+                  "lat" : 51.80331289999999,
+                  "lng" : 0.7246994
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

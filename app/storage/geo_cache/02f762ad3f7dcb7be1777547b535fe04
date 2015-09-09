@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whatton-in-the-Vale",
+               "short_name" : "Whatton-in-the-Vale",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Rushcliffe District",
+               "short_name" : "Rushcliffe District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG13",
+               "short_name" : "NG13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whatton-in-the-Vale, Nottinghamshire NG13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9554972,
+                  "lng" : -0.8699574999999999
+               },
+               "southwest" : {
+                  "lat" : 52.92503499999999,
+                  "lng" : -0.9233264
+               }
+            },
+            "location" : {
+               "lat" : 52.9405368,
+               "lng" : -0.8906706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9554972,
+                  "lng" : -0.8699574999999999
+               },
+               "southwest" : {
+                  "lat" : 52.92503499999999,
+                  "lng" : -0.9233264
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whatton",
+               "short_name" : "Whatton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG13",
+               "short_name" : "NG13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whatton, Nottingham, Nottinghamshire NG13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.945776,
+               "lng" : -0.892034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9471249802915,
+                  "lng" : -0.890685019708498
+               },
+               "southwest" : {
+                  "lat" : 52.9444270197085,
+                  "lng" : -0.8933829802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

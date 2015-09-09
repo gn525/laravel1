@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarland",
+               "short_name" : "Tarland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aboyne",
+               "short_name" : "Aboyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB34",
+               "short_name" : "AB34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tarland, Aboyne, Aberdeenshire AB34, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.1363995,
+                  "lng" : -2.8462516
+               },
+               "southwest" : {
+                  "lat" : 57.1237693,
+                  "lng" : -2.8713506
+               }
+            },
+            "location" : {
+               "lat" : 57.128262,
+               "lng" : -2.854981
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.1363995,
+                  "lng" : -2.8462516
+               },
+               "southwest" : {
+                  "lat" : 57.1237693,
+                  "lng" : -2.8713506
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

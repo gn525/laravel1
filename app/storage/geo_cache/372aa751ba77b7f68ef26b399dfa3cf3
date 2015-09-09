@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SY1",
+               "short_name" : "SY1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Shrewsbury",
+               "short_name" : "Shrewsbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shrewsbury, Shropshire SY1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7538421,
+                  "lng" : -2.7035844
+               },
+               "southwest" : {
+                  "lat" : 52.7034907,
+                  "lng" : -2.7698818
+               }
+            },
+            "location" : {
+               "lat" : 52.7301332,
+               "lng" : -2.7372308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7538421,
+                  "lng" : -2.7035844
+               },
+               "southwest" : {
+                  "lat" : 52.7034907,
+                  "lng" : -2.7698818
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

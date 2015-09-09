@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiddingfold",
+               "short_name" : "Chiddingfold",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiddingfold, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1325486,
+                  "lng" : -0.585299
+               },
+               "southwest" : {
+                  "lat" : 51.0753145,
+                  "lng" : -0.6892305999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.111281,
+               "lng" : -0.6281829999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1325486,
+                  "lng" : -0.585299
+               },
+               "southwest" : {
+                  "lat" : 51.0753145,
+                  "lng" : -0.6892305999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

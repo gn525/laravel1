@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prestbury",
+               "short_name" : "Prestbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prestbury, Cheshire East, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.33181339999999,
+                  "lng" : -2.1244334
+               },
+               "southwest" : {
+                  "lat" : 53.27069119999999,
+                  "lng" : -2.184579
+               }
+            },
+            "location" : {
+               "lat" : 53.294057,
+               "lng" : -2.148725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.33181339999999,
+                  "lng" : -2.1244334
+               },
+               "southwest" : {
+                  "lat" : 53.27069119999999,
+                  "lng" : -2.184579
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prestbury",
+               "short_name" : "Prestbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prestbury, Cheltenham, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9296957,
+                  "lng" : -2.0326712
+               },
+               "southwest" : {
+                  "lat" : 51.90734750000001,
+                  "lng" : -2.0829311
+               }
+            },
+            "location" : {
+               "lat" : 51.912414,
+               "lng" : -2.039427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9296957,
+                  "lng" : -2.0326712
+               },
+               "southwest" : {
+                  "lat" : 51.90734750000001,
+                  "lng" : -2.0829311
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

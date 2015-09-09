@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malton",
+               "short_name" : "Malton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malton",
+               "short_name" : "Malton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO17",
+               "short_name" : "YO17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malton, Malton, North Yorkshire YO17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.146617,
+                  "lng" : -0.7835945
+               },
+               "southwest" : {
+                  "lat" : 54.12400900000001,
+                  "lng" : -0.8258099
+               }
+            },
+            "location" : {
+               "lat" : 54.136836,
+               "lng" : -0.7978970000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.146617,
+                  "lng" : -0.7835945
+               },
+               "southwest" : {
+                  "lat" : 54.12400900000001,
+                  "lng" : -0.8258099
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malton",
+               "short_name" : "Malton",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Norton",
+               "short_name" : "Norton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malton",
+               "short_name" : "Malton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO17",
+               "short_name" : "YO17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malton, Norton, Malton, North Yorkshire YO17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.13209,
+               "lng" : -0.79723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1334389802915,
+                  "lng" : -0.7958810197084979
+               },
+               "southwest" : {
+                  "lat" : 54.1307410197085,
+                  "lng" : -0.798578980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

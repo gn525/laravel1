@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Business Park",
+               "short_name" : "Cleveland Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "363",
+               "short_name" : "363",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cleveland Street",
+               "short_name" : "Cleveland St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birkenhead",
+               "short_name" : "Birkenhead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birkenhead",
+               "short_name" : "Birkenhead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH41 4JW",
+               "short_name" : "CH41 4JW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Business Park, 363 Cleveland Street, Birkenhead, Merseyside CH41 4JW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.39886079999999,
+               "lng" : -3.0327893
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4002097802915,
+                  "lng" : -3.031440319708498
+               },
+               "southwest" : {
+                  "lat" : 53.3975118197085,
+                  "lng" : -3.034138280291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

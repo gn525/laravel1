@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EX5",
+               "short_name" : "EX5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, Devon EX5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8626577,
+                  "lng" : -3.2958651
+               },
+               "southwest" : {
+                  "lat" : 50.65358149999999,
+                  "lng" : -3.63206
+               }
+            },
+            "location" : {
+               "lat" : 50.8159298,
+               "lng" : -3.4373061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8626577,
+                  "lng" : -3.2958651
+               },
+               "southwest" : {
+                  "lat" : 50.65358149999999,
+                  "lng" : -3.63206
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

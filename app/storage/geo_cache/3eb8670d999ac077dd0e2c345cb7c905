@@ -1,0 +1,522 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam House",
+               "short_name" : "Amsterdam House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "147",
+               "short_name" : "147",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Folkestone Road",
+               "short_name" : "Folkestone Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT17 9SG",
+               "short_name" : "CT17 9SG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam House, 147 Folkestone Road, Dover, Kent CT17 9SG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.12422050000001,
+               "lng" : 1.3015859
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.12556948029151,
+                  "lng" : 1.302934880291502
+               },
+               "southwest" : {
+                  "lat" : 51.12287151970851,
+                  "lng" : 1.300236919708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam Way",
+               "short_name" : "Amsterdam Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR6 6JT",
+               "short_name" : "NR6 6JT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam Way, Norwich, Norfolk NR6 6JT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.66976690000001,
+                  "lng" : 1.2784251
+               },
+               "southwest" : {
+                  "lat" : 52.6686862,
+                  "lng" : 1.2710266
+               }
+            },
+            "location" : {
+               "lat" : 52.669145,
+               "lng" : 1.2730252
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6705755302915,
+                  "lng" : 1.2784251
+               },
+               "southwest" : {
+                  "lat" : 52.6678775697085,
+                  "lng" : 1.2710266
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam Road",
+               "short_name" : "Amsterdam Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR3",
+               "short_name" : "SR3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam Road, Sunderland, Tyne and Wear SR3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8756468,
+                  "lng" : -1.4170191
+               },
+               "southwest" : {
+                  "lat" : 54.8748501,
+                  "lng" : -1.4225307
+               }
+            },
+            "location" : {
+               "lat" : 54.8753551,
+               "lng" : -1.4201875
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8765974302915,
+                  "lng" : -1.4170191
+               },
+               "southwest" : {
+                  "lat" : 54.8738994697085,
+                  "lng" : -1.4225307
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam Road",
+               "short_name" : "Amsterdam Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kingston upon Hull",
+               "short_name" : "Kingston upon Hull",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HU7",
+               "short_name" : "HU7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam Road, Hull, Kingston upon Hull HU7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7773555,
+                  "lng" : -0.3213344
+               },
+               "southwest" : {
+                  "lat" : 53.77566270000001,
+                  "lng" : -0.3287343
+               }
+            },
+            "location" : {
+               "lat" : 53.77639910000001,
+               "lng" : -0.3254324
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7778580802915,
+                  "lng" : -0.3213344
+               },
+               "southwest" : {
+                  "lat" : 53.77516011970851,
+                  "lng" : -0.3287343
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam Road",
+               "short_name" : "Amsterdam Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Isle of Dogs",
+               "short_name" : "Isle of Dogs",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E14 3JB",
+               "short_name" : "E14 3JB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam Road, Isle of Dogs, London E14 3JB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4954524,
+                  "lng" : -0.006180700000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4937453,
+                  "lng" : -0.008855499999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4951125,
+               "lng" : -0.008154399999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4959478302915,
+                  "lng" : -0.006169119708497971
+               },
+               "southwest" : {
+                  "lat" : 51.4932498697085,
+                  "lng" : -0.008867080291502032
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam Gardens",
+               "short_name" : "Amsterdam Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spalding",
+               "short_name" : "Spalding",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spalding",
+               "short_name" : "Spalding",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE11",
+               "short_name" : "PE11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam Gardens, Spalding, Spalding, Lincolnshire PE11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7824386,
+                  "lng" : -0.1679486
+               },
+               "southwest" : {
+                  "lat" : 52.7814951,
+                  "lng" : -0.1693205
+               }
+            },
+            "location" : {
+               "lat" : 52.78195640000001,
+               "lng" : -0.1690985
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7833158302915,
+                  "lng" : -0.167285569708498
+               },
+               "southwest" : {
+                  "lat" : 52.7806178697085,
+                  "lng" : -0.169983530291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Amsterdam",
+               "short_name" : "The Amsterdam",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "467-471",
+               "short_name" : "467-471",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Upper Shoreham Road",
+               "short_name" : "Upper Shoreham Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shoreham-by-Sea",
+               "short_name" : "Shoreham-by-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shoreham-by-Sea",
+               "short_name" : "Shoreham-by-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN43 5WQ",
+               "short_name" : "BN43 5WQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Amsterdam, 467-471 Upper Shoreham Road, Shoreham-by-Sea, West Sussex BN43 5WQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.83949339999999,
+               "lng" : -0.2854381
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8408423802915,
+                  "lng" : -0.2840891197084979
+               },
+               "southwest" : {
+                  "lat" : 50.8381444197085,
+                  "lng" : -0.286787080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam Square",
+               "short_name" : "Amsterdam Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH23",
+               "short_name" : "BH23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam Square, Christchurch, Christchurch, Dorset BH23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7366512,
+                  "lng" : -1.7663357
+               },
+               "southwest" : {
+                  "lat" : 50.736244,
+                  "lng" : -1.7667305
+               }
+            },
+            "location" : {
+               "lat" : 50.7363912,
+               "lng" : -1.7666241
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.73779658029149,
+                  "lng" : -1.765184119708498
+               },
+               "southwest" : {
+                  "lat" : 50.73509861970849,
+                  "lng" : -1.767882080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

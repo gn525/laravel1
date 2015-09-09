@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gawcott",
+               "short_name" : "Gawcott",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckingham",
+               "short_name" : "Buckingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK18",
+               "short_name" : "MK18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gawcott, Buckingham, Buckinghamshire MK18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.98098599999999,
+               "lng" : -1.008097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.98785789999999,
+                  "lng" : -0.9920895999999999
+               },
+               "southwest" : {
+                  "lat" : 51.974113,
+                  "lng" : -1.0241044
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

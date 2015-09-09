@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PE22",
+               "short_name" : "PE22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boston, Lincolnshire PE22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1719646,
+                  "lng" : 0.2631453
+               },
+               "southwest" : {
+                  "lat" : 52.9305465,
+                  "lng" : -0.1626319
+               }
+            },
+            "location" : {
+               "lat" : 53.0673879,
+               "lng" : 0.0248174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1719646,
+                  "lng" : 0.2631453
+               },
+               "southwest" : {
+                  "lat" : 52.9305465,
+                  "lng" : -0.1626319
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

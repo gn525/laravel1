@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daresbury",
+               "short_name" : "Daresbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Halton",
+               "short_name" : "Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA4",
+               "short_name" : "WA4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Daresbury, Warrington, Halton WA4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.34044799999999,
+               "lng" : -2.631998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.34710949999999,
+                  "lng" : -2.6159906
+               },
+               "southwest" : {
+                  "lat" : 53.3337855,
+                  "lng" : -2.6480054
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

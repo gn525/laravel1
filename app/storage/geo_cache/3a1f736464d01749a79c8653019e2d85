@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Appleton Wiske",
+               "short_name" : "Appleton Wiske",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northallerton",
+               "short_name" : "Northallerton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL6",
+               "short_name" : "DL6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Appleton Wiske, Northallerton, North Yorkshire DL6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.437459,
+               "lng" : -1.397529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4439479,
+                  "lng" : -1.3815216
+               },
+               "southwest" : {
+                  "lat" : 54.4309691,
+                  "lng" : -1.4135364
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

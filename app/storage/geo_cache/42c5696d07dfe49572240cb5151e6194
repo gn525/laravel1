@@ -1,0 +1,256 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "High Street Industrial Estate",
+               "short_name" : "High Street Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Long Lane",
+               "short_name" : "Long Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "High Street",
+               "short_name" : "High Street",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Austell",
+               "short_name" : "Saint Austell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL26 7SU",
+               "short_name" : "PL26 7SU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "High Street Industrial Estate, Long Lane, High Street, Saint Austell, Cornwall PL26 7SU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.34150100000001,
+               "lng" : -4.8608513
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.34284998029151,
+                  "lng" : -4.859502319708498
+               },
+               "southwest" : {
+                  "lat" : 50.34015201970851,
+                  "lng" : -4.862200280291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cornwall Street",
+               "short_name" : "Cornwall St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peterlee",
+               "short_name" : "Peterlee",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR8 3RF",
+               "short_name" : "SR8 3RF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cornwall Street, Peterlee, County Durham SR8 3RF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7861937,
+                  "lng" : -1.3184759
+               },
+               "southwest" : {
+                  "lat" : 54.78598239999999,
+                  "lng" : -1.3199046
+               }
+            },
+            "location" : {
+               "lat" : 54.7860531,
+               "lng" : -1.3199046
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.78743703029149,
+                  "lng" : -1.317841269708498
+               },
+               "southwest" : {
+                  "lat" : 54.7847390697085,
+                  "lng" : -1.320539230291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cornwall Close",
+               "short_name" : "Cornwall Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castlefields",
+               "short_name" : "Castlefields",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Runcorn",
+               "short_name" : "Runcorn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Runcorn",
+               "short_name" : "Runcorn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Halton",
+               "short_name" : "Halton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA7 2JS",
+               "short_name" : "WA7 2JS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cornwall Close, Runcorn, Halton WA7 2JS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3367432,
+                  "lng" : -2.6969203
+               },
+               "southwest" : {
+                  "lat" : 53.3360056,
+                  "lng" : -2.6990587
+               }
+            },
+            "location" : {
+               "lat" : 53.3362106,
+               "lng" : -2.6978779
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3377233802915,
+                  "lng" : -2.696640519708498
+               },
+               "southwest" : {
+                  "lat" : 53.3350254197085,
+                  "lng" : -2.699338480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cornwall Drive",
+               "short_name" : "Cornwall Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stafford",
+               "short_name" : "Stafford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stafford",
+               "short_name" : "Stafford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST17",
+               "short_name" : "ST17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cornwall Drive, Stafford, Stafford, Staffordshire ST17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7995481,
+                  "lng" : -2.0728044
+               },
+               "southwest" : {
+                  "lat" : 52.7964145,
+                  "lng" : -2.0824296
+               }
+            },
+            "location" : {
+               "lat" : 52.7983795,
+               "lng" : -2.0781701
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7995481,
+                  "lng" : -2.0728044
+               },
+               "southwest" : {
+                  "lat" : 52.7964145,
+                  "lng" : -2.0824296
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

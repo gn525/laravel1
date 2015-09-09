@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barton-under-Needwood",
+               "short_name" : "Barton-under-Needwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burton-on-Trent",
+               "short_name" : "Burton-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE13",
+               "short_name" : "DE13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barton-under-Needwood, Burton-on-Trent, Staffordshire DE13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.763978,
+               "lng" : -1.723373
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7707292,
+                  "lng" : -1.7073656
+               },
+               "southwest" : {
+                  "lat" : 52.7572258,
+                  "lng" : -1.7393804
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

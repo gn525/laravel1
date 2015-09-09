@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BD4",
+               "short_name" : "BD4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bradford, West Yorkshire BD4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7973577,
+                  "lng" : -1.6419665
+               },
+               "southwest" : {
+                  "lat" : 53.74481710000001,
+                  "lng" : -1.7573249
+               }
+            },
+            "location" : {
+               "lat" : 53.7737025,
+               "lng" : -1.7010356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7973577,
+                  "lng" : -1.6419665
+               },
+               "southwest" : {
+                  "lat" : 53.74481710000001,
+                  "lng" : -1.7573249
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

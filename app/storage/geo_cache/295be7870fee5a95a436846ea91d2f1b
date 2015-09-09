@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adventure Based Learning",
+               "short_name" : "Adventure Based Learning",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oldham",
+               "short_name" : "Oldham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OL3 7NH",
+               "short_name" : "OL3 7NH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Adventure Based Learning, Greenfield, Oldham, Lancashire OL3 7NH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.531743,
+               "lng" : -1.997344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5330919802915,
+                  "lng" : -1.995995019708498
+               },
+               "southwest" : {
+                  "lat" : 53.5303940197085,
+                  "lng" : -1.998692980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

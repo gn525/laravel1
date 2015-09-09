@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Diego Road",
+               "short_name" : "San Diego Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gosport",
+               "short_name" : "Gosport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gosport",
+               "short_name" : "Gosport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO12 4QT",
+               "short_name" : "PO12 4QT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Diego Road, Gosport, Hampshire PO12 4QT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8054569,
+                  "lng" : -1.1382168
+               },
+               "southwest" : {
+                  "lat" : 50.8035325,
+                  "lng" : -1.1431606
+               }
+            },
+            "location" : {
+               "lat" : 50.80461709999999,
+               "lng" : -1.1408197
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8058436802915,
+                  "lng" : -1.1382168
+               },
+               "southwest" : {
+                  "lat" : 50.8031457197085,
+                  "lng" : -1.1431606
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Diego Way",
+               "short_name" : "San Diego Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastbourne",
+               "short_name" : "Eastbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eastbourne",
+               "short_name" : "Eastbourne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN23",
+               "short_name" : "BN23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Diego Way, Eastbourne, Eastbourne, East Sussex BN23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7980181,
+                  "lng" : 0.3363043
+               },
+               "southwest" : {
+                  "lat" : 50.7975135,
+                  "lng" : 0.3354259
+               }
+            },
+            "location" : {
+               "lat" : 50.7977833,
+               "lng" : 0.3359424
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7991147802915,
+                  "lng" : 0.337214080291502
+               },
+               "southwest" : {
+                  "lat" : 50.7964168197085,
+                  "lng" : 0.3345161197084979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

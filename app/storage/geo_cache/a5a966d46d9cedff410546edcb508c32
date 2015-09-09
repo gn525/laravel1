@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kennet",
+               "short_name" : "Kennet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alloa",
+               "short_name" : "Alloa",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Clackmannanshire",
+               "short_name" : "Clackmannanshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK10",
+               "short_name" : "FK10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kennet, Alloa, Clackmannanshire FK10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.09913299999999,
+               "lng" : -3.727046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.10535600000001,
+                  "lng" : -3.7110386
+               },
+               "southwest" : {
+                  "lat" : 56.092909,
+                  "lng" : -3.7430534
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chepstow",
+               "short_name" : "Chepstow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chepstow",
+               "short_name" : "Chepstow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Monmouthshire",
+               "short_name" : "Monmouthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP16",
+               "short_name" : "NP16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chepstow, Chepstow, Monmouthshire NP16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6491661,
+                  "lng" : -2.6634593
+               },
+               "southwest" : {
+                  "lat" : 51.6219323,
+                  "lng" : -2.6999928
+               }
+            },
+            "location" : {
+               "lat" : 51.641856,
+               "lng" : -2.673804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6491661,
+                  "lng" : -2.6634593
+               },
+               "southwest" : {
+                  "lat" : 51.6219323,
+                  "lng" : -2.6999928
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

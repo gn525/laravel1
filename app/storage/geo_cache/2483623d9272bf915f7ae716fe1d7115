@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Lulworth",
+               "short_name" : "West Lulworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wareham",
+               "short_name" : "Wareham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH20",
+               "short_name" : "BH20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Lulworth, Wareham, Dorset BH20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.625818,
+               "lng" : -2.247958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6328959,
+                  "lng" : -2.2319506
+               },
+               "southwest" : {
+                  "lat" : 50.618739,
+                  "lng" : -2.2639654
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

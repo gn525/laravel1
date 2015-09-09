@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberfan",
+               "short_name" : "Aberfan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merthyr Tydfil",
+               "short_name" : "Merthyr Tydfil",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merthyr Tydfil",
+               "short_name" : "Merthyr Tydfil",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF48",
+               "short_name" : "CF48",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aberfan, Merthyr Tydfil, Merthyr Tydfil CF48, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7038788,
+                  "lng" : -3.3370962
+               },
+               "southwest" : {
+                  "lat" : 51.6808114,
+                  "lng" : -3.3522424
+               }
+            },
+            "location" : {
+               "lat" : 51.694515,
+               "lng" : -3.345293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7038788,
+                  "lng" : -3.3370962
+               },
+               "southwest" : {
+                  "lat" : 51.6808114,
+                  "lng" : -3.3522424
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

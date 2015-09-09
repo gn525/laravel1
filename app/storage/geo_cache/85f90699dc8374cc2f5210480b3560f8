@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abergavenny",
+               "short_name" : "Abergavenny",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abergavenny",
+               "short_name" : "Abergavenny",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Monmouthshire",
+               "short_name" : "Monmouthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP7",
+               "short_name" : "NP7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Abergavenny, Abergavenny, Monmouthshire NP7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8420812,
+                  "lng" : -2.9919309
+               },
+               "southwest" : {
+                  "lat" : 51.80864039999999,
+                  "lng" : -3.046924
+               }
+            },
+            "location" : {
+               "lat" : 51.825366,
+               "lng" : -3.019423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8420812,
+                  "lng" : -2.9919309
+               },
+               "southwest" : {
+                  "lat" : 51.80864039999999,
+                  "lng" : -3.046924
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

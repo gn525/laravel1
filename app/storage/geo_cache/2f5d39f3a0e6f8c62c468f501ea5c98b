@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BN16",
+               "short_name" : "BN16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Littlehampton",
+               "short_name" : "Littlehampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Littlehampton, West Sussex BN16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8788164,
+                  "lng" : -0.4552008
+               },
+               "southwest" : {
+                  "lat" : 50.8016884,
+                  "lng" : -0.5274118
+               }
+            },
+            "location" : {
+               "lat" : 50.8133808,
+               "lng" : -0.4944921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8788164,
+                  "lng" : -0.4552008
+               },
+               "southwest" : {
+                  "lat" : 50.8016884,
+                  "lng" : -0.5274118
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

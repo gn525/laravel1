@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penn",
+               "short_name" : "Penn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Penn, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6548466,
+                  "lng" : -0.6402658999999999
+               },
+               "southwest" : {
+                  "lat" : 51.6078536,
+                  "lng" : -0.6973376
+               }
+            },
+            "location" : {
+               "lat" : 51.630335,
+               "lng" : -0.6738499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6548466,
+                  "lng" : -0.6402658999999999
+               },
+               "southwest" : {
+                  "lat" : 51.6078536,
+                  "lng" : -0.6973376
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Coast",
+               "short_name" : "East Coast",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Intercity House",
+               "short_name" : "Intercity House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "North Rd E",
+               "short_name" : "North Rd E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plymouth",
+               "short_name" : "Plymouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plymouth",
+               "short_name" : "Plymouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL4 6AB",
+               "short_name" : "PL4 6AB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Intercity House, East Coast, North Rd E, Plymouth, Devon PL4 6AB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.3777153,
+               "lng" : -4.1429637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3790642802915,
+                  "lng" : -4.141614719708498
+               },
+               "southwest" : {
+                  "lat" : 50.3763663197085,
+                  "lng" : -4.144312680291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

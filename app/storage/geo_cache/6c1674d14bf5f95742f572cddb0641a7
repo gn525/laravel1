@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belgium House",
+               "short_name" : "Belgium House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Duncombe Road",
+               "short_name" : "Duncombe Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS15 1EL",
+               "short_name" : "BS15 1EL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belgium House, Duncombe Road, Bristol, City of Bristol BS15 1EL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4665219,
+               "lng" : -2.526386
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.46787088029149,
+                  "lng" : -2.525037019708498
+               },
+               "southwest" : {
+                  "lat" : 51.46517291970849,
+                  "lng" : -2.527734980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belgium Street",
+               "short_name" : "Belgium St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochdale",
+               "short_name" : "Rochdale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochdale",
+               "short_name" : "Rochdale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OL11",
+               "short_name" : "OL11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belgium Street, Rochdale, Rochdale OL11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6143349,
+                  "lng" : -2.2071077
+               },
+               "southwest" : {
+                  "lat" : 53.6142171,
+                  "lng" : -2.2077786
+               }
+            },
+            "location" : {
+               "lat" : 53.6142768,
+               "lng" : -2.2074222
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6156249802915,
+                  "lng" : -2.206094169708498
+               },
+               "southwest" : {
+                  "lat" : 53.6129270197085,
+                  "lng" : -2.208792130291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

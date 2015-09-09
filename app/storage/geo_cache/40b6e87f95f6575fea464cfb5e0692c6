@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monkseaton",
+               "short_name" : "Monkseaton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Whitley Bay",
+               "short_name" : "Whitley Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whitley Bay",
+               "short_name" : "Whitley Bay",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE25",
+               "short_name" : "NE25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Monkseaton, Whitley Bay, Whitley Bay, Tyne and Wear NE25, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.042057,
+               "lng" : -1.460799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0484497,
+                  "lng" : -1.4447916
+               },
+               "southwest" : {
+                  "lat" : 55.03566319999999,
+                  "lng" : -1.4768064
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

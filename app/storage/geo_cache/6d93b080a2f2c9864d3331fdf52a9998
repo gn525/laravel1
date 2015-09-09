@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vale of Glamorgan",
+               "short_name" : "Vale of Glamorgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vale of Glamorgan, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5153438,
+                  "lng" : -3.1637876
+               },
+               "southwest" : {
+                  "lat" : 51.3813424,
+                  "lng" : -3.6439085
+               }
+            },
+            "location" : {
+               "lat" : 51.4443584,
+               "lng" : -3.4151166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5153438,
+                  "lng" : -3.1637876
+               },
+               "southwest" : {
+                  "lat" : 51.3813424,
+                  "lng" : -3.6439085
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

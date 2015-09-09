@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deal",
+               "short_name" : "Deal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Deal, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2437214,
+                  "lng" : 1.4055642
+               },
+               "southwest" : {
+                  "lat" : 51.1991542,
+                  "lng" : 1.3595197
+               }
+            },
+            "location" : {
+               "lat" : 51.222491,
+               "lng" : 1.401661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2437214,
+                  "lng" : 1.4055642
+               },
+               "southwest" : {
+                  "lat" : 51.1991542,
+                  "lng" : 1.3595197
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

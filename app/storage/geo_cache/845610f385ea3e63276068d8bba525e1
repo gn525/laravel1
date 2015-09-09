@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SE18",
+               "short_name" : "SE18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London SE18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4966859,
+                  "lng" : 0.1077576
+               },
+               "southwest" : {
+                  "lat" : 51.46342560000001,
+                  "lng" : 0.0373155
+               }
+            },
+            "location" : {
+               "lat" : 51.47819819999999,
+               "lng" : 0.07620529999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4966859,
+                  "lng" : 0.1077576
+               },
+               "southwest" : {
+                  "lat" : 51.46342560000001,
+                  "lng" : 0.0373155
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

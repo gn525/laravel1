@@ -1,0 +1,389 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glamorgan Building",
+               "short_name" : "Glamorgan Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cardiff University",
+               "short_name" : "Cardiff University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF10",
+               "short_name" : "CF10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glamorgan Building, Cardiff University, Cardiff, Cardiff CF10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4861339,
+                  "lng" : -3.1811049
+               },
+               "southwest" : {
+                  "lat" : 51.4851044,
+                  "lng" : -3.18208
+               }
+            },
+            "location" : {
+               "lat" : 51.4859,
+               "lng" : -3.1815
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4869681302915,
+                  "lng" : -3.180243469708498
+               },
+               "southwest" : {
+                  "lat" : 51.4842701697085,
+                  "lng" : -3.182941430291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glamorgan House",
+               "short_name" : "Glamorgan House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Croescadarn Road",
+               "short_name" : "Croescadarn Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pentwyn",
+               "short_name" : "Pentwyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pontprennau",
+               "short_name" : "Pontprennau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF23 8XL",
+               "short_name" : "CF23 8XL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glamorgan House, Croescadarn Road, Pontprennau, Cardiff, Cardiff CF23 8XL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.531147,
+               "lng" : -3.1417432
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5324959802915,
+                  "lng" : -3.140394219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5297980197085,
+                  "lng" : -3.143092180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glamorgan House",
+               "short_name" : "Glamorgan House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "47",
+               "short_name" : "47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Penallta Road",
+               "short_name" : "Penallta Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ystrad Mynach",
+               "short_name" : "Ystrad Mynach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF82 7AN",
+               "short_name" : "CF82 7AN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glamorgan House, 47 Penallta Road, Ystrad Mynach, Hengoed, Caerphilly CF82 7AN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6429777,
+               "lng" : -3.2366686
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.64432668029149,
+                  "lng" : -3.235319619708498
+               },
+               "southwest" : {
+                  "lat" : 51.64162871970849,
+                  "lng" : -3.238017580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glamorgan Street",
+               "short_name" : "Glamorgan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mountain Ash",
+               "short_name" : "Mountain Ash",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mountain Ash",
+               "short_name" : "Mountain Ash",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF45 3RJ",
+               "short_name" : "CF45 3RJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glamorgan Street, Mountain Ash, Rhondda Cynon Taff CF45 3RJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6671935,
+                  "lng" : -3.3593241
+               },
+               "southwest" : {
+                  "lat" : 51.6634146,
+                  "lng" : -3.367236
+               }
+            },
+            "location" : {
+               "lat" : 51.66515039999999,
+               "lng" : -3.3634486
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6671935,
+                  "lng" : -3.3593241
+               },
+               "southwest" : {
+                  "lat" : 51.6634146,
+                  "lng" : -3.367236
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glamorgan House",
+               "short_name" : "Glamorgan House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "King's Hill",
+               "short_name" : "King's Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF82 7RA",
+               "short_name" : "CF82 7RA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glamorgan House, King's Hill, Hengoed, Caerphilly CF82 7RA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6473745,
+               "lng" : -3.2246762
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6487234802915,
+                  "lng" : -3.223327219708498
+               },
+               "southwest" : {
+                  "lat" : 51.6460255197085,
+                  "lng" : -3.226025180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glamorgan Street",
+               "short_name" : "Glamorgan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aberdare",
+               "short_name" : "Aberdare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdare",
+               "short_name" : "Aberdare",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF44 6SR",
+               "short_name" : "CF44 6SR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glamorgan Street, Aberdare, Rhondda Cynon Taff CF44 6SR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7020516,
+                  "lng" : -3.4250545
+               },
+               "southwest" : {
+                  "lat" : 51.69950069999999,
+                  "lng" : -3.4279511
+               }
+            },
+            "location" : {
+               "lat" : 51.7007208,
+               "lng" : -3.4264226
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.70212513029149,
+                  "lng" : -3.4250545
+               },
+               "southwest" : {
+                  "lat" : 51.6994271697085,
+                  "lng" : -3.4279511
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

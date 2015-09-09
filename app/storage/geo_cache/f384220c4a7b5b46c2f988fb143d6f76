@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thorpe Bay",
+               "short_name" : "Thorpe Bay",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS1",
+               "short_name" : "SS1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thorpe Bay, Southend-on-Sea, Southend-on-Sea, Southend-on-Sea SS1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.533718,
+               "lng" : 0.7611019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5406583,
+                  "lng" : 0.7771093
+               },
+               "southwest" : {
+                  "lat" : 51.5267766,
+                  "lng" : 0.7450945
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

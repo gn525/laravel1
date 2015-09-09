@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weston-on-the-Green",
+               "short_name" : "Weston-on-the-Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bicester",
+               "short_name" : "Bicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX25",
+               "short_name" : "OX25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Weston-on-the-Green, Bicester, Oxfordshire OX25, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.86205100000001,
+               "lng" : -1.224642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.86894119999999,
+                  "lng" : -1.2086346
+               },
+               "southwest" : {
+                  "lat" : 51.8551598,
+                  "lng" : -1.2406494
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

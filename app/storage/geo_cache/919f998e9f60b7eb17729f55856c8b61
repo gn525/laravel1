@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "YO24",
+               "short_name" : "YO24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "York, York YO24, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9614956,
+                  "lng" : -1.0902674
+               },
+               "southwest" : {
+                  "lat" : 53.9277478,
+                  "lng" : -1.1464551
+               }
+            },
+            "location" : {
+               "lat" : 53.9435113,
+               "lng" : -1.1197362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9614956,
+                  "lng" : -1.0902674
+               },
+               "southwest" : {
+                  "lat" : 53.9277478,
+                  "lng" : -1.1464551
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO24",
+               "short_name" : "YO24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "York, York, York, York YO24, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.95798,
+               "lng" : -1.09319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9593289802915,
+                  "lng" : -1.091841019708498
+               },
+               "southwest" : {
+                  "lat" : 53.9566310197085,
+                  "lng" : -1.094538980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

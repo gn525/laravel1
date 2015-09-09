@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapeltown",
+               "short_name" : "Chapeltown",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapeltown, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4798519,
+                  "lng" : -1.4466799
+               },
+               "southwest" : {
+                  "lat" : 53.45109429999999,
+                  "lng" : -1.5073721
+               }
+            },
+            "location" : {
+               "lat" : 53.459821,
+               "lng" : -1.4658469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4798519,
+                  "lng" : -1.4466799
+               },
+               "southwest" : {
+                  "lat" : 53.45109429999999,
+                  "lng" : -1.5073721
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

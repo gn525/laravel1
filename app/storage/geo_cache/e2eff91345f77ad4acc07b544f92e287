@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alnwick",
+               "short_name" : "Alnwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alnwick",
+               "short_name" : "Alnwick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE66",
+               "short_name" : "NE66",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alnwick, Alnwick, Northumberland NE66, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4252799,
+                  "lng" : -1.6799154
+               },
+               "southwest" : {
+                  "lat" : 55.3933297,
+                  "lng" : -1.7359262
+               }
+            },
+            "location" : {
+               "lat" : 55.412744,
+               "lng" : -1.706299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4252799,
+                  "lng" : -1.6799154
+               },
+               "southwest" : {
+                  "lat" : 55.3933297,
+                  "lng" : -1.7359262
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,333 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greenfield, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.54567609999999,
+                  "lng" : -1.9791294
+               },
+               "southwest" : {
+                  "lat" : 53.5190369,
+                  "lng" : -2.0337951
+               }
+            },
+            "location" : {
+               "lat" : 53.531971,
+               "lng" : -2.000692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54567609999999,
+                  "lng" : -1.9791294
+               },
+               "southwest" : {
+                  "lat" : 53.5190369,
+                  "lng" : -2.0337951
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Holywell",
+               "short_name" : "Holywell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH8",
+               "short_name" : "CH8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenfield, Holywell, Flintshire CH8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2932778,
+                  "lng" : -3.1941017
+               },
+               "southwest" : {
+                  "lat" : 53.2816868,
+                  "lng" : -3.2238324
+               }
+            },
+            "location" : {
+               "lat" : 53.28840599999999,
+               "lng" : -3.20504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2932778,
+                  "lng" : -3.1941017
+               },
+               "southwest" : {
+                  "lat" : 53.2816868,
+                  "lng" : -3.2238324
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK45",
+               "short_name" : "MK45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenfield, Bedford, Central Bedfordshire MK45, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.0028999,
+               "lng" : -0.465712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0042488802915,
+                  "lng" : -0.4643630197084979
+               },
+               "southwest" : {
+                  "lat" : 52.0015509197085,
+                  "lng" : -0.467060980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watlington",
+               "short_name" : "Watlington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX49",
+               "short_name" : "OX49",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenfield, Watlington, Oxfordshire OX49, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.620281,
+               "lng" : -0.978086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6216299802915,
+                  "lng" : -0.976737019708498
+               },
+               "southwest" : {
+                  "lat" : 51.6189320197085,
+                  "lng" : -0.9794349802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN13",
+               "short_name" : "LN13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenfield, Alford, Lincolnshire LN13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.279173,
+               "lng" : 0.161268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2805219802915,
+                  "lng" : 0.162616980291502
+               },
+               "southwest" : {
+                  "lat" : 53.2778240197085,
+                  "lng" : 0.159919019708498
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Invergarry",
+               "short_name" : "Invergarry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH35",
+               "short_name" : "PH35",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenfield, Invergarry, Highland PH35, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.060665,
+               "lng" : -4.963672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.0620139802915,
+                  "lng" : -4.962323019708498
+               },
+               "southwest" : {
+                  "lat" : 57.0593160197085,
+                  "lng" : -4.965020980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

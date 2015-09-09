@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harringworth",
+               "short_name" : "Harringworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corby",
+               "short_name" : "Corby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN17",
+               "short_name" : "NN17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harringworth, Corby, Northamptonshire NN17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.567697,
+               "lng" : -0.650681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5744786,
+                  "lng" : -0.6346735999999999
+               },
+               "southwest" : {
+                  "lat" : 52.56091439999999,
+                  "lng" : -0.6666884
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

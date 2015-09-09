@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buntingford",
+               "short_name" : "Buntingford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buntingford",
+               "short_name" : "Buntingford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG9",
+               "short_name" : "SG9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buntingford, Buntingford, Hertfordshire SG9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.95346740000001,
+                  "lng" : -0.0059755
+               },
+               "southwest" : {
+                  "lat" : 51.9364668,
+                  "lng" : -0.0341495
+               }
+            },
+            "location" : {
+               "lat" : 51.946217,
+               "lng" : -0.018547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.95346740000001,
+                  "lng" : -0.0059755
+               },
+               "southwest" : {
+                  "lat" : 51.9364668,
+                  "lng" : -0.0341495
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

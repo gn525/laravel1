@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Icklingham",
+               "short_name" : "Icklingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bury Saint Edmunds",
+               "short_name" : "Bury Saint Edmunds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP28",
+               "short_name" : "IP28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Icklingham, Bury Saint Edmunds, Suffolk IP28, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.32690299999999,
+               "lng" : 0.5971219999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3337217,
+                  "lng" : 0.6131294
+               },
+               "southwest" : {
+                  "lat" : 52.3200832,
+                  "lng" : 0.5811145999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

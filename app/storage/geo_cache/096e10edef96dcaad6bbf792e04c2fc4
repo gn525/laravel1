@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO6",
+               "short_name" : "PO6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "PO6, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8590804,
+                  "lng" : -1.0197623
+               },
+               "southwest" : {
+                  "lat" : 50.8260793,
+                  "lng" : -1.1188848
+               }
+            },
+            "location" : {
+               "lat" : 50.8459298,
+               "lng" : -1.0714185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8590804,
+                  "lng" : -1.0197623
+               },
+               "southwest" : {
+                  "lat" : 50.8260793,
+                  "lng" : -1.1188848
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

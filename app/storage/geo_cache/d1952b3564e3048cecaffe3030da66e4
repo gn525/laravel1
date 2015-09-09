@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaconsfield, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.63479590000001,
+                  "lng" : -0.5960215999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5788922,
+                  "lng" : -0.68019
+               }
+            },
+            "location" : {
+               "lat" : 51.602396,
+               "lng" : -0.6442409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.63479590000001,
+                  "lng" : -0.5960215999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5788922,
+                  "lng" : -0.68019
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

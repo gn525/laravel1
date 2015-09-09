@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pimlico",
+               "short_name" : "Pimlico",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hemel Hempstead",
+               "short_name" : "Hemel Hempstead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP3",
+               "short_name" : "HP3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pimlico, Hemel Hempstead, Hertfordshire HP3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.732954,
+               "lng" : -0.423188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7398639,
+                  "lng" : -0.4071806
+               },
+               "southwest" : {
+                  "lat" : 51.726043,
+                  "lng" : -0.4391954
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pimlico",
+               "short_name" : "Pimlico",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pimlico, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.496227,
+                  "lng" : -0.1285744
+               },
+               "southwest" : {
+                  "lat" : 51.4848305,
+                  "lng" : -0.1480794
+               }
+            },
+            "location" : {
+               "lat" : 51.48996169999999,
+               "lng" : -0.1393712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.496227,
+                  "lng" : -0.1285744
+               },
+               "southwest" : {
+                  "lat" : 51.4848305,
+                  "lng" : -0.1480794
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pimlico",
+               "short_name" : "Pimlico",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW1V",
+               "short_name" : "SW1V",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pimlico, London SW1V, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.490744,
+               "lng" : -0.1403619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4920929802915,
+                  "lng" : -0.139012919708498
+               },
+               "southwest" : {
+                  "lat" : 51.4893950197085,
+                  "lng" : -0.141710880291502
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pimlico",
+               "short_name" : "Pimlico",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Pimlico",
+               "short_name" : "Pimlico",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW1V",
+               "short_name" : "SW1V",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pimlico, Pimlico, London SW1V, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4891,
+               "lng" : -0.13374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4904489802915,
+                  "lng" : -0.132391019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4877510197085,
+                  "lng" : -0.135088980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

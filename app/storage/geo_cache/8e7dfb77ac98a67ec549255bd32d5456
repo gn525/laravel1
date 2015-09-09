@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thrapston",
+               "short_name" : "Thrapston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kettering",
+               "short_name" : "Kettering",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN14",
+               "short_name" : "NN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thrapston, Kettering, Northamptonshire NN14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4096367,
+                  "lng" : -0.4928487
+               },
+               "southwest" : {
+                  "lat" : 52.383567,
+                  "lng" : -0.546126
+               }
+            },
+            "location" : {
+               "lat" : 52.394588,
+               "lng" : -0.535859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4096367,
+                  "lng" : -0.4928487
+               },
+               "southwest" : {
+                  "lat" : 52.383567,
+                  "lng" : -0.546126
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

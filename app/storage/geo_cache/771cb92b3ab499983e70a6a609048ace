@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sidmouth",
+               "short_name" : "Sidmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sidmouth, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7035342,
+                  "lng" : -3.2202447
+               },
+               "southwest" : {
+                  "lat" : 50.6734097,
+                  "lng" : -3.2610875
+               }
+            },
+            "location" : {
+               "lat" : 50.67865,
+               "lng" : -3.23756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7035342,
+                  "lng" : -3.2202447
+               },
+               "southwest" : {
+                  "lat" : 50.6734097,
+                  "lng" : -3.2610875
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

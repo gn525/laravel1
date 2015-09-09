@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tynemouth",
+               "short_name" : "Tynemouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tynemouth, Tyne and Wear, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0273085,
+                  "lng" : -1.4027844
+               },
+               "southwest" : {
+                  "lat" : 55.01178179999999,
+                  "lng" : -1.4398584
+               }
+            },
+            "location" : {
+               "lat" : 55.0175869,
+               "lng" : -1.4255819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0273085,
+                  "lng" : -1.4027844
+               },
+               "southwest" : {
+                  "lat" : 55.01178179999999,
+                  "lng" : -1.4398584
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

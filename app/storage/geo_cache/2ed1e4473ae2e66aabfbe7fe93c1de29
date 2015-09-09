@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saxmundham",
+               "short_name" : "Saxmundham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saxmundham",
+               "short_name" : "Saxmundham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP17",
+               "short_name" : "IP17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saxmundham, Saxmundham, Suffolk IP17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2224006,
+                  "lng" : 1.5027023
+               },
+               "southwest" : {
+                  "lat" : 52.2086307,
+                  "lng" : 1.4754468
+               }
+            },
+            "location" : {
+               "lat" : 52.215855,
+               "lng" : 1.488056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2224006,
+                  "lng" : 1.5027023
+               },
+               "southwest" : {
+                  "lat" : 52.2086307,
+                  "lng" : 1.4754468
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

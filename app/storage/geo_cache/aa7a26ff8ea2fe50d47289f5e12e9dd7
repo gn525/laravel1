@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lindford",
+               "short_name" : "Lindford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bordon",
+               "short_name" : "Bordon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU35",
+               "short_name" : "GU35",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lindford, Bordon, Hampshire GU35, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1242542,
+                  "lng" : -0.8384706
+               },
+               "southwest" : {
+                  "lat" : 51.1151007,
+                  "lng" : -0.8561692
+               }
+            },
+            "location" : {
+               "lat" : 51.118842,
+               "lng" : -0.8449629999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1242542,
+                  "lng" : -0.8384706
+               },
+               "southwest" : {
+                  "lat" : 51.1151007,
+                  "lng" : -0.8561692
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

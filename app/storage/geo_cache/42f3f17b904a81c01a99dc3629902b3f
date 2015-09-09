@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marseille Chambers",
+               "short_name" : "Marseille Chambers",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Groat Market",
+               "short_name" : "Groat Market",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE1 1UG",
+               "short_name" : "NE1 1UG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marseille Chambers, 45 Groat Market, Newcastle upon Tyne, Tyne and Wear NE1 1UG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.9709145,
+               "lng" : -1.6138193
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9722634802915,
+                  "lng" : -1.612470319708498
+               },
+               "southwest" : {
+                  "lat" : 54.9695655197085,
+                  "lng" : -1.615168280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

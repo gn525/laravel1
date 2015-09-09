@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Forest Row",
+               "short_name" : "Forest Row",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Forest Row, East Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1088829,
+                  "lng" : 0.0608896
+               },
+               "southwest" : {
+                  "lat" : 51.0829728,
+                  "lng" : 0.0107639
+               }
+            },
+            "location" : {
+               "lat" : 51.09739099999999,
+               "lng" : 0.033222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1088829,
+                  "lng" : 0.0608896
+               },
+               "southwest" : {
+                  "lat" : 51.0829728,
+                  "lng" : 0.0107639
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "RH18",
+               "short_name" : "RH18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "RH18, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1260999,
+                  "lng" : 0.0651938
+               },
+               "southwest" : {
+                  "lat" : 51.0553671,
+                  "lng" : -0.0138351
+               }
+            },
+            "location" : {
+               "lat" : 51.08538619999999,
+               "lng" : 0.0346662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1102212,
+                  "lng" : 0.0651938
+               },
+               "southwest" : {
+                  "lat" : 51.0553671,
+                  "lng" : -0.0138351
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

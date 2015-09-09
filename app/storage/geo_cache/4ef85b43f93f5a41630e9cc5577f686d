@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mitcheldean",
+               "short_name" : "Mitcheldean",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mitcheldean",
+               "short_name" : "Mitcheldean",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL17",
+               "short_name" : "GL17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mitcheldean, Mitcheldean, Gloucestershire GL17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8741261,
+                  "lng" : -2.4773783
+               },
+               "southwest" : {
+                  "lat" : 51.8409388,
+                  "lng" : -2.5038485
+               }
+            },
+            "location" : {
+               "lat" : 51.862693,
+               "lng" : -2.489453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8741261,
+                  "lng" : -2.4773783
+               },
+               "southwest" : {
+                  "lat" : 51.8409388,
+                  "lng" : -2.5038485
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trentham",
+               "short_name" : "Trentham",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stoke-on-Trent",
+               "short_name" : "Stoke-on-Trent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST4",
+               "short_name" : "ST4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trentham, Stoke-on-Trent, Stoke-on-Trent, Stoke-on-Trent ST4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.965433,
+               "lng" : -2.191008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9721529,
+                  "lng" : -2.1750006
+               },
+               "southwest" : {
+                  "lat" : 52.9587121,
+                  "lng" : -2.2070154
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

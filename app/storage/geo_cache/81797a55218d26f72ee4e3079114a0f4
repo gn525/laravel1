@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chadderton",
+               "short_name" : "Chadderton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chadderton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5700329,
+                  "lng" : -2.1292176
+               },
+               "southwest" : {
+                  "lat" : 53.5166589,
+                  "lng" : -2.1722379
+               }
+            },
+            "location" : {
+               "lat" : 53.544941,
+               "lng" : -2.140409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5700329,
+                  "lng" : -2.1292176
+               },
+               "southwest" : {
+                  "lat" : 53.5166589,
+                  "lng" : -2.1722379
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

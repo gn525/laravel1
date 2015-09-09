@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Juniper Green",
+               "short_name" : "Juniper Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Juniper Green, City of Edinburgh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9090868,
+                  "lng" : -3.2718134
+               },
+               "southwest" : {
+                  "lat" : 55.9001533,
+                  "lng" : -3.2942824
+               }
+            },
+            "location" : {
+               "lat" : 55.905355,
+               "lng" : -3.286457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9090868,
+                  "lng" : -3.2718134
+               },
+               "southwest" : {
+                  "lat" : 55.9001533,
+                  "lng" : -3.2942824
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

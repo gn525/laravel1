@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thurmaston",
+               "short_name" : "Thurmaston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thurmaston, Leicester, Leicestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6884558,
+                  "lng" : -1.0799035
+               },
+               "southwest" : {
+                  "lat" : 52.66852,
+                  "lng" : -1.1111914
+               }
+            },
+            "location" : {
+               "lat" : 52.67197710000001,
+               "lng" : -1.0911742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6884558,
+                  "lng" : -1.0799035
+               },
+               "southwest" : {
+                  "lat" : 52.66852,
+                  "lng" : -1.1111914
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

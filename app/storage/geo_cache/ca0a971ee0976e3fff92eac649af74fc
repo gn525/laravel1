@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stanway",
+               "short_name" : "Stanway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO3",
+               "short_name" : "CO3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stanway, Colchester, Essex CO3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8855906,
+                  "lng" : 0.821375
+               },
+               "southwest" : {
+                  "lat" : 51.87922649999999,
+                  "lng" : 0.807778
+               }
+            },
+            "location" : {
+               "lat" : 51.88177,
+               "lng" : 0.818375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8855906,
+                  "lng" : 0.821375
+               },
+               "southwest" : {
+                  "lat" : 51.87922649999999,
+                  "lng" : 0.807778
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

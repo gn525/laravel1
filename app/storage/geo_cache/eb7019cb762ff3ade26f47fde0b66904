@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Highwoods",
+               "short_name" : "Highwoods",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Highwoods, Colchester, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9290019,
+                  "lng" : 0.9353563
+               },
+               "southwest" : {
+                  "lat" : 51.9044554,
+                  "lng" : 0.9075987
+               }
+            },
+            "location" : {
+               "lat" : 51.9117087,
+               "lng" : 0.918619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9290019,
+                  "lng" : 0.9353563
+               },
+               "southwest" : {
+                  "lat" : 51.9044554,
+                  "lng" : 0.9075987
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

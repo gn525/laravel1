@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, Reading, Reading, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4931339,
+                  "lng" : -0.9284944000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4097795,
+                  "lng" : -1.0636011
+               }
+            },
+            "location" : {
+               "lat" : 51.4542645,
+               "lng" : -0.9781303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4931339,
+                  "lng" : -0.9284944000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4097795,
+                  "lng" : -1.0636011
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Block",
+               "short_name" : "North Block",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "A4",
+               "short_name" : "A4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG1 5AN",
+               "short_name" : "RG1 5AN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Block, A4, Reading, Reading RG1 5AN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.45153029999999,
+                  "lng" : -0.9582624999999998
+               },
+               "southwest" : {
+                  "lat" : 51.4505895,
+                  "lng" : -0.9603145999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4510599,
+               "lng" : -0.9592885000000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4524088802915,
+                  "lng" : -0.9579395697084979
+               },
+               "southwest" : {
+                  "lat" : 51.4497109197085,
+                  "lng" : -0.960637530291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Cottage",
+               "short_name" : "North Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Reading Road",
+               "short_name" : "Reading Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burghfield Common",
+               "short_name" : "Burghfield Common",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG7 3BG",
+               "short_name" : "RG7 3BG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Cottage, Reading Road, Burghfield Common, Reading, West Berkshire RG7 3BG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.404061,
+               "lng" : -1.047575
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.40540998029149,
+                  "lng" : -1.046226019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4027120197085,
+                  "lng" : -1.048923980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

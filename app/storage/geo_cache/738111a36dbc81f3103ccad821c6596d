@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rudheath",
+               "short_name" : "Rudheath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northwich",
+               "short_name" : "Northwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CW9",
+               "short_name" : "CW9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rudheath, Northwich, Cheshire West and Chester CW9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.26141149999999,
+                  "lng" : -2.4588704
+               },
+               "southwest" : {
+                  "lat" : 53.2230226,
+                  "lng" : -2.4939561
+               }
+            },
+            "location" : {
+               "lat" : 53.256941,
+               "lng" : -2.482447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.26141149999999,
+                  "lng" : -2.4588704
+               },
+               "southwest" : {
+                  "lat" : 53.2230226,
+                  "lng" : -2.4939561
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

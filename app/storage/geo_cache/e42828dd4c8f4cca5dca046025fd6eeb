@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reigate",
+               "short_name" : "Reigate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reigate, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2581085,
+                  "lng" : -0.1782605
+               },
+               "southwest" : {
+                  "lat" : 51.21304019999999,
+                  "lng" : -0.244647
+               }
+            },
+            "location" : {
+               "lat" : 51.237276,
+               "lng" : -0.205883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2581085,
+                  "lng" : -0.1782605
+               },
+               "southwest" : {
+                  "lat" : 51.21304019999999,
+                  "lng" : -0.244647
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

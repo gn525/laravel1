@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thornton Heath",
+               "short_name" : "Thornton Heath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thornton Heath, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4138915,
+                  "lng" : -0.08987909999999999
+               },
+               "southwest" : {
+                  "lat" : 51.387785,
+                  "lng" : -0.1296897
+               }
+            },
+            "location" : {
+               "lat" : 51.396747,
+               "lng" : -0.105523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4138915,
+                  "lng" : -0.08987909999999999
+               },
+               "southwest" : {
+                  "lat" : 51.387785,
+                  "lng" : -0.1296897
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

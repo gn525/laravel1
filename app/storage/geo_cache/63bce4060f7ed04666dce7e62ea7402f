@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banstead",
+               "short_name" : "Banstead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banstead, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3451932,
+                  "lng" : -0.1606255
+               },
+               "southwest" : {
+                  "lat" : 51.2912324,
+                  "lng" : -0.2339664
+               }
+            },
+            "location" : {
+               "lat" : 51.3221909,
+               "lng" : -0.205046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3451932,
+                  "lng" : -0.1606255
+               },
+               "southwest" : {
+                  "lat" : 51.2912324,
+                  "lng" : -0.2339664
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

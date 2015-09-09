@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkby Overblow",
+               "short_name" : "Kirkby Overblow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrogate",
+               "short_name" : "Harrogate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HG3",
+               "short_name" : "HG3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirkby Overblow, Harrogate, North Yorkshire HG3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9361,
+               "lng" : -1.508049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.942668,
+                  "lng" : -1.4920416
+               },
+               "southwest" : {
+                  "lat" : 53.9295309,
+                  "lng" : -1.5240564
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

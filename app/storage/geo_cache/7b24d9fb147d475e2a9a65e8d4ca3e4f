@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Winsford Industrial Estate",
+               "short_name" : "Winsford Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Winsford",
+               "short_name" : "Winsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winsford",
+               "short_name" : "Winsford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CW7",
+               "short_name" : "CW7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Winsford Industrial Estate, Winsford, Winsford, Cheshire West and Chester CW7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1962185,
+               "lng" : -2.4939044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2029025,
+                  "lng" : -2.477897
+               },
+               "southwest" : {
+                  "lat" : 53.1895335,
+                  "lng" : -2.5099118
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

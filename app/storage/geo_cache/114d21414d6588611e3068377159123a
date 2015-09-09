@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denbigh",
+               "short_name" : "Denbigh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denbigh",
+               "short_name" : "Denbigh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL16",
+               "short_name" : "LL16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denbigh, Denbigh LL16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2176122,
+                  "lng" : -3.3560612
+               },
+               "southwest" : {
+                  "lat" : 53.15759850000001,
+                  "lng" : -3.4744972
+               }
+            },
+            "location" : {
+               "lat" : 53.183906,
+               "lng" : -3.425002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2176122,
+                  "lng" : -3.3560612
+               },
+               "southwest" : {
+                  "lat" : 53.15759850000001,
+                  "lng" : -3.4744972
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LL16",
+               "short_name" : "LL16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "LL16, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2487762,
+                  "lng" : -3.2699163
+               },
+               "southwest" : {
+                  "lat" : 53.0831715,
+                  "lng" : -3.6442173
+               }
+            },
+            "location" : {
+               "lat" : 53.1460046,
+               "lng" : -3.471954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2487762,
+                  "lng" : -3.2699163
+               },
+               "southwest" : {
+                  "lat" : 53.0831715,
+                  "lng" : -3.6442173
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

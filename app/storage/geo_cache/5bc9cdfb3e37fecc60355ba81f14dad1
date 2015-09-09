@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loudwater",
+               "short_name" : "Loudwater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loudwater, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6459832,
+                  "lng" : -0.6743207
+               },
+               "southwest" : {
+                  "lat" : 51.603245,
+                  "lng" : -0.7257944
+               }
+            },
+            "location" : {
+               "lat" : 51.61044099999999,
+               "lng" : -0.701444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6459832,
+                  "lng" : -0.6743207
+               },
+               "southwest" : {
+                  "lat" : 51.603245,
+                  "lng" : -0.7257944
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

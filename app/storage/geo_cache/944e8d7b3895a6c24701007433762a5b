@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newsome",
+               "short_name" : "Newsome",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HD4",
+               "short_name" : "HD4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newsome, Huddersfield, Huddersfield, West Yorkshire HD4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6302809,
+               "lng" : -1.781767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.636897,
+                  "lng" : -1.7657596
+               },
+               "southwest" : {
+                  "lat" : 53.6236638,
+                  "lng" : -1.7977744
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

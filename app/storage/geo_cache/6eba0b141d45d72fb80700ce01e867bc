@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TQ4",
+               "short_name" : "TQ4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "TQ4, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4391776,
+                  "lng" : -3.5451834
+               },
+               "southwest" : {
+                  "lat" : 50.39986020000001,
+                  "lng" : -3.6306821
+               }
+            },
+            "location" : {
+               "lat" : 50.42247680000001,
+               "lng" : -3.5773769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4391776,
+                  "lng" : -3.5451834
+               },
+               "southwest" : {
+                  "lat" : 50.39986020000001,
+                  "lng" : -3.6306821
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

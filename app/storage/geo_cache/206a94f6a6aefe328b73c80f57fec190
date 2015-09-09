@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grayshott",
+               "short_name" : "Grayshott",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hindhead",
+               "short_name" : "Hindhead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU26",
+               "short_name" : "GU26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grayshott, Hindhead, Hampshire GU26, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1158741,
+                  "lng" : -0.7447033
+               },
+               "southwest" : {
+                  "lat" : 51.1028506,
+                  "lng" : -0.7718818
+               }
+            },
+            "location" : {
+               "lat" : 51.111707,
+               "lng" : -0.7535609999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1158741,
+                  "lng" : -0.7447033
+               },
+               "southwest" : {
+                  "lat" : 51.1028506,
+                  "lng" : -0.7718818
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

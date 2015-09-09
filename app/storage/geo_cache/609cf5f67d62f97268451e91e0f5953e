@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kidderminster",
+               "short_name" : "Kidderminster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kidderminster, Worcestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4074068,
+                  "lng" : -2.206665
+               },
+               "southwest" : {
+                  "lat" : 52.3556602,
+                  "lng" : -2.2871651
+               }
+            },
+            "location" : {
+               "lat" : 52.388596,
+               "lng" : -2.2496839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4074068,
+                  "lng" : -2.206665
+               },
+               "southwest" : {
+                  "lat" : 52.3556602,
+                  "lng" : -2.2871651
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

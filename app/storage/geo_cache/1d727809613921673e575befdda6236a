@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madinah Road",
+               "short_name" : "Madinah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E8 1PG",
+               "short_name" : "E8 1PG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Madinah Road, London E8 1PG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5477651,
+                  "lng" : -0.06714729999999999
+               },
+               "southwest" : {
+                  "lat" : 51.54707879999999,
+                  "lng" : -0.06750049999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.54731779999999,
+               "lng" : -0.06714729999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5487709302915,
+                  "lng" : -0.06597491970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5460729697085,
+                  "lng" : -0.06867288029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

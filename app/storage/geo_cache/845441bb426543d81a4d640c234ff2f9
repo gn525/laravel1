@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilford",
+               "short_name" : "Ilford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ilford, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6136693,
+                  "lng" : 0.1292526
+               },
+               "southwest" : {
+                  "lat" : 51.5436547,
+                  "lng" : 0.0401098
+               }
+            },
+            "location" : {
+               "lat" : 51.556619,
+               "lng" : 0.076251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6136693,
+                  "lng" : 0.1292526
+               },
+               "southwest" : {
+                  "lat" : 51.5436547,
+                  "lng" : 0.0401098
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

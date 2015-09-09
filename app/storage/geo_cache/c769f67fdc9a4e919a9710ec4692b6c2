@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "City Life Centre",
+               "short_name" : "City Life Centre",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Twin Spires Industrial Estate",
+               "short_name" : "Twin Spires Industrial Estate",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Co Antrim",
+               "short_name" : "Co Antrim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT13 2JF",
+               "short_name" : "BT13 2JF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "City Life Centre, Twin Spires Industrial Estate, Belfast, Co Antrim BT13 2JF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.601176,
+               "lng" : -5.947744
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.60252498029149,
+                  "lng" : -5.946395019708498
+               },
+               "southwest" : {
+                  "lat" : 54.59982701970849,
+                  "lng" : -5.949092980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

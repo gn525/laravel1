@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DA2",
+               "short_name" : "DA2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Dartford",
+               "short_name" : "Dartford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dartford DA2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4625072,
+                  "lng" : 0.3085941
+               },
+               "southwest" : {
+                  "lat" : 51.399532,
+                  "lng" : 0.1529193
+               }
+            },
+            "location" : {
+               "lat" : 51.4254384,
+               "lng" : 0.2520488
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4625072,
+                  "lng" : 0.3085941
+               },
+               "southwest" : {
+                  "lat" : 51.399532,
+                  "lng" : 0.1529193
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

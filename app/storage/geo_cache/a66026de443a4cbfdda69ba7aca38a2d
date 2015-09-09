@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halewood",
+               "short_name" : "Halewood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halewood, Merseyside, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3773942,
+                  "lng" : -2.7893846
+               },
+               "southwest" : {
+                  "lat" : 53.35331129999999,
+                  "lng" : -2.8298842
+               }
+            },
+            "location" : {
+               "lat" : 53.370573,
+               "lng" : -2.8209749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3773942,
+                  "lng" : -2.7893846
+               },
+               "southwest" : {
+                  "lat" : 53.35331129999999,
+                  "lng" : -2.8298842
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "High Peak",
+               "short_name" : "High Peak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "High Peak",
+               "short_name" : "High Peak",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK23",
+               "short_name" : "SK23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "High Peak, High Peak, Derbyshire SK23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.32412799999999,
+               "lng" : -1.995317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.330792,
+                  "lng" : -1.9793096
+               },
+               "southwest" : {
+                  "lat" : 53.317463,
+                  "lng" : -2.0113244
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

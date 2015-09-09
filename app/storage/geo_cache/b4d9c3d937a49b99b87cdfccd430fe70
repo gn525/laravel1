@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M28",
+               "short_name" : "M28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M28, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.53898179999999,
+                  "lng" : -2.3540272
+               },
+               "southwest" : {
+                  "lat" : 53.4722988,
+                  "lng" : -2.4431737
+               }
+            },
+            "location" : {
+               "lat" : 53.5068302,
+               "lng" : -2.4118092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.53898179999999,
+                  "lng" : -2.3540272
+               },
+               "southwest" : {
+                  "lat" : 53.4722988,
+                  "lng" : -2.4431737
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

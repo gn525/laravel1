@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Culcheth",
+               "short_name" : "Culcheth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Culcheth, Warrington, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4748837,
+                  "lng" : -2.4677002
+               },
+               "southwest" : {
+                  "lat" : 53.43246800000001,
+                  "lng" : -2.5526389
+               }
+            },
+            "location" : {
+               "lat" : 53.451899,
+               "lng" : -2.522666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4748837,
+                  "lng" : -2.4677002
+               },
+               "southwest" : {
+                  "lat" : 53.43246800000001,
+                  "lng" : -2.5526389
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

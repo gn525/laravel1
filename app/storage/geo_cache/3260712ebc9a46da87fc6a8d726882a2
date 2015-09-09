@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Felling",
+               "short_name" : "Felling",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE10",
+               "short_name" : "NE10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Felling, Gateshead, Gateshead, Tyne and Wear NE10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.950298,
+               "lng" : -1.564331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9567054,
+                  "lng" : -1.5483236
+               },
+               "southwest" : {
+                  "lat" : 54.9438896,
+                  "lng" : -1.5803384
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

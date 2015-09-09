@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunston",
+               "short_name" : "Dunston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dunston, Gateshead, Tyne and Wear, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9635111,
+                  "lng" : -1.6323495
+               },
+               "southwest" : {
+                  "lat" : 54.94640589999999,
+                  "lng" : -1.6667917
+               }
+            },
+            "location" : {
+               "lat" : 54.952,
+               "lng" : -1.639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9635111,
+                  "lng" : -1.6323495
+               },
+               "southwest" : {
+                  "lat" : 54.94640589999999,
+                  "lng" : -1.6667917
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

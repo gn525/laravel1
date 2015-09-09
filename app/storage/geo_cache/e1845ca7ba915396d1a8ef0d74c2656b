@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hazlemere",
+               "short_name" : "Hazlemere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hazlemere, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6624693,
+                  "lng" : -0.6919082
+               },
+               "southwest" : {
+                  "lat" : 51.64074859999999,
+                  "lng" : -0.7274026
+               }
+            },
+            "location" : {
+               "lat" : 51.651046,
+               "lng" : -0.710842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6624693,
+                  "lng" : -0.6919082
+               },
+               "southwest" : {
+                  "lat" : 51.64074859999999,
+                  "lng" : -0.7274026
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

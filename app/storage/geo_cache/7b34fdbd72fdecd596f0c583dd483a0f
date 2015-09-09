@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lee-on-the-Solent",
+               "short_name" : "Lee-on-the-Solent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lee-on-the-Solent, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8218847,
+                  "lng" : -1.1688924
+               },
+               "southwest" : {
+                  "lat" : 50.7855942,
+                  "lng" : -1.2206768
+               }
+            },
+            "location" : {
+               "lat" : 50.8020939,
+               "lng" : -1.202352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8218847,
+                  "lng" : -1.1688924
+               },
+               "southwest" : {
+                  "lat" : 50.7855942,
+                  "lng" : -1.2206768
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lee",
+               "short_name" : "Lee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilfracombe",
+               "short_name" : "Ilfracombe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX34",
+               "short_name" : "EX34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lee, Ilfracombe, Devon EX34, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.19595529999999,
+               "lng" : -4.1698187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.19730428029149,
+                  "lng" : -4.168469719708497
+               },
+               "southwest" : {
+                  "lat" : 51.19460631970849,
+                  "lng" : -4.171167680291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lee",
+               "short_name" : "Lee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romsey",
+               "short_name" : "Romsey",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO51",
+               "short_name" : "SO51",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lee, Romsey, Hampshire SO51, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.95849699999999,
+               "lng" : -1.4852749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9598459802915,
+                  "lng" : -1.483925919708498
+               },
+               "southwest" : {
+                  "lat" : 50.9571480197085,
+                  "lng" : -1.486623880291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lee",
+               "short_name" : "Lee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ellesmere",
+               "short_name" : "Ellesmere",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY12",
+               "short_name" : "SY12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lee, Ellesmere, Shropshire SY12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.88558800000001,
+               "lng" : -2.889893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.88693698029151,
+                  "lng" : -2.888544019708498
+               },
+               "southwest" : {
+                  "lat" : 52.88423901970851,
+                  "lng" : -2.891241980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lee",
+               "short_name" : "Lee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Mull",
+               "short_name" : "Isle of Mull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA67",
+               "short_name" : "PA67",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lee, Isle of Mull, Argyll and Bute PA67, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.316434,
+               "lng" : -6.195043
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3177829802915,
+                  "lng" : -6.193694019708498
+               },
+               "southwest" : {
+                  "lat" : 56.3150850197085,
+                  "lng" : -6.196391980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lee",
+               "short_name" : "Lee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA2",
+               "short_name" : "LA2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lee, Lancaster, Lancashire LA2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.9944867,
+               "lng" : -2.6593633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.99583568029149,
+                  "lng" : -2.658014319708498
+               },
+               "southwest" : {
+                  "lat" : 53.99313771970849,
+                  "lng" : -2.660712280291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

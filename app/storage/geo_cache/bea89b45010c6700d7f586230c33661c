@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ringwood Road",
+               "short_name" : "Ringwood Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fordingbridge",
+               "short_name" : "Fordingbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP6",
+               "short_name" : "SP6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ringwood Road, Fordingbridge, Hampshire SP6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9222708,
+                  "lng" : -1.7800679
+               },
+               "southwest" : {
+                  "lat" : 50.8946917,
+                  "lng" : -1.7876594
+               }
+            },
+            "location" : {
+               "lat" : 50.9085712,
+               "lng" : -1.7831745
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9222708,
+                  "lng" : -1.7800679
+               },
+               "southwest" : {
+                  "lat" : 50.8946917,
+                  "lng" : -1.7876594
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ringwood Road",
+               "short_name" : "Ringwood Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fordingbridge",
+               "short_name" : "Fordingbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP6 1AN",
+               "short_name" : "SP6 1AN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ringwood Road, Fordingbridge, Hampshire SP6 1AN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9267303,
+                  "lng" : -1.7868462
+               },
+               "southwest" : {
+                  "lat" : 50.9235948,
+                  "lng" : -1.7874436
+               }
+            },
+            "location" : {
+               "lat" : 50.9251696,
+               "lng" : -1.7869234
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9267303,
+                  "lng" : -1.785795919708498
+               },
+               "southwest" : {
+                  "lat" : 50.9235948,
+                  "lng" : -1.788493880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Triangle",
+               "short_name" : "Triangle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sowerby Bridge",
+               "short_name" : "Sowerby Bridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HX6",
+               "short_name" : "HX6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Triangle, Sowerby Bridge, West Yorkshire HX6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.69924349999999,
+                  "lng" : -1.9299539
+               },
+               "southwest" : {
+                  "lat" : 53.6927962,
+                  "lng" : -1.9393629
+               }
+            },
+            "location" : {
+               "lat" : 53.6968447,
+               "lng" : -1.9355249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.69924349999999,
+                  "lng" : -1.9299539
+               },
+               "southwest" : {
+                  "lat" : 53.6927962,
+                  "lng" : -1.9393629
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

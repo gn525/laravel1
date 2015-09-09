@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kimbolton",
+               "short_name" : "Kimbolton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kimbolton, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.33398260000001,
+                  "lng" : -0.3402684
+               },
+               "southwest" : {
+                  "lat" : 52.2787083,
+                  "lng" : -0.4269749
+               }
+            },
+            "location" : {
+               "lat" : 52.296978,
+               "lng" : -0.386705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.33398260000001,
+                  "lng" : -0.3402684
+               },
+               "southwest" : {
+                  "lat" : 52.2787083,
+                  "lng" : -0.4269749
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kimbolton",
+               "short_name" : "Kimbolton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leominster",
+               "short_name" : "Leominster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR6",
+               "short_name" : "HR6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kimbolton, Leominster, Herefordshire HR6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.249558,
+               "lng" : -2.696233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2509069802915,
+                  "lng" : -2.694884019708498
+               },
+               "southwest" : {
+                  "lat" : 52.2482090197085,
+                  "lng" : -2.697581980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

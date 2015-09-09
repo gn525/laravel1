@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EN5",
+               "short_name" : "EN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Barnet",
+               "short_name" : "Barnet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barnet EN5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6862505,
+                  "lng" : -0.166061
+               },
+               "southwest" : {
+                  "lat" : 51.63570430000001,
+                  "lng" : -0.2562643
+               }
+            },
+            "location" : {
+               "lat" : 51.6516023,
+               "lng" : -0.2244849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6862505,
+                  "lng" : -0.166061
+               },
+               "southwest" : {
+                  "lat" : 51.63570430000001,
+                  "lng" : -0.2562643
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

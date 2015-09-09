@@ -1,0 +1,285 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northfields",
+               "short_name" : "Northfields",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Devizes",
+               "short_name" : "Devizes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devizes",
+               "short_name" : "Devizes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN10",
+               "short_name" : "SN10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northfields, Devizes, Devizes, Wiltshire SN10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3640924,
+               "lng" : -1.9661419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3710586,
+                  "lng" : -1.9501345
+               },
+               "southwest" : {
+                  "lat" : 51.3571252,
+                  "lng" : -1.9821493
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northfields",
+               "short_name" : "Northfields",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Devizes",
+               "short_name" : "Devizes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devizes",
+               "short_name" : "Devizes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN10",
+               "short_name" : "SN10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northfields, Devizes, Devizes, Wiltshire SN10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.365599,
+               "lng" : -1.966363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.36694798029149,
+                  "lng" : -1.965014019708498
+               },
+               "southwest" : {
+                  "lat" : 51.36425001970849,
+                  "lng" : -1.967711980291502
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northfields",
+               "short_name" : "Northfields",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rutland",
+               "short_name" : "Rutland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE9",
+               "short_name" : "PE9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northfields, Stamford, Rutland PE9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.663583,
+               "lng" : -0.497049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.66493198029149,
+                  "lng" : -0.495700019708498
+               },
+               "southwest" : {
+                  "lat" : 52.6622340197085,
+                  "lng" : -0.4983979802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northfields",
+               "short_name" : "Northfields",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W5",
+               "short_name" : "W5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northfields, London W5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.49932,
+               "lng" : -0.3147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5006689802915,
+                  "lng" : -0.3133510197084979
+               },
+               "southwest" : {
+                  "lat" : 51.4979710197085,
+                  "lng" : -0.316048980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Dunstable",
+               "short_name" : "North Dunstable",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dunstable",
+               "short_name" : "Dunstable",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunstable",
+               "short_name" : "Dunstable",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Dunstable, Dunstable, Dunstable, Central Bedfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8999454,
+                  "lng" : -0.5228376
+               },
+               "southwest" : {
+                  "lat" : 51.89001409999999,
+                  "lng" : -0.5499170999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.8946522,
+               "lng" : -0.5365371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8999454,
+                  "lng" : -0.5228376
+               },
+               "southwest" : {
+                  "lat" : 51.89001409999999,
+                  "lng" : -0.5499170999999999
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

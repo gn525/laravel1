@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brisbane",
+               "short_name" : "Brisbane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stonehouse",
+               "short_name" : "Stonehouse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stonehouse",
+               "short_name" : "Stonehouse",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL10",
+               "short_name" : "GL10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brisbane, Stonehouse, Stonehouse, Gloucestershire GL10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7559717,
+                  "lng" : -2.2825997
+               },
+               "southwest" : {
+                  "lat" : 51.7552344,
+                  "lng" : -2.2851372
+               }
+            },
+            "location" : {
+               "lat" : 51.7557455,
+               "lng" : -2.284046
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.75695203029149,
+                  "lng" : -2.282519469708498
+               },
+               "southwest" : {
+                  "lat" : 51.7542540697085,
+                  "lng" : -2.285217430291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

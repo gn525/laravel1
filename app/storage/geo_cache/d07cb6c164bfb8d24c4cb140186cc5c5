@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shenley Wood",
+               "short_name" : "Shenley Wood",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Henley-on-Thames",
+               "short_name" : "Henley-on-Thames",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG9",
+               "short_name" : "RG9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shenley Wood, Henley-on-Thames, Oxfordshire RG9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5574357,
+                  "lng" : -0.9973751
+               },
+               "southwest" : {
+                  "lat" : 51.5546237,
+                  "lng" : -1.000068
+               }
+            },
+            "location" : {
+               "lat" : 51.5557917,
+               "lng" : -0.998807
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5574357,
+                  "lng" : -0.9973725697084977
+               },
+               "southwest" : {
+                  "lat" : 51.5546237,
+                  "lng" : -1.000070530291502
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

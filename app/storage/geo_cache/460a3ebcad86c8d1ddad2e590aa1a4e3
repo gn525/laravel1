@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Thurrock",
+               "short_name" : "West Thurrock",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Grays",
+               "short_name" : "Grays",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grays",
+               "short_name" : "Grays",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Thurrock",
+               "short_name" : "Thurrock",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RM20",
+               "short_name" : "RM20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Thurrock, Grays, Grays, Essex RM20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.475987,
+               "lng" : 0.283495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4829361,
+                  "lng" : 0.2995024
+               },
+               "southwest" : {
+                  "lat" : 51.4690368,
+                  "lng" : 0.2674876
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

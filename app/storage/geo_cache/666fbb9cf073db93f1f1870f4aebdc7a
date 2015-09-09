@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noneley",
+               "short_name" : "Noneley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shrewsbury",
+               "short_name" : "Shrewsbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY4",
+               "short_name" : "SY4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Noneley, Shrewsbury, Shropshire SY4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.843097,
+               "lng" : -2.7737949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8498359,
+                  "lng" : -2.7577875
+               },
+               "southwest" : {
+                  "lat" : 52.8363571,
+                  "lng" : -2.7898023
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

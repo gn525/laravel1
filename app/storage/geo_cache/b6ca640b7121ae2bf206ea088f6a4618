@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cumnock",
+               "short_name" : "Cumnock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cumnock",
+               "short_name" : "Cumnock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Ayrshire",
+               "short_name" : "East Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA18",
+               "short_name" : "KA18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cumnock, Cumnock, East Ayrshire KA18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4670778,
+                  "lng" : -4.2287926
+               },
+               "southwest" : {
+                  "lat" : 55.4372002,
+                  "lng" : -4.284250999999999
+               }
+            },
+            "location" : {
+               "lat" : 55.45355199999999,
+               "lng" : -4.265829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4670778,
+                  "lng" : -4.2287926
+               },
+               "southwest" : {
+                  "lat" : 55.4372002,
+                  "lng" : -4.284250999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

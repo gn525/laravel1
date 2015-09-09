@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wix",
+               "short_name" : "Wix",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manningtree",
+               "short_name" : "Manningtree",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO11",
+               "short_name" : "CO11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wix, Manningtree, Essex CO11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.912919,
+               "lng" : 1.146532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9198014,
+                  "lng" : 1.1625394
+               },
+               "southwest" : {
+                  "lat" : 51.9060356,
+                  "lng" : 1.1305246
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

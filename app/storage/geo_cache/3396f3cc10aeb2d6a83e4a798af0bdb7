@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connah's Quay",
+               "short_name" : "Connah's Quay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deeside",
+               "short_name" : "Deeside",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH5",
+               "short_name" : "CH5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Connah's Quay, Deeside, Flintshire CH5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.219402,
+               "lng" : -3.058639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2260824,
+                  "lng" : -3.0426316
+               },
+               "southwest" : {
+                  "lat" : 53.2127206,
+                  "lng" : -3.0746464
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

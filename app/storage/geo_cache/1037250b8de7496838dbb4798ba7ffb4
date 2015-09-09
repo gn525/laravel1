@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "AL8",
+               "short_name" : "AL8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hertfordshire AL8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.824929,
+                  "lng" : -0.1948465
+               },
+               "southwest" : {
+                  "lat" : 51.7769872,
+                  "lng" : -0.2660476
+               }
+            },
+            "location" : {
+               "lat" : 51.7939798,
+               "lng" : -0.2196838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.824929,
+                  "lng" : -0.1948465
+               },
+               "southwest" : {
+                  "lat" : 51.7769872,
+                  "lng" : -0.2660476
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Welwyn Garden City",
+               "short_name" : "Welwyn Garden City",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Welwyn Garden City",
+               "short_name" : "Welwyn Garden City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Welwyn Garden City",
+               "short_name" : "Welwyn Garden City",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AL8",
+               "short_name" : "AL8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Welwyn Garden City, Welwyn Garden City, Welwyn Garden City, Hertfordshire AL8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.80105,
+               "lng" : -0.20405
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.80239898029149,
+                  "lng" : -0.202701019708498
+               },
+               "southwest" : {
+                  "lat" : 51.79970101970849,
+                  "lng" : -0.205398980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hurstpierpoint",
+               "short_name" : "Hurstpierpoint",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hassocks",
+               "short_name" : "Hassocks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN6",
+               "short_name" : "BN6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hurstpierpoint, Hassocks, West Sussex BN6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9515591,
+                  "lng" : -0.1554927
+               },
+               "southwest" : {
+                  "lat" : 50.9228058,
+                  "lng" : -0.1955566
+               }
+            },
+            "location" : {
+               "lat" : 50.934439,
+               "lng" : -0.179902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9515591,
+                  "lng" : -0.1554927
+               },
+               "southwest" : {
+                  "lat" : 50.9228058,
+                  "lng" : -0.1955566
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

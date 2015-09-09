@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Princes Risborough",
+               "short_name" : "Princes Risborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Princes Risborough, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7403831,
+                  "lng" : -0.8038961999999999
+               },
+               "southwest" : {
+                  "lat" : 51.7099503,
+                  "lng" : -0.8561820999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.724376,
+               "lng" : -0.834518
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7403831,
+                  "lng" : -0.8038961999999999
+               },
+               "southwest" : {
+                  "lat" : 51.7099503,
+                  "lng" : -0.8561820999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

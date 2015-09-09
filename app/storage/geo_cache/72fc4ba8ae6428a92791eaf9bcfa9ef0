@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matlock Dale",
+               "short_name" : "Matlock Dale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matlock",
+               "short_name" : "Matlock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE4",
+               "short_name" : "DE4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Matlock Dale, Matlock, Derbyshire DE4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.12762499999999,
+               "lng" : -1.559366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1343197,
+                  "lng" : -1.5433586
+               },
+               "southwest" : {
+                  "lat" : 53.1209293,
+                  "lng" : -1.5753734
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

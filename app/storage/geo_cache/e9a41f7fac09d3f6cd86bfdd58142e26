@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Verwood",
+               "short_name" : "Verwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verwood",
+               "short_name" : "Verwood",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH31",
+               "short_name" : "BH31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Verwood, Verwood, Dorset BH31, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8801113,
+               "lng" : -1.8756488
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8871508,
+                  "lng" : -1.8596414
+               },
+               "southwest" : {
+                  "lat" : 50.87307070000001,
+                  "lng" : -1.8916562
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

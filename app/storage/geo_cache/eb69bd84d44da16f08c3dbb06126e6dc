@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strathclyde Business Park",
+               "short_name" : "Strathclyde Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bellshill",
+               "short_name" : "Bellshill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bellshill",
+               "short_name" : "Bellshill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML4 3PB",
+               "short_name" : "ML4 3PB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Strathclyde Business Park, Bellshill, North Lanarkshire ML4 3PB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.8352392,
+               "lng" : -4.0388579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8365881802915,
+                  "lng" : -4.037508919708498
+               },
+               "southwest" : {
+                  "lat" : 55.8338902197085,
+                  "lng" : -4.040206880291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

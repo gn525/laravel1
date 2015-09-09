@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peper Harow",
+               "short_name" : "Peper Harow",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Waverley District",
+               "short_name" : "Waverley District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peper Harow, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2002582,
+                  "lng" : -0.6504183
+               },
+               "southwest" : {
+                  "lat" : 51.1579107,
+                  "lng" : -0.7043528
+               }
+            },
+            "location" : {
+               "lat" : 51.1853281,
+               "lng" : -0.6800797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2002582,
+                  "lng" : -0.6504183
+               },
+               "southwest" : {
+                  "lat" : 51.1579107,
+                  "lng" : -0.7043528
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

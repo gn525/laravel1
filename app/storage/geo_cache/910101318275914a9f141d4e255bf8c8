@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Park",
+               "short_name" : "Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Londonderry",
+               "short_name" : "Londonderry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derry",
+               "short_name" : "Derry",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT47",
+               "short_name" : "BT47",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Park, Londonderry, Derry BT47, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.86844,
+               "lng" : -7.09054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8748604,
+                  "lng" : -7.0745326
+               },
+               "southwest" : {
+                  "lat" : 54.8620186,
+                  "lng" : -7.106547399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

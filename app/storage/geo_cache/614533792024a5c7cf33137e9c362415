@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southam",
+               "short_name" : "Southam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southam",
+               "short_name" : "Southam",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV47",
+               "short_name" : "CV47",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southam, Southam, Warwickshire CV47, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.26429570000001,
+                  "lng" : -1.3739063
+               },
+               "southwest" : {
+                  "lat" : 52.2403597,
+                  "lng" : -1.4079794
+               }
+            },
+            "location" : {
+               "lat" : 52.2505049,
+               "lng" : -1.389719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.26429570000001,
+                  "lng" : -1.3739063
+               },
+               "southwest" : {
+                  "lat" : 52.2403597,
+                  "lng" : -1.4079794
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

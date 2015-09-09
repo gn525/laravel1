@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CM2",
+               "short_name" : "CM2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essex CM2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.758472,
+                  "lng" : 0.5646778
+               },
+               "southwest" : {
+                  "lat" : 51.65983379999999,
+                  "lng" : 0.4257565
+               }
+            },
+            "location" : {
+               "lat" : 51.7140479,
+               "lng" : 0.4868068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.758472,
+                  "lng" : 0.5646778
+               },
+               "southwest" : {
+                  "lat" : 51.65983379999999,
+                  "lng" : 0.4257565
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chelmsford",
+               "short_name" : "Chelmsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chelmsford, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.76199450000001,
+                  "lng" : 0.5233852
+               },
+               "southwest" : {
+                  "lat" : 51.6897874,
+                  "lng" : 0.4348426
+               }
+            },
+            "location" : {
+               "lat" : 51.7355868,
+               "lng" : 0.4685497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76199450000001,
+                  "lng" : 0.5233852
+               },
+               "southwest" : {
+                  "lat" : 51.6897874,
+                  "lng" : 0.4348426
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

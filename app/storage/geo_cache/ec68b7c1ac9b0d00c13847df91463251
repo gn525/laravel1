@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarleton",
+               "short_name" : "Tarleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarleton, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6979323,
+                  "lng" : -2.8220691
+               },
+               "southwest" : {
+                  "lat" : 53.665012,
+                  "lng" : -2.8607264
+               }
+            },
+            "location" : {
+               "lat" : 53.681461,
+               "lng" : -2.835089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6979323,
+                  "lng" : -2.8220691
+               },
+               "southwest" : {
+                  "lat" : 53.665012,
+                  "lng" : -2.8607264
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

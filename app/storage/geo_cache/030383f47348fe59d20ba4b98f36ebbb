@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ollerton",
+               "short_name" : "Ollerton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG22",
+               "short_name" : "NG22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ollerton, Newark, Nottinghamshire NG22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.20559799999999,
+                  "lng" : -1.0072746
+               },
+               "southwest" : {
+                  "lat" : 53.1918976,
+                  "lng" : -1.0364095
+               }
+            },
+            "location" : {
+               "lat" : 53.20409799999999,
+               "lng" : -1.020581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.20559799999999,
+                  "lng" : -1.0072746
+               },
+               "southwest" : {
+                  "lat" : 53.1918976,
+                  "lng" : -1.0364095
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

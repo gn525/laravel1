@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dodworth",
+               "short_name" : "Dodworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dodworth, Barnsley, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.568002,
+                  "lng" : -1.4949998
+               },
+               "southwest" : {
+                  "lat" : 53.52856420000001,
+                  "lng" : -1.5555548
+               }
+            },
+            "location" : {
+               "lat" : 53.540062,
+               "lng" : -1.524437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.568002,
+                  "lng" : -1.4949998
+               },
+               "southwest" : {
+                  "lat" : 53.52856420000001,
+                  "lng" : -1.5555548
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

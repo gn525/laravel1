@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yiewsley",
+               "short_name" : "Yiewsley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB7",
+               "short_name" : "UB7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yiewsley, West Drayton, West Drayton, Greater London UB7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.511703,
+               "lng" : -0.472012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5186467,
+                  "lng" : -0.4560045999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5047582,
+                  "lng" : -0.4880194
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

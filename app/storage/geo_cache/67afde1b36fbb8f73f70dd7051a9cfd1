@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enniskillen",
+               "short_name" : "Enniskillen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enniskillen",
+               "short_name" : "Enniskillen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fermanagh",
+               "short_name" : "Fermanagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT74",
+               "short_name" : "BT74",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Enniskillen, Enniskillen, Fermanagh BT74, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.3439361,
+               "lng" : -7.631554800000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3504398,
+                  "lng" : -7.6155474
+               },
+               "southwest" : {
+                  "lat" : 54.3374314,
+                  "lng" : -7.647562199999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mid Sussex",
+               "short_name" : "Mid Sussex",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Haywards Heath",
+               "short_name" : "Haywards Heath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH17",
+               "short_name" : "RH17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mid Sussex, Haywards Heath, West Sussex RH17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.03299999999999,
+               "lng" : -0.115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0400164,
+                  "lng" : -0.0989926
+               },
+               "southwest" : {
+                  "lat" : 51.0259825,
+                  "lng" : -0.1310074
+               }
+            }
+         },
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

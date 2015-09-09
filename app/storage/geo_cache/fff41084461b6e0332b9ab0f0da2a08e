@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pendeen",
+               "short_name" : "Pendeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penzance",
+               "short_name" : "Penzance",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR19",
+               "short_name" : "TR19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pendeen, Penzance, Cornwall TR19, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1580922,
+                  "lng" : -5.6525297
+               },
+               "southwest" : {
+                  "lat" : 50.1463392,
+                  "lng" : -5.6781539
+               }
+            },
+            "location" : {
+               "lat" : 50.151696,
+               "lng" : -5.664421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1580922,
+                  "lng" : -5.6525297
+               },
+               "southwest" : {
+                  "lat" : 50.1463392,
+                  "lng" : -5.6781539
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

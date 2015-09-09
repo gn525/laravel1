@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hixon",
+               "short_name" : "Hixon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hixon, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.838775,
+                  "lng" : -1.9543933
+               },
+               "southwest" : {
+                  "lat" : 52.8164795,
+                  "lng" : -2.0271792
+               }
+            },
+            "location" : {
+               "lat" : 52.831652,
+               "lng" : -1.998441
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.838775,
+                  "lng" : -1.9543933
+               },
+               "southwest" : {
+                  "lat" : 52.8164795,
+                  "lng" : -2.0271792
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

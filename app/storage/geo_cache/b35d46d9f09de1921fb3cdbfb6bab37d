@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilkley",
+               "short_name" : "Ilkley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ilkley, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9407584,
+                  "lng" : -1.7775325
+               },
+               "southwest" : {
+                  "lat" : 53.8995671,
+                  "lng" : -1.8694307
+               }
+            },
+            "location" : {
+               "lat" : 53.925486,
+               "lng" : -1.822817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9407584,
+                  "lng" : -1.7775325
+               },
+               "southwest" : {
+                  "lat" : 53.8995671,
+                  "lng" : -1.8694307
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilkley",
+               "short_name" : "Ilkley",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ilkley",
+               "short_name" : "Ilkley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilkley",
+               "short_name" : "Ilkley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS29",
+               "short_name" : "LS29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ilkley, Ilkley, Ilkley, West Yorkshire LS29, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.92478,
+               "lng" : -1.82203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9261289802915,
+                  "lng" : -1.820681019708498
+               },
+               "southwest" : {
+                  "lat" : 53.9234310197085,
+                  "lng" : -1.823378980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faslane",
+               "short_name" : "Faslane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Helensburgh",
+               "short_name" : "Helensburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G84",
+               "short_name" : "G84",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Faslane, Helensburgh, Argyll and Bute G84, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.067455,
+               "lng" : -4.8155789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0736831,
+                  "lng" : -4.7995715
+               },
+               "southwest" : {
+                  "lat" : 56.0612259,
+                  "lng" : -4.8315863
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

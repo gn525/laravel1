@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Tyneside",
+               "short_name" : "North Tyneside",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Wallsend",
+               "short_name" : "Wallsend",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wallsend",
+               "short_name" : "Wallsend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE28",
+               "short_name" : "NE28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Tyneside, Wallsend, Wallsend, Tyne and Wear NE28, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.008,
+               "lng" : -1.546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0143982,
+                  "lng" : -1.5299926
+               },
+               "southwest" : {
+                  "lat" : 55.0016008,
+                  "lng" : -1.5620074
+               }
+            }
+         },
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

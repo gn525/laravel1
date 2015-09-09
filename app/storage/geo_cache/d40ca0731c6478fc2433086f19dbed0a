@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dolgarrog",
+               "short_name" : "Dolgarrog",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conwy",
+               "short_name" : "Conwy",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Conwy",
+               "short_name" : "Conwy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL32",
+               "short_name" : "LL32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dolgarrog, Conwy, Conwy LL32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.185394,
+               "lng" : -3.842482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1920797,
+                  "lng" : -3.8264746
+               },
+               "southwest" : {
+                  "lat" : 53.1787073,
+                  "lng" : -3.858489399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

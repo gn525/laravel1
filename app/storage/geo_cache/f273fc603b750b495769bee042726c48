@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cinderford",
+               "short_name" : "Cinderford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cinderford, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8405056,
+                  "lng" : -2.4837247
+               },
+               "southwest" : {
+                  "lat" : 51.8130611,
+                  "lng" : -2.5166272
+               }
+            },
+            "location" : {
+               "lat" : 51.825303,
+               "lng" : -2.5009579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8405056,
+                  "lng" : -2.4837247
+               },
+               "southwest" : {
+                  "lat" : 51.8130611,
+                  "lng" : -2.5166272
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

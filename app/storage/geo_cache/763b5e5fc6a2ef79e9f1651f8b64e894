@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Carbrain Road",
+               "short_name" : "N Carbrain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cumbernauld",
+               "short_name" : "Cumbernauld",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G67",
+               "short_name" : "G67",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Carbrain Road, Cumbernauld, Glasgow, North Lanarkshire G67, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.95322350000001,
+                  "lng" : -3.9779977
+               },
+               "southwest" : {
+                  "lat" : 55.9393574,
+                  "lng" : -3.9986329
+               }
+            },
+            "location" : {
+               "lat" : 55.9451242,
+               "lng" : -3.987617
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.95322350000001,
+                  "lng" : -3.9779977
+               },
+               "southwest" : {
+                  "lat" : 55.9393574,
+                  "lng" : -3.9986329
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carbrain",
+               "short_name" : "Carbrain",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cumbernauld",
+               "short_name" : "Cumbernauld",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G67",
+               "short_name" : "G67",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carbrain, Cumbernauld, Glasgow, North Lanarkshire G67, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.942992,
+               "lng" : -3.984447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9443409802915,
+                  "lng" : -3.983098019708498
+               },
+               "southwest" : {
+                  "lat" : 55.9416430197085,
+                  "lng" : -3.985795980291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Carbrain Road",
+               "short_name" : "S Carbrain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cumbernauld",
+               "short_name" : "Cumbernauld",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G67",
+               "short_name" : "G67",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Carbrain Road, Cumbernauld, Glasgow, North Lanarkshire G67, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9472709,
+                  "lng" : -3.9741044
+               },
+               "southwest" : {
+                  "lat" : 55.9390963,
+                  "lng" : -3.9880374
+               }
+            },
+            "location" : {
+               "lat" : 55.9430304,
+               "lng" : -3.980260299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9472709,
+                  "lng" : -3.9741044
+               },
+               "southwest" : {
+                  "lat" : 55.9390963,
+                  "lng" : -3.9880374
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

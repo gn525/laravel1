@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chicksands",
+               "short_name" : "Chicksands",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shefford",
+               "short_name" : "Shefford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG17",
+               "short_name" : "SG17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chicksands, Shefford, Central Bedfordshire SG17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.0375908,
+               "lng" : -0.3603562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.04445399999999,
+                  "lng" : -0.3443488000000001
+               },
+               "southwest" : {
+                  "lat" : 52.0307265,
+                  "lng" : -0.3763636
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

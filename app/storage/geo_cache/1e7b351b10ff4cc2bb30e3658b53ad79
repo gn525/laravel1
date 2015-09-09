@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topcliffe",
+               "short_name" : "Topcliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thirsk",
+               "short_name" : "Thirsk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO7",
+               "short_name" : "YO7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Topcliffe, Thirsk, North Yorkshire YO7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.178191,
+               "lng" : -1.3858029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.18472089999999,
+                  "lng" : -1.3697955
+               },
+               "southwest" : {
+                  "lat" : 54.1716601,
+                  "lng" : -1.4018103
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

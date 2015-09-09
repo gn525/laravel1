@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dudley Port",
+               "short_name" : "Dudley Port",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Tipton",
+               "short_name" : "Tipton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tipton",
+               "short_name" : "Tipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DY4",
+               "short_name" : "DY4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dudley Port, Tipton, Tipton, West Midlands DY4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.52467,
+               "lng" : -2.04947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5260189802915,
+                  "lng" : -2.048121019708498
+               },
+               "southwest" : {
+                  "lat" : 52.5233210197085,
+                  "lng" : -2.050818980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

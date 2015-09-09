@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Byker",
+               "short_name" : "Byker",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE6",
+               "short_name" : "NE6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Byker, Newcastle upon Tyne, Newcastle upon Tyne, Tyne and Wear NE6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.971798,
+               "lng" : -1.57216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.97820189999999,
+                  "lng" : -1.5561526
+               },
+               "southwest" : {
+                  "lat" : 54.965393,
+                  "lng" : -1.5881674
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

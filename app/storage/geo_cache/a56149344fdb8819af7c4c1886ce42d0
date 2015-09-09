@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MK1",
+               "short_name" : "MK1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milton Keynes, Milton Keynes MK1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0134161,
+                  "lng" : -0.7092039999999999
+               },
+               "southwest" : {
+                  "lat" : 51.99717889999999,
+                  "lng" : -0.7461637
+               }
+            },
+            "location" : {
+               "lat" : 52.0060793,
+               "lng" : -0.7246155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0134161,
+                  "lng" : -0.7092039999999999
+               },
+               "southwest" : {
+                  "lat" : 51.99717889999999,
+                  "lng" : -0.7461637
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

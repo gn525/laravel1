@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mountain Ash",
+               "short_name" : "Mountain Ash",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mountain Ash",
+               "short_name" : "Mountain Ash",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF45",
+               "short_name" : "CF45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mountain Ash, Mountain Ash, Rhondda Cynon Taff CF45, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.689877,
+                  "lng" : -3.3636291
+               },
+               "southwest" : {
+                  "lat" : 51.66995420000001,
+                  "lng" : -3.3890633
+               }
+            },
+            "location" : {
+               "lat" : 51.681615,
+               "lng" : -3.373141
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.689877,
+                  "lng" : -3.3636291
+               },
+               "southwest" : {
+                  "lat" : 51.66995420000001,
+                  "lng" : -3.3890633
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

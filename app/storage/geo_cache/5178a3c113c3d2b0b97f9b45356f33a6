@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellshill",
+               "short_name" : "Bellshill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bellshill, North Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8369564,
+                  "lng" : -3.9815319
+               },
+               "southwest" : {
+                  "lat" : 55.7840691,
+                  "lng" : -4.0533535
+               }
+            },
+            "location" : {
+               "lat" : 55.816761,
+               "lng" : -4.026536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8369564,
+                  "lng" : -3.9815319
+               },
+               "southwest" : {
+                  "lat" : 55.7840691,
+                  "lng" : -4.0533535
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunmow",
+               "short_name" : "Dunmow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunmow",
+               "short_name" : "Dunmow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM6",
+               "short_name" : "CM6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunmow, Dunmow, Essex CM6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.867506,
+               "lng" : 0.361321
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8743953,
+                  "lng" : 0.3773284
+               },
+               "southwest" : {
+                  "lat" : 51.8606156,
+                  "lng" : 0.3453136
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

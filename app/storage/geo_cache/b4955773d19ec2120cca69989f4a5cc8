@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SP5",
+               "short_name" : "SP5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salisbury SP5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1369514,
+                  "lng" : -1.5617645
+               },
+               "southwest" : {
+                  "lat" : 50.9187178,
+                  "lng" : -2.1715119
+               }
+            },
+            "location" : {
+               "lat" : 51.0199649,
+               "lng" : -1.7605627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1369514,
+                  "lng" : -1.5617645
+               },
+               "southwest" : {
+                  "lat" : 50.9187178,
+                  "lng" : -2.1715119
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

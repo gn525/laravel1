@@ -1,0 +1,474 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chester le Street",
+               "short_name" : "Chester le Street",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DH2",
+               "short_name" : "DH2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, Chester le Street, County Durham DH2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8542078,
+                  "lng" : -1.5952152
+               },
+               "southwest" : {
+                  "lat" : 54.8508662,
+                  "lng" : -1.5975831
+               }
+            },
+            "location" : {
+               "lat" : 54.8524708,
+               "lng" : -1.5965494
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8542078,
+                  "lng" : -1.595050169708498
+               },
+               "southwest" : {
+                  "lat" : 54.8508662,
+                  "lng" : -1.597748130291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Halifax Road",
+               "short_name" : "Halifax Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HD3 3BN",
+               "short_name" : "HD3 3BN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, Halifax Road, Huddersfield, West Yorkshire HD3 3BN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6606293,
+               "lng" : -1.8135919
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.66197828029149,
+                  "lng" : -1.812242919708498
+               },
+               "southwest" : {
+                  "lat" : 53.65928031970849,
+                  "lng" : -1.814940880291501
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Guisborough Road",
+               "short_name" : "Guisborough Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nunthorpe",
+               "short_name" : "Nunthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesbrough",
+               "short_name" : "Middlesbrough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Redcar and Cleveland",
+               "short_name" : "Redcar and Cleveland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS7 0JT",
+               "short_name" : "TS7 0JT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, Guisborough Road, Nunthorpe, Middlesbrough, Redcar and Cleveland TS7 0JT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5287288,
+               "lng" : -1.1675618
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.53007778029149,
+                  "lng" : -1.166212819708498
+               },
+               "southwest" : {
+                  "lat" : 54.5273798197085,
+                  "lng" : -1.168910780291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Red Street",
+               "short_name" : "Red St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southfleet",
+               "short_name" : "Southfleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gravesend",
+               "short_name" : "Gravesend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DA13 9QE",
+               "short_name" : "DA13 9QE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, Red Street, Southfleet, Gravesend, Kent DA13 9QE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4125343,
+               "lng" : 0.3252175
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41388328029149,
+                  "lng" : 0.326566480291502
+               },
+               "southwest" : {
+                  "lat" : 51.41118531970849,
+                  "lng" : 0.3238685197084979
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Castle Canyke Road",
+               "short_name" : "Castle Canyke Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bodmin",
+               "short_name" : "Bodmin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bodmin",
+               "short_name" : "Bodmin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL31 1HB",
+               "short_name" : "PL31 1HB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, Castle Canyke Road, Bodmin, Cornwall PL31 1HB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4603903,
+               "lng" : -4.7025932
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4617392802915,
+                  "lng" : -4.701244219708498
+               },
+               "southwest" : {
+                  "lat" : 50.4590413197085,
+                  "lng" : -4.703942180291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lochview Road",
+               "short_name" : "Lochview Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stranraer",
+               "short_name" : "Stranraer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stranraer",
+               "short_name" : "Stranraer",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG9 8HP",
+               "short_name" : "DG9 8HP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, Lochview Road, Stranraer, Dumfries and Galloway DG9 8HP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.9090648,
+               "lng" : -5.0043179
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9104137802915,
+                  "lng" : -5.002968919708499
+               },
+               "southwest" : {
+                  "lat" : 54.9077158197085,
+                  "lng" : -5.005666880291503
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Windmill Close",
+               "short_name" : "Windmill Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT1 1PT",
+               "short_name" : "CT1 1PT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, Windmill Close, Canterbury, Kent CT1 1PT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.27808400000001,
+               "lng" : 1.0969466
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.27943298029151,
+                  "lng" : 1.098295580291502
+               },
+               "southwest" : {
+                  "lat" : 51.27673501970851,
+                  "lng" : 1.095597619708498
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lazonby Terrace",
+               "short_name" : "Lazonby Terrace",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Carlisle",
+               "short_name" : "Carlisle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carlisle",
+               "short_name" : "Carlisle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA1 2PZ",
+               "short_name" : "CA1 2PZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland, 31 Lazonby Terrace, Carlisle, Cumbria CA1 2PZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.8822822,
+               "lng" : -2.9144804
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8836311802915,
+                  "lng" : -2.913131419708498
+               },
+               "southwest" : {
+                  "lat" : 54.8809332197085,
+                  "lng" : -2.915829380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

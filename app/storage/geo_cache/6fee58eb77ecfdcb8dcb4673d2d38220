@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maltby",
+               "short_name" : "Maltby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maltby, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4371047,
+                  "lng" : -1.1151369
+               },
+               "southwest" : {
+                  "lat" : 53.391379,
+                  "lng" : -1.2400847
+               }
+            },
+            "location" : {
+               "lat" : 53.422615,
+               "lng" : -1.201148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4371047,
+                  "lng" : -1.1151369
+               },
+               "southwest" : {
+                  "lat" : 53.391379,
+                  "lng" : -1.2400847
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

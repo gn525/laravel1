@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bilston",
+               "short_name" : "Bilston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bilston, West Midlands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5803714,
+                  "lng" : -2.0477694
+               },
+               "southwest" : {
+                  "lat" : 52.53386649999999,
+                  "lng" : -2.1155127
+               }
+            },
+            "location" : {
+               "lat" : 52.56559499999999,
+               "lng" : -2.074088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5803714,
+                  "lng" : -2.0477694
+               },
+               "southwest" : {
+                  "lat" : 52.53386649999999,
+                  "lng" : -2.1155127
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Killingholme",
+               "short_name" : "North Killingholme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Immingham",
+               "short_name" : "Immingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lincolnshire",
+               "short_name" : "North Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN40",
+               "short_name" : "DN40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Killingholme, Immingham, North Lincolnshire DN40, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.639527,
+               "lng" : -0.274234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.64614160000001,
+                  "lng" : -0.2582266
+               },
+               "southwest" : {
+                  "lat" : 53.6329113,
+                  "lng" : -0.2902414
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

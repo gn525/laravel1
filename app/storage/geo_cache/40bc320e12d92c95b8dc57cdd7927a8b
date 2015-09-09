@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Dulwich",
+               "short_name" : "West Dulwich",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE21",
+               "short_name" : "SE21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Dulwich, London SE21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.44072,
+               "lng" : -0.09135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.44206898029149,
+                  "lng" : -0.09000101970849797
+               },
+               "southwest" : {
+                  "lat" : 51.4393710197085,
+                  "lng" : -0.09269898029150204
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

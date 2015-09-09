@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sellack",
+               "short_name" : "Sellack",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ross-on-Wye",
+               "short_name" : "Ross-on-Wye",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR9",
+               "short_name" : "HR9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sellack, Ross-on-Wye, Herefordshire HR9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.9441149,
+               "lng" : -2.625066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9509925,
+                  "lng" : -2.6090586
+               },
+               "southwest" : {
+                  "lat" : 51.9372363,
+                  "lng" : -2.6410734
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

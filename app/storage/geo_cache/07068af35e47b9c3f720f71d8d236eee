@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Titchfield",
+               "short_name" : "Titchfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Titchfield, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8634936,
+                  "lng" : -1.2260062
+               },
+               "southwest" : {
+                  "lat" : 50.8173301,
+                  "lng" : -1.2674597
+               }
+            },
+            "location" : {
+               "lat" : 50.8485889,
+               "lng" : -1.241713
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8634936,
+                  "lng" : -1.2260062
+               },
+               "southwest" : {
+                  "lat" : 50.8173301,
+                  "lng" : -1.2674597
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

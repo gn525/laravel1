@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester Business Park",
+               "short_name" : "Chester Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH4 9FB",
+               "short_name" : "CH4 9FB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester Business Park, Chester, Cheshire West and Chester CH4 9FB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.16168099999999,
+               "lng" : -2.9011929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.16302998029149,
+                  "lng" : -2.899843919708498
+               },
+               "southwest" : {
+                  "lat" : 53.1603320197085,
+                  "lng" : -2.902541880291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OL9",
+               "short_name" : "OL9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "OL9, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5575592,
+                  "lng" : -2.0988659
+               },
+               "southwest" : {
+                  "lat" : 53.5168014,
+                  "lng" : -2.1709541
+               }
+            },
+            "location" : {
+               "lat" : 53.5389679,
+               "lng" : -2.1445416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5575592,
+                  "lng" : -2.1178268
+               },
+               "southwest" : {
+                  "lat" : 53.5168014,
+                  "lng" : -2.1709541
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

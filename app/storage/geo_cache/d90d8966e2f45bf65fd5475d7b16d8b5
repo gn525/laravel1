@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BH15",
+               "short_name" : "BH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "BH15, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7400039,
+                  "lng" : -1.950863
+               },
+               "southwest" : {
+                  "lat" : 50.6773785,
+                  "lng" : -2.0402817
+               }
+            },
+            "location" : {
+               "lat" : 50.7300034,
+               "lng" : -1.9855431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7400039,
+                  "lng" : -1.950863
+               },
+               "southwest" : {
+                  "lat" : 50.707183,
+                  "lng" : -2.0402817
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH15",
+               "short_name" : "BH15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Poole, Poole, Poole, Poole BH15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.71942000000001,
+               "lng" : -1.98331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.72076898029151,
+                  "lng" : -1.981961019708498
+               },
+               "southwest" : {
+                  "lat" : 50.71807101970851,
+                  "lng" : -1.984658980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

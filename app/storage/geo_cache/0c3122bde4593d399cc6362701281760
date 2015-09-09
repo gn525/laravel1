@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liphook",
+               "short_name" : "Liphook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liphook, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0876321,
+                  "lng" : -0.7769604
+               },
+               "southwest" : {
+                  "lat" : 51.0658051,
+                  "lng" : -0.8210691
+               }
+            },
+            "location" : {
+               "lat" : 51.07661,
+               "lng" : -0.801777
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0876321,
+                  "lng" : -0.7769604
+               },
+               "southwest" : {
+                  "lat" : 51.0658051,
+                  "lng" : -0.8210691
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Little Barford",
+               "short_name" : "Little Barford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Neots",
+               "short_name" : "Saint Neots",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE19",
+               "short_name" : "PE19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Little Barford, Saint Neots, Bedford PE19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.198745,
+               "lng" : -0.273019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2055835,
+                  "lng" : -0.2570116
+               },
+               "southwest" : {
+                  "lat" : 52.1919055,
+                  "lng" : -0.2890264
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

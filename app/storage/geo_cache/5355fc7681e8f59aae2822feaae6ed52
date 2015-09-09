@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ockbrook and Borrowash",
+               "short_name" : "Ockbrook and Borrowash",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Erewash District",
+               "short_name" : "Erewash District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ockbrook and Borrowash, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.94300579999999,
+                  "lng" : -1.3447712
+               },
+               "southwest" : {
+                  "lat" : 52.8946444,
+                  "lng" : -1.3917748
+               }
+            },
+            "location" : {
+               "lat" : 52.9252605,
+               "lng" : -1.3696225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.94300579999999,
+                  "lng" : -1.3447712
+               },
+               "southwest" : {
+                  "lat" : 52.8946444,
+                  "lng" : -1.3917748
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

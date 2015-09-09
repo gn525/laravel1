@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuwait Investment Office",
+               "short_name" : "Kuwait Investment Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC4V 5EY",
+               "short_name" : "EC4V 5EY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuwait Investment Office, London EC4V 5EY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.512795,
+               "lng" : -0.0987513
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5141439802915,
+                  "lng" : -0.09740231970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5114460197085,
+                  "lng" : -0.100100280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

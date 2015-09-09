@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lancaster, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.07068109999999,
+                  "lng" : -2.7649129
+               },
+               "southwest" : {
+                  "lat" : 54.0176443,
+                  "lng" : -2.8373731
+               }
+            },
+            "location" : {
+               "lat" : 54.046575,
+               "lng" : -2.8007399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.07068109999999,
+                  "lng" : -2.7649129
+               },
+               "southwest" : {
+                  "lat" : 54.0176443,
+                  "lng" : -2.8373731
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

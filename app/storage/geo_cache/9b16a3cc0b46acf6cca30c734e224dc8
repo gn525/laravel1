@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Musselburgh",
+               "short_name" : "Musselburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Lothian",
+               "short_name" : "East Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Musselburgh, East Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.95058150000001,
+                  "lng" : -3.0107912
+               },
+               "southwest" : {
+                  "lat" : 55.927876,
+                  "lng" : -3.089614
+               }
+            },
+            "location" : {
+               "lat" : 55.941941,
+               "lng" : -3.053918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.95058150000001,
+                  "lng" : -3.0107912
+               },
+               "southwest" : {
+                  "lat" : 55.927876,
+                  "lng" : -3.089614
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

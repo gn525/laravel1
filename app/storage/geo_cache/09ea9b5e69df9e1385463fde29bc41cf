@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forres",
+               "short_name" : "Forres",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Moray",
+               "short_name" : "Moray",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IV36",
+               "short_name" : "IV36",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas, Forres, Moray IV36, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.553177,
+               "lng" : -3.464577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.55916299999999,
+                  "lng" : -3.4485696
+               },
+               "southwest" : {
+                  "lat" : 57.5471901,
+                  "lng" : -3.4805844
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

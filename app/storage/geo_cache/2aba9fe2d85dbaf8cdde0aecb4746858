@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brownhills",
+               "short_name" : "Brownhills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brownhills, West Midlands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6627172,
+                  "lng" : -1.90509
+               },
+               "southwest" : {
+                  "lat" : 52.63526969999999,
+                  "lng" : -1.9607772
+               }
+            },
+            "location" : {
+               "lat" : 52.646054,
+               "lng" : -1.931056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6627172,
+                  "lng" : -1.90509
+               },
+               "southwest" : {
+                  "lat" : 52.63526969999999,
+                  "lng" : -1.9607772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

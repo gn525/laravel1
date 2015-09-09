@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caithness",
+               "short_name" : "Caithness",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Halkirk",
+               "short_name" : "Halkirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KW12",
+               "short_name" : "KW12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Caithness, Halkirk, Highland KW12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.27699999999999,
+               "lng" : -3.778999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.46424750000001,
+                  "lng" : -3.2667624
+               },
+               "southwest" : {
+                  "lat" : 58.0887573,
+                  "lng" : -4.2912376
+               }
+            }
+         },
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Grinstead",
+               "short_name" : "West Grinstead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horsham",
+               "short_name" : "Horsham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH13",
+               "short_name" : "RH13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Grinstead, Horsham, West Sussex RH13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.978376,
+               "lng" : -0.324787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9854007,
+                  "lng" : -0.3087796
+               },
+               "southwest" : {
+                  "lat" : 50.9713502,
+                  "lng" : -0.3407944
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

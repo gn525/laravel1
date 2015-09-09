@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stacey Bushes",
+               "short_name" : "Stacey Bushes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stacey Bushes, Milton Keynes, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0558011,
+                  "lng" : -0.7953315999999999
+               },
+               "southwest" : {
+                  "lat" : 52.0477358,
+                  "lng" : -0.8107654
+               }
+            },
+            "location" : {
+               "lat" : 52.0529623,
+               "lng" : -0.8037901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0558011,
+                  "lng" : -0.7953315999999999
+               },
+               "southwest" : {
+                  "lat" : 52.0477358,
+                  "lng" : -0.8107654
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

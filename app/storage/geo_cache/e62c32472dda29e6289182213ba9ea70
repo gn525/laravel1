@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rayne",
+               "short_name" : "Rayne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rayne, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9114891,
+                  "lng" : 0.5329588
+               },
+               "southwest" : {
+                  "lat" : 51.8643785,
+                  "lng" : 0.467177
+               }
+            },
+            "location" : {
+               "lat" : 51.87708,
+               "lng" : 0.512703
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9114891,
+                  "lng" : 0.5329588
+               },
+               "southwest" : {
+                  "lat" : 51.8643785,
+                  "lng" : 0.467177
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

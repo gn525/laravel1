@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Folkestone",
+               "short_name" : "Folkestone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Folkestone, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1051872,
+                  "lng" : 1.2212204
+               },
+               "southwest" : {
+                  "lat" : 51.07175059999999,
+                  "lng" : 1.117001
+               }
+            },
+            "location" : {
+               "lat" : 51.081397,
+               "lng" : 1.169456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1051872,
+                  "lng" : 1.2212204
+               },
+               "southwest" : {
+                  "lat" : 51.07175059999999,
+                  "lng" : 1.117001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne Road",
+               "short_name" : "Cologne Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW11 2AH",
+               "short_name" : "SW11 2AH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cologne Road, London SW11 2AH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.46238169999999,
+                  "lng" : -0.1753916
+               },
+               "southwest" : {
+                  "lat" : 51.4618593,
+                  "lng" : -0.1777116
+               }
+            },
+            "location" : {
+               "lat" : 51.4619815,
+               "lng" : -0.1772044
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4634694802915,
+                  "lng" : -0.175202619708498
+               },
+               "southwest" : {
+                  "lat" : 51.4607715197085,
+                  "lng" : -0.177900580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne Road",
+               "short_name" : "Cologne Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bovington",
+               "short_name" : "Bovington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wareham",
+               "short_name" : "Wareham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH20 6NP",
+               "short_name" : "BH20 6NP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cologne Road, Bovington, Wareham, Dorset BH20 6NP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6985233,
+                  "lng" : -2.2244057
+               },
+               "southwest" : {
+                  "lat" : 50.6910229,
+                  "lng" : -2.2309548
+               }
+            },
+            "location" : {
+               "lat" : 50.6954472,
+               "lng" : -2.2252433
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6985233,
+                  "lng" : -2.2244057
+               },
+               "southwest" : {
+                  "lat" : 50.6910229,
+                  "lng" : -2.2309548
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

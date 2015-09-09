@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadleigh",
+               "short_name" : "Hadleigh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP7",
+               "short_name" : "IP7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hadleigh, Ipswich, Suffolk IP7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.058026,
+                  "lng" : 0.9792415999999998
+               },
+               "southwest" : {
+                  "lat" : 52.0318881,
+                  "lng" : 0.9342198
+               }
+            },
+            "location" : {
+               "lat" : 52.0450779,
+               "lng" : 0.952647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.058026,
+                  "lng" : 0.9792415999999998
+               },
+               "southwest" : {
+                  "lat" : 52.0318881,
+                  "lng" : 0.9342198
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

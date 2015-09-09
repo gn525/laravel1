@@ -1,0 +1,325 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lagos Lane",
+               "short_name" : "Lagos Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rutherglen",
+               "short_name" : "Rutherglen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G73 5RN",
+               "short_name" : "G73 5RN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lagos Lane, Rutherglen, Glasgow, South Lanarkshire G73 5RN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8026993,
+                  "lng" : -4.1969572
+               },
+               "southwest" : {
+                  "lat" : 55.8023732,
+                  "lng" : -4.1982765
+               }
+            },
+            "location" : {
+               "lat" : 55.8025075,
+               "lng" : -4.1975673
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8038852302915,
+                  "lng" : -4.196267869708497
+               },
+               "southwest" : {
+                  "lat" : 55.8011872697085,
+                  "lng" : -4.198965830291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lagos Street",
+               "short_name" : "Lagos St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN1 2BU",
+               "short_name" : "SN1 2BU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lagos Street, Swindon, Swindon, Wiltshire SN1 2BU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5646808,
+                  "lng" : -1.7797887
+               },
+               "southwest" : {
+                  "lat" : 51.56445009999999,
+                  "lng" : -1.7807133
+               }
+            },
+            "location" : {
+               "lat" : 51.5646309,
+               "lng" : -1.7799321
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5659144302915,
+                  "lng" : -1.778902019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5632164697085,
+                  "lng" : -1.781599980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lagos Avenue",
+               "short_name" : "Lagos Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramsgate",
+               "short_name" : "Ramsgate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsgate",
+               "short_name" : "Ramsgate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT12",
+               "short_name" : "CT12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lagos Avenue, Ramsgate, Ramsgate, Kent CT12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.345036,
+                  "lng" : 1.3947581
+               },
+               "southwest" : {
+                  "lat" : 51.3445514,
+                  "lng" : 1.3928966
+               }
+            },
+            "location" : {
+               "lat" : 51.3449069,
+               "lng" : 1.3936223
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.34614268029151,
+                  "lng" : 1.395176330291502
+               },
+               "southwest" : {
+                  "lat" : 51.34344471970851,
+                  "lng" : 1.392478369708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lagos Grove",
+               "short_name" : "Lagos Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winsford",
+               "short_name" : "Winsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winsford",
+               "short_name" : "Winsford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CW7",
+               "short_name" : "CW7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lagos Grove, Winsford, Winsford, Cheshire West and Chester CW7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1952985,
+                  "lng" : -2.5215126
+               },
+               "southwest" : {
+                  "lat" : 53.1941285,
+                  "lng" : -2.5222953
+               }
+            },
+            "location" : {
+               "lat" : 53.19478669999999,
+               "lng" : -2.5220037
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.19606248029149,
+                  "lng" : -2.520554969708498
+               },
+               "southwest" : {
+                  "lat" : 53.1933645197085,
+                  "lng" : -2.523252930291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lagos Close",
+               "short_name" : "Lagos Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M14",
+               "short_name" : "M14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lagos Close, Manchester, Manchester M14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4593995,
+                  "lng" : -2.2411108
+               },
+               "southwest" : {
+                  "lat" : 53.45872180000001,
+                  "lng" : -2.2416536
+               }
+            },
+            "location" : {
+               "lat" : 53.4591553,
+               "lng" : -2.2411441
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4604096302915,
+                  "lng" : -2.240033219708498
+               },
+               "southwest" : {
+                  "lat" : 53.45771166970851,
+                  "lng" : -2.242731180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kilwinning",
+               "short_name" : "Kilwinning",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kilwinning, North Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6675476,
+                  "lng" : -4.6778303
+               },
+               "southwest" : {
+                  "lat" : 55.6399515,
+                  "lng" : -4.7301679
+               }
+            },
+            "location" : {
+               "lat" : 55.65591999999999,
+               "lng" : -4.703117000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6675476,
+                  "lng" : -4.6778303
+               },
+               "southwest" : {
+                  "lat" : 55.6399515,
+                  "lng" : -4.7301679
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

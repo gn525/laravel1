@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riccarton",
+               "short_name" : "Riccarton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kilmarnock",
+               "short_name" : "Kilmarnock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kilmarnock",
+               "short_name" : "Kilmarnock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Ayrshire",
+               "short_name" : "East Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA1",
+               "short_name" : "KA1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Riccarton, Kilmarnock, Kilmarnock, East Ayrshire KA1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.5928,
+               "lng" : -4.500641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5991045,
+                  "lng" : -4.4846336
+               },
+               "southwest" : {
+                  "lat" : 55.5864944,
+                  "lng" : -4.5166484
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

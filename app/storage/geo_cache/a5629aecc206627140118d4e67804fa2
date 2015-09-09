@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RG21",
+               "short_name" : "RG21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basingstoke, Hampshire RG21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2793909,
+                  "lng" : -1.0654923
+               },
+               "southwest" : {
+                  "lat" : 51.2482391,
+                  "lng" : -1.1122192
+               }
+            },
+            "location" : {
+               "lat" : 51.26338,
+               "lng" : -1.0875079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2793909,
+                  "lng" : -1.0654923
+               },
+               "southwest" : {
+                  "lat" : 51.2482391,
+                  "lng" : -1.1122192
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

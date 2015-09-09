@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lanhydrock",
+               "short_name" : "Lanhydrock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bodmin",
+               "short_name" : "Bodmin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL30",
+               "short_name" : "PL30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lanhydrock, Bodmin, Cornwall PL30, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4412169,
+               "lng" : -4.6985611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4483226,
+                  "lng" : -4.6825537
+               },
+               "southwest" : {
+                  "lat" : 50.4341102,
+                  "lng" : -4.714568499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Estate House",
+               "short_name" : "Estate House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Burdon Farm",
+               "short_name" : "Burdon Farm",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Burdon Village",
+               "short_name" : "Burdon Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR3 2PY",
+               "short_name" : "SR3 2PY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Estate House, Burdon Farm, Burdon Village, Sunderland, Tyne and Wear SR3 2PY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.85457599999999,
+               "lng" : -1.3971452
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.85592498029149,
+                  "lng" : -1.395796219708498
+               },
+               "southwest" : {
+                  "lat" : 54.8532270197085,
+                  "lng" : -1.398494180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

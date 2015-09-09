@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Interchange Park",
+               "short_name" : "Interchange Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Newport Pagnell",
+               "short_name" : "Newport Pagnell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport Pagnell",
+               "short_name" : "Newport Pagnell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK16",
+               "short_name" : "MK16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Interchange Park, Newport Pagnell, Newport Pagnell, Milton Keynes MK16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.07912,
+               "lng" : -0.706438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0859769,
+                  "lng" : -0.6904306000000001
+               },
+               "southwest" : {
+                  "lat" : 52.0722621,
+                  "lng" : -0.7224454
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

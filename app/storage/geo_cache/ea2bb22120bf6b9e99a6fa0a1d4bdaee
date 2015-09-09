@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "Mexico",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1B",
+               "short_name" : "WC1B",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mexico, London WC1B, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5202047,
+                  "lng" : -0.1267906
+               },
+               "southwest" : {
+                  "lat" : 51.5200361,
+                  "lng" : -0.1270823
+               }
+            },
+            "location" : {
+               "lat" : 51.5201342,
+               "lng" : -0.126953
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5214693802915,
+                  "lng" : -0.125587469708498
+               },
+               "southwest" : {
+                  "lat" : 51.51877141970851,
+                  "lng" : -0.128285430291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

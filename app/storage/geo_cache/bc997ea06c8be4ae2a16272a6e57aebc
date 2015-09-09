@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LE4",
+               "short_name" : "LE4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Leicester",
+               "short_name" : "Leicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leicester LE4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6937365,
+                  "lng" : -1.0746845
+               },
+               "southwest" : {
+                  "lat" : 52.6426059,
+                  "lng" : -1.1790955
+               }
+            },
+            "location" : {
+               "lat" : 52.6653878,
+               "lng" : -1.1250082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6937365,
+                  "lng" : -1.0746845
+               },
+               "southwest" : {
+                  "lat" : 52.6426059,
+                  "lng" : -1.1790955
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rye",
+               "short_name" : "Rye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rye",
+               "short_name" : "Rye",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN31",
+               "short_name" : "TN31",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rye, Rye, East Sussex TN31, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9622193,
+                  "lng" : 0.7457773000000001
+               },
+               "southwest" : {
+                  "lat" : 50.9394555,
+                  "lng" : 0.7130050999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.949708,
+               "lng" : 0.7372599999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9622193,
+                  "lng" : 0.7457773000000001
+               },
+               "southwest" : {
+                  "lat" : 50.9394555,
+                  "lng" : 0.7130050999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hedon",
+               "short_name" : "Hedon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Riding of Yorkshire",
+               "short_name" : "East Riding of Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HU12",
+               "short_name" : "HU12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hedon, Hull, East Riding of Yorkshire HU12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7473306,
+                  "lng" : -0.1783962
+               },
+               "southwest" : {
+                  "lat" : 53.7331896,
+                  "lng" : -0.2190191
+               }
+            },
+            "location" : {
+               "lat" : 53.7395,
+               "lng" : -0.1948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7473306,
+                  "lng" : -0.1783962
+               },
+               "southwest" : {
+                  "lat" : 53.7331896,
+                  "lng" : -0.2190191
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

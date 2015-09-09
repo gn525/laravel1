@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Welwyn",
+               "short_name" : "Welwyn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Welwyn, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8624857,
+                  "lng" : -0.1682082
+               },
+               "southwest" : {
+                  "lat" : 51.810936,
+                  "lng" : -0.2310704
+               }
+            },
+            "location" : {
+               "lat" : 51.832802,
+               "lng" : -0.212348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8624857,
+                  "lng" : -0.1682082
+               },
+               "southwest" : {
+                  "lat" : 51.810936,
+                  "lng" : -0.2310704
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

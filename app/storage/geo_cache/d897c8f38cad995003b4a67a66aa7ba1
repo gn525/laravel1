@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "King's Cliffe",
+               "short_name" : "King's Cliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE8",
+               "short_name" : "PE8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "King's Cliffe, Peterborough, Northamptonshire PE8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5638999,
+               "lng" : -0.5193719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5706821,
+                  "lng" : -0.5033645
+               },
+               "southwest" : {
+                  "lat" : 52.55711669999999,
+                  "lng" : -0.5353793000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B93",
+               "short_name" : "B93",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Solihull",
+               "short_name" : "Solihull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solihull B93, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4069588,
+                  "lng" : -1.6840707
+               },
+               "southwest" : {
+                  "lat" : 52.338091,
+                  "lng" : -1.7817177
+               }
+            },
+            "location" : {
+               "lat" : 52.3805644,
+               "lng" : -1.7358592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4069588,
+                  "lng" : -1.6840707
+               },
+               "southwest" : {
+                  "lat" : 52.338091,
+                  "lng" : -1.7817177
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

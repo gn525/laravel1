@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "G32",
+               "short_name" : "G32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glasgow G32, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8626459,
+                  "lng" : -4.1314891
+               },
+               "southwest" : {
+                  "lat" : 55.8229748,
+                  "lng" : -4.1999886
+               }
+            },
+            "location" : {
+               "lat" : 55.8486865,
+               "lng" : -4.16829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8626459,
+                  "lng" : -4.1314891
+               },
+               "southwest" : {
+                  "lat" : 55.8229748,
+                  "lng" : -4.1999886
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

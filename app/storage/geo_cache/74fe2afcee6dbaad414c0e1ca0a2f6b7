@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainsborough",
+               "short_name" : "Gainsborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gainsborough",
+               "short_name" : "Gainsborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN21",
+               "short_name" : "DN21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gainsborough, Gainsborough, Lincolnshire DN21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.41436539999999,
+                  "lng" : -0.7436419999999999
+               },
+               "southwest" : {
+                  "lat" : 53.3778362,
+                  "lng" : -0.7920685
+               }
+            },
+            "location" : {
+               "lat" : 53.400575,
+               "lng" : -0.774465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.41436539999999,
+                  "lng" : -0.7436419999999999
+               },
+               "southwest" : {
+                  "lat" : 53.3778362,
+                  "lng" : -0.7920685
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

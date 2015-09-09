@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Millom",
+               "short_name" : "Millom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Millom",
+               "short_name" : "Millom",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA18",
+               "short_name" : "LA18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Millom, Millom, Cumbria LA18, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2175127,
+                  "lng" : -3.2510431
+               },
+               "southwest" : {
+                  "lat" : 54.1981134,
+                  "lng" : -3.2873872
+               }
+            },
+            "location" : {
+               "lat" : 54.212073,
+               "lng" : -3.272847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2175127,
+                  "lng" : -3.2510431
+               },
+               "southwest" : {
+                  "lat" : 54.1981134,
+                  "lng" : -3.2873872
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

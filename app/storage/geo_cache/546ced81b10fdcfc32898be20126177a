@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Walsham",
+               "short_name" : "North Walsham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Walsham, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8414809,
+                  "lng" : 1.4315261
+               },
+               "southwest" : {
+                  "lat" : 52.79967420000001,
+                  "lng" : 1.3410675
+               }
+            },
+            "location" : {
+               "lat" : 52.822699,
+               "lng" : 1.3859729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8414809,
+                  "lng" : 1.4315261
+               },
+               "southwest" : {
+                  "lat" : 52.79967420000001,
+                  "lng" : 1.3410675
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

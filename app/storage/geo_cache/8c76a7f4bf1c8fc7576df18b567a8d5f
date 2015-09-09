@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shipston-on-Stour",
+               "short_name" : "Shipston-on-Stour",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shipston-on-Stour",
+               "short_name" : "Shipston-on-Stour",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV36",
+               "short_name" : "CV36",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shipston-on-Stour, Shipston-on-Stour, Warwickshire CV36, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0708379,
+                  "lng" : -1.6166297
+               },
+               "southwest" : {
+                  "lat" : 52.0516593,
+                  "lng" : -1.6375857
+               }
+            },
+            "location" : {
+               "lat" : 52.0606549,
+               "lng" : -1.622814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0708379,
+                  "lng" : -1.6166297
+               },
+               "southwest" : {
+                  "lat" : 52.0516593,
+                  "lng" : -1.6375857
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fraserburgh",
+               "short_name" : "Fraserburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fraserburgh, Aberdeenshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.69870559999999,
+                  "lng" : -1.9971957
+               },
+               "southwest" : {
+                  "lat" : 57.6723498,
+                  "lng" : -2.0393708
+               }
+            },
+            "location" : {
+               "lat" : 57.693352,
+               "lng" : -2.007631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69870559999999,
+                  "lng" : -1.9971957
+               },
+               "southwest" : {
+                  "lat" : 57.6723498,
+                  "lng" : -2.0393708
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

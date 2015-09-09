@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedwas",
+               "short_name" : "Bedwas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedwas, Caerphilly, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.61887489999999,
+                  "lng" : -3.1829306
+               },
+               "southwest" : {
+                  "lat" : 51.5861058,
+                  "lng" : -3.2248996
+               }
+            },
+            "location" : {
+               "lat" : 51.592822,
+               "lng" : -3.199781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.61887489999999,
+                  "lng" : -3.1829306
+               },
+               "southwest" : {
+                  "lat" : 51.5861058,
+                  "lng" : -3.2248996
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

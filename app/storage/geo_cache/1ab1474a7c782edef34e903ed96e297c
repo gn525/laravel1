@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armthorpe",
+               "short_name" : "Armthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doncaster",
+               "short_name" : "Doncaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Armthorpe, Doncaster, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5503738,
+                  "lng" : -0.9948526
+               },
+               "southwest" : {
+                  "lat" : 53.51844149999999,
+                  "lng" : -1.0779633
+               }
+            },
+            "location" : {
+               "lat" : 53.5352099,
+               "lng" : -1.0522282
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5503738,
+                  "lng" : -0.9948526
+               },
+               "southwest" : {
+                  "lat" : 53.51844149999999,
+                  "lng" : -1.0779633
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

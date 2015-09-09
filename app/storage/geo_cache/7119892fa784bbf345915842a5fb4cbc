@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swift Valley Industrial Estate",
+               "short_name" : "Swift Valley Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Rugby",
+               "short_name" : "Rugby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rugby",
+               "short_name" : "Rugby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV21 1TQ",
+               "short_name" : "CV21 1TQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Swift Valley Industrial Estate, Rugby, Warwickshire CV21 1TQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3955504,
+               "lng" : -1.2656662
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3968993802915,
+                  "lng" : -1.264317219708498
+               },
+               "southwest" : {
+                  "lat" : 52.3942014197085,
+                  "lng" : -1.267015180291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

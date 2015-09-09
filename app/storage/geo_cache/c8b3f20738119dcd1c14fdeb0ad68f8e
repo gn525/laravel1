@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kineton Road Industrial Estate",
+               "short_name" : "Kineton Road Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Southam",
+               "short_name" : "Southam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southam",
+               "short_name" : "Southam",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV47 0FB",
+               "short_name" : "CV47 0FB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kineton Road Industrial Estate, Southam, Warwickshire CV47 0FB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2445083,
+               "lng" : -1.3967996
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2458572802915,
+                  "lng" : -1.395450619708498
+               },
+               "southwest" : {
+                  "lat" : 52.2431593197085,
+                  "lng" : -1.398148580291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

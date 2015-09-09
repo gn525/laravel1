@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llanberis",
+               "short_name" : "Llanberis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caernarfon",
+               "short_name" : "Caernarfon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL55",
+               "short_name" : "LL55",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llanberis, Caernarfon, Gwynedd LL55, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1251037,
+                  "lng" : -4.1077967
+               },
+               "southwest" : {
+                  "lat" : 53.1082708,
+                  "lng" : -4.1358732
+               }
+            },
+            "location" : {
+               "lat" : 53.1180329,
+               "lng" : -4.127549
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1251037,
+                  "lng" : -4.1077967
+               },
+               "southwest" : {
+                  "lat" : 53.1082708,
+                  "lng" : -4.1358732
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

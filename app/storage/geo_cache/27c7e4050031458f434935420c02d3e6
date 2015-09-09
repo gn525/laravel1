@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawick",
+               "short_name" : "Hawick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawick",
+               "short_name" : "Hawick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TD9",
+               "short_name" : "TD9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hawick, Hawick, Scottish Borders TD9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4426137,
+                  "lng" : -2.7478327
+               },
+               "southwest" : {
+                  "lat" : 55.40957100000001,
+                  "lng" : -2.8104612
+               }
+            },
+            "location" : {
+               "lat" : 55.42706,
+               "lng" : -2.780914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4426137,
+                  "lng" : -2.7478327
+               },
+               "southwest" : {
+                  "lat" : 55.40957100000001,
+                  "lng" : -2.8104612
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

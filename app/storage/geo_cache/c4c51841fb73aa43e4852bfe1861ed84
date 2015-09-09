@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slinfold",
+               "short_name" : "Slinfold",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horsham",
+               "short_name" : "Horsham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Slinfold, Horsham, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0799759,
+                  "lng" : -0.3955058
+               },
+               "southwest" : {
+                  "lat" : 51.0605006,
+                  "lng" : -0.419092
+               }
+            },
+            "location" : {
+               "lat" : 51.070901,
+               "lng" : -0.404297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0799759,
+                  "lng" : -0.3955058
+               },
+               "southwest" : {
+                  "lat" : 51.0605006,
+                  "lng" : -0.419092
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

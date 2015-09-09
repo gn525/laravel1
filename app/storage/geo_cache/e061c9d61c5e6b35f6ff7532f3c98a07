@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wheaton Aston",
+               "short_name" : "Wheaton Aston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wheaton Aston, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7329526,
+                  "lng" : -2.1802292
+               },
+               "southwest" : {
+                  "lat" : 52.6939791,
+                  "lng" : -2.2537035
+               }
+            },
+            "location" : {
+               "lat" : 52.713986,
+               "lng" : -2.222092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7329526,
+                  "lng" : -2.1802292
+               },
+               "southwest" : {
+                  "lat" : 52.6939791,
+                  "lng" : -2.2537035
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

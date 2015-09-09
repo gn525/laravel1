@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wath upon Dearne",
+               "short_name" : "Wath upon Dearne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wath upon Dearne, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5153755,
+                  "lng" : -1.3110997
+               },
+               "southwest" : {
+                  "lat" : 53.4841022,
+                  "lng" : -1.3771868
+               }
+            },
+            "location" : {
+               "lat" : 53.5029116,
+               "lng" : -1.339493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5153755,
+                  "lng" : -1.3110997
+               },
+               "southwest" : {
+                  "lat" : 53.4841022,
+                  "lng" : -1.3771868
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

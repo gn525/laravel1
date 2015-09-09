@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TN1",
+               "short_name" : "TN1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Royal Tunbridge Wells",
+               "short_name" : "Royal Tunbridge Wells",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tunbridge Wells",
+               "short_name" : "Tunbridge Wells",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Royal Tunbridge Wells, Tunbridge Wells, Kent TN1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1572264,
+                  "lng" : 0.2868161
+               },
+               "southwest" : {
+                  "lat" : 51.1248349,
+                  "lng" : 0.2573075
+               }
+            },
+            "location" : {
+               "lat" : 51.1360182,
+               "lng" : 0.2683607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1466434,
+                  "lng" : 0.2768287
+               },
+               "southwest" : {
+                  "lat" : 51.1248349,
+                  "lng" : 0.2573075
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

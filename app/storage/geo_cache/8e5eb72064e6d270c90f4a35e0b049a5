@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marple",
+               "short_name" : "Marple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marple, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4086527,
+                  "lng" : -2.0286249
+               },
+               "southwest" : {
+                  "lat" : 53.36888870000001,
+                  "lng" : -2.0968222
+               }
+            },
+            "location" : {
+               "lat" : 53.397349,
+               "lng" : -2.061683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4086527,
+                  "lng" : -2.0286249
+               },
+               "southwest" : {
+                  "lat" : 53.36888870000001,
+                  "lng" : -2.0968222
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

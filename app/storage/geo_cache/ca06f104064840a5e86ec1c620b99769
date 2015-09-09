@@ -1,0 +1,117 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MK42",
+               "short_name" : "MK42",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedford, Bedford MK42, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1349248,
+                  "lng" : -0.4099343
+               },
+               "southwest" : {
+                  "lat" : 52.0806024,
+                  "lng" : -0.5180115
+               }
+            },
+            "location" : {
+               "lat" : 52.1107278,
+               "lng" : -0.4635473999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1349248,
+                  "lng" : -0.4099343
+               },
+               "southwest" : {
+                  "lat" : 52.0806024,
+                  "lng" : -0.5180115
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedford, Bedford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1644022,
+                  "lng" : -0.4031535
+               },
+               "southwest" : {
+                  "lat" : 52.1137824,
+                  "lng" : -0.5000095
+               }
+            },
+            "location" : {
+               "lat" : 52.1359729,
+               "lng" : -0.4666546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1644022,
+                  "lng" : -0.4031535
+               },
+               "southwest" : {
+                  "lat" : 52.1137824,
+                  "lng" : -0.5000095
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

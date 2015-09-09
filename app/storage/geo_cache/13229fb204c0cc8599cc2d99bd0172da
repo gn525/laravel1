@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter Business Park",
+               "short_name" : "Exeter Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX1 3QN",
+               "short_name" : "EX1 3QN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Exeter Business Park, Exeter, Devon EX1 3QN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.7294539,
+               "lng" : -3.4687463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7308028802915,
+                  "lng" : -3.467397319708498
+               },
+               "southwest" : {
+                  "lat" : 50.7281049197085,
+                  "lng" : -3.470095280291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

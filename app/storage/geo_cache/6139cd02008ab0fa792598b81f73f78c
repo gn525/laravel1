@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitgift",
+               "short_name" : "Whitgift",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Goole",
+               "short_name" : "Goole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Riding of Yorkshire",
+               "short_name" : "East Riding of Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN14",
+               "short_name" : "DN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitgift, Goole, East Riding of Yorkshire DN14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.694339,
+               "lng" : -0.7706569999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.700945,
+                  "lng" : -0.7546495999999999
+               },
+               "southwest" : {
+                  "lat" : 53.6877319,
+                  "lng" : -0.7866643999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duffryn",
+               "short_name" : "Duffryn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Duffryn, Newport, Newport, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5677932,
+                  "lng" : -3.0064304
+               },
+               "southwest" : {
+                  "lat" : 51.54519459999999,
+                  "lng" : -3.043582
+               }
+            },
+            "location" : {
+               "lat" : 51.5617097,
+               "lng" : -3.0203503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5677932,
+                  "lng" : -3.0064304
+               },
+               "southwest" : {
+                  "lat" : 51.54519459999999,
+                  "lng" : -3.043582
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leven",
+               "short_name" : "Leven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leven, Fife, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2122055,
+                  "lng" : -2.9717516
+               },
+               "southwest" : {
+                  "lat" : 56.19192589999999,
+                  "lng" : -3.0371405
+               }
+            },
+            "location" : {
+               "lat" : 56.19632,
+               "lng" : -2.996578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2122055,
+                  "lng" : -2.9717516
+               },
+               "southwest" : {
+                  "lat" : 56.19192589999999,
+                  "lng" : -3.0371405
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

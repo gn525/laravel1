@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.67400019999999,
+                  "lng" : -2.3177872
+               },
+               "southwest" : {
+                  "lat" : 51.2728984,
+                  "lng" : -2.8650492
+               }
+            },
+            "location" : {
+               "lat" : 51.4454012,
+               "lng" : -2.5456095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.67400019999999,
+                  "lng" : -2.3177872
+               },
+               "southwest" : {
+                  "lat" : 51.2728984,
+                  "lng" : -2.8650492
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

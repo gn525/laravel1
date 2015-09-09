@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brixham",
+               "short_name" : "Brixham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torbay",
+               "short_name" : "Torbay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brixham, Torbay, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4056492,
+                  "lng" : -3.4822963
+               },
+               "southwest" : {
+                  "lat" : 50.37598209999999,
+                  "lng" : -3.5403718
+               }
+            },
+            "location" : {
+               "lat" : 50.39514,
+               "lng" : -3.513924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4056492,
+                  "lng" : -3.4822963
+               },
+               "southwest" : {
+                  "lat" : 50.37598209999999,
+                  "lng" : -3.5403718
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhondda Cynon Taff",
+               "short_name" : "Rhondda Cynon Taff",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhondda Cynon Taff, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8294502,
+                  "lng" : -3.2362804
+               },
+               "southwest" : {
+                  "lat" : 51.4990391,
+                  "lng" : -3.5936874
+               }
+            },
+            "location" : {
+               "lat" : 51.6744979,
+               "lng" : -3.4687081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8294502,
+                  "lng" : -3.2362804
+               },
+               "southwest" : {
+                  "lat" : 51.4990391,
+                  "lng" : -3.5936874
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

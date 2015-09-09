@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valley",
+               "short_name" : "Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Anglesey",
+               "short_name" : "Isle of Anglesey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valley, Isle of Anglesey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2975085,
+                  "lng" : -4.5554798
+               },
+               "southwest" : {
+                  "lat" : 53.2773791,
+                  "lng" : -4.575548899999999
+               }
+            },
+            "location" : {
+               "lat" : 53.282866,
+               "lng" : -4.559513
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2975085,
+                  "lng" : -4.5554798
+               },
+               "southwest" : {
+                  "lat" : 53.2773791,
+                  "lng" : -4.575548899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

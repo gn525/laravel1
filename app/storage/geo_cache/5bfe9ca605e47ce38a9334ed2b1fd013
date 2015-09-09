@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wynyard",
+               "short_name" : "Wynyard",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wynyard, Stockton-on-Tees, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6474904,
+                  "lng" : -1.298145
+               },
+               "southwest" : {
+                  "lat" : 54.5935099,
+                  "lng" : -1.4098134
+               }
+            },
+            "location" : {
+               "lat" : 54.63408099999999,
+               "lng" : -1.344464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6474904,
+                  "lng" : -1.298145
+               },
+               "southwest" : {
+                  "lat" : 54.5935099,
+                  "lng" : -1.4098134
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

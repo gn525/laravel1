@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dagenham Dock",
+               "short_name" : "Dagenham Dock",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dagenham",
+               "short_name" : "Dagenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dagenham",
+               "short_name" : "Dagenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RM9",
+               "short_name" : "RM9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dagenham Dock, Dagenham, Dagenham, Greater London RM9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52609,
+               "lng" : 0.14613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5274389802915,
+                  "lng" : 0.147478980291502
+               },
+               "southwest" : {
+                  "lat" : 51.5247410197085,
+                  "lng" : 0.144781019708498
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

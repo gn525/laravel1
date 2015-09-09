@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llangorse",
+               "short_name" : "Llangorse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3",
+               "short_name" : "LD3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llangorse, Brecon, Powys LD3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.939622,
+               "lng" : -3.258123
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9465003,
+                  "lng" : -3.2421156
+               },
+               "southwest" : {
+                  "lat" : 51.9327427,
+                  "lng" : -3.2741304
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

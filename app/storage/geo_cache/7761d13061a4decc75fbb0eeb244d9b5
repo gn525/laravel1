@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clydebank",
+               "short_name" : "Clydebank",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Dunbartonshire",
+               "short_name" : "West Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clydebank, West Dunbartonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.93957,
+                  "lng" : -4.373799
+               },
+               "southwest" : {
+                  "lat" : 55.887636,
+                  "lng" : -4.4500468
+               }
+            },
+            "location" : {
+               "lat" : 55.900099,
+               "lng" : -4.404774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.93957,
+                  "lng" : -4.373799
+               },
+               "southwest" : {
+                  "lat" : 55.887636,
+                  "lng" : -4.4500468
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

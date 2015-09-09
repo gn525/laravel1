@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LU1",
+               "short_name" : "LU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luton LU1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8886583,
+                  "lng" : -0.3569311000000001
+               },
+               "southwest" : {
+                  "lat" : 51.8335035,
+                  "lng" : -0.4992158
+               }
+            },
+            "location" : {
+               "lat" : 51.8621011,
+               "lng" : -0.4174763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8886583,
+                  "lng" : -0.3569311000000001
+               },
+               "southwest" : {
+                  "lat" : 51.8335035,
+                  "lng" : -0.4992158
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LU1",
+               "short_name" : "LU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Luton, Luton, Luton, Luton LU1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.88231,
+               "lng" : -0.41402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.88365898029149,
+                  "lng" : -0.412671019708498
+               },
+               "southwest" : {
+                  "lat" : 51.8809610197085,
+                  "lng" : -0.415368980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

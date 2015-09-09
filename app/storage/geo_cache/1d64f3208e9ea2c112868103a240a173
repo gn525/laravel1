@@ -1,0 +1,522 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rich Way",
+               "short_name" : "Rich Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3",
+               "short_name" : "LD3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rich Way, Brecon, Powys LD3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9456314,
+                  "lng" : -3.3876213
+               },
+               "southwest" : {
+                  "lat" : 51.94459819999999,
+                  "lng" : -3.3889153
+               }
+            },
+            "location" : {
+               "lat" : 51.945147,
+               "lng" : -3.3881116
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9464637802915,
+                  "lng" : -3.386919319708498
+               },
+               "southwest" : {
+                  "lat" : 51.9437658197085,
+                  "lng" : -3.389617280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rich Street",
+               "short_name" : "Rich St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poplar",
+               "short_name" : "Poplar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E14 8AL",
+               "short_name" : "E14 8AL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rich Street, Poplar, London E14 8AL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.51135739999999,
+                  "lng" : -0.0277782
+               },
+               "southwest" : {
+                  "lat" : 51.5098171,
+                  "lng" : -0.0280394
+               }
+            },
+            "location" : {
+               "lat" : 51.5104085,
+               "lng" : -0.0277782
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5119362302915,
+                  "lng" : -0.02655981970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5092382697085,
+                  "lng" : -0.02925778029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rich Gate",
+               "short_name" : "Rich Gate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Holmfirth",
+               "short_name" : "Holmfirth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Holmfirth",
+               "short_name" : "Holmfirth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HD9 2SL",
+               "short_name" : "HD9 2SL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rich Gate, Holmfirth, West Yorkshire HD9 2SL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5584141,
+                  "lng" : -1.7804423
+               },
+               "southwest" : {
+                  "lat" : 53.5577754,
+                  "lng" : -1.7833844
+               }
+            },
+            "location" : {
+               "lat" : 53.5578395,
+               "lng" : -1.7818174
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5594437302915,
+                  "lng" : -1.7804423
+               },
+               "southwest" : {
+                  "lat" : 53.5567457697085,
+                  "lng" : -1.7833844
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rich House",
+               "short_name" : "Rich House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Surrey",
+               "short_name" : "University of Surrey",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University Campus",
+               "short_name" : "University Campus",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Battersea Court",
+               "short_name" : "Battersea Court",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU2 7JQ",
+               "short_name" : "GU2 7JQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rich House, University of Surrey, Battersea Court, Guildford, Surrey GU2 7JQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2421208,
+               "lng" : -0.5893206999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.24346978029149,
+                  "lng" : -0.5879717197084978
+               },
+               "southwest" : {
+                  "lat" : 51.24077181970849,
+                  "lng" : -0.5906696802915019
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rich Close",
+               "short_name" : "Rich Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Great Leighs",
+               "short_name" : "Great Leighs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelmsford",
+               "short_name" : "Chelmsford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM3 1NX",
+               "short_name" : "CM3 1NX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rich Close, Great Leighs, Chelmsford, Essex CM3 1NX, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8272874,
+                  "lng" : 0.5075824
+               },
+               "southwest" : {
+                  "lat" : 51.8269842,
+                  "lng" : 0.5065799
+               }
+            },
+            "location" : {
+               "lat" : 51.82709120000001,
+               "lng" : 0.5069847
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8284847802915,
+                  "lng" : 0.508430130291502
+               },
+               "southwest" : {
+                  "lat" : 51.8257868197085,
+                  "lng" : 0.5057321697084979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rich Close",
+               "short_name" : "Rich Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warwick",
+               "short_name" : "Warwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwick",
+               "short_name" : "Warwick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV34",
+               "short_name" : "CV34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rich Close, Warwick, Warwick, Warwickshire CV34, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2849529,
+                  "lng" : -1.5687071
+               },
+               "southwest" : {
+                  "lat" : 52.28450640000001,
+                  "lng" : -1.5692278
+               }
+            },
+            "location" : {
+               "lat" : 52.2848352,
+               "lng" : -1.5691298
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2860786302915,
+                  "lng" : -1.567618469708498
+               },
+               "southwest" : {
+                  "lat" : 52.2833806697085,
+                  "lng" : -1.570316430291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Richhill Crescent",
+               "short_name" : "Richhill Cres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT5",
+               "short_name" : "BT5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Richhill Crescent, Belfast, Belfast, Belfast BT5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5891136,
+                  "lng" : -5.8615597
+               },
+               "southwest" : {
+                  "lat" : 54.5867686,
+                  "lng" : -5.8654177
+               }
+            },
+            "location" : {
+               "lat" : 54.5873455,
+               "lng" : -5.8642957
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5892900802915,
+                  "lng" : -5.8615597
+               },
+               "southwest" : {
+                  "lat" : 54.5865921197085,
+                  "lng" : -5.8654177
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rich's Sidings",
+               "short_name" : "Rich's Sidings",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Didcot",
+               "short_name" : "Didcot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Didcot",
+               "short_name" : "Didcot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX11 8AG",
+               "short_name" : "OX11 8AG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rich's Sidings, Didcot, Oxfordshire OX11 8AG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6079117,
+                  "lng" : -1.2336957
+               },
+               "southwest" : {
+                  "lat" : 51.6067982,
+                  "lng" : -1.2348206
+               }
+            },
+            "location" : {
+               "lat" : 51.6069574,
+               "lng" : -1.2338387
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6087039302915,
+                  "lng" : -1.232909169708498
+               },
+               "southwest" : {
+                  "lat" : 51.6060059697085,
+                  "lng" : -1.235607130291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

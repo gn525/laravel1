@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crook",
+               "short_name" : "Crook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crook",
+               "short_name" : "Crook",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL15",
+               "short_name" : "DL15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crook, Crook, County Durham DL15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.72537,
+                  "lng" : -1.7224627
+               },
+               "southwest" : {
+                  "lat" : 54.7018017,
+                  "lng" : -1.7756392
+               }
+            },
+            "location" : {
+               "lat" : 54.715131,
+               "lng" : -1.743545
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.72537,
+                  "lng" : -1.7224627
+               },
+               "southwest" : {
+                  "lat" : 54.7018017,
+                  "lng" : -1.7756392
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tranent",
+               "short_name" : "Tranent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Lothian",
+               "short_name" : "East Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tranent, East Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9577706,
+                  "lng" : -2.9159965
+               },
+               "southwest" : {
+                  "lat" : 55.9271876,
+                  "lng" : -2.993784
+               }
+            },
+            "location" : {
+               "lat" : 55.94450999999999,
+               "lng" : -2.954526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9577706,
+                  "lng" : -2.9159965
+               },
+               "southwest" : {
+                  "lat" : 55.9271876,
+                  "lng" : -2.993784
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

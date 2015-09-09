@@ -1,0 +1,398 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow Business Park",
+               "short_name" : "Glasgow Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Baillieston",
+               "short_name" : "Baillieston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G69 6GA",
+               "short_name" : "G69 6GA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glasgow Business Park, Glasgow, Glasgow City G69 6GA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.85999589999999,
+               "lng" : -4.113264099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8613448802915,
+                  "lng" : -4.111915119708498
+               },
+               "southwest" : {
+                  "lat" : 55.8586469197085,
+                  "lng" : -4.114613080291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow Business Park",
+               "short_name" : "Glasgow Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "271",
+               "short_name" : "271",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Springhill Parkway",
+               "short_name" : "Springhill Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baillieston",
+               "short_name" : "Baillieston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G69 6GA",
+               "short_name" : "G69 6GA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glasgow Business Park, 271 Springhill Parkway, Glasgow, Glasgow City G69 6GA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.86070340000001,
+               "lng" : -4.1136995
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.86205238029151,
+                  "lng" : -4.112350519708498
+               },
+               "southwest" : {
+                  "lat" : 55.85935441970851,
+                  "lng" : -4.115048480291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow Business Park",
+               "short_name" : "Glasgow Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1140",
+               "short_name" : "1140",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Springhill Parkway",
+               "short_name" : "Springhill Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baillieston",
+               "short_name" : "Baillieston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G69 6GA",
+               "short_name" : "G69 6GA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glasgow Business Park, 1140 Springhill Parkway, Glasgow, Glasgow City G69 6GA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.86070340000001,
+               "lng" : -4.1136995
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.86205238029151,
+                  "lng" : -4.112350519708498
+               },
+               "southwest" : {
+                  "lat" : 55.85935441970851,
+                  "lng" : -4.115048480291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow Business Park",
+               "short_name" : "Glasgow Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "261",
+               "short_name" : "261",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Springhill Parkway",
+               "short_name" : "Springhill Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baillieston",
+               "short_name" : "Baillieston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G69 6GA",
+               "short_name" : "G69 6GA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glasgow Business Park, 261 Springhill Parkway, Glasgow, Glasgow City G69 6GA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.86070340000001,
+               "lng" : -4.1136995
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.86205238029151,
+                  "lng" : -4.112350519708498
+               },
+               "southwest" : {
+                  "lat" : 55.85935441970851,
+                  "lng" : -4.115048480291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow Business Park",
+               "short_name" : "Glasgow Business Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Springhill Parkway",
+               "short_name" : "Springhill Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baillieston",
+               "short_name" : "Baillieston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G69 6GA",
+               "short_name" : "G69 6GA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glasgow Business Park, Springhill Parkway, Glasgow, Glasgow City G69 6GA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.86070340000001,
+               "lng" : -4.1136995
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.86205238029151,
+                  "lng" : -4.112350519708498
+               },
+               "southwest" : {
+                  "lat" : 55.85935441970851,
+                  "lng" : -4.115048480291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glasgow Business Park",
+               "short_name" : "Glasgow Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Springhill Parkway",
+               "short_name" : "Springhill Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baillieston",
+               "short_name" : "Baillieston",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G69 6GA",
+               "short_name" : "G69 6GA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glasgow Business Park, 10 Springhill Parkway, Glasgow, Glasgow City G69 6GA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.86070340000001,
+               "lng" : -4.1136995
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.86205238029151,
+                  "lng" : -4.112350519708498
+               },
+               "southwest" : {
+                  "lat" : 55.85935441970851,
+                  "lng" : -4.115048480291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

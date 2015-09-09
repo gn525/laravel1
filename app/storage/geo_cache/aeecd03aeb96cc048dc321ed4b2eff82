@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.51842809999999,
+                  "lng" : -2.2451382
+               },
+               "southwest" : {
+                  "lat" : 53.4648608,
+                  "lng" : -2.3310829
+               }
+            },
+            "location" : {
+               "lat" : 53.48752349999999,
+               "lng" : -2.2901264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.51842809999999,
+                  "lng" : -2.2451382
+               },
+               "southwest" : {
+                  "lat" : 53.4648608,
+                  "lng" : -2.3310829
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK17",
+               "short_name" : "MK17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salford, Milton Keynes, Central Bedfordshire MK17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.044764,
+               "lng" : -0.635753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0461129802915,
+                  "lng" : -0.634404019708498
+               },
+               "southwest" : {
+                  "lat" : 52.0434150197085,
+                  "lng" : -0.6371019802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chipping Norton",
+               "short_name" : "Chipping Norton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX7",
+               "short_name" : "OX7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salford, Chipping Norton, Oxfordshire OX7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.949694,
+               "lng" : -1.584325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9510429802915,
+                  "lng" : -1.582976019708498
+               },
+               "southwest" : {
+                  "lat" : 51.9483450197085,
+                  "lng" : -1.585673980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blackwood",
+               "short_name" : "Blackwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blackwood, Caerphilly, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6939443,
+                  "lng" : -3.1827482
+               },
+               "southwest" : {
+                  "lat" : 51.6593682,
+                  "lng" : -3.2192035
+               }
+            },
+            "location" : {
+               "lat" : 51.668935,
+               "lng" : -3.195787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6939443,
+                  "lng" : -3.1827482
+               },
+               "southwest" : {
+                  "lat" : 51.6593682,
+                  "lng" : -3.2192035
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

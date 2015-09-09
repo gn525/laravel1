@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brent Knoll",
+               "short_name" : "Brent Knoll",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Highbridge",
+               "short_name" : "Highbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA9",
+               "short_name" : "TA9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brent Knoll, Highbridge, Somerset TA9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2656017,
+                  "lng" : -2.9422191
+               },
+               "southwest" : {
+                  "lat" : 51.2403477,
+                  "lng" : -2.9703776
+               }
+            },
+            "location" : {
+               "lat" : 51.251365,
+               "lng" : -2.958532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2656017,
+                  "lng" : -2.9422191
+               },
+               "southwest" : {
+                  "lat" : 51.2403477,
+                  "lng" : -2.9703776
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

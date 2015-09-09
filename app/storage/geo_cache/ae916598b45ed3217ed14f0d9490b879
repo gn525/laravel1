@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Trafford",
+               "short_name" : "Old Trafford",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sir Matt Busby Way",
+               "short_name" : "Sir Matt Busby Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stretford",
+               "short_name" : "Stretford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M16 0RA",
+               "short_name" : "M16 0RA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Trafford, Sir Matt Busby Way, Stretford, Manchester M16 0RA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4630589,
+               "lng" : -2.2913401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4644078802915,
+                  "lng" : -2.289991119708498
+               },
+               "southwest" : {
+                  "lat" : 53.4617099197085,
+                  "lng" : -2.292689080291502
+               }
+            }
+         },
+         "types" : [ "stadium", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

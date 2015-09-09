@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erlestoke",
+               "short_name" : "Erlestoke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devizes",
+               "short_name" : "Devizes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erlestoke, Devizes, Wiltshire, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.28355699999999,
+               "lng" : -2.054144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2905354,
+                  "lng" : -2.0381366
+               },
+               "southwest" : {
+                  "lat" : 51.27657749999999,
+                  "lng" : -2.0701514
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

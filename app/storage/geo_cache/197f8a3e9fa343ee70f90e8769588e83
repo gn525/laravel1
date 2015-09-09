@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cumnor",
+               "short_name" : "Cumnor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cumnor, Oxfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7863126,
+                  "lng" : -1.2752473
+               },
+               "southwest" : {
+                  "lat" : 51.7094608,
+                  "lng" : -1.372596
+               }
+            },
+            "location" : {
+               "lat" : 51.731378,
+               "lng" : -1.332203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7863126,
+                  "lng" : -1.2752473
+               },
+               "southwest" : {
+                  "lat" : 51.7094608,
+                  "lng" : -1.372596
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

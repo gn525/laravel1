@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centrum One Hundred",
+               "short_name" : "Centrum One Hundred",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Burton upon Trent",
+               "short_name" : "Burton upon Trent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burton-on-Trent",
+               "short_name" : "Burton-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE14",
+               "short_name" : "DE14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Centrum One Hundred, Burton upon Trent, Burton-on-Trent, Staffordshire DE14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.7970166,
+               "lng" : -1.6667925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8037627,
+                  "lng" : -1.6507851
+               },
+               "southwest" : {
+                  "lat" : 52.7902695,
+                  "lng" : -1.6827999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

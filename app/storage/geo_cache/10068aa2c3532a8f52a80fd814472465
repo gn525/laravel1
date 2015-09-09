@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aylesford",
+               "short_name" : "Aylesford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aylesford",
+               "short_name" : "Aylesford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME20",
+               "short_name" : "ME20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aylesford, Aylesford, Kent ME20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.314446,
+                  "lng" : 0.5071652
+               },
+               "southwest" : {
+                  "lat" : 51.284214,
+                  "lng" : 0.4587852
+               }
+            },
+            "location" : {
+               "lat" : 51.304309,
+               "lng" : 0.47806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.314446,
+                  "lng" : 0.5071652
+               },
+               "southwest" : {
+                  "lat" : 51.284214,
+                  "lng" : 0.4587852
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

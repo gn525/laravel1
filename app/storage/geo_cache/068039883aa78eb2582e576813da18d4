@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trowbridge",
+               "short_name" : "Trowbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trowbridge",
+               "short_name" : "Trowbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA14",
+               "short_name" : "BA14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trowbridge, Trowbridge, Wiltshire BA14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3434555,
+                  "lng" : -2.1734747
+               },
+               "southwest" : {
+                  "lat" : 51.2948208,
+                  "lng" : -2.23845
+               }
+            },
+            "location" : {
+               "lat" : 51.319664,
+               "lng" : -2.208853
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3434555,
+                  "lng" : -2.1734747
+               },
+               "southwest" : {
+                  "lat" : 51.2948208,
+                  "lng" : -2.23845
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

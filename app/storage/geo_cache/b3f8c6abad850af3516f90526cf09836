@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Methil",
+               "short_name" : "Methil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Methil, Fife, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.19559109999999,
+                  "lng" : -2.9962955
+               },
+               "southwest" : {
+                  "lat" : 56.17766169999999,
+                  "lng" : -3.046174
+               }
+            },
+            "location" : {
+               "lat" : 56.184843,
+               "lng" : -3.0164019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.19559109999999,
+                  "lng" : -2.9962955
+               },
+               "southwest" : {
+                  "lat" : 56.17766169999999,
+                  "lng" : -3.046174
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

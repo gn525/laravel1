@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dagenham",
+               "short_name" : "Dagenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dagenham, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.59943639999999,
+                  "lng" : 0.1901898
+               },
+               "southwest" : {
+                  "lat" : 51.5113802,
+                  "lng" : 0.1042644
+               }
+            },
+            "location" : {
+               "lat" : 51.53888999999999,
+               "lng" : 0.14743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.59943639999999,
+                  "lng" : 0.1901898
+               },
+               "southwest" : {
+                  "lat" : 51.5113802,
+                  "lng" : 0.1042644
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

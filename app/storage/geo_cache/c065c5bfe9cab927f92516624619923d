@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NR19",
+               "short_name" : "NR19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Dereham",
+               "short_name" : "Dereham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dereham, Norfolk NR19, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7257927,
+                  "lng" : 1.0113032
+               },
+               "southwest" : {
+                  "lat" : 52.62271459999999,
+                  "lng" : 0.7852384
+               }
+            },
+            "location" : {
+               "lat" : 52.6778961,
+               "lng" : 0.9133576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7257927,
+                  "lng" : 1.0113032
+               },
+               "southwest" : {
+                  "lat" : 52.62271459999999,
+                  "lng" : 0.7852384
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

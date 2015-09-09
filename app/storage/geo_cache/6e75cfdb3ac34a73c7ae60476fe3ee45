@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG3",
+               "short_name" : "NG3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham NG3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0232693,
+                  "lng" : -1.0922752
+               },
+               "southwest" : {
+                  "lat" : 52.9522245,
+                  "lng" : -1.224413
+               }
+            },
+            "location" : {
+               "lat" : 52.9707007,
+               "lng" : -1.1312102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0232693,
+                  "lng" : -1.0922752
+               },
+               "southwest" : {
+                  "lat" : 52.9522245,
+                  "lng" : -1.1536033
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

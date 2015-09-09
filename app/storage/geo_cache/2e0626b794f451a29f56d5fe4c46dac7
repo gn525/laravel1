@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bradford-on-Avon",
+               "short_name" : "Bradford-on-Avon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bradford-on-Avon, Wiltshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3631739,
+                  "lng" : -2.2269656
+               },
+               "southwest" : {
+                  "lat" : 51.3282564,
+                  "lng" : -2.2748896
+               }
+            },
+            "location" : {
+               "lat" : 51.345178,
+               "lng" : -2.2525019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3631739,
+                  "lng" : -2.2269656
+               },
+               "southwest" : {
+                  "lat" : 51.3282564,
+                  "lng" : -2.2748896
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

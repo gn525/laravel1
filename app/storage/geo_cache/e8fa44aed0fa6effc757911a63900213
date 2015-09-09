@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trafford Park",
+               "short_name" : "Trafford Park",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Stretford",
+               "short_name" : "Stretford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M32",
+               "short_name" : "M32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trafford Park, Stretford, Manchester M32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.45482999999999,
+               "lng" : -2.31063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4561789802915,
+                  "lng" : -2.309281019708498
+               },
+               "southwest" : {
+                  "lat" : 53.4534810197085,
+                  "lng" : -2.311978980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

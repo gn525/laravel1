@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huthwaite",
+               "short_name" : "Huthwaite",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huthwaite, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1378487,
+                  "lng" : -1.290275
+               },
+               "southwest" : {
+                  "lat" : 53.1187011,
+                  "lng" : -1.321782
+               }
+            },
+            "location" : {
+               "lat" : 53.12897299999999,
+               "lng" : -1.3073809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1378487,
+                  "lng" : -1.290275
+               },
+               "southwest" : {
+                  "lat" : 53.1187011,
+                  "lng" : -1.321782
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

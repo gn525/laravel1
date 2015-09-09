@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gerrards Cross",
+               "short_name" : "Gerrards Cross",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gerrards Cross, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6021055,
+                  "lng" : -0.5245582
+               },
+               "southwest" : {
+                  "lat" : 51.56728649999999,
+                  "lng" : -0.6066026999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.582362,
+               "lng" : -0.5575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6021055,
+                  "lng" : -0.5245582
+               },
+               "southwest" : {
+                  "lat" : 51.56728649999999,
+                  "lng" : -0.6066026999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gerrards Cross",
+               "short_name" : "Gerrards Cross",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Gerrards Cross",
+               "short_name" : "Gerrards Cross",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gerrards Cross",
+               "short_name" : "Gerrards Cross",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL9",
+               "short_name" : "SL9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gerrards Cross, Gerrards Cross, Gerrards Cross, Buckinghamshire SL9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.58902,
+               "lng" : -0.55526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.59036898029149,
+                  "lng" : -0.553911019708498
+               },
+               "southwest" : {
+                  "lat" : 51.58767101970849,
+                  "lng" : -0.5566089802915021
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

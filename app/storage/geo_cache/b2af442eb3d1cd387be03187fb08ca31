@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jordans",
+               "short_name" : "Jordans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP9",
+               "short_name" : "HP9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jordans, Beaconsfield, Buckinghamshire HP9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6140833,
+               "lng" : -0.5870386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6210114,
+                  "lng" : -0.5710312
+               },
+               "southwest" : {
+                  "lat" : 51.6071542,
+                  "lng" : -0.603046
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

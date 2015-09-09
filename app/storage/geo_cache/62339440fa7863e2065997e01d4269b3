@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirtling",
+               "short_name" : "Kirtling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newmarket",
+               "short_name" : "Newmarket",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB8",
+               "short_name" : "CB8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirtling, Newmarket, Cambridgeshire CB8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.186447,
+               "lng" : 0.4713849999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1932874,
+                  "lng" : 0.4873924
+               },
+               "southwest" : {
+                  "lat" : 52.1796056,
+                  "lng" : 0.4553776
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

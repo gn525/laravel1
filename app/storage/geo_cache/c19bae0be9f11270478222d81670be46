@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BH6",
+               "short_name" : "BH6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bournemouth",
+               "short_name" : "Bournemouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bournemouth BH6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7418495,
+                  "lng" : -1.7406152
+               },
+               "southwest" : {
+                  "lat" : 50.7125686,
+                  "lng" : -1.8641712
+               }
+            },
+            "location" : {
+               "lat" : 50.725423,
+               "lng" : -1.7865365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7418495,
+                  "lng" : -1.7406152
+               },
+               "southwest" : {
+                  "lat" : 50.7125686,
+                  "lng" : -1.8209211
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

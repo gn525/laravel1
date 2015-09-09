@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heaton Moor",
+               "short_name" : "Heaton Moor",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stockport",
+               "short_name" : "Stockport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockport",
+               "short_name" : "Stockport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK4",
+               "short_name" : "SK4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Heaton Moor, Stockport, Stockport SK4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.423099,
+               "lng" : -2.183299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4297475,
+                  "lng" : -2.1672916
+               },
+               "southwest" : {
+                  "lat" : 53.4164494,
+                  "lng" : -2.1993064
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

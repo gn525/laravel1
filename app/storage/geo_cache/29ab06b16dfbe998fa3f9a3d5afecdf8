@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ealing Broadway",
+               "short_name" : "Ealing Broadway",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W5",
+               "short_name" : "W5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ealing Broadway, London W5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51484,
+               "lng" : -0.30173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5161889802915,
+                  "lng" : -0.300381019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5134910197085,
+                  "lng" : -0.303078980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

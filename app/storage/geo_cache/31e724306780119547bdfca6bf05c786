@@ -1,0 +1,246 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wychavon District",
+               "short_name" : "Wychavon District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wychavon District, Worcestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.36120529999999,
+                  "lng" : -1.7574089
+               },
+               "southwest" : {
+                  "lat" : 51.9994059,
+                  "lng" : -2.2760506
+               }
+            },
+            "location" : {
+               "lat" : 52.1525178,
+               "lng" : -2.0330954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.36120529999999,
+                  "lng" : -1.7574089
+               },
+               "southwest" : {
+                  "lat" : 51.9994059,
+                  "lng" : -2.2760506
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wychavon Taekwondo",
+               "short_name" : "Wychavon Taekwondo",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ronkswood Community Centre",
+               "short_name" : "Ronkswood Community Centre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Canterbury Road",
+               "short_name" : "Canterbury Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR5 1PJ",
+               "short_name" : "WR5 1PJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ronkswood Community Centre, Wychavon Taekwondo, Canterbury Road, Worcester, Worcestershire WR5 1PJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1898581,
+               "lng" : -2.1912789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.19120708029149,
+                  "lng" : -2.189929919708498
+               },
+               "southwest" : {
+                  "lat" : 52.18850911970849,
+                  "lng" : -2.192627880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wychavon District Council",
+               "short_name" : "Wychavon District Council",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Civic Centre",
+               "short_name" : "Civic Centre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Queen Elizabeth Drive",
+               "short_name" : "Queen Elizabeth Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pershore",
+               "short_name" : "Pershore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pershore",
+               "short_name" : "Pershore",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR10 1PT",
+               "short_name" : "WR10 1PT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Civic Centre, Wychavon District Council, Queen Elizabeth Drive, Pershore, Worcestershire WR10 1PT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1146538,
+               "lng" : -2.0783018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1160027802915,
+                  "lng" : -2.076952819708498
+               },
+               "southwest" : {
+                  "lat" : 52.1133048197085,
+                  "lng" : -2.079650780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wychavon Caravan Site",
+               "short_name" : "Wychavon Caravan Site",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Evesham Road",
+               "short_name" : "Evesham Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cleeve Prior",
+               "short_name" : "Cleeve Prior",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Evesham",
+               "short_name" : "Evesham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WR11 8JW",
+               "short_name" : "WR11 8JW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wychavon Caravan Site, Evesham Road, Cleeve Prior, Evesham, Worcestershire WR11 8JW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1399,
+               "lng" : -1.8887011
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1412489802915,
+                  "lng" : -1.887352119708498
+               },
+               "southwest" : {
+                  "lat" : 52.1385510197085,
+                  "lng" : -1.890050080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

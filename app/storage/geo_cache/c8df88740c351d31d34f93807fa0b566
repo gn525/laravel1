@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blakelands",
+               "short_name" : "Blakelands",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blakelands, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0807456,
+                  "lng" : -0.7291394999999999
+               },
+               "southwest" : {
+                  "lat" : 52.06661039999999,
+                  "lng" : -0.7485402
+               }
+            },
+            "location" : {
+               "lat" : 52.0736506,
+               "lng" : -0.7431105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0807456,
+                  "lng" : -0.7291394999999999
+               },
+               "southwest" : {
+                  "lat" : 52.06661039999999,
+                  "lng" : -0.7485402
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

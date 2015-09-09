@@ -1,0 +1,384 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain Lane",
+               "short_name" : "Spain Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burkham",
+               "short_name" : "Burkham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alton",
+               "short_name" : "Alton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU34 5RT",
+               "short_name" : "GU34 5RT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Spain Lane, Burkham, Alton, Hampshire GU34 5RT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1870838,
+                  "lng" : -1.0564709
+               },
+               "southwest" : {
+                  "lat" : 51.1772266,
+                  "lng" : -1.0802423
+               }
+            },
+            "location" : {
+               "lat" : 51.183153,
+               "lng" : -1.0673029
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1870838,
+                  "lng" : -1.0564709
+               },
+               "southwest" : {
+                  "lat" : 51.1772266,
+                  "lng" : -1.0802423
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain Hill",
+               "short_name" : "Spain Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marske-by-the-Sea",
+               "short_name" : "Marske-by-the-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Redcar",
+               "short_name" : "Redcar",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Redcar and Cleveland",
+               "short_name" : "Redcar and Cleveland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TS11 7LE",
+               "short_name" : "TS11 7LE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Spain Hill, Marske-by-the-Sea, Redcar, Redcar and Cleveland TS11 7LE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.59325029999999,
+                  "lng" : -1.017621
+               },
+               "southwest" : {
+                  "lat" : 54.5918983,
+                  "lng" : -1.0181895
+               }
+            },
+            "location" : {
+               "lat" : 54.5923694,
+               "lng" : -1.0180158
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.59392328029149,
+                  "lng" : -1.016556269708498
+               },
+               "southwest" : {
+                  "lat" : 54.59122531970849,
+                  "lng" : -1.019254230291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Spain",
+               "short_name" : "The Spain",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Petersfield",
+               "short_name" : "Petersfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Petersfield",
+               "short_name" : "Petersfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU32 3LA",
+               "short_name" : "GU32 3LA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Spain, Petersfield, Petersfield, Hampshire GU32 3LA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.004442,
+                  "lng" : -0.9393545000000001
+               },
+               "southwest" : {
+                  "lat" : 51.0029469,
+                  "lng" : -0.9410647
+               }
+            },
+            "location" : {
+               "lat" : 51.00360629999999,
+               "lng" : -0.9404506
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0050434302915,
+                  "lng" : -0.938860619708498
+               },
+               "southwest" : {
+                  "lat" : 51.0023454697085,
+                  "lng" : -0.9415585802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain Cottage",
+               "short_name" : "Spain Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Brecon Beacons National Park",
+               "short_name" : "Brecon Beacons National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Gwynfe",
+               "short_name" : "Gwynfe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llangadog",
+               "short_name" : "Llangadog",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA19 9SY",
+               "short_name" : "SA19 9SY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Spain Cottage, Brecon Beacons National Park, Gwynfe, Llangadog, Carmarthenshire SA19 9SY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8957841,
+               "lng" : -3.8385918
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8971330802915,
+                  "lng" : -3.837242819708497
+               },
+               "southwest" : {
+                  "lat" : 51.8944351197085,
+                  "lng" : -3.839940780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain Lane",
+               "short_name" : "Spain Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE21",
+               "short_name" : "PE21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Spain Lane, Boston, Boston, Lincolnshire PE21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.97629449999999,
+                  "lng" : -0.0217656
+               },
+               "southwest" : {
+                  "lat" : 52.97602730000001,
+                  "lng" : -0.0231868
+               }
+            },
+            "location" : {
+               "lat" : 52.9762602,
+               "lng" : -0.0223943
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9775098802915,
+                  "lng" : -0.02112721970849797
+               },
+               "southwest" : {
+                  "lat" : 52.9748119197085,
+                  "lng" : -0.02382518029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain Place",
+               "short_name" : "Spain Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE21",
+               "short_name" : "PE21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Spain Place, Boston, Boston, Lincolnshire PE21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9768412,
+                  "lng" : -0.0206643
+               },
+               "southwest" : {
+                  "lat" : 52.9762825,
+                  "lng" : -0.021091
+               }
+            },
+            "location" : {
+               "lat" : 52.9767717,
+               "lng" : -0.0207423
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.97791083029149,
+                  "lng" : -0.01952866970849797
+               },
+               "southwest" : {
+                  "lat" : 52.9752128697085,
+                  "lng" : -0.02222663029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

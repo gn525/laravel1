@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Humberside Way",
+               "short_name" : "Humberside Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S71 3RN",
+               "short_name" : "S71 3RN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Humberside Way, Barnsley, South Yorkshire S71 3RN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5756683,
+                  "lng" : -1.4487965
+               },
+               "southwest" : {
+                  "lat" : 53.5755604,
+                  "lng" : -1.4502597
+               }
+            },
+            "location" : {
+               "lat" : 53.5756683,
+               "lng" : -1.4487965
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5769633302915,
+                  "lng" : -1.448179119708498
+               },
+               "southwest" : {
+                  "lat" : 53.5742653697085,
+                  "lng" : -1.450877080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Humberside Airport",
+               "short_name" : "Humberside Airport",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Grimsby Road",
+               "short_name" : "Grimsby Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kirmington",
+               "short_name" : "Kirmington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lincolnshire",
+               "short_name" : "North Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN39 6YH",
+               "short_name" : "DN39 6YH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Humberside Airport, Grimsby Road, Kirmington, North Lincolnshire DN39 6YH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.574444,
+               "lng" : -0.350833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5757929802915,
+                  "lng" : -0.349484019708498
+               },
+               "southwest" : {
+                  "lat" : 53.5730950197085,
+                  "lng" : -0.3521819802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

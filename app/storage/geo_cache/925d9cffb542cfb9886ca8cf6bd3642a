@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haverfordwest",
+               "short_name" : "Haverfordwest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haverfordwest",
+               "short_name" : "Haverfordwest",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haverfordwest, Haverfordwest, Pembrokeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8197361,
+                  "lng" : -4.9493781
+               },
+               "southwest" : {
+                  "lat" : 51.78020619999999,
+                  "lng" : -5.0092007
+               }
+            },
+            "location" : {
+               "lat" : 51.800475,
+               "lng" : -4.971318999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8197361,
+                  "lng" : -4.9493781
+               },
+               "southwest" : {
+                  "lat" : 51.78020619999999,
+                  "lng" : -5.0092007
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

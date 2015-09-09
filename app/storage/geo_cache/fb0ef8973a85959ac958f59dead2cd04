@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS23",
+               "short_name" : "BS23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Weston-super-Mare",
+               "short_name" : "Weston-super-Mare",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weston-super-Mare BS23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.364514,
+                  "lng" : -2.9450316
+               },
+               "southwest" : {
+                  "lat" : 51.3053103,
+                  "lng" : -3.003895
+               }
+            },
+            "location" : {
+               "lat" : 51.335596,
+               "lng" : -2.9730822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.364514,
+                  "lng" : -2.9450316
+               },
+               "southwest" : {
+                  "lat" : 51.3053103,
+                  "lng" : -3.003895
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weston-super-Mare",
+               "short_name" : "Weston-super-Mare",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Weston-super-Mare",
+               "short_name" : "Weston-super-Mare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weston-super-Mare",
+               "short_name" : "Weston-super-Mare",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS23",
+               "short_name" : "BS23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Weston-super-Mare, Weston-super-Mare, Weston-super-Mare, North Somerset BS23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.34431,
+               "lng" : -2.97167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3456589802915,
+                  "lng" : -2.970321019708498
+               },
+               "southwest" : {
+                  "lat" : 51.3429610197085,
+                  "lng" : -2.973018980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,180 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marshgate Trading Estate",
+               "short_name" : "Marshgate Trading Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Marshgate Lane",
+               "short_name" : "Marshgate Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E15 2NH",
+               "short_name" : "E15 2NH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marshgate Trading Estate, Marshgate Lane, London E15 2NH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5333149,
+               "lng" : -0.0108372
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5346638802915,
+                  "lng" : -0.009488219708497969
+               },
+               "southwest" : {
+                  "lat" : 51.5319659197085,
+                  "lng" : -0.01218618029150203
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marshgate Trading Estate",
+               "short_name" : "Marshgate Trading Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Marshgate Drive",
+               "short_name" : "Marshgate Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hertford",
+               "short_name" : "Hertford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertford",
+               "short_name" : "Hertford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG13 7AQ",
+               "short_name" : "SG13 7AQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marshgate Trading Estate, Marshgate Drive, Hertford, Hertfordshire SG13 7AQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8008241,
+               "lng" : -0.07083449999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8021730802915,
+                  "lng" : -0.06948551970849796
+               },
+               "southwest" : {
+                  "lat" : 51.7994751197085,
+                  "lng" : -0.07218348029150203
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marshgate",
+               "short_name" : "Marshgate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marshgate, Swindon, Swindon, Wiltshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5719807,
+                  "lng" : -1.7571953
+               },
+               "southwest" : {
+                  "lat" : 51.5692324,
+                  "lng" : -1.7604272
+               }
+            },
+            "location" : {
+               "lat" : 51.5703196,
+               "lng" : -1.7598831
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5719807,
+                  "lng" : -1.7571953
+               },
+               "southwest" : {
+                  "lat" : 51.5692324,
+                  "lng" : -1.7604272
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

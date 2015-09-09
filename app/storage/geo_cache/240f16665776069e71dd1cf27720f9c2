@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southwaite",
+               "short_name" : "Southwaite",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carlisle",
+               "short_name" : "Carlisle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA4",
+               "short_name" : "CA4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southwaite, Carlisle, Cumbria CA4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.797857,
+               "lng" : -2.848451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8042887,
+                  "lng" : -2.8324436
+               },
+               "southwest" : {
+                  "lat" : 54.7914243,
+                  "lng" : -2.8644584
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southall",
+               "short_name" : "Southall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southall, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5327777,
+                  "lng" : -0.3406598
+               },
+               "southwest" : {
+                  "lat" : 51.4904703,
+                  "lng" : -0.4069034
+               }
+            },
+            "location" : {
+               "lat" : 51.511073,
+               "lng" : -0.377232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5327777,
+                  "lng" : -0.3406598
+               },
+               "southwest" : {
+                  "lat" : 51.4904703,
+                  "lng" : -0.4069034
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

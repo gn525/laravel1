@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M3",
+               "short_name" : "M3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M3, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4948916,
+                  "lng" : -2.240191
+               },
+               "southwest" : {
+                  "lat" : 53.4594841,
+                  "lng" : -2.2662839
+               }
+            },
+            "location" : {
+               "lat" : 53.4855393,
+               "lng" : -2.2552584
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4948916,
+                  "lng" : -2.240191
+               },
+               "southwest" : {
+                  "lat" : 53.472853,
+                  "lng" : -2.2662839
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

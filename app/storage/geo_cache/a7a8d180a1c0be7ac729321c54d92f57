@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Tullos Industrial Estate",
+               "short_name" : "West Tullos Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeen City",
+               "short_name" : "Aberdeen City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB12",
+               "short_name" : "AB12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Tullos Industrial Estate, Aberdeen, Aberdeen, Aberdeen City AB12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.1247913,
+               "lng" : -2.0963211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.13084749999999,
+                  "lng" : -2.0803137
+               },
+               "southwest" : {
+                  "lat" : 57.1187341,
+                  "lng" : -2.1123285
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

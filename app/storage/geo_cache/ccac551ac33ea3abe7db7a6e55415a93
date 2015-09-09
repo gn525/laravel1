@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BS49",
+               "short_name" : "BS49",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, North Somerset BS49, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4068362,
+                  "lng" : -2.7612967
+               },
+               "southwest" : {
+                  "lat" : 51.3392791,
+                  "lng" : -2.8650492
+               }
+            },
+            "location" : {
+               "lat" : 51.3817256,
+               "lng" : -2.8047426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4068362,
+                  "lng" : -2.7612967
+               },
+               "southwest" : {
+                  "lat" : 51.3392791,
+                  "lng" : -2.8650492
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

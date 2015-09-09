@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RM7",
+               "short_name" : "RM7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Romford",
+               "short_name" : "Romford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Romford, Greater London RM7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5979264,
+                  "lng" : 0.1893093
+               },
+               "southwest" : {
+                  "lat" : 51.5440887,
+                  "lng" : 0.142233
+               }
+            },
+            "location" : {
+               "lat" : 51.5727465,
+               "lng" : 0.1589453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5979264,
+                  "lng" : 0.1893093
+               },
+               "southwest" : {
+                  "lat" : 51.5440887,
+                  "lng" : 0.142233
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

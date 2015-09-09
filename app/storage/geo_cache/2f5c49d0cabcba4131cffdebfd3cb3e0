@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Beddington",
+               "short_name" : "South Beddington",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wallington",
+               "short_name" : "Wallington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wallington",
+               "short_name" : "Wallington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SM6",
+               "short_name" : "SM6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Beddington, Wallington, Wallington, Greater London SM6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.358512,
+               "lng" : -0.138394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.365479,
+                  "lng" : -0.1223866
+               },
+               "southwest" : {
+                  "lat" : 51.3515439,
+                  "lng" : -0.1544014
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

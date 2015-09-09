@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merton",
+               "short_name" : "Merton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okehampton",
+               "short_name" : "Okehampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX20",
+               "short_name" : "EX20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Merton, Okehampton, Devon EX20, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.891854,
+               "lng" : -4.095316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8988918,
+                  "lng" : -4.0793086
+               },
+               "southwest" : {
+                  "lat" : 50.8848152,
+                  "lng" : -4.1113234
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merton",
+               "short_name" : "Merton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bicester",
+               "short_name" : "Bicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX25",
+               "short_name" : "OX25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Merton, Bicester, Oxfordshire OX25, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.853357,
+               "lng" : -1.167062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8547059802915,
+                  "lng" : -1.165713019708498
+               },
+               "southwest" : {
+                  "lat" : 51.8520080197085,
+                  "lng" : -1.168410980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merton",
+               "short_name" : "Merton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thetford",
+               "short_name" : "Thetford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP25",
+               "short_name" : "IP25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Merton, Thetford, Norfolk IP25, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.548272,
+               "lng" : 0.804832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5496209802915,
+                  "lng" : 0.806180980291502
+               },
+               "southwest" : {
+                  "lat" : 52.5469230197085,
+                  "lng" : 0.8034830197084979
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merton",
+               "short_name" : "Merton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW19",
+               "short_name" : "SW19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Merton, London SW19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.415431,
+               "lng" : -0.185265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4167799802915,
+                  "lng" : -0.183916019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4140820197085,
+                  "lng" : -0.186613980291502
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

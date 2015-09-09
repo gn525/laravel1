@@ -1,0 +1,179 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aspley",
+               "short_name" : "Aspley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stafford",
+               "short_name" : "Stafford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST21",
+               "short_name" : "ST21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aspley, Stafford, Staffordshire ST21, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8956206,
+               "lng" : -2.2743781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9023513,
+                  "lng" : -2.2583707
+               },
+               "southwest" : {
+                  "lat" : 52.8888888,
+                  "lng" : -2.2903855
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aspley",
+               "short_name" : "Aspley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Notts",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG8",
+               "short_name" : "NG8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aspley, Nottingham, Nottingham NG8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.972806,
+               "lng" : -1.202517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9741549802915,
+                  "lng" : -1.201168019708498
+               },
+               "southwest" : {
+                  "lat" : 52.9714570197085,
+                  "lng" : -1.203865980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aspley",
+               "short_name" : "Aspley",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huddersfield",
+               "short_name" : "Huddersfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Metropolitan Borough of Kirklees",
+               "short_name" : "Metropolitan Borough of Kirklees",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HD1",
+               "short_name" : "HD1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aspley, Huddersfield, Huddersfield, West Yorkshire HD1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6428012,
+               "lng" : -1.7736856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6441501802915,
+                  "lng" : -1.772336619708498
+               },
+               "southwest" : {
+                  "lat" : 53.6414522197085,
+                  "lng" : -1.775034580291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

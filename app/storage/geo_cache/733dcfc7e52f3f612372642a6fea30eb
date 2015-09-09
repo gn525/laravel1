@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hampton in Arden",
+               "short_name" : "Hampton in Arden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hampton in Arden, West Midlands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4458369,
+                  "lng" : -1.6746544
+               },
+               "southwest" : {
+                  "lat" : 52.41505369999999,
+                  "lng" : -1.7566076
+               }
+            },
+            "location" : {
+               "lat" : 52.4253659,
+               "lng" : -1.70165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4458369,
+                  "lng" : -1.6746544
+               },
+               "southwest" : {
+                  "lat" : 52.41505369999999,
+                  "lng" : -1.7566076
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

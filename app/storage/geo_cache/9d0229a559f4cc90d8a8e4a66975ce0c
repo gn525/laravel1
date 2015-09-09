@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldermanbury",
+               "short_name" : "Aldermanbury",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC2V",
+               "short_name" : "EC2V",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aldermanbury, London EC2V, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5169373,
+                  "lng" : -0.0923142
+               },
+               "southwest" : {
+                  "lat" : 51.5153978,
+                  "lng" : -0.09332749999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.5162775,
+               "lng" : -0.09293989999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51751653029149,
+                  "lng" : -0.09147186970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5148185697085,
+                  "lng" : -0.09416983029150203
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

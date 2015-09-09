@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ask Dubai Visa",
+               "short_name" : "Ask Dubai Visa",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cavendish Square",
+               "short_name" : "Cavendish Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marylebone",
+               "short_name" : "Marylebone",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Westminster",
+               "short_name" : "City of Westminster",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1G 0PH",
+               "short_name" : "W1G 0PH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ask Dubai Visa, 17 Cavendish Square, Marylebone, London W1G 0PH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5167191,
+               "lng" : -0.1460291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51806808029149,
+                  "lng" : -0.144680119708498
+               },
+               "southwest" : {
+                  "lat" : 51.5153701197085,
+                  "lng" : -0.147378080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubai Tourism & Commerce Marketing",
+               "short_name" : "Dubai Tourism & Commerce Marketing",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1J 0DS",
+               "short_name" : "W1J 0DS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubai Tourism & Commerce Marketing, Mayfair, London W1J 0DS, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5087937,
+               "lng" : -0.1379899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51014268029149,
+                  "lng" : -0.136640919708498
+               },
+               "southwest" : {
+                  "lat" : 51.5074447197085,
+                  "lng" : -0.139338880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

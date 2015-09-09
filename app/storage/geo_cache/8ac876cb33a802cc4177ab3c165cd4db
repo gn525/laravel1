@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bourne",
+               "short_name" : "Bourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bourne",
+               "short_name" : "Bourne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE10",
+               "short_name" : "PE10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bourne, Bourne, Lincolnshire PE10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7813211,
+                  "lng" : -0.3504784
+               },
+               "southwest" : {
+                  "lat" : 52.7546456,
+                  "lng" : -0.4073505
+               }
+            },
+            "location" : {
+               "lat" : 52.76859899999999,
+               "lng" : -0.378462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7813211,
+                  "lng" : -0.3504784
+               },
+               "southwest" : {
+                  "lat" : 52.7546456,
+                  "lng" : -0.4073505
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

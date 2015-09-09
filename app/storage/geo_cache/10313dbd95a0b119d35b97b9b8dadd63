@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surrey Research Centre",
+               "short_name" : "Surrey Research Centre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Surrey Research Park",
+               "short_name" : "Surrey Research Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Occam Road",
+               "short_name" : "Occam Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU2 7YG",
+               "short_name" : "GU2 7YG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Surrey Research Centre, Surrey Research Park, 40 Occam Road, Guildford, Surrey GU2 7YG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2403053,
+               "lng" : -0.6125773999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2416542802915,
+                  "lng" : -0.6112284197084979
+               },
+               "southwest" : {
+                  "lat" : 51.2389563197085,
+                  "lng" : -0.613926380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Optegra Eye Hospital",
+               "short_name" : "Optegra Eye Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The Surrey Research Park",
+               "short_name" : "The Surrey Research Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alan Turing Road",
+               "short_name" : "Alan Turing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guildford",
+               "short_name" : "Guildford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU2 7YF",
+               "short_name" : "GU2 7YF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Surrey Research Park, Optegra Eye Hospital, 10 Alan Turing Road, Guildford, Surrey GU2 7YF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2411841,
+               "lng" : -0.6133128999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.24253308029149,
+                  "lng" : -0.6119639197084979
+               },
+               "southwest" : {
+                  "lat" : 51.23983511970849,
+                  "lng" : -0.614661880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

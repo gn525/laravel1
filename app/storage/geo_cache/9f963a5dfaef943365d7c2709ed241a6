@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S9",
+               "short_name" : "S9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Yorkshire S9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4358193,
+                  "lng" : -1.3794562
+               },
+               "southwest" : {
+                  "lat" : 53.37436349999999,
+                  "lng" : -1.4477207
+               }
+            },
+            "location" : {
+               "lat" : 53.3930708,
+               "lng" : -1.4124741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4358193,
+                  "lng" : -1.3794562
+               },
+               "southwest" : {
+                  "lat" : 53.37436349999999,
+                  "lng" : -1.4477207
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

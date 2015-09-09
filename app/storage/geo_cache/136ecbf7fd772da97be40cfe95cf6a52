@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Croydon",
+               "short_name" : "South Croydon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Croydon, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3667286,
+                  "lng" : -0.03716469999999999
+               },
+               "southwest" : {
+                  "lat" : 51.31904369999999,
+                  "lng" : -0.1114159
+               }
+            },
+            "location" : {
+               "lat" : 51.357428,
+               "lng" : -0.09825099999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3667286,
+                  "lng" : -0.03716469999999999
+               },
+               "southwest" : {
+                  "lat" : 51.31904369999999,
+                  "lng" : -0.1114159
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

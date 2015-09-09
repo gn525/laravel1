@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Wycombe",
+               "short_name" : "West Wycombe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "High Wycombe",
+               "short_name" : "High Wycombe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP14",
+               "short_name" : "HP14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Wycombe, High Wycombe, Buckinghamshire HP14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.64429,
+               "lng" : -0.805867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6512135,
+                  "lng" : -0.7898596
+               },
+               "southwest" : {
+                  "lat" : 51.63736549999999,
+                  "lng" : -0.8218744
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

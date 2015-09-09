@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staffordshire Technology Park",
+               "short_name" : "Staffordshire Technology Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stafford",
+               "short_name" : "Stafford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stafford",
+               "short_name" : "Stafford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST18 0WN",
+               "short_name" : "ST18 0WN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staffordshire Technology Park, Stafford, Staffordshire ST18 0WN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.81699039999999,
+               "lng" : -2.0865212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.81833938029149,
+                  "lng" : -2.085172219708498
+               },
+               "southwest" : {
+                  "lat" : 52.8156414197085,
+                  "lng" : -2.087870180291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staffordshire Technology Park",
+               "short_name" : "Staffordshire Technology Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Staffordshire Technology Park",
+               "short_name" : "Staffordshire Technology Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Stafford",
+               "short_name" : "Stafford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stafford",
+               "short_name" : "Stafford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST18 0ES",
+               "short_name" : "ST18 0ES",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staffordshire Technology Park, Staffordshire Technology Park, Stafford, Staffordshire ST18 0ES, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.8149139,
+               "lng" : -2.0863686
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8162628802915,
+                  "lng" : -2.085019619708498
+               },
+               "southwest" : {
+                  "lat" : 52.8135649197085,
+                  "lng" : -2.087717580291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

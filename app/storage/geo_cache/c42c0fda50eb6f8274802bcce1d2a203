@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PR5",
+               "short_name" : "PR5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Preston PR5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7830317,
+                  "lng" : -2.5621283
+               },
+               "southwest" : {
+                  "lat" : 53.7034425,
+                  "lng" : -2.7034902
+               }
+            },
+            "location" : {
+               "lat" : 53.7409073,
+               "lng" : -2.6191543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7830317,
+                  "lng" : -2.5621283
+               },
+               "southwest" : {
+                  "lat" : 53.7034425,
+                  "lng" : -2.7034902
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

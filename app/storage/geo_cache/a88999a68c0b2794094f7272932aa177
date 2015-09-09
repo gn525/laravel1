@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SS13",
+               "short_name" : "SS13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essex SS13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5924546,
+                  "lng" : 0.5417284
+               },
+               "southwest" : {
+                  "lat" : 51.55645579999999,
+                  "lng" : 0.459274
+               }
+            },
+            "location" : {
+               "lat" : 51.57173119999999,
+               "lng" : 0.5140172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5924546,
+                  "lng" : 0.5417284
+               },
+               "southwest" : {
+                  "lat" : 51.55645579999999,
+                  "lng" : 0.4934794
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

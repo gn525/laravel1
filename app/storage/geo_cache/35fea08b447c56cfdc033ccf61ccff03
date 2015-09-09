@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Largs",
+               "short_name" : "Largs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Largs, North Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8193491,
+                  "lng" : -4.845943699999999
+               },
+               "southwest" : {
+                  "lat" : 55.7786846,
+                  "lng" : -4.8864065
+               }
+            },
+            "location" : {
+               "lat" : 55.79333500000001,
+               "lng" : -4.867278000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8193491,
+                  "lng" : -4.845943699999999
+               },
+               "southwest" : {
+                  "lat" : 55.7786846,
+                  "lng" : -4.8864065
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

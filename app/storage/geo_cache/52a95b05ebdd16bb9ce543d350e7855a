@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ME4",
+               "short_name" : "ME4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatham, Medway ME4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.41063390000001,
+                  "lng" : 0.5529178
+               },
+               "southwest" : {
+                  "lat" : 51.3551137,
+                  "lng" : 0.509019
+               }
+            },
+            "location" : {
+               "lat" : 51.3799304,
+               "lng" : 0.5252476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41063390000001,
+                  "lng" : 0.5529178
+               },
+               "southwest" : {
+                  "lat" : 51.3551137,
+                  "lng" : 0.509019
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

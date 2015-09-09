@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buckley",
+               "short_name" : "Buckley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buckley, Flintshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.187271,
+                  "lng" : -3.0486203
+               },
+               "southwest" : {
+                  "lat" : 53.157613,
+                  "lng" : -3.1030434
+               }
+            },
+            "location" : {
+               "lat" : 53.17005,
+               "lng" : -3.0814879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.187271,
+                  "lng" : -3.0486203
+               },
+               "southwest" : {
+                  "lat" : 53.157613,
+                  "lng" : -3.1030434
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

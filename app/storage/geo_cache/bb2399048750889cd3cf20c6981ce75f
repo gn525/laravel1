@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Romney Marsh",
+               "short_name" : "Romney Marsh",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Romney",
+               "short_name" : "New Romney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romney Marsh",
+               "short_name" : "Romney Marsh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN29",
+               "short_name" : "TN29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Romney Marsh, New Romney, Romney Marsh, Kent TN29, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.001938,
+               "lng" : 0.9188299999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0089591,
+                  "lng" : 0.9348374
+               },
+               "southwest" : {
+                  "lat" : 50.99491580000001,
+                  "lng" : 0.9028225999999999
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Romney Marsh",
+               "short_name" : "Romney Marsh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "New Romney",
+               "short_name" : "New Romney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Romney",
+               "short_name" : "New Romney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN28",
+               "short_name" : "TN28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Romney Marsh, New Romney, New Romney, Kent TN28, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9971848,
+                  "lng" : 0.9600135999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9935327,
+                  "lng" : 0.9533442000000001
+               }
+            },
+            "location" : {
+               "lat" : 50.99634409999999,
+               "lng" : 0.9584575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9971848,
+                  "lng" : 0.9600135999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9935327,
+                  "lng" : 0.9533442000000001
+               }
+            }
+         },
+         "types" : [ "natural_feature", "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

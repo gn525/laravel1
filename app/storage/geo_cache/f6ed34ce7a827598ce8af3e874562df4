@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadstairs",
+               "short_name" : "Broadstairs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Broadstairs, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.38963709999999,
+                  "lng" : 1.4496433
+               },
+               "southwest" : {
+                  "lat" : 51.3426437,
+                  "lng" : 1.389941
+               }
+            },
+            "location" : {
+               "lat" : 51.360163,
+               "lng" : 1.432038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.38963709999999,
+                  "lng" : 1.4496433
+               },
+               "southwest" : {
+                  "lat" : 51.3426437,
+                  "lng" : 1.389941
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

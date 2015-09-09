@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balham Hill",
+               "short_name" : "Balham Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW12 9DJ",
+               "short_name" : "SW12 9DJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Balham Hill, London SW12 9DJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4536925,
+                  "lng" : -0.1467271
+               },
+               "southwest" : {
+                  "lat" : 51.4447051,
+                  "lng" : -0.1505946
+               }
+            },
+            "location" : {
+               "lat" : 51.4490346,
+               "lng" : -0.1480641
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4536925,
+                  "lng" : -0.1467271
+               },
+               "southwest" : {
+                  "lat" : 51.4447051,
+                  "lng" : -0.1505946
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

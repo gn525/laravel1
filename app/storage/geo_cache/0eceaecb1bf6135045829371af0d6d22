@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weston upon Trent",
+               "short_name" : "Weston upon Trent",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "South Derbyshire District",
+               "short_name" : "South Derbyshire District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weston upon Trent, Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8637275,
+                  "lng" : -1.3625239
+               },
+               "southwest" : {
+                  "lat" : 52.8389783,
+                  "lng" : -1.4320521
+               }
+            },
+            "location" : {
+               "lat" : 52.8497813,
+               "lng" : -1.403813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8637275,
+                  "lng" : -1.3625239
+               },
+               "southwest" : {
+                  "lat" : 52.8389783,
+                  "lng" : -1.4320521
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

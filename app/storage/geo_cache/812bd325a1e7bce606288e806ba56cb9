@@ -1,0 +1,38 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Watergate Bay",
+               "short_name" : "Watergate Bay",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Watergate Bay, United Kingdom",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4428738,
+               "lng" : -5.0552917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.44997919999999,
+                  "lng" : -5.039284299999999
+               },
+               "southwest" : {
+                  "lat" : 50.43576729999999,
+                  "lng" : -5.0712991
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

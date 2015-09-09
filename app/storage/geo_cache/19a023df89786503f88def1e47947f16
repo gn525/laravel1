@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mansfield Woodhouse",
+               "short_name" : "Mansfield Woodhouse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mansfield",
+               "short_name" : "Mansfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mansfield Woodhouse, Mansfield, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1837125,
+                  "lng" : -1.1622293
+               },
+               "southwest" : {
+                  "lat" : 53.15370979999999,
+                  "lng" : -1.2158723
+               }
+            },
+            "location" : {
+               "lat" : 53.166472,
+               "lng" : -1.189765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1837125,
+                  "lng" : -1.1622293
+               },
+               "southwest" : {
+                  "lat" : 53.15370979999999,
+                  "lng" : -1.2158723
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

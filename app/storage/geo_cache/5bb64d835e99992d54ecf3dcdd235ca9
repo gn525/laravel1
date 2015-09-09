@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WF12",
+               "short_name" : "WF12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Yorkshire WF12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7258507,
+                  "lng" : -1.5808928
+               },
+               "southwest" : {
+                  "lat" : 53.6423707,
+                  "lng" : -1.6765156
+               }
+            },
+            "location" : {
+               "lat" : 53.6770601,
+               "lng" : -1.629582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7258507,
+                  "lng" : -1.5808928
+               },
+               "southwest" : {
+                  "lat" : 53.6423707,
+                  "lng" : -1.6765156
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

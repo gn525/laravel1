@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shoeburyness",
+               "short_name" : "Shoeburyness",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS3",
+               "short_name" : "SS3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shoeburyness, Southend-on-Sea, Southend-on-Sea, Southend-on-Sea SS3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.531522,
+               "lng" : 0.7978529999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5384627,
+                  "lng" : 0.8138603999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5245803,
+                  "lng" : 0.7818455999999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

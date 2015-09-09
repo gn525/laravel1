@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Watford Business Park",
+               "short_name" : "Watford Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Greenhill Crescent",
+               "short_name" : "Greenhill Cres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD18 8JU",
+               "short_name" : "WD18 8JU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Watford Business Park, Greenhill Crescent, Watford, Hertfordshire WD18 8JU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6424077,
+               "lng" : -0.4256947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6437566802915,
+                  "lng" : -0.4243457197084979
+               },
+               "southwest" : {
+                  "lat" : 51.6410587197085,
+                  "lng" : -0.427043680291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Watford Business Park",
+               "short_name" : "Watford Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Greenhill Crescent",
+               "short_name" : "Greenhill Cres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD18 8RF",
+               "short_name" : "WD18 8RF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Watford Business Park, 6 Greenhill Crescent, Watford, Hertfordshire WD18 8RF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6470507,
+               "lng" : -0.4258663
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6483996802915,
+                  "lng" : -0.4245173197084979
+               },
+               "southwest" : {
+                  "lat" : 51.6457017197085,
+                  "lng" : -0.427215280291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

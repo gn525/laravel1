@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Epsom",
+               "short_name" : "Epsom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Epsom, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3733318,
+                  "lng" : -0.2195577
+               },
+               "southwest" : {
+                  "lat" : 51.2923325,
+                  "lng" : -0.3062158
+               }
+            },
+            "location" : {
+               "lat" : 51.336036,
+               "lng" : -0.267382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3733318,
+                  "lng" : -0.2195577
+               },
+               "southwest" : {
+                  "lat" : 51.2923325,
+                  "lng" : -0.3062158
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

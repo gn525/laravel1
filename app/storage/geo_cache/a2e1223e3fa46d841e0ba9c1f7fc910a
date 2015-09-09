@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawes",
+               "short_name" : "Hawes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawes",
+               "short_name" : "Hawes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL8",
+               "short_name" : "DL8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hawes, Hawes, North Yorkshire DL8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.304019,
+               "lng" : -2.198943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.310529,
+                  "lng" : -2.1829356
+               },
+               "southwest" : {
+                  "lat" : 54.297508,
+                  "lng" : -2.2149504
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

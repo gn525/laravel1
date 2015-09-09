@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Harrow",
+               "short_name" : "North Harrow",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Harrow",
+               "short_name" : "Harrow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrow",
+               "short_name" : "Harrow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HA2",
+               "short_name" : "HA2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Harrow, Harrow, Harrow, Greater London HA2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.58487,
+               "lng" : -0.36239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5862189802915,
+                  "lng" : -0.3610410197084979
+               },
+               "southwest" : {
+                  "lat" : 51.5835210197085,
+                  "lng" : -0.363738980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

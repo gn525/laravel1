@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wincanton",
+               "short_name" : "Wincanton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wincanton, Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0719077,
+                  "lng" : -2.3943409
+               },
+               "southwest" : {
+                  "lat" : 51.0408385,
+                  "lng" : -2.4486553
+               }
+            },
+            "location" : {
+               "lat" : 51.055688,
+               "lng" : -2.416007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0719077,
+                  "lng" : -2.3943409
+               },
+               "southwest" : {
+                  "lat" : 51.0408385,
+                  "lng" : -2.4486553
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

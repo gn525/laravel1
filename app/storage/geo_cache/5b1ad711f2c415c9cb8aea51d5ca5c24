@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ellon",
+               "short_name" : "Ellon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ellon",
+               "short_name" : "Ellon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB41",
+               "short_name" : "AB41",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ellon, Ellon, Aberdeenshire AB41, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.3778185,
+                  "lng" : -2.0453357
+               },
+               "southwest" : {
+                  "lat" : 57.3558506,
+                  "lng" : -2.1130536
+               }
+            },
+            "location" : {
+               "lat" : 57.364597,
+               "lng" : -2.072972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.3778185,
+                  "lng" : -2.0453357
+               },
+               "southwest" : {
+                  "lat" : 57.3558506,
+                  "lng" : -2.1130536
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CF3",
+               "short_name" : "CF3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Cardiff",
+               "short_name" : "Cardiff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiff CF3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5732137,
+                  "lng" : -3.0251444
+               },
+               "southwest" : {
+                  "lat" : 51.4895584,
+                  "lng" : -3.152148
+               }
+            },
+            "location" : {
+               "lat" : 51.5270715,
+               "lng" : -3.0870975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5732137,
+                  "lng" : -3.0251444
+               },
+               "southwest" : {
+                  "lat" : 51.4895584,
+                  "lng" : -3.152148
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

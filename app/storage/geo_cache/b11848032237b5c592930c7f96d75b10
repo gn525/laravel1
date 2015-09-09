@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aviemore",
+               "short_name" : "Aviemore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aviemore",
+               "short_name" : "Aviemore",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PH22",
+               "short_name" : "PH22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aviemore, Aviemore, Highland PH22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.207532,
+                  "lng" : -3.8105881
+               },
+               "southwest" : {
+                  "lat" : 57.1811629,
+                  "lng" : -3.8381818
+               }
+            },
+            "location" : {
+               "lat" : 57.19448999999999,
+               "lng" : -3.823812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.207532,
+                  "lng" : -3.8105881
+               },
+               "southwest" : {
+                  "lat" : 57.1811629,
+                  "lng" : -3.8381818
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

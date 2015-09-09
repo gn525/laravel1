@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denbighshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3516211,
+                  "lng" : -3.0902961
+               },
+               "southwest" : {
+                  "lat" : 52.86195590000001,
+                  "lng" : -3.6012703
+               }
+            },
+            "location" : {
+               "lat" : 53.12830890000001,
+               "lng" : -3.3371083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3516211,
+                  "lng" : -3.0902961
+               },
+               "southwest" : {
+                  "lat" : 52.86195590000001,
+                  "lng" : -3.6012703
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

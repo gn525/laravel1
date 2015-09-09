@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reception Desk Configuration TBC by WBC",
+               "short_name" : "Reception Desk Configuration TBC by WBC",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Wigan",
+               "short_name" : "Wigan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wigan",
+               "short_name" : "Wigan",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WN1",
+               "short_name" : "WN1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Reception Desk Configuration TBC by WBC, Wigan, Wigan WN1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5453638,
+                  "lng" : -2.6304185
+               },
+               "southwest" : {
+                  "lat" : 53.5453226,
+                  "lng" : -2.6304891
+               }
+            },
+            "location" : {
+               "lat" : 53.5453381,
+               "lng" : -2.6304539
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54669218029149,
+                  "lng" : -2.629104819708498
+               },
+               "southwest" : {
+                  "lat" : 53.54399421970849,
+                  "lng" : -2.631802780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turriff",
+               "short_name" : "Turriff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turriff",
+               "short_name" : "Turriff",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB53",
+               "short_name" : "AB53",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turriff, Turriff, Aberdeenshire AB53, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.5524532,
+                  "lng" : -2.4338386
+               },
+               "southwest" : {
+                  "lat" : 57.5285229,
+                  "lng" : -2.4816699
+               }
+            },
+            "location" : {
+               "lat" : 57.538932,
+               "lng" : -2.4623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5524532,
+                  "lng" : -2.4338386
+               },
+               "southwest" : {
+                  "lat" : 57.5285229,
+                  "lng" : -2.4816699
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

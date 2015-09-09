@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6612036,
+                  "lng" : -0.8653331
+               },
+               "southwest" : {
+                  "lat" : 53.30157699999999,
+                  "lng" : -1.82259
+               }
+            },
+            "location" : {
+               "lat" : 53.46969679999999,
+               "lng" : -1.3259683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6612036,
+                  "lng" : -0.8653331
+               },
+               "southwest" : {
+                  "lat" : 53.30157699999999,
+                  "lng" : -1.82259
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

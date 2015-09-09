@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Yarmouth",
+               "short_name" : "Yarmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Great Yarmouth, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.63379639999999,
+                  "lng" : 1.741268
+               },
+               "southwest" : {
+                  "lat" : 52.5488361,
+                  "lng" : 1.6967775
+               }
+            },
+            "location" : {
+               "lat" : 52.598233,
+               "lng" : 1.728047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.63379639999999,
+                  "lng" : 1.741268
+               },
+               "southwest" : {
+                  "lat" : 52.5488361,
+                  "lng" : 1.6967775
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TW3",
+               "short_name" : "TW3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Hounslow",
+               "short_name" : "Hounslow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hounslow, Greater London TW3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4794235,
+                  "lng" : -0.3448099
+               },
+               "southwest" : {
+                  "lat" : 51.4535716,
+                  "lng" : -0.3882687
+               }
+            },
+            "location" : {
+               "lat" : 51.4671701,
+               "lng" : -0.3584859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4794235,
+                  "lng" : -0.3448099
+               },
+               "southwest" : {
+                  "lat" : 51.4535716,
+                  "lng" : -0.3882687
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

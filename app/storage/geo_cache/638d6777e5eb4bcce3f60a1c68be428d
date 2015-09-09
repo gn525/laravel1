@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Drayton, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5223828,
+                  "lng" : -0.4462568
+               },
+               "southwest" : {
+                  "lat" : 51.493272,
+                  "lng" : -0.4915881
+               }
+            },
+            "location" : {
+               "lat" : 51.502985,
+               "lng" : -0.4654099999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5223828,
+                  "lng" : -0.4462568
+               },
+               "southwest" : {
+                  "lat" : 51.493272,
+                  "lng" : -0.4915881
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Drayton",
+               "short_name" : "West Drayton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "UB7",
+               "short_name" : "UB7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Drayton, West Drayton, West Drayton, Greater London UB7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51006,
+               "lng" : -0.47221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5114089802915,
+                  "lng" : -0.4708610197084979
+               },
+               "southwest" : {
+                  "lat" : 51.5087110197085,
+                  "lng" : -0.473558980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London Colney",
+               "short_name" : "London Colney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St Albans",
+               "short_name" : "St Albans",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London Colney, St Albans, Hertfordshire, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7237859,
+               "lng" : -0.29727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7306972,
+                  "lng" : -0.2812626
+               },
+               "southwest" : {
+                  "lat" : 51.7168735,
+                  "lng" : -0.3132774
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

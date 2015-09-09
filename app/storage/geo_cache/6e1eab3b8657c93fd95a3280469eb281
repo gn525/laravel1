@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oban",
+               "short_name" : "Oban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oban, Argyll and Bute, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4271629,
+                  "lng" : -5.4516021
+               },
+               "southwest" : {
+                  "lat" : 56.3949326,
+                  "lng" : -5.4926153
+               }
+            },
+            "location" : {
+               "lat" : 56.415157,
+               "lng" : -5.471047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4271629,
+                  "lng" : -5.4516021
+               },
+               "southwest" : {
+                  "lat" : 56.3949326,
+                  "lng" : -5.4926153
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

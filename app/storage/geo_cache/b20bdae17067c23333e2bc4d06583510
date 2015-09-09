@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llanelli",
+               "short_name" : "Llanelli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Llanelli, Carmarthenshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7727955,
+                  "lng" : -4.0840006
+               },
+               "southwest" : {
+                  "lat" : 51.6547722,
+                  "lng" : -4.230121899999999
+               }
+            },
+            "location" : {
+               "lat" : 51.680886,
+               "lng" : -4.160248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7727955,
+                  "lng" : -4.0840006
+               },
+               "southwest" : {
+                  "lat" : 51.6547722,
+                  "lng" : -4.230121899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llanelly",
+               "short_name" : "Llanelly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abergavenny",
+               "short_name" : "Abergavenny",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Monmouthshire",
+               "short_name" : "Monmouthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP7",
+               "short_name" : "NP7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Llanelly, Abergavenny, Monmouthshire NP7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.824049,
+               "lng" : -3.114332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.82539798029149,
+                  "lng" : -3.112983019708498
+               },
+               "southwest" : {
+                  "lat" : 51.82270001970849,
+                  "lng" : -3.115680980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

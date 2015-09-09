@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bonnyrigg",
+               "short_name" : "Bonnyrigg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bonnyrigg, Midlothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.88355809999999,
+                  "lng" : -3.0834425
+               },
+               "southwest" : {
+                  "lat" : 55.8606711,
+                  "lng" : -3.1279628
+               }
+            },
+            "location" : {
+               "lat" : 55.874917,
+               "lng" : -3.106337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.88355809999999,
+                  "lng" : -3.0834425
+               },
+               "southwest" : {
+                  "lat" : 55.8606711,
+                  "lng" : -3.1279628
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

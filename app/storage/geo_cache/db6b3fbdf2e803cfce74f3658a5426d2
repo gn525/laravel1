@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Team Valley Trading Estate",
+               "short_name" : "Team Valley Trading Estate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE11",
+               "short_name" : "NE11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Team Valley Trading Estate, Gateshead, Tyne and Wear NE11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.9316608,
+               "lng" : -1.6203224
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.93807109999999,
+                  "lng" : -1.604315
+               },
+               "southwest" : {
+                  "lat" : 54.92524940000001,
+                  "lng" : -1.6363298
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

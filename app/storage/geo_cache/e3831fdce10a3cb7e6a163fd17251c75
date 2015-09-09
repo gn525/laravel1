@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St John",
+               "short_name" : "St John",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torpoint",
+               "short_name" : "Torpoint",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL11",
+               "short_name" : "PL11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St John, Torpoint, Cornwall PL11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.360022,
+               "lng" : -4.239511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3671398,
+                  "lng" : -4.2235036
+               },
+               "southwest" : {
+                  "lat" : 50.3529031,
+                  "lng" : -4.255518400000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint John",
+               "short_name" : "St John",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torpoint",
+               "short_name" : "Torpoint",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL11",
+               "short_name" : "PL11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint John, Torpoint, Cornwall PL11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.361948,
+               "lng" : -4.241177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.36329698029149,
+                  "lng" : -4.239828019708497
+               },
+               "southwest" : {
+                  "lat" : 50.36059901970849,
+                  "lng" : -4.242525980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

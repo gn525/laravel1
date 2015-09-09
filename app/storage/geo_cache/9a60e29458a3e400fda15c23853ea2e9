@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newtongrange",
+               "short_name" : "Newtongrange",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newtongrange, Midlothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8764684,
+                  "lng" : -3.0488112
+               },
+               "southwest" : {
+                  "lat" : 55.8586676,
+                  "lng" : -3.0789237
+               }
+            },
+            "location" : {
+               "lat" : 55.865652,
+               "lng" : -3.066151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8764684,
+                  "lng" : -3.0488112
+               },
+               "southwest" : {
+                  "lat" : 55.8586676,
+                  "lng" : -3.0789237
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

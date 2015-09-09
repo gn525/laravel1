@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Burma Road",
+               "short_name" : "Burma Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Romsey",
+               "short_name" : "Romsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romsey",
+               "short_name" : "Romsey",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO51 9LA",
+               "short_name" : "SO51 9LA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Singapore, Burma Road, Romsey, Hampshire SO51 9LA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9867743,
+               "lng" : -1.4936335
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9881232802915,
+                  "lng" : -1.492284519708498
+               },
+               "southwest" : {
+                  "lat" : 50.9854253197085,
+                  "lng" : -1.494982480291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

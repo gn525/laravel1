@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TN40",
+               "short_name" : "TN40",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bexhill-on-Sea",
+               "short_name" : "Bexhill-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bexhill-on-Sea, East Sussex TN40, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8643116,
+                  "lng" : 0.5152616
+               },
+               "southwest" : {
+                  "lat" : 50.8359965,
+                  "lng" : 0.4686612
+               }
+            },
+            "location" : {
+               "lat" : 50.8498117,
+               "lng" : 0.4893474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8643116,
+                  "lng" : 0.5152616
+               },
+               "southwest" : {
+                  "lat" : 50.8359965,
+                  "lng" : 0.4686612
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

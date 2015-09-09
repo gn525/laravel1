@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montrose",
+               "short_name" : "Montrose",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Angus",
+               "short_name" : "Angus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montrose, Angus, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7367582,
+                  "lng" : -2.4390391
+               },
+               "southwest" : {
+                  "lat" : 56.6996431,
+                  "lng" : -2.487364
+               }
+            },
+            "location" : {
+               "lat" : 56.706922,
+               "lng" : -2.466115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7367582,
+                  "lng" : -2.4390391
+               },
+               "southwest" : {
+                  "lat" : 56.6996431,
+                  "lng" : -2.487364
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

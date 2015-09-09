@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fermanagh",
+               "short_name" : "Fermanagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fermanagh, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.61035,
+                  "lng" : -7.14228
+               },
+               "southwest" : {
+                  "lat" : 54.1131,
+                  "lng" : -8.17754
+               }
+            },
+            "location" : {
+               "lat" : 54.4513524,
+               "lng" : -7.7125018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.61035,
+                  "lng" : -7.14228
+               },
+               "southwest" : {
+                  "lat" : 54.1131,
+                  "lng" : -8.17754
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

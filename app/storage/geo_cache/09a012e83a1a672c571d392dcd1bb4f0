@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EN2",
+               "short_name" : "EN2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enfield EN2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6937545,
+                  "lng" : -0.0577545
+               },
+               "southwest" : {
+                  "lat" : 51.644574,
+                  "lng" : -0.153915
+               }
+            },
+            "location" : {
+               "lat" : 51.6728408,
+               "lng" : -0.1062862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6937545,
+                  "lng" : -0.0577545
+               },
+               "southwest" : {
+                  "lat" : 51.644574,
+                  "lng" : -0.153915
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

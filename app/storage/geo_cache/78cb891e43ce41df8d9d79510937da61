@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bradley Stoke",
+               "short_name" : "Bradley Stoke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Gloucestershire",
+               "short_name" : "South Gloucestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bradley Stoke, Bristol, South Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5513933,
+                  "lng" : -2.524094
+               },
+               "southwest" : {
+                  "lat" : 51.5210789,
+                  "lng" : -2.5683305
+               }
+            },
+            "location" : {
+               "lat" : 51.532291,
+               "lng" : -2.546212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5513933,
+                  "lng" : -2.524094
+               },
+               "southwest" : {
+                  "lat" : 51.5210789,
+                  "lng" : -2.5683305
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

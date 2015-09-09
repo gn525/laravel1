@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ulverston",
+               "short_name" : "Ulverston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ulverston",
+               "short_name" : "Ulverston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA12",
+               "short_name" : "LA12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ulverston, Ulverston, Cumbria LA12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2044137,
+                  "lng" : -3.0627274
+               },
+               "southwest" : {
+                  "lat" : 54.1749885,
+                  "lng" : -3.1145936
+               }
+            },
+            "location" : {
+               "lat" : 54.195138,
+               "lng" : -3.09267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2044137,
+                  "lng" : -3.0627274
+               },
+               "southwest" : {
+                  "lat" : 54.1749885,
+                  "lng" : -3.1145936
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

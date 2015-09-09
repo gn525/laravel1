@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stirling, Stirling, Stirling, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1455382,
+                  "lng" : -3.9043966
+               },
+               "southwest" : {
+                  "lat" : 56.0918724,
+                  "lng" : -3.9750002
+               }
+            },
+            "location" : {
+               "lat" : 56.1165227,
+               "lng" : -3.9369029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1455382,
+                  "lng" : -3.9043966
+               },
+               "southwest" : {
+                  "lat" : 56.0918724,
+                  "lng" : -3.9750002
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stirling, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.54710249999999,
+                  "lng" : -3.7979163
+               },
+               "southwest" : {
+                  "lat" : 55.95722800000001,
+                  "lng" : -4.8544952
+               }
+            },
+            "location" : {
+               "lat" : 56.1165329,
+               "lng" : -3.9369086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.54710249999999,
+                  "lng" : -3.7979163
+               },
+               "southwest" : {
+                  "lat" : 55.95722800000001,
+                  "lng" : -4.8544952
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterhead",
+               "short_name" : "Peterhead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB42",
+               "short_name" : "AB42",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stirling, Peterhead, Aberdeenshire AB42, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.470151,
+               "lng" : -1.788877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.4714999802915,
+                  "lng" : -1.787528019708498
+               },
+               "southwest" : {
+                  "lat" : 57.46880201970849,
+                  "lng" : -1.790225980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

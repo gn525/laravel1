@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helensburgh",
+               "short_name" : "Helensburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helensburgh, Argyll and Bute, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0198173,
+                  "lng" : -4.6911875
+               },
+               "southwest" : {
+                  "lat" : 55.992483,
+                  "lng" : -4.7631592
+               }
+            },
+            "location" : {
+               "lat" : 56.002318,
+               "lng" : -4.734014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0198173,
+                  "lng" : -4.6911875
+               },
+               "southwest" : {
+                  "lat" : 55.992483,
+                  "lng" : -4.7631592
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

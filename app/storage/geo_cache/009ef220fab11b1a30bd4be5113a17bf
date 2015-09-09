@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wembley Central",
+               "short_name" : "Wembley Central",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Wembley",
+               "short_name" : "Wembley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wembley",
+               "short_name" : "Wembley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HA9",
+               "short_name" : "HA9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wembley Central, Wembley, Wembley, Greater London HA9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.55233,
+               "lng" : -0.29641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.55367898029151,
+                  "lng" : -0.295061019708498
+               },
+               "southwest" : {
+                  "lat" : 51.55098101970851,
+                  "lng" : -0.2977589802915021
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

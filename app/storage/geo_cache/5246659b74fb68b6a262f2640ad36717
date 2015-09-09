@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stansted Airport",
+               "short_name" : "Stansted Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Enterprise House",
+               "short_name" : "Enterprise House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bassingbourn Rd",
+               "short_name" : "Bassingbourn Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stansted",
+               "short_name" : "Stansted",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM24 1QW",
+               "short_name" : "CM24 1QW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Enterprise House, Stansted Airport (STN), Bassingbourn Rd, Stansted, Essex CM24 1QW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9019084,
+                  "lng" : 0.2718058
+               },
+               "southwest" : {
+                  "lat" : 51.8719373,
+                  "lng" : 0.2037871
+               }
+            },
+            "location" : {
+               "lat" : 51.8860181,
+               "lng" : 0.2388661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9019084,
+                  "lng" : 0.2718058
+               },
+               "southwest" : {
+                  "lat" : 51.8719373,
+                  "lng" : 0.2037871
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

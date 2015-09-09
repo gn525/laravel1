@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tilehurst",
+               "short_name" : "Tilehurst",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "Berks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tilehurst, West Berkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.47552,
+                  "lng" : -1.0259762
+               },
+               "southwest" : {
+                  "lat" : 51.4402634,
+                  "lng" : -1.0682513
+               }
+            },
+            "location" : {
+               "lat" : 51.4550943,
+               "lng" : -1.0561034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.47552,
+                  "lng" : -1.0259762
+               },
+               "southwest" : {
+                  "lat" : 51.4402634,
+                  "lng" : -1.0682513
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bury Saint Edmunds",
+               "short_name" : "Bury Saint Edmunds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP28",
+               "short_name" : "IP28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mildenhall, Bury Saint Edmunds, Suffolk IP28, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3444209,
+               "lng" : 0.5109469999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3512369,
+                  "lng" : 0.5269543999999999
+               },
+               "southwest" : {
+                  "lat" : 52.3376038,
+                  "lng" : 0.4949396
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marlborough",
+               "short_name" : "Marlborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mildenhall, Marlborough, Wiltshire, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.426705,
+               "lng" : -1.697582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4280539802915,
+                  "lng" : -1.696233019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4253560197085,
+                  "lng" : -1.698930980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mill Street Mews",
+               "short_name" : "Mill Street Mews",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mill Street",
+               "short_name" : "Mill St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bury St. Edmunds",
+               "short_name" : "Bury St. Edmunds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP28 7DP",
+               "short_name" : "IP28 7DP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mill Street Mews, Mildenhall, 18 Mill Street, Mildenhall, Bury St. Edmunds, Suffolk IP28 7DP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3417569,
+               "lng" : 0.5087381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3431058802915,
+                  "lng" : 0.510087080291502
+               },
+               "southwest" : {
+                  "lat" : 52.3404079197085,
+                  "lng" : 0.5073891197084979
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

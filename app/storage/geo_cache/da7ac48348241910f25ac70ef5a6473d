@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Watford",
+               "short_name" : "West Watford",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD18",
+               "short_name" : "WD18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Watford, Watford, Watford, Hertfordshire WD18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.651297,
+               "lng" : -0.400395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6582194,
+                  "lng" : -0.3843876
+               },
+               "southwest" : {
+                  "lat" : 51.6443735,
+                  "lng" : -0.4164024000000001
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

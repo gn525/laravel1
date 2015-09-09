@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oldbrook",
+               "short_name" : "Oldbrook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oldbrook, Milton Keynes, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.03714670000001,
+                  "lng" : -0.7454354999999999
+               },
+               "southwest" : {
+                  "lat" : 52.0254743,
+                  "lng" : -0.7660087
+               }
+            },
+            "location" : {
+               "lat" : 52.03145629999999,
+               "lng" : -0.7570696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03714670000001,
+                  "lng" : -0.7454354999999999
+               },
+               "southwest" : {
+                  "lat" : 52.0254743,
+                  "lng" : -0.7660087
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

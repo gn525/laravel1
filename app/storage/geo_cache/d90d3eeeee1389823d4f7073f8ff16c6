@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lanarkshire",
+               "short_name" : "Lanarkshire",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Lanark",
+               "short_name" : "Lanark",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML11",
+               "short_name" : "ML11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lanarkshire, Lanark, South Lanarkshire ML11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.583333,
+               "lng" : -3.833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5896391,
+                  "lng" : -3.8173256
+               },
+               "southwest" : {
+                  "lat" : 55.5770259,
+                  "lng" : -3.8493404
+               }
+            }
+         },
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

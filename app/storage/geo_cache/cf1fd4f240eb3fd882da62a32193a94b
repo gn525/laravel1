@@ -1,0 +1,235 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luton Hoo",
+               "short_name" : "Luton Hoo",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Central Bedfordshire",
+               "short_name" : "Central Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LU1",
+               "short_name" : "LU1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Luton Hoo, Luton, Central Bedfordshire LU1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.85463,
+               "lng" : -0.39764
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8559789802915,
+                  "lng" : -0.3962910197084979
+               },
+               "southwest" : {
+                  "lat" : 51.8532810197085,
+                  "lng" : -0.398988980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hoo Street",
+               "short_name" : "Hoo St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LU1 3QD",
+               "short_name" : "LU1 3QD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hoo Street, Luton, Luton LU1 3QD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8725537,
+                  "lng" : -0.4142498
+               },
+               "southwest" : {
+                  "lat" : 51.8721739,
+                  "lng" : -0.4145712
+               }
+            },
+            "location" : {
+               "lat" : 51.8725537,
+               "lng" : -0.4142498
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8737127802915,
+                  "lng" : -0.413061519708498
+               },
+               "southwest" : {
+                  "lat" : 51.8710148197085,
+                  "lng" : -0.4157594802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME5",
+               "short_name" : "ME5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Luton, Chatham, Chatham, Medway ME5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.371014,
+               "lng" : 0.546613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.37236298029149,
+                  "lng" : 0.547961980291502
+               },
+               "southwest" : {
+                  "lat" : 51.36966501970849,
+                  "lng" : 0.5452640197084979
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hoo Lodge",
+               "short_name" : "Hoo Lodge",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Hitchin Road",
+               "short_name" : "Hitchin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kimpton",
+               "short_name" : "Kimpton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hitchin",
+               "short_name" : "Hitchin",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG4 8EF",
+               "short_name" : "SG4 8EF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hoo Lodge, Hitchin Road, Kimpton, Hitchin, Hertfordshire SG4 8EF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8536069,
+               "lng" : -0.2917582
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8549558802915,
+                  "lng" : -0.2904092197084979
+               },
+               "southwest" : {
+                  "lat" : 51.8522579197085,
+                  "lng" : -0.293107180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

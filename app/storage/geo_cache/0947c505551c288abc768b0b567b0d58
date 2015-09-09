@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brimsdown",
+               "short_name" : "Brimsdown",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN3",
+               "short_name" : "EN3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brimsdown, Enfield, Enfield, Greater London EN3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.652766,
+               "lng" : -0.028045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6596882,
+                  "lng" : -0.0120376
+               },
+               "southwest" : {
+                  "lat" : 51.6458428,
+                  "lng" : -0.0440524
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

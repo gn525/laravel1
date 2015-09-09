@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paisley",
+               "short_name" : "Paisley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paisley, Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.88175469999999,
+                  "lng" : -4.367894
+               },
+               "southwest" : {
+                  "lat" : 55.8131146,
+                  "lng" : -4.4879079
+               }
+            },
+            "location" : {
+               "lat" : 55.847258,
+               "lng" : -4.440113999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.88175469999999,
+                  "lng" : -4.367894
+               },
+               "southwest" : {
+                  "lat" : 55.8131146,
+                  "lng" : -4.4879079
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

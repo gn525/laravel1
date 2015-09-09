@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lechlade-on-Thames",
+               "short_name" : "Lechlade-on-Thames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lechlade",
+               "short_name" : "Lechlade",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL7",
+               "short_name" : "GL7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lechlade-on-Thames, Lechlade, Gloucestershire GL7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.692119,
+               "lng" : -1.692092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6990352,
+                  "lng" : -1.6760846
+               },
+               "southwest" : {
+                  "lat" : 51.68520179999999,
+                  "lng" : -1.7080994
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

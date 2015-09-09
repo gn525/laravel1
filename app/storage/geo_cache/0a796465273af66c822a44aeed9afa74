@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Newton",
+               "short_name" : "South Newton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP2",
+               "short_name" : "SP2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Newton, Salisbury, Wiltshire SP2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.108691,
+               "lng" : -1.876408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.115696,
+                  "lng" : -1.8604006
+               },
+               "southwest" : {
+                  "lat" : 51.101685,
+                  "lng" : -1.8924154
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton",
+               "short_name" : "Newton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Arran",
+               "short_name" : "Isle of Arran",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA27",
+               "short_name" : "KA27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newton, Isle of Arran, North Ayrshire KA27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.7135045,
+               "lng" : -5.2891818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7148534802915,
+                  "lng" : -5.287832819708497
+               },
+               "southwest" : {
+                  "lat" : 55.7121555197085,
+                  "lng" : -5.290530780291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

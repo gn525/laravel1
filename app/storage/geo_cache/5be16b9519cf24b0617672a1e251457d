@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Callington",
+               "short_name" : "Callington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Callington",
+               "short_name" : "Callington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL17",
+               "short_name" : "PL17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Callington, Callington, Cornwall PL17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5182015,
+                  "lng" : -4.2950262
+               },
+               "southwest" : {
+                  "lat" : 50.4945209,
+                  "lng" : -4.327177
+               }
+            },
+            "location" : {
+               "lat" : 50.502332,
+               "lng" : -4.315735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5182015,
+                  "lng" : -4.2950262
+               },
+               "southwest" : {
+                  "lat" : 50.4945209,
+                  "lng" : -4.327177
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,212 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Marston",
+               "short_name" : "Long Marston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stratford-upon-Avon",
+               "short_name" : "Stratford-upon-Avon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV37",
+               "short_name" : "CV37",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Long Marston, Stratford-upon-Avon, Warwickshire CV37, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.134166,
+               "lng" : -1.778136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1410144,
+                  "lng" : -1.7621286
+               },
+               "southwest" : {
+                  "lat" : 52.1273165,
+                  "lng" : -1.7941434
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Marston",
+               "short_name" : "Long Marston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tring",
+               "short_name" : "Tring",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP23",
+               "short_name" : "HP23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Long Marston, Tring, Hertfordshire HP23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.83163700000001,
+               "lng" : -0.6954709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.83298598029151,
+                  "lng" : -0.6941219197084979
+               },
+               "southwest" : {
+                  "lat" : 51.83028801970851,
+                  "lng" : -0.696819880291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Marston",
+               "short_name" : "Long Marston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO26",
+               "short_name" : "YO26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Long Marston, York, North Yorkshire YO26, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.95703899999999,
+               "lng" : -1.234342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.95838798029149,
+                  "lng" : -1.232993019708498
+               },
+               "southwest" : {
+                  "lat" : 53.95569001970849,
+                  "lng" : -1.235690980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Marston",
+               "short_name" : "Long Marston",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stratford-upon-Avon",
+               "short_name" : "Stratford-upon-Avon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV37",
+               "short_name" : "CV37",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Long Marston, Stratford-upon-Avon, Warwickshire CV37, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.134998,
+               "lng" : -1.7575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.13634698029151,
+                  "lng" : -1.756151019708498
+               },
+               "southwest" : {
+                  "lat" : 52.13364901970851,
+                  "lng" : -1.758848980291502
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Merseyside, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7043332,
+                  "lng" : -2.5766262
+               },
+               "southwest" : {
+                  "lat" : 53.2941861,
+                  "lng" : -3.2290447
+               }
+            },
+            "location" : {
+               "lat" : 53.3976041,
+               "lng" : -2.9436643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7043332,
+                  "lng" : -2.5766262
+               },
+               "southwest" : {
+                  "lat" : 53.2941861,
+                  "lng" : -3.2290447
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

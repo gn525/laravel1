@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO15",
+               "short_name" : "PO15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Fareham",
+               "short_name" : "Fareham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fareham, Hampshire PO15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.901881,
+                  "lng" : -1.1858328
+               },
+               "southwest" : {
+                  "lat" : 50.8420587,
+                  "lng" : -1.2673176
+               }
+            },
+            "location" : {
+               "lat" : 50.87050439999999,
+               "lng" : -1.2191283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.901881,
+                  "lng" : -1.1858328
+               },
+               "southwest" : {
+                  "lat" : 50.8420587,
+                  "lng" : -1.2673176
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

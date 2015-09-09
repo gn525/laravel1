@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barmouth",
+               "short_name" : "Barmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barmouth, Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.73631,
+                  "lng" : -4.0338895
+               },
+               "southwest" : {
+                  "lat" : 52.7174714,
+                  "lng" : -4.0710914
+               }
+            },
+            "location" : {
+               "lat" : 52.722873,
+               "lng" : -4.0560919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.73631,
+                  "lng" : -4.0338895
+               },
+               "southwest" : {
+                  "lat" : 52.7174714,
+                  "lng" : -4.0710914
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

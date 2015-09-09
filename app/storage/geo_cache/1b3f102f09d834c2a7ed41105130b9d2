@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "IP1",
+               "short_name" : "IP1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ipswich, Suffolk IP1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1008193,
+                  "lng" : 1.1629447
+               },
+               "southwest" : {
+                  "lat" : 52.0510129,
+                  "lng" : 1.1065498
+               }
+            },
+            "location" : {
+               "lat" : 52.0744043,
+               "lng" : 1.131861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1008193,
+                  "lng" : 1.1629447
+               },
+               "southwest" : {
+                  "lat" : 52.0510129,
+                  "lng" : 1.1065498
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

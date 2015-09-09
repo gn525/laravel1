@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arbroath",
+               "short_name" : "Arbroath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Angus",
+               "short_name" : "Angus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arbroath, Angus, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.5782501,
+                  "lng" : -2.553793
+               },
+               "southwest" : {
+                  "lat" : 56.5484705,
+                  "lng" : -2.6269786
+               }
+            },
+            "location" : {
+               "lat" : 56.559107,
+               "lng" : -2.591543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5782501,
+                  "lng" : -2.553793
+               },
+               "southwest" : {
+                  "lat" : 56.5484705,
+                  "lng" : -2.6269786
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prenton",
+               "short_name" : "Prenton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Birkenhead",
+               "short_name" : "Birkenhead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birkenhead",
+               "short_name" : "Birkenhead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH42",
+               "short_name" : "CH42",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prenton, Birkenhead, Birkenhead, Merseyside CH42, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.372449,
+               "lng" : -3.038364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37910549999999,
+                  "lng" : -3.0223566
+               },
+               "southwest" : {
+                  "lat" : 53.3657915,
+                  "lng" : -3.0543714
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

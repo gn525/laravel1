@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NE8",
+               "short_name" : "NE8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gateshead, Tyne and Wear NE8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9706476,
+                  "lng" : -1.5748845
+               },
+               "southwest" : {
+                  "lat" : 54.9398329,
+                  "lng" : -1.638359
+               }
+            },
+            "location" : {
+               "lat" : 54.9560252,
+               "lng" : -1.6123158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9706476,
+                  "lng" : -1.5748845
+               },
+               "southwest" : {
+                  "lat" : 54.9398329,
+                  "lng" : -1.638359
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE8",
+               "short_name" : "NE8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gateshead, Gateshead, Gateshead, Tyne and Wear NE8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.96134,
+               "lng" : -1.60398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9626889802915,
+                  "lng" : -1.602631019708498
+               },
+               "southwest" : {
+                  "lat" : 54.9599910197085,
+                  "lng" : -1.605328980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

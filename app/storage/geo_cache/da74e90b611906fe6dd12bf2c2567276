@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "BR1",
+               "short_name" : "BR1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London BR1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4352696,
+                  "lng" : 0.0674018
+               },
+               "southwest" : {
+                  "lat" : 51.3897772,
+                  "lng" : -0.0147754
+               }
+            },
+            "location" : {
+               "lat" : 51.4152072,
+               "lng" : 0.0292294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4352696,
+                  "lng" : 0.0674018
+               },
+               "southwest" : {
+                  "lat" : 51.3897772,
+                  "lng" : -0.0147754
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

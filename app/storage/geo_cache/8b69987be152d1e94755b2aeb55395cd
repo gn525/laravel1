@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clydebank",
+               "short_name" : "Clydebank",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Dunbartonshire",
+               "short_name" : "West Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clydebank, West Dunbartonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.93957,
+                  "lng" : -4.373799
+               },
+               "southwest" : {
+                  "lat" : 55.887636,
+                  "lng" : -4.4500468
+               }
+            },
+            "location" : {
+               "lat" : 55.900099,
+               "lng" : -4.404774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.93957,
+                  "lng" : -4.373799
+               },
+               "southwest" : {
+                  "lat" : 55.887636,
+                  "lng" : -4.4500468
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clydebank",
+               "short_name" : "Clydebank",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Clydebank",
+               "short_name" : "Clydebank",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clydebank",
+               "short_name" : "Clydebank",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Dunbartonshire",
+               "short_name" : "West Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G81",
+               "short_name" : "G81",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clydebank, Clydebank, Clydebank, West Dunbartonshire G81, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.90067999999999,
+               "lng" : -4.4044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.90202898029149,
+                  "lng" : -4.403051019708498
+               },
+               "southwest" : {
+                  "lat" : 55.8993310197085,
+                  "lng" : -4.405748980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

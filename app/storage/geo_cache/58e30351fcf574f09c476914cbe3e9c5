@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Littleborough",
+               "short_name" : "Littleborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Littleborough, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6836764,
+                  "lng" : -2.02687
+               },
+               "southwest" : {
+                  "lat" : 53.5924398,
+                  "lng" : -2.1237275
+               }
+            },
+            "location" : {
+               "lat" : 53.646141,
+               "lng" : -2.093367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6836764,
+                  "lng" : -2.02687
+               },
+               "southwest" : {
+                  "lat" : 53.5924398,
+                  "lng" : -2.1237275
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

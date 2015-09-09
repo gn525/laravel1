@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leek Wootton",
+               "short_name" : "Leek Wootton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwick",
+               "short_name" : "Warwick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV35",
+               "short_name" : "CV35",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leek Wootton, Warwick, Warwickshire CV35, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.317642,
+               "lng" : -1.57679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3244622,
+                  "lng" : -1.5607826
+               },
+               "southwest" : {
+                  "lat" : 52.31082079999999,
+                  "lng" : -1.5927974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

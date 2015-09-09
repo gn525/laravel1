@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NE16",
+               "short_name" : "NE16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "NE16, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9665136,
+                  "lng" : -1.6485592
+               },
+               "southwest" : {
+                  "lat" : 54.8866635,
+                  "lng" : -1.7816704
+               }
+            },
+            "location" : {
+               "lat" : 54.9164926,
+               "lng" : -1.6851849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9665136,
+                  "lng" : -1.6485592
+               },
+               "southwest" : {
+                  "lat" : 54.8866635,
+                  "lng" : -1.7816704
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

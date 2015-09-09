@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bush Hill Park",
+               "short_name" : "Bush Hill Park",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EN1",
+               "short_name" : "EN1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bush Hill Park, Enfield, Enfield, Greater London EN1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.644861,
+               "lng" : -0.072226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6517844,
+                  "lng" : -0.05621860000000001
+               },
+               "southwest" : {
+                  "lat" : 51.6379366,
+                  "lng" : -0.08823339999999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

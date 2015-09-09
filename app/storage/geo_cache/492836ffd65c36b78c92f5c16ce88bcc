@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SO30",
+               "short_name" : "SO30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "SO30, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9492233,
+                  "lng" : -1.2363155
+               },
+               "southwest" : {
+                  "lat" : 50.8952864,
+                  "lng" : -1.351391
+               }
+            },
+            "location" : {
+               "lat" : 50.9319461,
+               "lng" : -1.3161764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9492233,
+                  "lng" : -1.2363155
+               },
+               "southwest" : {
+                  "lat" : 50.8952864,
+                  "lng" : -1.351391
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

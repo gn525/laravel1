@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdovey",
+               "short_name" : "Aberdovey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aberdovey, Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5535466,
+                  "lng" : -4.0150777
+               },
+               "southwest" : {
+                  "lat" : 52.5422644,
+                  "lng" : -4.0662359
+               }
+            },
+            "location" : {
+               "lat" : 52.543963,
+               "lng" : -4.046093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5535466,
+                  "lng" : -4.0150777
+               },
+               "southwest" : {
+                  "lat" : 52.5422644,
+                  "lng" : -4.0662359
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

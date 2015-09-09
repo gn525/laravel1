@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Cornforth",
+               "short_name" : "West Cornforth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferryhill",
+               "short_name" : "Ferryhill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL17",
+               "short_name" : "DL17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Cornforth, Ferryhill, County Durham DL17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7005713,
+                  "lng" : -1.5005167
+               },
+               "southwest" : {
+                  "lat" : 54.694796,
+                  "lng" : -1.5210459
+               }
+            },
+            "location" : {
+               "lat" : 54.7,
+               "lng" : -1.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7005713,
+                  "lng" : -1.5005167
+               },
+               "southwest" : {
+                  "lat" : 54.694796,
+                  "lng" : -1.5210459
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

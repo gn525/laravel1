@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Willenhall",
+               "short_name" : "Willenhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Willenhall, West Midlands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6205272,
+                  "lng" : -2.0153813
+               },
+               "southwest" : {
+                  "lat" : 52.5724206,
+                  "lng" : -2.0928019
+               }
+            },
+            "location" : {
+               "lat" : 52.585017,
+               "lng" : -2.057635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6205272,
+                  "lng" : -2.0153813
+               },
+               "southwest" : {
+                  "lat" : 52.5724206,
+                  "lng" : -2.0928019
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

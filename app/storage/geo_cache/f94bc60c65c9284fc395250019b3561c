@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TQ2",
+               "short_name" : "TQ2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Torquay",
+               "short_name" : "Torquay",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torquay TQ2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5034636,
+                  "lng" : -3.5193066
+               },
+               "southwest" : {
+                  "lat" : 50.4496809,
+                  "lng" : -3.582739299999999
+               }
+            },
+            "location" : {
+               "lat" : 50.4747772,
+               "lng" : -3.5597097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5034636,
+                  "lng" : -3.5193066
+               },
+               "southwest" : {
+                  "lat" : 50.4496809,
+                  "lng" : -3.582739299999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

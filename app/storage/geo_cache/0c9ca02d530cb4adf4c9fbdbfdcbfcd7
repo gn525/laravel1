@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canvey Island",
+               "short_name" : "Canvey Island",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canvey Island, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5359139,
+                  "lng" : 0.6358579
+               },
+               "southwest" : {
+                  "lat" : 51.50849789999999,
+                  "lng" : 0.5468889
+               }
+            },
+            "location" : {
+               "lat" : 51.517083,
+               "lng" : 0.578411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5359139,
+                  "lng" : 0.6358579
+               },
+               "southwest" : {
+                  "lat" : 51.50849789999999,
+                  "lng" : 0.5468889
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

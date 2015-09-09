@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Broadway, Worcestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0726162,
+                  "lng" : -1.8250329
+               },
+               "southwest" : {
+                  "lat" : 52.006773,
+                  "lng" : -1.8999035
+               }
+            },
+            "location" : {
+               "lat" : 52.035467,
+               "lng" : -1.854492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0726162,
+                  "lng" : -1.8250329
+               },
+               "southwest" : {
+                  "lat" : 52.006773,
+                  "lng" : -1.8999035
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilminster",
+               "short_name" : "Ilminster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA19",
+               "short_name" : "TA19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway, Ilminster, Somerset TA19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.93418,
+               "lng" : -2.968383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.93552898029151,
+                  "lng" : -2.967034019708498
+               },
+               "southwest" : {
+                  "lat" : 50.93283101970851,
+                  "lng" : -2.969731980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haverfordwest",
+               "short_name" : "Haverfordwest",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA62",
+               "short_name" : "SA62",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway, Haverfordwest, Pembrokeshire SA62, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.78107499999999,
+               "lng" : -5.077684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.78242398029149,
+                  "lng" : -5.076335019708497
+               },
+               "southwest" : {
+                  "lat" : 51.77972601970849,
+                  "lng" : -5.079032980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Laugharne",
+               "short_name" : "Laugharne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carmarthen",
+               "short_name" : "Carmarthen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA33",
+               "short_name" : "SA33",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway, Laugharne, Carmarthen SA33, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.764229,
+               "lng" : -4.471706999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7655779802915,
+                  "lng" : -4.470358019708498
+               },
+               "southwest" : {
+                  "lat" : 51.7628800197085,
+                  "lng" : -4.473055980291502
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Market Drayton",
+               "short_name" : "Market Drayton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Market Drayton",
+               "short_name" : "Market Drayton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TF9",
+               "short_name" : "TF9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Market Drayton, Market Drayton, Shropshire TF9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9154524,
+                  "lng" : -2.4669004
+               },
+               "southwest" : {
+                  "lat" : 52.8932103,
+                  "lng" : -2.5197919
+               }
+            },
+            "location" : {
+               "lat" : 52.903552,
+               "lng" : -2.483485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9154524,
+                  "lng" : -2.4669004
+               },
+               "southwest" : {
+                  "lat" : 52.8932103,
+                  "lng" : -2.5197919
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

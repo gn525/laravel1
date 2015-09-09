@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NE11",
+               "short_name" : "NE11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Gateshead",
+               "short_name" : "Gateshead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gateshead, Tyne and Wear NE11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9646307,
+                  "lng" : -1.5943633
+               },
+               "southwest" : {
+                  "lat" : 54.8919546,
+                  "lng" : -1.6836364
+               }
+            },
+            "location" : {
+               "lat" : 54.917237,
+               "lng" : -1.6305044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9646307,
+                  "lng" : -1.5943633
+               },
+               "southwest" : {
+                  "lat" : 54.8919546,
+                  "lng" : -1.6836364
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

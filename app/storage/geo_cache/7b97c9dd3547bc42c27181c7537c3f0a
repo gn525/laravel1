@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S70",
+               "short_name" : "S70",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Barnsley",
+               "short_name" : "Barnsley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barnsley, South Yorkshire S70, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.55962479999999,
+                  "lng" : -1.4207426
+               },
+               "southwest" : {
+                  "lat" : 53.4960687,
+                  "lng" : -1.5163739
+               }
+            },
+            "location" : {
+               "lat" : 53.5275621,
+               "lng" : -1.4648072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.55962479999999,
+                  "lng" : -1.4207426
+               },
+               "southwest" : {
+                  "lat" : 53.4960687,
+                  "lng" : -1.5163739
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

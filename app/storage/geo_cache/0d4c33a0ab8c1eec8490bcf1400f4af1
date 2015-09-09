@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soothill",
+               "short_name" : "Soothill",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Batley",
+               "short_name" : "Batley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Batley",
+               "short_name" : "Batley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WF17",
+               "short_name" : "WF17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Soothill, Batley, Batley, West Yorkshire WF17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7125419,
+               "lng" : -1.6176384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7191451,
+                  "lng" : -1.601631
+               },
+               "southwest" : {
+                  "lat" : 53.7059377,
+                  "lng" : -1.6336458
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

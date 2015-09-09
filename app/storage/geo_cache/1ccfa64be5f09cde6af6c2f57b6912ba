@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seaham",
+               "short_name" : "Seaham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seaham, County Durham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8606495,
+                  "lng" : -1.3197085
+               },
+               "southwest" : {
+                  "lat" : 54.8174886,
+                  "lng" : -1.3898793
+               }
+            },
+            "location" : {
+               "lat" : 54.840346,
+               "lng" : -1.337517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8606495,
+                  "lng" : -1.3197085
+               },
+               "southwest" : {
+                  "lat" : 54.8174886,
+                  "lng" : -1.3898793
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abertillery",
+               "short_name" : "Abertillery",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abertillery",
+               "short_name" : "Abertillery",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Blaenau Gwent",
+               "short_name" : "Blaenau Gwent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP13",
+               "short_name" : "NP13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Abertillery, Abertillery, Blaenau Gwent NP13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7480091,
+                  "lng" : -3.1234032
+               },
+               "southwest" : {
+                  "lat" : 51.7248562,
+                  "lng" : -3.1574907
+               }
+            },
+            "location" : {
+               "lat" : 51.732161,
+               "lng" : -3.135369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7480091,
+                  "lng" : -3.1234032
+               },
+               "southwest" : {
+                  "lat" : 51.7248562,
+                  "lng" : -3.1574907
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

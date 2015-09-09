@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colwyn Bay",
+               "short_name" : "Colwyn Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conwy",
+               "short_name" : "Conwy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colwyn Bay, Conwy, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.303075,
+                  "lng" : -3.7094751
+               },
+               "southwest" : {
+                  "lat" : 53.279414,
+                  "lng" : -3.7608108
+               }
+            },
+            "location" : {
+               "lat" : 53.29318199999999,
+               "lng" : -3.72764
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.303075,
+                  "lng" : -3.7094751
+               },
+               "southwest" : {
+                  "lat" : 53.279414,
+                  "lng" : -3.7608108
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

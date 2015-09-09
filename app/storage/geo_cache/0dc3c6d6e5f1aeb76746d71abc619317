@@ -1,0 +1,177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wallop Drive",
+               "short_name" : "Wallop Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stockbridge",
+               "short_name" : "Stockbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO20 8DS",
+               "short_name" : "SO20 8DS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wallop Drive, Stockbridge, Hampshire SO20 8DS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.123312,
+                  "lng" : -1.5826583
+               },
+               "southwest" : {
+                  "lat" : 51.1126929,
+                  "lng" : -1.6010686
+               }
+            },
+            "location" : {
+               "lat" : 51.1174153,
+               "lng" : -1.5928944
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.123312,
+                  "lng" : -1.5826583
+               },
+               "southwest" : {
+                  "lat" : 51.1126929,
+                  "lng" : -1.6010686
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wallop Road",
+               "short_name" : "Wallop Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wallop Road, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1685537,
+                  "lng" : -1.6041336
+               },
+               "southwest" : {
+                  "lat" : 51.1475083,
+                  "lng" : -1.6201137
+               }
+            },
+            "location" : {
+               "lat" : 51.1583582,
+               "lng" : -1.6110756
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1685537,
+                  "lng" : -1.6041336
+               },
+               "southwest" : {
+                  "lat" : 51.1475083,
+                  "lng" : -1.6201137
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wallop Drive",
+               "short_name" : "Wallop Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG22",
+               "short_name" : "RG22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wallop Drive, Basingstoke, Basingstoke, Hampshire RG22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.23549740000001,
+                  "lng" : -1.1384742
+               },
+               "southwest" : {
+                  "lat" : 51.23356930000001,
+                  "lng" : -1.1409928
+               }
+            },
+            "location" : {
+               "lat" : 51.234596,
+               "lng" : -1.140361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.23588233029151,
+                  "lng" : -1.138384519708498
+               },
+               "southwest" : {
+                  "lat" : 51.23318436970851,
+                  "lng" : -1.141082480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

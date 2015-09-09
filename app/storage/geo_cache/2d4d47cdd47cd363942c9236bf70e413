@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CV5",
+               "short_name" : "CV5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coventry, West Midlands CV5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.45437709999999,
+                  "lng" : -1.509918
+               },
+               "southwest" : {
+                  "lat" : 52.3891076,
+                  "lng" : -1.6183248
+               }
+            },
+            "location" : {
+               "lat" : 52.4252492,
+               "lng" : -1.5883606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.45437709999999,
+                  "lng" : -1.509918
+               },
+               "southwest" : {
+                  "lat" : 52.3891076,
+                  "lng" : -1.6183248
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

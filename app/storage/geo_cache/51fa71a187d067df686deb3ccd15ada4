@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tring",
+               "short_name" : "Tring",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tring",
+               "short_name" : "Tring",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP23",
+               "short_name" : "HP23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tring, Tring, Hertfordshire HP23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8105237,
+                  "lng" : -0.6411643
+               },
+               "southwest" : {
+                  "lat" : 51.78196759999999,
+                  "lng" : -0.6939314999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.79607799999999,
+               "lng" : -0.655879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8105237,
+                  "lng" : -0.6411643
+               },
+               "southwest" : {
+                  "lat" : 51.78196759999999,
+                  "lng" : -0.6939314999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

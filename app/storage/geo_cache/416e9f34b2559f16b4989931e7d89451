@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indian Queens",
+               "short_name" : "Indian Queens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Columb",
+               "short_name" : "Saint Columb",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TR9",
+               "short_name" : "TR9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indian Queens, Saint Columb, Cornwall TR9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.3939809,
+               "lng" : -4.931951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4010936,
+                  "lng" : -4.915943599999999
+               },
+               "southwest" : {
+                  "lat" : 50.3868671,
+                  "lng" : -4.9479584
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

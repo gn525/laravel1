@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leiston",
+               "short_name" : "Leiston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leiston",
+               "short_name" : "Leiston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP16",
+               "short_name" : "IP16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leiston, Leiston, Suffolk IP16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2189069,
+                  "lng" : 1.5952955
+               },
+               "southwest" : {
+                  "lat" : 52.19843119999999,
+                  "lng" : 1.5545926
+               }
+            },
+            "location" : {
+               "lat" : 52.209044,
+               "lng" : 1.57408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2189069,
+                  "lng" : 1.5952955
+               },
+               "southwest" : {
+                  "lat" : 52.19843119999999,
+                  "lng" : 1.5545926
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

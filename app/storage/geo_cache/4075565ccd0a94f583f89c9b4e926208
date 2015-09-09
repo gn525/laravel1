@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wickersley",
+               "short_name" : "Wickersley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rotherham",
+               "short_name" : "Rotherham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wickersley, Rotherham, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4286002,
+                  "lng" : -1.2552317
+               },
+               "southwest" : {
+                  "lat" : 53.40136200000001,
+                  "lng" : -1.3068084
+               }
+            },
+            "location" : {
+               "lat" : 53.423049,
+               "lng" : -1.275728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4286002,
+                  "lng" : -1.2552317
+               },
+               "southwest" : {
+                  "lat" : 53.40136200000001,
+                  "lng" : -1.3068084
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

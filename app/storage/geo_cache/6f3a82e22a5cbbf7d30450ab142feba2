@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Renfrewshire",
+               "short_name" : "East Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8231525,
+                  "lng" : -4.2187585
+               },
+               "southwest" : {
+                  "lat" : 55.67579569999999,
+                  "lng" : -4.5509528
+               }
+            },
+            "location" : {
+               "lat" : 55.74765,
+               "lng" : -4.351420399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8231525,
+                  "lng" : -4.2187585
+               },
+               "southwest" : {
+                  "lat" : 55.67579569999999,
+                  "lng" : -4.5509528
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

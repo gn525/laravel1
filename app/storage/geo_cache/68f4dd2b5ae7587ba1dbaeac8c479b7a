@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunblane",
+               "short_name" : "Dunblane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunblane",
+               "short_name" : "Dunblane",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Stirling",
+               "short_name" : "Stirling",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK15",
+               "short_name" : "FK15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunblane, Dunblane, Stirling FK15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2045723,
+                  "lng" : -3.93584
+               },
+               "southwest" : {
+                  "lat" : 56.178274,
+                  "lng" : -3.9839556
+               }
+            },
+            "location" : {
+               "lat" : 56.183877,
+               "lng" : -3.967449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2045723,
+                  "lng" : -3.93584
+               },
+               "southwest" : {
+                  "lat" : 56.178274,
+                  "lng" : -3.9839556
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

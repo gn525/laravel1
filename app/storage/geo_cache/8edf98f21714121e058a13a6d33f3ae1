@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DN36",
+               "short_name" : "DN36",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Grimsby",
+               "short_name" : "Grimsby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grimsby DN36, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5731846,
+                  "lng" : 0.0821317
+               },
+               "southwest" : {
+                  "lat" : 53.430114,
+                  "lng" : -0.1242359
+               }
+            },
+            "location" : {
+               "lat" : 53.4986559,
+               "lng" : -0.0252103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.549391,
+                  "lng" : 0.0821317
+               },
+               "southwest" : {
+                  "lat" : 53.430114,
+                  "lng" : -0.1242359
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

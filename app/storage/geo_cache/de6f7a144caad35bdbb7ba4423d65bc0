@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SP1",
+               "short_name" : "SP1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salisbury, Wiltshire SP1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.10192860000001,
+                  "lng" : -1.7640282
+               },
+               "southwest" : {
+                  "lat" : 51.0597777,
+                  "lng" : -1.8179968
+               }
+            },
+            "location" : {
+               "lat" : 51.0770648,
+               "lng" : -1.782124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.10192860000001,
+                  "lng" : -1.7640282
+               },
+               "southwest" : {
+                  "lat" : 51.0597777,
+                  "lng" : -1.8179968
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

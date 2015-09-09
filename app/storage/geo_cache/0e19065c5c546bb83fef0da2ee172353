@@ -1,0 +1,177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elgin Saint Industrial Estate",
+               "short_name" : "Elgin St Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Dunfermline",
+               "short_name" : "Dunfermline",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunfermline",
+               "short_name" : "Dunfermline",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY12 7SL",
+               "short_name" : "KY12 7SL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elgin Saint Industrial Estate, Dunfermline, Fife KY12 7SL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.0627416,
+               "lng" : -3.4595192
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0640905802915,
+                  "lng" : -3.458170219708498
+               },
+               "southwest" : {
+                  "lat" : 56.0613926197085,
+                  "lng" : -3.460868180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elgin Industrial Estate Dickson Court",
+               "short_name" : "Elgin Industrial Estate Dickson Court",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Dunfermline",
+               "short_name" : "Dunfermline",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunfermline",
+               "short_name" : "Dunfermline",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY12 7SG",
+               "short_name" : "KY12 7SG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elgin Industrial Estate Dickson Court, Dunfermline, Fife KY12 7SG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.0628205,
+               "lng" : -3.458173
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0641694802915,
+                  "lng" : -3.456824019708499
+               },
+               "southwest" : {
+                  "lat" : 56.0614715197085,
+                  "lng" : -3.459521980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elgin Street",
+               "short_name" : "Elgin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN5",
+               "short_name" : "NN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elgin Street, Northampton, Northampton, Northamptonshire NN5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2425234,
+                  "lng" : -0.9188079
+               },
+               "southwest" : {
+                  "lat" : 52.2417357,
+                  "lng" : -0.9208183000000001
+               }
+            },
+            "location" : {
+               "lat" : 52.2422568,
+               "lng" : -0.9194269999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2434785302915,
+                  "lng" : -0.918464119708498
+               },
+               "southwest" : {
+                  "lat" : 52.2407805697085,
+                  "lng" : -0.921162080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

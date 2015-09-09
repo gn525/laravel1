@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EH12",
+               "short_name" : "EH12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh, City of Edinburgh EH12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.96548319999999,
+                  "lng" : -3.2149721
+               },
+               "southwest" : {
+                  "lat" : 55.9171211,
+                  "lng" : -3.393554
+               }
+            },
+            "location" : {
+               "lat" : 55.9414874,
+               "lng" : -3.3148403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.96548319999999,
+                  "lng" : -3.2149721
+               },
+               "southwest" : {
+                  "lat" : 55.9171211,
+                  "lng" : -3.393554
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

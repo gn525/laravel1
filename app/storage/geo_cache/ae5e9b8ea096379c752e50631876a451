@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Llandudno",
+               "short_name" : "Llandudno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conwy",
+               "short_name" : "Conwy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Llandudno, Conwy, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3313205,
+                  "lng" : -3.7959712
+               },
+               "southwest" : {
+                  "lat" : 53.3074327,
+                  "lng" : -3.8519816
+               }
+            },
+            "location" : {
+               "lat" : 53.324061,
+               "lng" : -3.827609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3313205,
+                  "lng" : -3.7959712
+               },
+               "southwest" : {
+                  "lat" : 53.3074327,
+                  "lng" : -3.8519816
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

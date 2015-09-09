@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porthmadog",
+               "short_name" : "Porthmadog",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porthmadog, Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9371907,
+                  "lng" : -4.1235162
+               },
+               "southwest" : {
+                  "lat" : 52.91736119999999,
+                  "lng" : -4.1469373
+               }
+            },
+            "location" : {
+               "lat" : 52.927842,
+               "lng" : -4.133384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9371907,
+                  "lng" : -4.1235162
+               },
+               "southwest" : {
+                  "lat" : 52.91736119999999,
+                  "lng" : -4.1469373
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birmingham Business Park",
+               "short_name" : "Birmingham Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2410",
+               "short_name" : "2410",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Crescent",
+               "short_name" : "The Crescent",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B37 7YE",
+               "short_name" : "B37 7YE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Birmingham Business Park, 2410 The Crescent, Birmingham, West Midlands B37 7YE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.4707225,
+               "lng" : -1.7172876
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4720714802915,
+                  "lng" : -1.715938619708498
+               },
+               "southwest" : {
+                  "lat" : 52.4693735197085,
+                  "lng" : -1.718636580291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

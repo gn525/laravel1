@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wallbridge",
+               "short_name" : "Wallbridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Frome",
+               "short_name" : "Frome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frome",
+               "short_name" : "Frome",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA11 1QY",
+               "short_name" : "BA11 1QY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wallbridge, Frome, Frome, Somerset BA11 1QY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2289356,
+                  "lng" : -2.3067424
+               },
+               "southwest" : {
+                  "lat" : 51.2277888,
+                  "lng" : -2.3116693
+               }
+            },
+            "location" : {
+               "lat" : 51.2284826,
+               "lng" : -2.3093594
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2297111802915,
+                  "lng" : -2.3067424
+               },
+               "southwest" : {
+                  "lat" : 51.2270132197085,
+                  "lng" : -2.3116693
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wallbridge",
+               "short_name" : "Wallbridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stroud",
+               "short_name" : "Stroud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stroud",
+               "short_name" : "Stroud",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL5",
+               "short_name" : "GL5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wallbridge, Stroud, Gloucestershire GL5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.74455640000001,
+                  "lng" : -2.2179536
+               },
+               "southwest" : {
+                  "lat" : 51.7426267,
+                  "lng" : -2.2226927
+               }
+            },
+            "location" : {
+               "lat" : 51.74427499999999,
+               "lng" : -2.2212137
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7449405302915,
+                  "lng" : -2.2179536
+               },
+               "southwest" : {
+                  "lat" : 51.7422425697085,
+                  "lng" : -2.2226927
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

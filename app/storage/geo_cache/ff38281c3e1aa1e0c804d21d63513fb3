@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chalfont Grove",
+               "short_name" : "Chalfont Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gerrards Cross",
+               "short_name" : "Gerrards Cross",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL9",
+               "short_name" : "SL9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chalfont Grove, Gerrards Cross, Buckinghamshire SL9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6146903,
+                  "lng" : -0.5713659
+               },
+               "southwest" : {
+                  "lat" : 51.6132117,
+                  "lng" : -0.5765965
+               }
+            },
+            "location" : {
+               "lat" : 51.61410660000001,
+               "lng" : -0.5736593999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6152999802915,
+                  "lng" : -0.5713659
+               },
+               "southwest" : {
+                  "lat" : 51.6126020197085,
+                  "lng" : -0.5765965
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chalfont Grove",
+               "short_name" : "Chalfont Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunderland",
+               "short_name" : "Sunderland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SR4 9NW",
+               "short_name" : "SR4 9NW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chalfont Grove, Sunderland, Tyne and Wear SR4 9NW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8872134,
+                  "lng" : -1.4546423
+               },
+               "southwest" : {
+                  "lat" : 54.88673060000001,
+                  "lng" : -1.4562716
+               }
+            },
+            "location" : {
+               "lat" : 54.8871362,
+               "lng" : -1.4549887
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8883209802915,
+                  "lng" : -1.454107969708498
+               },
+               "southwest" : {
+                  "lat" : 54.88562301970851,
+                  "lng" : -1.456805930291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

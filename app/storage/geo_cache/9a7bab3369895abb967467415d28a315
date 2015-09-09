@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stanstead Abbotts",
+               "short_name" : "Stanstead Abbotts",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ware",
+               "short_name" : "Ware",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG12",
+               "short_name" : "SG12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stanstead Abbotts, Ware, Hertfordshire SG12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7952118,
+                  "lng" : 0.0258011
+               },
+               "southwest" : {
+                  "lat" : 51.7801736,
+                  "lng" : 0.0011627
+               }
+            },
+            "location" : {
+               "lat" : 51.788598,
+               "lng" : 0.009547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7952118,
+                  "lng" : 0.0258011
+               },
+               "southwest" : {
+                  "lat" : 51.7801736,
+                  "lng" : 0.0011627
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

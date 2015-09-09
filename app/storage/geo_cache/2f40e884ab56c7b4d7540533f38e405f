@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Retford",
+               "short_name" : "Retford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Retford",
+               "short_name" : "Retford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN22",
+               "short_name" : "DN22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Retford, Retford, Nottinghamshire DN22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3410127,
+                  "lng" : -0.9145428999999998
+               },
+               "southwest" : {
+                  "lat" : 53.3046893,
+                  "lng" : -0.9723763
+               }
+            },
+            "location" : {
+               "lat" : 53.32135599999999,
+               "lng" : -0.9455030000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3410127,
+                  "lng" : -0.9145428999999998
+               },
+               "southwest" : {
+                  "lat" : 53.3046893,
+                  "lng" : -0.9723763
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

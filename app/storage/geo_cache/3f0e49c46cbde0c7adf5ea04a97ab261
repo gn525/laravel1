@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malaysia House",
+               "short_name" : "Malaysia House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Trafalgar Square",
+               "short_name" : "Trafalgar Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. James's",
+               "short_name" : "St. James's",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "City of London",
+               "short_name" : "City of London",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC2N 5DU",
+               "short_name" : "WC2N 5DU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malaysia House, 57 Trafalgar Square, St. James's, London WC2N 5DU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5073194,
+               "lng" : -0.1282423
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5086683802915,
+                  "lng" : -0.126893319708498
+               },
+               "southwest" : {
+                  "lat" : 51.5059704197085,
+                  "lng" : -0.129591280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

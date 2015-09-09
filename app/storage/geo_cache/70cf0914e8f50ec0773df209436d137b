@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kelowna House",
+               "short_name" : "Kelowna House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bonnar Road",
+               "short_name" : "Bonnar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Selsey",
+               "short_name" : "Selsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chichester",
+               "short_name" : "Chichester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO20 9AU",
+               "short_name" : "PO20 9AU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kelowna House, 35 Bonnar Road, Selsey, Chichester, West Sussex PO20 9AU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.7272119,
+               "lng" : -0.7969835
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7285608802915,
+                  "lng" : -0.795634519708498
+               },
+               "southwest" : {
+                  "lat" : 50.7258629197085,
+                  "lng" : -0.7983324802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

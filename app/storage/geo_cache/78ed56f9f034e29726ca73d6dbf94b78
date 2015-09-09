@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trearddur Bay",
+               "short_name" : "Trearddur Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Anglesey",
+               "short_name" : "Isle of Anglesey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trearddur Bay, Isle of Anglesey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2904112,
+                  "lng" : -4.6032176
+               },
+               "southwest" : {
+                  "lat" : 53.26707949999999,
+                  "lng" : -4.6369284
+               }
+            },
+            "location" : {
+               "lat" : 53.2821508,
+               "lng" : -4.6172413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2904112,
+                  "lng" : -4.6032176
+               },
+               "southwest" : {
+                  "lat" : 53.26707949999999,
+                  "lng" : -4.6369284
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

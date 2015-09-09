@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Downham Market",
+               "short_name" : "Downham Market",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE38",
+               "short_name" : "PE38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denver, Downham Market, Norfolk PE38, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.590895,
+               "lng" : 0.385337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.597673,
+                  "lng" : 0.4013444
+               },
+               "southwest" : {
+                  "lat" : 52.58411599999999,
+                  "lng" : 0.3693296
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

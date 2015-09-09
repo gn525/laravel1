@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Welshpool",
+               "short_name" : "Welshpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Welshpool",
+               "short_name" : "Welshpool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY21",
+               "short_name" : "SY21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Welshpool, Welshpool, Powys SY21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7142777,
+                  "lng" : -3.0934021
+               },
+               "southwest" : {
+                  "lat" : 52.61103019999999,
+                  "lng" : -3.2147661
+               }
+            },
+            "location" : {
+               "lat" : 52.660348,
+               "lng" : -3.146407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7142777,
+                  "lng" : -3.0934021
+               },
+               "southwest" : {
+                  "lat" : 52.61103019999999,
+                  "lng" : -3.2147661
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

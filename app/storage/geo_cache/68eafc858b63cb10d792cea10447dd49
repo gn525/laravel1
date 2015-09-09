@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisburn",
+               "short_name" : "Lisburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisburn",
+               "short_name" : "Lisburn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lisburn",
+               "short_name" : "Lisburn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT27",
+               "short_name" : "BT27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lisburn, Lisburn, Lisburn BT27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.50971999999999,
+               "lng" : -6.037400000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5161974,
+                  "lng" : -6.0213926
+               },
+               "southwest" : {
+                  "lat" : 54.5032416,
+                  "lng" : -6.053407399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

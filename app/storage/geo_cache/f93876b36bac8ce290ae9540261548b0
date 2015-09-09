@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RM5",
+               "short_name" : "RM5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London RM5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.613939,
+                  "lng" : 0.1794823
+               },
+               "southwest" : {
+                  "lat" : 51.5685581,
+                  "lng" : 0.1378027
+               }
+            },
+            "location" : {
+               "lat" : 51.60432,
+               "lng" : 0.1591254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.613939,
+                  "lng" : 0.1794823
+               },
+               "southwest" : {
+                  "lat" : 51.5846834,
+                  "lng" : 0.1378027
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

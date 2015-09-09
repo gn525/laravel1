@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "YO10",
+               "short_name" : "YO10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "York, York YO10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9614956,
+                  "lng" : -0.9942144000000001
+               },
+               "southwest" : {
+                  "lat" : 53.9145263,
+                  "lng" : -1.0946455
+               }
+            },
+            "location" : {
+               "lat" : 53.94421500000001,
+               "lng" : -1.0413293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9614956,
+                  "lng" : -0.9942144000000001
+               },
+               "southwest" : {
+                  "lat" : 53.9145263,
+                  "lng" : -1.0946455
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

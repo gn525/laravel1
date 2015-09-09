@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gerrards Cross",
+               "short_name" : "Gerrards Cross",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gerrards Cross, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6021055,
+                  "lng" : -0.5245582
+               },
+               "southwest" : {
+                  "lat" : 51.56728649999999,
+                  "lng" : -0.6066026999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.582362,
+               "lng" : -0.5575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6021055,
+                  "lng" : -0.5245582
+               },
+               "southwest" : {
+                  "lat" : 51.56728649999999,
+                  "lng" : -0.6066026999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

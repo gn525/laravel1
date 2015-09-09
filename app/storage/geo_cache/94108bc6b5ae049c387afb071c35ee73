@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clarkston",
+               "short_name" : "Clarkston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Renfrewshire",
+               "short_name" : "East Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clarkston, Glasgow, East Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7998848,
+                  "lng" : -4.2433884
+               },
+               "southwest" : {
+                  "lat" : 55.7716013,
+                  "lng" : -4.303529999999999
+               }
+            },
+            "location" : {
+               "lat" : 55.784536,
+               "lng" : -4.275812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7998848,
+                  "lng" : -4.2433884
+               },
+               "southwest" : {
+                  "lat" : 55.7716013,
+                  "lng" : -4.303529999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

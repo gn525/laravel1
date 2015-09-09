@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bucknall",
+               "short_name" : "Bucknall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Woodhall Spa",
+               "short_name" : "Woodhall Spa",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN10",
+               "short_name" : "LN10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bucknall, Woodhall Spa, Lincolnshire LN10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.204187,
+               "lng" : -0.250478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2108697,
+                  "lng" : -0.2344706
+               },
+               "southwest" : {
+                  "lat" : 53.1975032,
+                  "lng" : -0.2664854
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

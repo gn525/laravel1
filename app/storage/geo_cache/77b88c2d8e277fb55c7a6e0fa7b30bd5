@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pwllheli",
+               "short_name" : "Pwllheli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwynedd",
+               "short_name" : "Gwynd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pwllheli, Gwynedd, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8995308,
+                  "lng" : -4.3995986
+               },
+               "southwest" : {
+                  "lat" : 52.87722520000001,
+                  "lng" : -4.4399682
+               }
+            },
+            "location" : {
+               "lat" : 52.888816,
+               "lng" : -4.4176339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8995308,
+                  "lng" : -4.3995986
+               },
+               "southwest" : {
+                  "lat" : 52.87722520000001,
+                  "lng" : -4.4399682
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

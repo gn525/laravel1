@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kineton",
+               "short_name" : "Kineton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwick",
+               "short_name" : "Warwick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV35",
+               "short_name" : "CV35",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kineton, Warwick, Warwickshire CV35, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1719216,
+                  "lng" : -1.4752371
+               },
+               "southwest" : {
+                  "lat" : 52.1293312,
+                  "lng" : -1.5397802
+               }
+            },
+            "location" : {
+               "lat" : 52.155786,
+               "lng" : -1.510704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1719216,
+                  "lng" : -1.4752371
+               },
+               "southwest" : {
+                  "lat" : 52.1293312,
+                  "lng" : -1.5397802
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

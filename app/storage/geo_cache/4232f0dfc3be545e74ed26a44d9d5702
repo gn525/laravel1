@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Severn Bridge Industrial Estate",
+               "short_name" : "Severn Bridge Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Portskewett",
+               "short_name" : "Portskewett",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caldicot",
+               "short_name" : "Caldicot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Monmouthshire",
+               "short_name" : "Monmouthshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP26 5PW",
+               "short_name" : "NP26 5PW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Severn Bridge Industrial Estate, Portskewett, Caldicot, Monmouthshire NP26 5PW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5872916,
+               "lng" : -2.7375064
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5886405802915,
+                  "lng" : -2.736157419708498
+               },
+               "southwest" : {
+                  "lat" : 51.5859426197085,
+                  "lng" : -2.738855380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

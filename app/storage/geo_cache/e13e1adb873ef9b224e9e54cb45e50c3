@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Blatchington",
+               "short_name" : "East Blatchington",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seaford",
+               "short_name" : "Seaford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seaford",
+               "short_name" : "Seaford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN25",
+               "short_name" : "BN25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Blatchington, Seaford, Seaford, East Sussex BN25, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.779114,
+               "lng" : 0.099898
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7861688,
+                  "lng" : 0.1159054
+               },
+               "southwest" : {
+                  "lat" : 50.7720581,
+                  "lng" : 0.0838906
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

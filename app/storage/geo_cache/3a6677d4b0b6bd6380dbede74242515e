@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carr Gate, Potovens Lane Wakefield 41 Business Park",
+               "short_name" : "Carr Gate, Potovens Lane Wakefield 41 Business Park",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Wakefield",
+               "short_name" : "Wakefield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WF2",
+               "short_name" : "WF2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carr Gate, Potovens Lane Wakefield 41 Business Park, Wakefield, West Yorkshire WF2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.70880099999999,
+               "lng" : -1.516872
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7101499802915,
+                  "lng" : -1.515523019708498
+               },
+               "southwest" : {
+                  "lat" : 53.7074520197085,
+                  "lng" : -1.518220980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

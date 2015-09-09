@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B96",
+               "short_name" : "B96",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Redditch",
+               "short_name" : "Redditch",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redditch B96, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.312994,
+                  "lng" : -1.8922482
+               },
+               "southwest" : {
+                  "lat" : 52.2203922,
+                  "lng" : -2.0506938
+               }
+            },
+            "location" : {
+               "lat" : 52.2490794,
+               "lng" : -1.9775254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2705672,
+                  "lng" : -1.8922482
+               },
+               "southwest" : {
+                  "lat" : 52.2203922,
+                  "lng" : -2.0506938
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

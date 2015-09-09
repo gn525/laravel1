@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ormskirk",
+               "short_name" : "Ormskirk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ormskirk",
+               "short_name" : "Ormskirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ormskirk, Ormskirk, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5908113,
+                  "lng" : -2.8399394
+               },
+               "southwest" : {
+                  "lat" : 53.5478204,
+                  "lng" : -2.9107654
+               }
+            },
+            "location" : {
+               "lat" : 53.568935,
+               "lng" : -2.885057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5908113,
+                  "lng" : -2.8399394
+               },
+               "southwest" : {
+                  "lat" : 53.5478204,
+                  "lng" : -2.9107654
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

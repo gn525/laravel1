@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Radway Green",
+               "short_name" : "Radway Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crewe",
+               "short_name" : "Crewe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CW2",
+               "short_name" : "CW2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Radway Green, Crewe, Cheshire East CW2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.08598199999999,
+               "lng" : -2.3355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0926831,
+                  "lng" : -2.3194926
+               },
+               "southwest" : {
+                  "lat" : 53.07927979999999,
+                  "lng" : -2.3515074
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

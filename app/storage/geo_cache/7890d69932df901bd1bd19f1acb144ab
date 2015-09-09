@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olympic Park",
+               "short_name" : "Olympic Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Low Moor",
+               "short_name" : "Low Moor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD12 0LP",
+               "short_name" : "BD12 0LP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Olympic Park, Low Moor, Bradford, West Yorkshire BD12 0LP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7494123,
+                  "lng" : -1.7575232
+               },
+               "southwest" : {
+                  "lat" : 53.74899019999999,
+                  "lng" : -1.7589024
+               }
+            },
+            "location" : {
+               "lat" : 53.7490586,
+               "lng" : -1.7580568
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.75055023029149,
+                  "lng" : -1.756863819708498
+               },
+               "southwest" : {
+                  "lat" : 53.7478522697085,
+                  "lng" : -1.759561780291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

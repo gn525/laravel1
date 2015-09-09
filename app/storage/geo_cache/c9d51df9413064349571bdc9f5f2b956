@@ -1,0 +1,187 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thames Street",
+               "short_name" : "Thames St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Staines-upon-Thames",
+               "short_name" : "Staines-upon-Thames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staines",
+               "short_name" : "Staines",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW18 4SD",
+               "short_name" : "TW18 4SD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 Thames Street, Staines, Surrey TW18 4SD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4331925,
+               "lng" : -0.5125940999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.43454148029149,
+                  "lng" : -0.5112451197084978
+               },
+               "southwest" : {
+                  "lat" : 51.4318435197085,
+                  "lng" : -0.5139430802915019
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Staines Road",
+               "short_name" : "Staines Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Staines-upon-Thames",
+               "short_name" : "Staines-upon-Thames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staines",
+               "short_name" : "Staines",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW18 2TE",
+               "short_name" : "TW18 2TE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 Staines Road, Staines, Surrey TW18 2TE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4108186,
+                  "lng" : -0.4903007
+               },
+               "southwest" : {
+                  "lat" : 51.4108128,
+                  "lng" : -0.4903166
+               }
+            },
+            "location" : {
+               "lat" : 51.4108186,
+               "lng" : -0.4903007
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4121646802915,
+                  "lng" : -0.4889596697084979
+               },
+               "southwest" : {
+                  "lat" : 51.4094667197085,
+                  "lng" : -0.491657630291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penton Hook Island 4",
+               "short_name" : "Penton Hook Island 4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Staines-upon-Thames",
+               "short_name" : "Staines-upon-Thames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staines",
+               "short_name" : "Staines",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW18",
+               "short_name" : "TW18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Penton Hook Island 4, Staines-upon-Thames, Staines, Surrey TW18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4120217,
+               "lng" : -0.502571
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41337068029149,
+                  "lng" : -0.501222019708498
+               },
+               "southwest" : {
+                  "lat" : 51.41067271970849,
+                  "lng" : -0.5039199802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

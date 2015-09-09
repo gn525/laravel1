@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kilmaurs",
+               "short_name" : "Kilmaurs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kilmarnock",
+               "short_name" : "Kilmarnock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Ayrshire",
+               "short_name" : "East Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA3",
+               "short_name" : "KA3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kilmaurs, Kilmarnock, East Ayrshire KA3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6472289,
+                  "lng" : -4.5136322
+               },
+               "southwest" : {
+                  "lat" : 55.6309304,
+                  "lng" : -4.5450355
+               }
+            },
+            "location" : {
+               "lat" : 55.63916099999999,
+               "lng" : -4.527756999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6472289,
+                  "lng" : -4.5136322
+               },
+               "southwest" : {
+                  "lat" : 55.6309304,
+                  "lng" : -4.5450355
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

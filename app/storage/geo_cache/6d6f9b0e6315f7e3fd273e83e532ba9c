@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flimwell",
+               "short_name" : "Flimwell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wadhurst",
+               "short_name" : "Wadhurst",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN5",
+               "short_name" : "TN5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Flimwell, Wadhurst, East Sussex TN5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.054649,
+               "lng" : 0.445797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0616621,
+                  "lng" : 0.4618044
+               },
+               "southwest" : {
+                  "lat" : 51.0476348,
+                  "lng" : 0.4297896
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

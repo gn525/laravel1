@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RG2",
+               "short_name" : "RG2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading RG2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.461134,
+                  "lng" : -0.8853983
+               },
+               "southwest" : {
+                  "lat" : 51.3750736,
+                  "lng" : -0.9988589999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4114662,
+               "lng" : -0.9381453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4482537,
+                  "lng" : -0.8853983
+               },
+               "southwest" : {
+                  "lat" : 51.3750736,
+                  "lng" : -0.9988589999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

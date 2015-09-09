@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coity",
+               "short_name" : "Coity",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bridgend",
+               "short_name" : "Bridgend",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF35",
+               "short_name" : "CF35",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Coity, Bridgend, Bridgend CF35, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.521313,
+               "lng" : -3.552574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5282552,
+                  "lng" : -3.5365666
+               },
+               "southwest" : {
+                  "lat" : 51.5143697,
+                  "lng" : -3.5685814
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

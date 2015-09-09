@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirklees",
+               "short_name" : "Kirklees",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR4",
+               "short_name" : "NR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirklees, Norwich, Norwich, Norfolk NR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.60239989999999,
+                  "lng" : 1.2817808
+               },
+               "southwest" : {
+                  "lat" : 52.6015222,
+                  "lng" : 1.278804
+               }
+            },
+            "location" : {
+               "lat" : 52.6020536,
+               "lng" : 1.2803263
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6033100302915,
+                  "lng" : 1.2817808
+               },
+               "southwest" : {
+                  "lat" : 52.6006120697085,
+                  "lng" : 1.278804
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirklees",
+               "short_name" : "Kirklees",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chelmsford",
+               "short_name" : "Chelmsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelmsford",
+               "short_name" : "Chelmsford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM1 2AG",
+               "short_name" : "CM1 2AG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirklees, Chelmsford, Essex CM1 2AG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.743193,
+                  "lng" : 0.4612843
+               },
+               "southwest" : {
+                  "lat" : 51.7426594,
+                  "lng" : 0.4606906
+               }
+            },
+            "location" : {
+               "lat" : 51.7429385,
+               "lng" : 0.4611836
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7442751802915,
+                  "lng" : 0.462336430291502
+               },
+               "southwest" : {
+                  "lat" : 51.7415772197085,
+                  "lng" : 0.4596384697084979
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

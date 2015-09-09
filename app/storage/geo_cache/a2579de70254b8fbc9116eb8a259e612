@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medina",
+               "short_name" : "Medina",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B77 2JL",
+               "short_name" : "B77 2JL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medina, Tamworth, Staffordshire B77 2JL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6193483,
+                  "lng" : -1.6741546
+               },
+               "southwest" : {
+                  "lat" : 52.6185898,
+                  "lng" : -1.6754799
+               }
+            },
+            "location" : {
+               "lat" : 52.61878129999999,
+               "lng" : -1.6748951
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6203180302915,
+                  "lng" : -1.673468269708498
+               },
+               "southwest" : {
+                  "lat" : 52.6176200697085,
+                  "lng" : -1.676166230291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

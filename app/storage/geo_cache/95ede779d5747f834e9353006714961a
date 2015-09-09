@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windlesham",
+               "short_name" : "Windlesham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Windlesham, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3873717,
+                  "lng" : -0.6364581
+               },
+               "southwest" : {
+                  "lat" : 51.3584377,
+                  "lng" : -0.6822709
+               }
+            },
+            "location" : {
+               "lat" : 51.36456099999999,
+               "lng" : -0.665847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3873717,
+                  "lng" : -0.6364581
+               },
+               "southwest" : {
+                  "lat" : 51.3584377,
+                  "lng" : -0.6822709
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

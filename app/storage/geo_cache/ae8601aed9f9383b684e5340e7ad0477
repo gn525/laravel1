@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inverurie",
+               "short_name" : "Inverurie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inverurie",
+               "short_name" : "Inverurie",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB51",
+               "short_name" : "AB51",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Inverurie, Inverurie, Aberdeenshire AB51, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.29817699999999,
+                  "lng" : -2.3656008
+               },
+               "southwest" : {
+                  "lat" : 57.2730002,
+                  "lng" : -2.4206276
+               }
+            },
+            "location" : {
+               "lat" : 57.28347400000001,
+               "lng" : -2.373995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.29817699999999,
+                  "lng" : -2.3656008
+               },
+               "southwest" : {
+                  "lat" : 57.2730002,
+                  "lng" : -2.4206276
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

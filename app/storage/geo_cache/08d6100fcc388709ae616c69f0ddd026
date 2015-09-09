@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grays",
+               "short_name" : "Grays",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thurrock",
+               "short_name" : "Thurrock",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grays, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5065026,
+                  "lng" : 0.3819825
+               },
+               "southwest" : {
+                  "lat" : 51.4608983,
+                  "lng" : 0.2608305
+               }
+            },
+            "location" : {
+               "lat" : 51.4784037,
+               "lng" : 0.3230151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5065026,
+                  "lng" : 0.3819825
+               },
+               "southwest" : {
+                  "lat" : 51.4608983,
+                  "lng" : 0.2608305
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

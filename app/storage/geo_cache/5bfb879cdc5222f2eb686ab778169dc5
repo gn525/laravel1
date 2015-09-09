@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penlan",
+               "short_name" : "Penlan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swansea",
+               "short_name" : "Swansea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA5",
+               "short_name" : "SA5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Penlan, Swansea, Swansea SA5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6651001,
+                  "lng" : -3.9491491
+               },
+               "southwest" : {
+                  "lat" : 51.64164299999999,
+                  "lng" : -3.972978799999999
+               }
+            },
+            "location" : {
+               "lat" : 51.6476356,
+               "lng" : -3.9633356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6651001,
+                  "lng" : -3.9491491
+               },
+               "southwest" : {
+                  "lat" : 51.64164299999999,
+                  "lng" : -3.972978799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

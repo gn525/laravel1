@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Park Farm Industrial Estate",
+               "short_name" : "Park Farm Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wellingborough",
+               "short_name" : "Wellingborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellingborough",
+               "short_name" : "Wellingborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wellingborough",
+               "short_name" : "Wellingborough",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN8",
+               "short_name" : "NN8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Park Farm Industrial Estate, Wellingborough, Wellingborough, Northamptonshire NN8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3093827,
+               "lng" : -0.7352394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3162041,
+                  "lng" : -0.719232
+               },
+               "southwest" : {
+                  "lat" : 52.30256019999999,
+                  "lng" : -0.7512468
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

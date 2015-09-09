@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton Mearns",
+               "short_name" : "Newton Mearns",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Renfrewshire",
+               "short_name" : "East Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newton Mearns, Glasgow, East Renfrewshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7910463,
+                  "lng" : -4.2944488
+               },
+               "southwest" : {
+                  "lat" : 55.7592888,
+                  "lng" : -4.3647803
+               }
+            },
+            "location" : {
+               "lat" : 55.771176,
+               "lng" : -4.336615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7910463,
+                  "lng" : -4.2944488
+               },
+               "southwest" : {
+                  "lat" : 55.7592888,
+                  "lng" : -4.3647803
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

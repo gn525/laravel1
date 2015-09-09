@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banham",
+               "short_name" : "Banham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banham, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4703621,
+                  "lng" : 1.096794
+               },
+               "southwest" : {
+                  "lat" : 52.433052,
+                  "lng" : 0.9907353999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.451249,
+               "lng" : 1.0402849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4703621,
+                  "lng" : 1.096794
+               },
+               "southwest" : {
+                  "lat" : 52.433052,
+                  "lng" : 0.9907353999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

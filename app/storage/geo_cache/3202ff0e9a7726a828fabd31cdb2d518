@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glebe Farm Industrial Estate",
+               "short_name" : "Glebe Farm Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Glebe Farm Road",
+               "short_name" : "Glebe Farm Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rugby",
+               "short_name" : "Rugby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rugby",
+               "short_name" : "Rugby",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV21 1GQ",
+               "short_name" : "CV21 1GQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glebe Farm Industrial Estate, Glebe Farm Road, Rugby, Warwickshire CV21 1GQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3895654,
+               "lng" : -1.2675141
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.39091438029149,
+                  "lng" : -1.266165119708498
+               },
+               "southwest" : {
+                  "lat" : 52.38821641970849,
+                  "lng" : -1.268863080291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

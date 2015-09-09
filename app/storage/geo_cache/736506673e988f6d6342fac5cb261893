@@ -1,0 +1,184 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF82",
+               "short_name" : "CF82",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hengoed, Hengoed, Caerphilly CF82, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6513576,
+                  "lng" : -3.2202319
+               },
+               "southwest" : {
+                  "lat" : 51.6436334,
+                  "lng" : -3.2371385
+               }
+            },
+            "location" : {
+               "lat" : 51.646519,
+               "lng" : -3.23131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6513576,
+                  "lng" : -3.2202319
+               },
+               "southwest" : {
+                  "lat" : 51.6436334,
+                  "lng" : -3.2371385
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kington",
+               "short_name" : "Kington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR5",
+               "short_name" : "HR5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hengoed, Kington, Powys HR5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1724131,
+               "lng" : -3.1320371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1737620802915,
+                  "lng" : -3.130688119708498
+               },
+               "southwest" : {
+                  "lat" : 52.1710641197085,
+                  "lng" : -3.133386080291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oswestry",
+               "short_name" : "Oswestry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shropshire",
+               "short_name" : "Shrops",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY10",
+               "short_name" : "SY10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hengoed, Oswestry, Shropshire SY10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9008733,
+                  "lng" : -3.0553664
+               },
+               "southwest" : {
+                  "lat" : 52.8917559,
+                  "lng" : -3.0699332
+               }
+            },
+            "location" : {
+               "lat" : 52.8940356,
+               "lng" : -3.0570471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9008733,
+                  "lng" : -3.0553664
+               },
+               "southwest" : {
+                  "lat" : 52.8917559,
+                  "lng" : -3.0699332
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

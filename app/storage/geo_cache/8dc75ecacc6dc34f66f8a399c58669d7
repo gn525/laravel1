@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seaton",
+               "short_name" : "Seaton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seaton, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.724238,
+                  "lng" : -3.0582918
+               },
+               "southwest" : {
+                  "lat" : 50.698335,
+                  "lng" : -3.0926837
+               }
+            },
+            "location" : {
+               "lat" : 50.70531339999999,
+               "lng" : -3.0718734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.724238,
+                  "lng" : -3.0582918
+               },
+               "southwest" : {
+                  "lat" : 50.698335,
+                  "lng" : -3.0926837
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

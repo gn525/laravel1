@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bicester",
+               "short_name" : "Bicester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bicester",
+               "short_name" : "Bicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bicester, Bicester, Oxfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9245207,
+                  "lng" : -1.1271245
+               },
+               "southwest" : {
+                  "lat" : 51.8861022,
+                  "lng" : -1.1815892
+               }
+            },
+            "location" : {
+               "lat" : 51.899603,
+               "lng" : -1.1535899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9245207,
+                  "lng" : -1.1271245
+               },
+               "southwest" : {
+                  "lat" : 51.8861022,
+                  "lng" : -1.1815892
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

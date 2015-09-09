@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brawdy",
+               "short_name" : "Brawdy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haverfordwest",
+               "short_name" : "Haverfordwest",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA62",
+               "short_name" : "SA62",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brawdy, Haverfordwest, Pembrokeshire SA62, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.874439,
+               "lng" : -5.112934999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8813273,
+                  "lng" : -5.0969276
+               },
+               "southwest" : {
+                  "lat" : 51.8675497,
+                  "lng" : -5.1289424
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

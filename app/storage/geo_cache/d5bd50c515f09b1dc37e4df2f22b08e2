@@ -1,0 +1,265 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salford Quays",
+               "short_name" : "Salford Quays",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M50",
+               "short_name" : "M50",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salford Quays, Salford, Salford M50, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.47029999999999,
+               "lng" : -2.284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4716489802915,
+                  "lng" : -2.282651019708498
+               },
+               "southwest" : {
+                  "lat" : 53.4689510197085,
+                  "lng" : -2.285348980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Quays",
+               "short_name" : "The Quays",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M50",
+               "short_name" : "M50",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Quays, Salford, Salford M50, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4740213,
+                  "lng" : -2.2861217
+               },
+               "southwest" : {
+                  "lat" : 53.4717597,
+                  "lng" : -2.2935081
+               }
+            },
+            "location" : {
+               "lat" : 53.4740213,
+               "lng" : -2.2903925
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4742394802915,
+                  "lng" : -2.2861217
+               },
+               "southwest" : {
+                  "lat" : 53.4715415197085,
+                  "lng" : -2.2935081
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Quays",
+               "short_name" : "The Quays",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "The Quays",
+               "short_name" : "The Quays",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M50 3AH",
+               "short_name" : "M50 3AH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Quays, The Quays, Salford, Salford M50 3AH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4716923,
+                  "lng" : -2.2918833
+               },
+               "southwest" : {
+                  "lat" : 53.4700174,
+                  "lng" : -2.2949413
+               }
+            },
+            "location" : {
+               "lat" : 53.4709636,
+               "lng" : -2.2930764
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.47220383029149,
+                  "lng" : -2.2918833
+               },
+               "southwest" : {
+                  "lat" : 53.4695058697085,
+                  "lng" : -2.2949413
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DOCK 9 SALFORD QUAYS",
+               "short_name" : "DOCK 9 SALFORD QUAYS",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "54",
+               "short_name" : "54",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saint Lawrence Quay",
+               "short_name" : "St Lawrence Quay",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M50 3",
+               "short_name" : "M50 3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "DOCK 9 SALFORD QUAYS, 54 Saint Lawrence Quay, Salford, Salford M50 3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.473463,
+               "lng" : -2.289126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4748119802915,
+                  "lng" : -2.287777019708498
+               },
+               "southwest" : {
+                  "lat" : 53.4721140197085,
+                  "lng" : -2.290474980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "amusement_park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

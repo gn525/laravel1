@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southsea",
+               "short_name" : "Southsea",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southsea, Portsmouth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8031393,
+                  "lng" : -1.0287448
+               },
+               "southwest" : {
+                  "lat" : 50.77756120000001,
+                  "lng" : -1.1036241
+               }
+            },
+            "location" : {
+               "lat" : 50.783565,
+               "lng" : -1.085559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8031393,
+                  "lng" : -1.0287448
+               },
+               "southwest" : {
+                  "lat" : 50.77756120000001,
+                  "lng" : -1.1036241
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

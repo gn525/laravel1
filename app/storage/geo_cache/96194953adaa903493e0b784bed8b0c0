@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stroud",
+               "short_name" : "Stroud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stroud, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.76052,
+                  "lng" : -2.1827343
+               },
+               "southwest" : {
+                  "lat" : 51.7239782,
+                  "lng" : -2.2637751
+               }
+            },
+            "location" : {
+               "lat" : 51.745734,
+               "lng" : -2.217758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76052,
+                  "lng" : -2.1827343
+               },
+               "southwest" : {
+                  "lat" : 51.7239782,
+                  "lng" : -2.2637751
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stroud",
+               "short_name" : "Stroud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Petersfield",
+               "short_name" : "Petersfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU32",
+               "short_name" : "GU32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stroud, Petersfield, Hampshire GU32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.007647,
+               "lng" : -0.9718589999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.00899598029149,
+                  "lng" : -0.9705100197084979
+               },
+               "southwest" : {
+                  "lat" : 51.0062980197085,
+                  "lng" : -0.973207980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

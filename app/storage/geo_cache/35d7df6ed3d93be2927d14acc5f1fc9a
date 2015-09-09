@@ -1,0 +1,320 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg Way",
+               "short_name" : "Hamburg Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Lynn Industrial Estate",
+               "short_name" : "North Lynn Industrial Estate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King's Lynn",
+               "short_name" : "King's Lynn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE30 2JN",
+               "short_name" : "PE30 2JN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamburg Way, North Lynn Industrial Estate, King's Lynn, Norfolk PE30 2JN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7729097,
+                  "lng" : 0.4197536000000001
+               },
+               "southwest" : {
+                  "lat" : 52.7686839,
+                  "lng" : 0.4177628
+               }
+            },
+            "location" : {
+               "lat" : 52.7709628,
+               "lng" : 0.4187542
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7729097,
+                  "lng" : 0.4201071802915021
+               },
+               "southwest" : {
+                  "lat" : 52.7686839,
+                  "lng" : 0.417409219708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg House",
+               "short_name" : "Hamburg House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cross Street",
+               "short_name" : "Cross St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO1 3GG",
+               "short_name" : "PO1 3GG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamburg House, Cross Street, Portsmouth, Portsmouth PO1 3GG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8006573,
+               "lng" : -1.1032289
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.80200628029149,
+                  "lng" : -1.101879919708498
+               },
+               "southwest" : {
+                  "lat" : 50.7993083197085,
+                  "lng" : -1.104577880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg House",
+               "short_name" : "Hamburg House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Burton Close",
+               "short_name" : "Burton Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shaftesbury",
+               "short_name" : "Shaftesbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shaftesbury",
+               "short_name" : "Shaftesbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP7 8SW",
+               "short_name" : "SP7 8SW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamburg House, 12 Burton Close, Shaftesbury, Dorset SP7 8SW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0076176,
+               "lng" : -2.1830445
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0089665802915,
+                  "lng" : -2.181695519708498
+               },
+               "southwest" : {
+                  "lat" : 51.0062686197085,
+                  "lng" : -2.184393480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg Road",
+               "short_name" : "Hamburg Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kingston upon Hull",
+               "short_name" : "Kingston upon Hull",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HU7 0WD",
+               "short_name" : "HU7 0WD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamburg Road, Hull, Kingston upon Hull HU7 0WD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.77570490000001,
+                  "lng" : -0.3217444
+               },
+               "southwest" : {
+                  "lat" : 53.7735417,
+                  "lng" : -0.3255265
+               }
+            },
+            "location" : {
+               "lat" : 53.7745404,
+               "lng" : -0.3239096
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77597228029151,
+                  "lng" : -0.3217444
+               },
+               "southwest" : {
+                  "lat" : 53.77327431970851,
+                  "lng" : -0.3255265
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamburg Close",
+               "short_name" : "Hamburg Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Andover",
+               "short_name" : "Andover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Andover",
+               "short_name" : "Andover",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP10 4LP",
+               "short_name" : "SP10 4LP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamburg Close, Andover, Hampshire SP10 4LP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2239177,
+                  "lng" : -1.48793
+               },
+               "southwest" : {
+                  "lat" : 51.2233846,
+                  "lng" : -1.4884613
+               }
+            },
+            "location" : {
+               "lat" : 51.2238852,
+               "lng" : -1.4881363
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2250001302915,
+                  "lng" : -1.486846669708498
+               },
+               "southwest" : {
+                  "lat" : 51.2223021697085,
+                  "lng" : -1.489544630291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coleshill",
+               "short_name" : "Coleshill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coleshill, Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5211158,
+                  "lng" : -1.6732775
+               },
+               "southwest" : {
+                  "lat" : 52.4655983,
+                  "lng" : -1.7432495
+               }
+            },
+            "location" : {
+               "lat" : 52.499599,
+               "lng" : -1.706495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5211158,
+                  "lng" : -1.6732775
+               },
+               "southwest" : {
+                  "lat" : 52.4655983,
+                  "lng" : -1.7432495
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

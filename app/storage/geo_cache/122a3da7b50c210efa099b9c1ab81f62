@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria Avenue Industrial Estate",
+               "short_name" : "Victoria Avenue Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Swanage",
+               "short_name" : "Swanage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swanage",
+               "short_name" : "Swanage",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH19 1AU",
+               "short_name" : "BH19 1AU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Victoria Avenue Industrial Estate, Swanage, Dorset BH19 1AU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.6127616,
+               "lng" : -1.974182
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6141105802915,
+                  "lng" : -1.972833019708498
+               },
+               "southwest" : {
+                  "lat" : 50.6114126197085,
+                  "lng" : -1.975530980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

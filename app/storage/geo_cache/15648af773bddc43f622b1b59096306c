@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yateley",
+               "short_name" : "Yateley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yateley",
+               "short_name" : "Yateley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU46",
+               "short_name" : "GU46",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yateley, Yateley, Hampshire GU46, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3411577,
+               "lng" : -0.8252029999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3481274,
+                  "lng" : -0.8091956
+               },
+               "southwest" : {
+                  "lat" : 51.334187,
+                  "lng" : -0.8412104
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GU46",
+               "short_name" : "GU46",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GU46, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3530005,
+                  "lng" : -0.8011655
+               },
+               "southwest" : {
+                  "lat" : 51.3224528,
+                  "lng" : -0.8511622999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.3388484,
+               "lng" : -0.8288698999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3530005,
+                  "lng" : -0.8011655
+               },
+               "southwest" : {
+                  "lat" : 51.3224528,
+                  "lng" : -0.8511622999999999
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

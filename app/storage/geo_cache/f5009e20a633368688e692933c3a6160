@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uttoxeter",
+               "short_name" : "Uttoxeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uttoxeter, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9173576,
+                  "lng" : -1.8298868
+               },
+               "southwest" : {
+                  "lat" : 52.882276,
+                  "lng" : -1.9067737
+               }
+            },
+            "location" : {
+               "lat" : 52.89811599999999,
+               "lng" : -1.865801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9173576,
+                  "lng" : -1.8298868
+               },
+               "southwest" : {
+                  "lat" : 52.882276,
+                  "lng" : -1.9067737
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

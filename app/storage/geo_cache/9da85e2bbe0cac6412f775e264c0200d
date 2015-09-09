@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hemsworth",
+               "short_name" : "Hemsworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hemsworth, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6272791,
+                  "lng" : -1.3344803
+               },
+               "southwest" : {
+                  "lat" : 53.6017188,
+                  "lng" : -1.3851583
+               }
+            },
+            "location" : {
+               "lat" : 53.61542799999999,
+               "lng" : -1.352693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6272791,
+                  "lng" : -1.3344803
+               },
+               "southwest" : {
+                  "lat" : 53.6017188,
+                  "lng" : -1.3851583
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NW10",
+               "short_name" : "NW10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London NW10, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5678774,
+                  "lng" : -0.2144211
+               },
+               "southwest" : {
+                  "lat" : 51.5221193,
+                  "lng" : -0.2940948
+               }
+            },
+            "location" : {
+               "lat" : 51.54102289999999,
+               "lng" : -0.2530945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5678774,
+                  "lng" : -0.2144211
+               },
+               "southwest" : {
+                  "lat" : 51.5221193,
+                  "lng" : -0.2940948
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Whitburn",
+               "short_name" : "East Whitburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathgate",
+               "short_name" : "Bathgate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Lothian",
+               "short_name" : "West Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Whitburn, Bathgate, West Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8765659,
+                  "lng" : -3.6399742
+               },
+               "southwest" : {
+                  "lat" : 55.86104049999999,
+                  "lng" : -3.6680505
+               }
+            },
+            "location" : {
+               "lat" : 55.868809,
+               "lng" : -3.662378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8765659,
+                  "lng" : -3.6399742
+               },
+               "southwest" : {
+                  "lat" : 55.86104049999999,
+                  "lng" : -3.6680505
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

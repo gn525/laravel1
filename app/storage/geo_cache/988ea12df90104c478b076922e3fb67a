@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal Oak Industrial Estate",
+               "short_name" : "Royal Oak Industrial Estate",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Daventry",
+               "short_name" : "Daventry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Daventry",
+               "short_name" : "Daventry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN11",
+               "short_name" : "NN11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Royal Oak Industrial Estate, Daventry, Daventry, Northamptonshire NN11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.26626479999999,
+               "lng" : -1.1831521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2730929,
+                  "lng" : -1.1671447
+               },
+               "southwest" : {
+                  "lat" : 52.2594357,
+                  "lng" : -1.1991595
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

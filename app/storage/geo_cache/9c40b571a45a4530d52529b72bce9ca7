@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selma House",
+               "short_name" : "Selma House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Arnothill Gardens",
+               "short_name" : "Arnothill Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK1 5BQ",
+               "short_name" : "FK1 5BQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Selma House, 16 Arnothill Gardens, Falkirk, Falkirk FK1 5BQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.9990124,
+               "lng" : -3.7900681
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0003613802915,
+                  "lng" : -3.788719119708498
+               },
+               "southwest" : {
+                  "lat" : 55.9976634197085,
+                  "lng" : -3.791417080291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selma Grove",
+               "short_name" : "Selma Grove",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B14",
+               "short_name" : "B14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Selma Grove, Birmingham, Birmingham, West Midlands B14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4187953,
+                  "lng" : -1.8613112
+               },
+               "southwest" : {
+                  "lat" : 52.4180643,
+                  "lng" : -1.8616652
+               }
+            },
+            "location" : {
+               "lat" : 52.4186687,
+               "lng" : -1.8614678
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4197787802915,
+                  "lng" : -1.860139219708498
+               },
+               "southwest" : {
+                  "lat" : 52.4170808197085,
+                  "lng" : -1.862837180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

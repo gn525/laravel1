@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Renfrew",
+               "short_name" : "Renfrew",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Renfrew, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8919271,
+                  "lng" : -4.367122999999999
+               },
+               "southwest" : {
+                  "lat" : 55.8609671,
+                  "lng" : -4.4206419
+               }
+            },
+            "location" : {
+               "lat" : 55.875322,
+               "lng" : -4.391541999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8919271,
+                  "lng" : -4.367122999999999
+               },
+               "southwest" : {
+                  "lat" : 55.8609671,
+                  "lng" : -4.4206419
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort William",
+               "short_name" : "Fort William",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort William, Highland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.8295301,
+                  "lng" : -5.0756684
+               },
+               "southwest" : {
+                  "lat" : 56.80433499999999,
+                  "lng" : -5.1304722
+               }
+            },
+            "location" : {
+               "lat" : 56.81981700000001,
+               "lng" : -5.105218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8295301,
+                  "lng" : -5.0756684
+               },
+               "southwest" : {
+                  "lat" : 56.80433499999999,
+                  "lng" : -5.1304722
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

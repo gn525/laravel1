@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rolleston-on-Dove",
+               "short_name" : "Rolleston-on-Dove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burton-on-Trent",
+               "short_name" : "Burton-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE13",
+               "short_name" : "DE13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rolleston-on-Dove, Burton-on-Trent, Staffordshire DE13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.845734,
+               "lng" : -1.651206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8524725,
+                  "lng" : -1.6351986
+               },
+               "southwest" : {
+                  "lat" : 52.83899450000001,
+                  "lng" : -1.6672134
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

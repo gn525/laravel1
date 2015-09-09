@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chertsey",
+               "short_name" : "Chertsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chertsey, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4010714,
+                  "lng" : -0.4786444999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3720873,
+                  "lng" : -0.5489737
+               }
+            },
+            "location" : {
+               "lat" : 51.386491,
+               "lng" : -0.509456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4010714,
+                  "lng" : -0.4786444999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3720873,
+                  "lng" : -0.5489737
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

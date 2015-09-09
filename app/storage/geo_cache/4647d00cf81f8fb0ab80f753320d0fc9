@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Indonesian Embassy",
+               "short_name" : "The Indonesian Embassy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grosvenor Square",
+               "short_name" : "Grosvenor Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1K 2HW",
+               "short_name" : "W1K 2HW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Indonesian Embassy, 38 Grosvenor Square, Mayfair, London W1K 2HW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5106117,
+               "lng" : -0.1516439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51196068029149,
+                  "lng" : -0.150294919708498
+               },
+               "southwest" : {
+                  "lat" : 51.5092627197085,
+                  "lng" : -0.152992880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

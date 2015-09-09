@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dymchurch",
+               "short_name" : "Dymchurch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romney Marsh",
+               "short_name" : "Romney Marsh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN29",
+               "short_name" : "TN29",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dymchurch, Romney Marsh, Kent TN29, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.024445,
+               "lng" : 0.9922699999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.03146270000001,
+                  "lng" : 1.0082774
+               },
+               "southwest" : {
+                  "lat" : 51.0174262,
+                  "lng" : 0.9762626000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

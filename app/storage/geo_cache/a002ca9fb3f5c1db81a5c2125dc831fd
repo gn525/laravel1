@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dawlish",
+               "short_name" : "Dawlish",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dawlish, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6112935,
+                  "lng" : -3.4521834
+               },
+               "southwest" : {
+                  "lat" : 50.5686078,
+                  "lng" : -3.4982008
+               }
+            },
+            "location" : {
+               "lat" : 50.582285,
+               "lng" : -3.464402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6112935,
+                  "lng" : -3.4521834
+               },
+               "southwest" : {
+                  "lat" : 50.5686078,
+                  "lng" : -3.4982008
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

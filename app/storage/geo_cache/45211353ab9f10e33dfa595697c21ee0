@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TF1",
+               "short_name" : "TF1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Telford",
+               "short_name" : "Telford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Telford and Wrekin",
+               "short_name" : "Telford and Wrekin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telford, Telford and Wrekin TF1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7293321,
+                  "lng" : -2.450269
+               },
+               "southwest" : {
+                  "lat" : 52.6775852,
+                  "lng" : -2.53977
+               }
+            },
+            "location" : {
+               "lat" : 52.703188,
+               "lng" : -2.5027278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7293321,
+                  "lng" : -2.450269
+               },
+               "southwest" : {
+                  "lat" : 52.6775852,
+                  "lng" : -2.53977
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

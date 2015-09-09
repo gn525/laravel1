@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marlow",
+               "short_name" : "Marlow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marlow",
+               "short_name" : "Marlow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL7",
+               "short_name" : "SL7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marlow, Marlow, Buckinghamshire SL7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.574545,
+               "lng" : -0.780072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5814791,
+                  "lng" : -0.7640646
+               },
+               "southwest" : {
+                  "lat" : 51.5676098,
+                  "lng" : -0.7960794000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marlow",
+               "short_name" : "Marlow",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Marlow",
+               "short_name" : "Marlow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SL7",
+               "short_name" : "SL7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marlow, Marlow, Buckinghamshire SL7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.57100000000001,
+               "lng" : -0.7664099999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.57234898029151,
+                  "lng" : -0.7650610197084979
+               },
+               "southwest" : {
+                  "lat" : 51.56965101970851,
+                  "lng" : -0.767758980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

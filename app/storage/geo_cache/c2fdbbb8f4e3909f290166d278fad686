@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RH12",
+               "short_name" : "RH12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Horsham",
+               "short_name" : "Horsham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horsham RH12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1390261,
+                  "lng" : -0.2284678
+               },
+               "southwest" : {
+                  "lat" : 51.05172049999999,
+                  "lng" : -0.5103464
+               }
+            },
+            "location" : {
+               "lat" : 51.0848403,
+               "lng" : -0.3594367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1390261,
+                  "lng" : -0.2284678
+               },
+               "southwest" : {
+                  "lat" : 51.05172049999999,
+                  "lng" : -0.5103464
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horsham",
+               "short_name" : "Horsham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horsham",
+               "short_name" : "Horsham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horsham, Horsham, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0892285,
+                  "lng" : -0.2820141
+               },
+               "southwest" : {
+                  "lat" : 51.0475379,
+                  "lng" : -0.3584041
+               }
+            },
+            "location" : {
+               "lat" : 51.062883,
+               "lng" : -0.325858
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0892285,
+                  "lng" : -0.2820141
+               },
+               "southwest" : {
+                  "lat" : 51.0475379,
+                  "lng" : -0.3584041
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

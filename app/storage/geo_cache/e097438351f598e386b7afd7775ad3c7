@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lochgilphead",
+               "short_name" : "Lochgilphead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Argyll and Bute",
+               "short_name" : "Argyll and Bute",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lochgilphead, Argyll and Bute, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0500505,
+                  "lng" : -5.415428899999999
+               },
+               "southwest" : {
+                  "lat" : 56.030747,
+                  "lng" : -5.445912499999999
+               }
+            },
+            "location" : {
+               "lat" : 56.03829200000001,
+               "lng" : -5.432345000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0500505,
+                  "lng" : -5.415428899999999
+               },
+               "southwest" : {
+                  "lat" : 56.030747,
+                  "lng" : -5.445912499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

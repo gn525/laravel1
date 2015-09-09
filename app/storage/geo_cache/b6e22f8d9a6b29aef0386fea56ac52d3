@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Tidworth",
+               "short_name" : "North Tidworth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tidworth",
+               "short_name" : "Tidworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tidworth",
+               "short_name" : "Tidworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP9",
+               "short_name" : "SP9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Tidworth, Tidworth, Tidworth, Wiltshire SP9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.242116,
+               "lng" : -1.674818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2491007,
+                  "lng" : -1.6588106
+               },
+               "southwest" : {
+                  "lat" : 51.2351302,
+                  "lng" : -1.6908254
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

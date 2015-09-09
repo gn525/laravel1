@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolsover",
+               "short_name" : "Bolsover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chesterfield",
+               "short_name" : "Chesterfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S44",
+               "short_name" : "S44",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bolsover, Chesterfield, Derbyshire S44, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2427088,
+                  "lng" : -1.2684259
+               },
+               "southwest" : {
+                  "lat" : 53.2186494,
+                  "lng" : -1.3160047
+               }
+            },
+            "location" : {
+               "lat" : 53.231044,
+               "lng" : -1.2897209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2427088,
+                  "lng" : -1.2684259
+               },
+               "southwest" : {
+                  "lat" : 53.2186494,
+                  "lng" : -1.3160047
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

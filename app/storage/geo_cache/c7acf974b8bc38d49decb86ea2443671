@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Woodley",
+               "short_name" : "Woodley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wokingham",
+               "short_name" : "Wokingham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Woodley, Wokingham, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4691009,
+                  "lng" : -0.865138
+               },
+               "southwest" : {
+                  "lat" : 51.4385817,
+                  "lng" : -0.9261668
+               }
+            },
+            "location" : {
+               "lat" : 51.4516523,
+               "lng" : -0.902918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4691009,
+                  "lng" : -0.865138
+               },
+               "southwest" : {
+                  "lat" : 51.4385817,
+                  "lng" : -0.9261668
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

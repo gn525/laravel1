@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southampton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0334862,
+                  "lng" : -1.0871919
+               },
+               "southwest" : {
+                  "lat" : 50.7837653,
+                  "lng" : -1.6057954
+               }
+            },
+            "location" : {
+               "lat" : 50.9411176,
+               "lng" : -1.4230311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0334862,
+                  "lng" : -1.0871919
+               },
+               "southwest" : {
+                  "lat" : 50.7837653,
+                  "lng" : -1.6057954
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

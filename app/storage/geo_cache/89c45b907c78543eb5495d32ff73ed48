@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cobalt Business Park",
+               "short_name" : "Cobalt Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Silver Fox Way",
+               "short_name" : "Silver Fox Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE27 0QJ",
+               "short_name" : "NE27 0QJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cobalt Business Park, 14 Silver Fox Way, Newcastle upon Tyne, Tyne and Wear NE27 0QJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.0204612,
+               "lng" : -1.5081778
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0218101802915,
+                  "lng" : -1.506828819708498
+               },
+               "southwest" : {
+                  "lat" : 55.0191122197085,
+                  "lng" : -1.509526780291502
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

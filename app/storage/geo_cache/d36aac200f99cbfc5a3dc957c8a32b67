@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hednesford",
+               "short_name" : "Hednesford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cannock",
+               "short_name" : "Cannock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hednesford, Cannock, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7363013,
+                  "lng" : -1.973264
+               },
+               "southwest" : {
+                  "lat" : 52.69380839999999,
+                  "lng" : -2.0298382
+               }
+            },
+            "location" : {
+               "lat" : 52.7115579,
+               "lng" : -2.0003829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7363013,
+                  "lng" : -1.973264
+               },
+               "southwest" : {
+                  "lat" : 52.69380839999999,
+                  "lng" : -2.0298382
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

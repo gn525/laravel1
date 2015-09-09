@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poulton-le-Fylde",
+               "short_name" : "Poulton-le-Fylde",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poulton-le-Fylde, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.859936,
+                  "lng" : -2.9566912
+               },
+               "southwest" : {
+                  "lat" : 53.827202,
+                  "lng" : -3.021261
+               }
+            },
+            "location" : {
+               "lat" : 53.843964,
+               "lng" : -2.986281
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.859936,
+                  "lng" : -2.9566912
+               },
+               "southwest" : {
+                  "lat" : 53.827202,
+                  "lng" : -3.021261
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

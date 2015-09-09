@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huntley",
+               "short_name" : "Huntley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL19",
+               "short_name" : "GL19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Huntley, Gloucester, Gloucestershire GL19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8714579,
+               "lng" : -2.4001199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8783466,
+                  "lng" : -2.3841125
+               },
+               "southwest" : {
+                  "lat" : 51.8645681,
+                  "lng" : -2.4161273
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

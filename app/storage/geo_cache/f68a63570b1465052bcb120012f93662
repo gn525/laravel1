@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coldstream",
+               "short_name" : "Coldstream",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coldstream",
+               "short_name" : "Coldstream",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TD12",
+               "short_name" : "TD12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Coldstream, Coldstream, Scottish Borders TD12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.65905249999999,
+                  "lng" : -2.2392271
+               },
+               "southwest" : {
+                  "lat" : 55.6461553,
+                  "lng" : -2.2650659
+               }
+            },
+            "location" : {
+               "lat" : 55.65132000000001,
+               "lng" : -2.253399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.65905249999999,
+                  "lng" : -2.2392271
+               },
+               "southwest" : {
+                  "lat" : 55.6461553,
+                  "lng" : -2.2650659
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

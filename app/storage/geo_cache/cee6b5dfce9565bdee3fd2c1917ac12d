@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ponteland",
+               "short_name" : "Ponteland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ponteland, Newcastle upon Tyne, Northumberland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0609583,
+                  "lng" : -1.7247947
+               },
+               "southwest" : {
+                  "lat" : 55.0204479,
+                  "lng" : -1.7866382
+               }
+            },
+            "location" : {
+               "lat" : 55.049871,
+               "lng" : -1.739844
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0609583,
+                  "lng" : -1.7247947
+               },
+               "southwest" : {
+                  "lat" : 55.0204479,
+                  "lng" : -1.7866382
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

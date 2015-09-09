@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OL11",
+               "short_name" : "OL11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "OL11, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.645194,
+                  "lng" : -2.1360672
+               },
+               "southwest" : {
+                  "lat" : 53.5735718,
+                  "lng" : -2.2678555
+               }
+            },
+            "location" : {
+               "lat" : 53.61394989999999,
+               "lng" : -2.1899779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.645194,
+                  "lng" : -2.1360672
+               },
+               "southwest" : {
+                  "lat" : 53.5735718,
+                  "lng" : -2.2678555
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

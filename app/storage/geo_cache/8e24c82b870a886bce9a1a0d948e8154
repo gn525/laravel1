@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holywood",
+               "short_name" : "Holywood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Holywood",
+               "short_name" : "Holywood",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Down",
+               "short_name" : "North Down",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT18",
+               "short_name" : "BT18",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Holywood, Holywood, North Down BT18, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.63949,
+               "lng" : -5.83778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6459468,
+                  "lng" : -5.8217726
+               },
+               "southwest" : {
+                  "lat" : 54.63303209999999,
+                  "lng" : -5.8537874
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

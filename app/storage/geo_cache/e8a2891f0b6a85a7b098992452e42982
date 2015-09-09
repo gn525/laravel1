@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pembroke Dock",
+               "short_name" : "Pembroke Dock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pembroke Dock, Pembrokeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7054078,
+                  "lng" : -4.9180404
+               },
+               "southwest" : {
+                  "lat" : 51.6799426,
+                  "lng" : -4.9654688
+               }
+            },
+            "location" : {
+               "lat" : 51.691894,
+               "lng" : -4.943763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7054078,
+                  "lng" : -4.9180404
+               },
+               "southwest" : {
+                  "lat" : 51.6799426,
+                  "lng" : -4.9654688
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

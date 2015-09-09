@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DE12",
+               "short_name" : "DE12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Swadlincote",
+               "short_name" : "Swadlincote",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swadlincote DE12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7749423,
+                  "lng" : -1.4504659
+               },
+               "southwest" : {
+                  "lat" : 52.6614432,
+                  "lng" : -1.7157937
+               }
+            },
+            "location" : {
+               "lat" : 52.724387,
+               "lng" : -1.580361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7749423,
+                  "lng" : -1.4504659
+               },
+               "southwest" : {
+                  "lat" : 52.6614432,
+                  "lng" : -1.7157937
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

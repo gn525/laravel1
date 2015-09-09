@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Kessock",
+               "short_name" : "North Kessock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Kessock, Highland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.514078,
+                  "lng" : -4.2450243
+               },
+               "southwest" : {
+                  "lat" : 57.5012022,
+                  "lng" : -4.2840845
+               }
+            },
+            "location" : {
+               "lat" : 57.501959,
+               "lng" : -4.251458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.514078,
+                  "lng" : -4.2450243
+               },
+               "southwest" : {
+                  "lat" : 57.5012022,
+                  "lng" : -4.2840845
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

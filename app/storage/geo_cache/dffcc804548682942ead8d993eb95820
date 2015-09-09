@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moreton",
+               "short_name" : "Moreton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dorchester",
+               "short_name" : "Dorchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DT2",
+               "short_name" : "DT2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moreton, Dorchester, Dorset DT2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.702821,
+               "lng" : -2.285468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7098873,
+                  "lng" : -2.2694606
+               },
+               "southwest" : {
+                  "lat" : 50.6957536,
+                  "lng" : -2.3014754
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

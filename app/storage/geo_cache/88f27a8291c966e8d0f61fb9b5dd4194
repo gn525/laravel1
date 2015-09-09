@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Steeple Morden",
+               "short_name" : "Steeple Morden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Royston",
+               "short_name" : "Royston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG8",
+               "short_name" : "SG8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Steeple Morden, Royston, Cambridgeshire SG8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.069702,
+               "lng" : -0.118461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0765603,
+                  "lng" : -0.1024536
+               },
+               "southwest" : {
+                  "lat" : 52.0628426,
+                  "lng" : -0.1344684
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

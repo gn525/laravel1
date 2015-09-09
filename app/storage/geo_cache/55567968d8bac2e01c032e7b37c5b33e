@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Theydon Bois",
+               "short_name" : "Theydon Bois",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Theydon Bois, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6841771,
+                  "lng" : 0.1278299
+               },
+               "southwest" : {
+                  "lat" : 51.648973,
+                  "lng" : 0.0680347
+               }
+            },
+            "location" : {
+               "lat" : 51.672497,
+               "lng" : 0.09447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6841771,
+                  "lng" : 0.1278299
+               },
+               "southwest" : {
+                  "lat" : 51.648973,
+                  "lng" : 0.0680347
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

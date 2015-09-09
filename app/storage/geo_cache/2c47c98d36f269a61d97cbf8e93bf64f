@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Great Missenden",
+               "short_name" : "Great Missenden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Great Missenden",
+               "short_name" : "Great Missenden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP16",
+               "short_name" : "HP16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Great Missenden, Great Missenden, Buckinghamshire HP16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7132849,
+                  "lng" : -0.6928225
+               },
+               "southwest" : {
+                  "lat" : 51.6976306,
+                  "lng" : -0.7307216
+               }
+            },
+            "location" : {
+               "lat" : 51.702655,
+               "lng" : -0.70319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7132849,
+                  "lng" : -0.6928225
+               },
+               "southwest" : {
+                  "lat" : 51.6976306,
+                  "lng" : -0.7307216
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laurencekirk",
+               "short_name" : "Laurencekirk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laurencekirk",
+               "short_name" : "Laurencekirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB30",
+               "short_name" : "AB30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laurencekirk, Laurencekirk, Aberdeenshire AB30, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.8406868,
+                  "lng" : -2.456495
+               },
+               "southwest" : {
+                  "lat" : 56.8249909,
+                  "lng" : -2.4850037
+               }
+            },
+            "location" : {
+               "lat" : 56.831345,
+               "lng" : -2.472517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8406868,
+                  "lng" : -2.456495
+               },
+               "southwest" : {
+                  "lat" : 56.8249909,
+                  "lng" : -2.4850037
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

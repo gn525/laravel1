@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterbeach",
+               "short_name" : "Waterbeach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterbeach, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.32557920000001,
+                  "lng" : 0.2502487
+               },
+               "southwest" : {
+                  "lat" : 52.25216409999999,
+                  "lng" : 0.1708187
+               }
+            },
+            "location" : {
+               "lat" : 52.26558199999999,
+               "lng" : 0.191002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.32557920000001,
+                  "lng" : 0.2502487
+               },
+               "southwest" : {
+                  "lat" : 52.25216409999999,
+                  "lng" : 0.1708187
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

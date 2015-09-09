@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mottram in Longdendale",
+               "short_name" : "Mottram in Longdendale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mottram in Longdendale, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4717182,
+                  "lng" : -1.9932585
+               },
+               "southwest" : {
+                  "lat" : 53.4441009,
+                  "lng" : -2.0267743
+               }
+            },
+            "location" : {
+               "lat" : 53.459498,
+               "lng" : -2.013286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4717182,
+                  "lng" : -1.9932585
+               },
+               "southwest" : {
+                  "lat" : 53.4441009,
+                  "lng" : -2.0267743
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

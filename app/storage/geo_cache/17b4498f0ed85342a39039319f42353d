@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clowne",
+               "short_name" : "Clowne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chesterfield",
+               "short_name" : "Chesterfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S43",
+               "short_name" : "S43",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clowne, Chesterfield, Derbyshire S43, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2838639,
+                  "lng" : -1.2404275
+               },
+               "southwest" : {
+                  "lat" : 53.2629469,
+                  "lng" : -1.2825288
+               }
+            },
+            "location" : {
+               "lat" : 53.27422,
+               "lng" : -1.2652699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2838639,
+                  "lng" : -1.2404275
+               },
+               "southwest" : {
+                  "lat" : 53.2629469,
+                  "lng" : -1.2825288
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

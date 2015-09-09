@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bishopton",
+               "short_name" : "Bishopton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bishopton",
+               "short_name" : "Bishopton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA7",
+               "short_name" : "PA7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bishopton, Bishopton, Renfrewshire PA7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9162723,
+                  "lng" : -4.4838024
+               },
+               "southwest" : {
+                  "lat" : 55.8993216,
+                  "lng" : -4.519178699999999
+               }
+            },
+            "location" : {
+               "lat" : 55.90862199999999,
+               "lng" : -4.504519999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9162723,
+                  "lng" : -4.4838024
+               },
+               "southwest" : {
+                  "lat" : 55.8993216,
+                  "lng" : -4.519178699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

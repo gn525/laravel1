@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT78",
+               "short_name" : "BT78",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Omagh, Omagh, Omagh BT78, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.59657,
+               "lng" : -7.306909999999998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6030336,
+                  "lng" : -7.290902600000001
+               },
+               "southwest" : {
+                  "lat" : 54.5901053,
+                  "lng" : -7.3229174
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Market Bosworth",
+               "short_name" : "Market Bosworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nuneaton",
+               "short_name" : "Nuneaton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV13",
+               "short_name" : "CV13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Market Bosworth, Nuneaton, Leicestershire CV13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6410113,
+                  "lng" : -1.3846122
+               },
+               "southwest" : {
+                  "lat" : 52.6024824,
+                  "lng" : -1.4443801
+               }
+            },
+            "location" : {
+               "lat" : 52.623465,
+               "lng" : -1.40784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6410113,
+                  "lng" : -1.3846122
+               },
+               "southwest" : {
+                  "lat" : 52.6024824,
+                  "lng" : -1.4443801
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

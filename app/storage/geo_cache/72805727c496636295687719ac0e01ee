@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thurso",
+               "short_name" : "Thurso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thurso, Highland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.6010199,
+                  "lng" : -3.500424
+               },
+               "southwest" : {
+                  "lat" : 58.5806605,
+                  "lng" : -3.5481712
+               }
+            },
+            "location" : {
+               "lat" : 58.593566,
+               "lng" : -3.52208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.6010199,
+                  "lng" : -3.500424
+               },
+               "southwest" : {
+                  "lat" : 58.5806605,
+                  "lng" : -3.5481712
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

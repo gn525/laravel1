@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gullane",
+               "short_name" : "Gullane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Lothian",
+               "short_name" : "East Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gullane, East Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0458221,
+                  "lng" : -2.8032755
+               },
+               "southwest" : {
+                  "lat" : 56.02643149999999,
+                  "lng" : -2.8552779
+               }
+            },
+            "location" : {
+               "lat" : 56.036342,
+               "lng" : -2.827051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0458221,
+                  "lng" : -2.8032755
+               },
+               "southwest" : {
+                  "lat" : 56.02643149999999,
+                  "lng" : -2.8552779
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

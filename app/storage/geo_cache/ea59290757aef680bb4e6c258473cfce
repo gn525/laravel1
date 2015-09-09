@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moons Moat North Industrial Estate",
+               "short_name" : "Moons Moat North Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Moons Moat North Industrial Estate",
+               "short_name" : "Moons Moat North Industrial Estate",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Walkers Road",
+               "short_name" : "Walkers Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moons Moat North Industrial Estate",
+               "short_name" : "Moons Moat North Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Redditch",
+               "short_name" : "Redditch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Redditch",
+               "short_name" : "Redditch",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B98 9HE",
+               "short_name" : "B98 9HE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moons Moat North Industrial Estate, Moons Moat North Industrial Estate, Walkers Road, Redditch, Worcestershire B98 9HE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3157129,
+               "lng" : -1.8960511
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3170618802915,
+                  "lng" : -1.894702119708498
+               },
+               "southwest" : {
+                  "lat" : 52.3143639197085,
+                  "lng" : -1.897400080291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stansted",
+               "short_name" : "Stansted",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stansted",
+               "short_name" : "Stansted",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stansted, Stansted, Essex, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.90522499999999,
+               "lng" : 0.19691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9121086,
+                  "lng" : 0.2129174
+               },
+               "southwest" : {
+                  "lat" : 51.8983404,
+                  "lng" : 0.1809026
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stansted",
+               "short_name" : "Stansted",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sevenoaks",
+               "short_name" : "Sevenoaks",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN15",
+               "short_name" : "TN15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stansted, Sevenoaks, Kent TN15, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3518777,
+                  "lng" : 0.3245963
+               },
+               "southwest" : {
+                  "lat" : 51.319441,
+                  "lng" : 0.2847041
+               }
+            },
+            "location" : {
+               "lat" : 51.33635,
+               "lng" : 0.30768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3518777,
+                  "lng" : 0.3245963
+               },
+               "southwest" : {
+                  "lat" : 51.319441,
+                  "lng" : 0.2847041
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

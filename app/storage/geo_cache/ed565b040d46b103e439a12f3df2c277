@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ellington",
+               "short_name" : "Ellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morpeth",
+               "short_name" : "Morpeth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE61",
+               "short_name" : "NE61",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ellington, Morpeth, Northumberland NE61, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.2314612,
+                  "lng" : -1.5513602
+               },
+               "southwest" : {
+                  "lat" : 55.215512,
+                  "lng" : -1.5775292
+               }
+            },
+            "location" : {
+               "lat" : 55.220624,
+               "lng" : -1.563917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2314612,
+                  "lng" : -1.5513602
+               },
+               "southwest" : {
+                  "lat" : 55.215512,
+                  "lng" : -1.5775292
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ellington",
+               "short_name" : "Ellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huntingdon",
+               "short_name" : "Huntingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE28",
+               "short_name" : "PE28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ellington, Huntingdon, Cambridgeshire PE28, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.330917,
+               "lng" : -0.300501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3322659802915,
+                  "lng" : -0.299152019708498
+               },
+               "southwest" : {
+                  "lat" : 52.3295680197085,
+                  "lng" : -0.3018499802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

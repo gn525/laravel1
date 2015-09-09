@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tutbury",
+               "short_name" : "Tutbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burton-on-Trent",
+               "short_name" : "Burton-on-Trent",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE13",
+               "short_name" : "DE13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tutbury, Burton-on-Trent, Staffordshire DE13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.85472799999999,
+               "lng" : -1.686284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8614651,
+                  "lng" : -1.6702766
+               },
+               "southwest" : {
+                  "lat" : 52.84798989999999,
+                  "lng" : -1.7022914
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

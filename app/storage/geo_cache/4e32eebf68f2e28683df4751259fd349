@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shipley",
+               "short_name" : "Shipley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shipley, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.84308619999999,
+                  "lng" : -1.746758
+               },
+               "southwest" : {
+                  "lat" : 53.818193,
+                  "lng" : -1.8158753
+               }
+            },
+            "location" : {
+               "lat" : 53.835927,
+               "lng" : -1.776978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.84308619999999,
+                  "lng" : -1.746758
+               },
+               "southwest" : {
+                  "lat" : 53.818193,
+                  "lng" : -1.8158753
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

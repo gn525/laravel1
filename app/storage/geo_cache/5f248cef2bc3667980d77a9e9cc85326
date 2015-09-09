@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG11",
+               "short_name" : "NG11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "NG11, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9379147,
+                  "lng" : -1.1022793
+               },
+               "southwest" : {
+                  "lat" : 52.83727349999999,
+                  "lng" : -1.2749566
+               }
+            },
+            "location" : {
+               "lat" : 52.87872110000001,
+               "lng" : -1.209377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9379147,
+                  "lng" : -1.1022793
+               },
+               "southwest" : {
+                  "lat" : 52.83727349999999,
+                  "lng" : -1.2749566
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

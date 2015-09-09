@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PA1",
+               "short_name" : "PA1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "PA1, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.856612,
+                  "lng" : -4.3688758
+               },
+               "southwest" : {
+                  "lat" : 55.8382371,
+                  "lng" : -4.4828678
+               }
+            },
+            "location" : {
+               "lat" : 55.8428646,
+               "lng" : -4.415196799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.856612,
+                  "lng" : -4.3688758
+               },
+               "southwest" : {
+                  "lat" : 55.8382371,
+                  "lng" : -4.4828678
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

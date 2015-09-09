@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WD17",
+               "short_name" : "WD17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Watford",
+               "short_name" : "Watford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Watford, Hertfordshire WD17, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6845942,
+                  "lng" : -0.3833175
+               },
+               "southwest" : {
+                  "lat" : 51.64586749999999,
+                  "lng" : -0.4395734000000001
+               }
+            },
+            "location" : {
+               "lat" : 51.669535,
+               "lng" : -0.4116259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6845942,
+                  "lng" : -0.3833175
+               },
+               "southwest" : {
+                  "lat" : 51.64586749999999,
+                  "lng" : -0.4395734000000001
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

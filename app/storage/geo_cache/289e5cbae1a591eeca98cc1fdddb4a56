@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preston Business Centre",
+               "short_name" : "Preston Business Centre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Watling Street Road",
+               "short_name" : "Watling St Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fulwood",
+               "short_name" : "Fulwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR2 8DY",
+               "short_name" : "PR2 8DY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Preston Business Centre, Watling Street Road, Fulwood, Preston, Lancashire PR2 8DY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.7781131,
+               "lng" : -2.70539
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.77946208029149,
+                  "lng" : -2.704041019708499
+               },
+               "southwest" : {
+                  "lat" : 53.7767641197085,
+                  "lng" : -2.706738980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

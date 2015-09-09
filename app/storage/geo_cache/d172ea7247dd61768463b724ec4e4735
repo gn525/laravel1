@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OX25",
+               "short_name" : "OX25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Bicester",
+               "short_name" : "Bicester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bicester OX25, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.97939590000001,
+                  "lng" : -1.0505861
+               },
+               "southwest" : {
+                  "lat" : 51.836263,
+                  "lng" : -1.3620515
+               }
+            },
+            "location" : {
+               "lat" : 51.9194877,
+               "lng" : -1.2657848
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.97939590000001,
+                  "lng" : -1.0505861
+               },
+               "southwest" : {
+                  "lat" : 51.836263,
+                  "lng" : -1.3620515
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

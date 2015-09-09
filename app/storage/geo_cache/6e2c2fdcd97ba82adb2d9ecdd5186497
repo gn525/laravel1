@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caton",
+               "short_name" : "Caton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LA2",
+               "short_name" : "LA2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Caton, Lancaster, Lancashire LA2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.0852177,
+                  "lng" : -2.7041061
+               },
+               "southwest" : {
+                  "lat" : 54.0687423,
+                  "lng" : -2.7318489
+               }
+            },
+            "location" : {
+               "lat" : 54.0760749,
+               "lng" : -2.7180806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0852177,
+                  "lng" : -2.7041061
+               },
+               "southwest" : {
+                  "lat" : 54.0687423,
+                  "lng" : -2.7318489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caton",
+               "short_name" : "Caton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Abbot",
+               "short_name" : "Newton Abbot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TQ13",
+               "short_name" : "TQ13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Caton, Newton Abbot, Devon TQ13, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.53255799999999,
+               "lng" : -3.719835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.53390698029149,
+                  "lng" : -3.718486019708497
+               },
+               "southwest" : {
+                  "lat" : 50.53120901970849,
+                  "lng" : -3.721183980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atherton",
+               "short_name" : "Atherton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atherton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5397742,
+                  "lng" : -2.4669413
+               },
+               "southwest" : {
+                  "lat" : 53.5065725,
+                  "lng" : -2.5226707
+               }
+            },
+            "location" : {
+               "lat" : 53.52401099999999,
+               "lng" : -2.49227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5397742,
+                  "lng" : -2.4669413
+               },
+               "southwest" : {
+                  "lat" : 53.5065725,
+                  "lng" : -2.5226707
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE45",
+               "short_name" : "DE45",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bakewell, Bakewell, Derbyshire DE45, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2258759,
+                  "lng" : -1.6632615
+               },
+               "southwest" : {
+                  "lat" : 53.20161590000001,
+                  "lng" : -1.6948821
+               }
+            },
+            "location" : {
+               "lat" : 53.215207,
+               "lng" : -1.676171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2258759,
+                  "lng" : -1.6632615
+               },
+               "southwest" : {
+                  "lat" : 53.20161590000001,
+                  "lng" : -1.6948821
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

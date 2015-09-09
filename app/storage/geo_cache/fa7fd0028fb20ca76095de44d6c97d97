@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Fergus",
+               "short_name" : "St Fergus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterhead",
+               "short_name" : "Peterhead",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "AB42",
+               "short_name" : "AB42",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Fergus, Peterhead, Aberdeenshire AB42, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.55730699999999,
+               "lng" : -1.838958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5632923,
+                  "lng" : -1.8229506
+               },
+               "southwest" : {
+                  "lat" : 57.5513207,
+                  "lng" : -1.8549654
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

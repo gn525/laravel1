@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CH44",
+               "short_name" : "CH44",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Merseyside CH44, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4264307,
+                  "lng" : -3.0153244
+               },
+               "southwest" : {
+                  "lat" : 53.4015912,
+                  "lng" : -3.0850032
+               }
+            },
+            "location" : {
+               "lat" : 53.4140646,
+               "lng" : -3.0417988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4264307,
+                  "lng" : -3.0153244
+               },
+               "southwest" : {
+                  "lat" : 53.4015912,
+                  "lng" : -3.0850032
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

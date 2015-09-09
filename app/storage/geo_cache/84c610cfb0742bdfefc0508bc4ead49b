@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milnrow",
+               "short_name" : "Milnrow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochdale",
+               "short_name" : "Rochdale",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OL16",
+               "short_name" : "OL16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Milnrow, Rochdale OL16, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6212952,
+                  "lng" : -2.0883525
+               },
+               "southwest" : {
+                  "lat" : 53.6000498,
+                  "lng" : -2.1250718
+               }
+            },
+            "location" : {
+               "lat" : 53.61071099999999,
+               "lng" : -2.11657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6212952,
+                  "lng" : -2.0883525
+               },
+               "southwest" : {
+                  "lat" : 53.6000498,
+                  "lng" : -2.1250718
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

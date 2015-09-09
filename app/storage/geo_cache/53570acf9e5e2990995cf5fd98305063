@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Helena",
+               "short_name" : "Saint Helena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Polesworth",
+               "short_name" : "Polesworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B78",
+               "short_name" : "B78",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Helena, Polesworth, Tamworth, Warwickshire B78, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6126462,
+               "lng" : -1.6100882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6194208,
+                  "lng" : -1.5940808
+               },
+               "southwest" : {
+                  "lat" : 52.60587049999999,
+                  "lng" : -1.6260956
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Helena",
+               "short_name" : "Saint Helena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Horsford",
+               "short_name" : "Horsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR10",
+               "short_name" : "NR10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Helena, Horsford, Norwich, Norfolk NR10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.706695,
+               "lng" : 1.236227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.70804398029149,
+                  "lng" : 1.237575980291502
+               },
+               "southwest" : {
+                  "lat" : 52.70534601970849,
+                  "lng" : 1.234878019708498
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

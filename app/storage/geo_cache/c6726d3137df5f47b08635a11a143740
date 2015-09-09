@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thetford",
+               "short_name" : "Thetford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thetford, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4665713,
+                  "lng" : 0.777496
+               },
+               "southwest" : {
+                  "lat" : 52.39221240000001,
+                  "lng" : 0.6684378
+               }
+            },
+            "location" : {
+               "lat" : 52.412856,
+               "lng" : 0.751657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4665713,
+                  "lng" : 0.777496
+               },
+               "southwest" : {
+                  "lat" : 52.39221240000001,
+                  "lng" : 0.6684378
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

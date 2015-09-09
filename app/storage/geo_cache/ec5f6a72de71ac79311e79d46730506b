@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rudgwick",
+               "short_name" : "Rudgwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horsham",
+               "short_name" : "Horsham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH12",
+               "short_name" : "RH12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rudgwick, Horsham, West Sussex RH12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1080867,
+                  "lng" : -0.4297981
+               },
+               "southwest" : {
+                  "lat" : 51.0768293,
+                  "lng" : -0.4729323
+               }
+            },
+            "location" : {
+               "lat" : 51.09579799999999,
+               "lng" : -0.444344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1080867,
+                  "lng" : -0.4297981
+               },
+               "southwest" : {
+                  "lat" : 51.0768293,
+                  "lng" : -0.4729323
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

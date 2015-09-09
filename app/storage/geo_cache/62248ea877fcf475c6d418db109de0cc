@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NE1",
+               "short_name" : "NE1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne, Tyne and Wear NE1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.99912699999999,
+                  "lng" : -1.5889823
+               },
+               "southwest" : {
+                  "lat" : 54.9620642,
+                  "lng" : -1.6652204
+               }
+            },
+            "location" : {
+               "lat" : 54.9753348,
+               "lng" : -1.6100477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.98325269999999,
+                  "lng" : -1.5889823
+               },
+               "southwest" : {
+                  "lat" : 54.9620642,
+                  "lng" : -1.6281344
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

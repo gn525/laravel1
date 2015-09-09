@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redditch",
+               "short_name" : "Redditch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcestershire",
+               "short_name" : "Worcs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redditch, Worcestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3241974,
+                  "lng" : -1.8752154
+               },
+               "southwest" : {
+                  "lat" : 52.267535,
+                  "lng" : -1.986159
+               }
+            },
+            "location" : {
+               "lat" : 52.30897,
+               "lng" : -1.940936
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3241974,
+                  "lng" : -1.8752154
+               },
+               "southwest" : {
+                  "lat" : 52.267535,
+                  "lng" : -1.986159
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

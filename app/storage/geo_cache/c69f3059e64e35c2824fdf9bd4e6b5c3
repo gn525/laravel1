@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sittingbourne",
+               "short_name" : "Sittingbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sittingbourne",
+               "short_name" : "Sittingbourne",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sittingbourne, Sittingbourne, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3597194,
+                  "lng" : 0.7662236000000001
+               },
+               "southwest" : {
+                  "lat" : 51.3217802,
+                  "lng" : 0.6994125999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.340402,
+               "lng" : 0.7315959999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3597194,
+                  "lng" : 0.7662236000000001
+               },
+               "southwest" : {
+                  "lat" : 51.3217802,
+                  "lng" : 0.6994125999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

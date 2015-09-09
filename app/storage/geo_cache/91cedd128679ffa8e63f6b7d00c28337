@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kilmacolm",
+               "short_name" : "Kilmacolm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inverclyde",
+               "short_name" : "Inverclyde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kilmacolm, Inverclyde, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9137596,
+                  "lng" : -4.6019508
+               },
+               "southwest" : {
+                  "lat" : 55.8782977,
+                  "lng" : -4.662952499999999
+               }
+            },
+            "location" : {
+               "lat" : 55.893756,
+               "lng" : -4.626772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9137596,
+                  "lng" : -4.6019508
+               },
+               "southwest" : {
+                  "lat" : 55.8782977,
+                  "lng" : -4.662952499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

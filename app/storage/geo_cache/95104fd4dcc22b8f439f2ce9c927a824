@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO2",
+               "short_name" : "PO2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portsmouth, Portsmouth PO2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8372194,
+                  "lng" : -1.0640526
+               },
+               "southwest" : {
+                  "lat" : 50.7895573,
+                  "lng" : -1.1024187
+               }
+            },
+            "location" : {
+               "lat" : 50.814623,
+               "lng" : -1.0819254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8372194,
+                  "lng" : -1.0640526
+               },
+               "southwest" : {
+                  "lat" : 50.80576600000001,
+                  "lng" : -1.1024187
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

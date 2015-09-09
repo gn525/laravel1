@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkwall",
+               "short_name" : "Kirkwall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orkney",
+               "short_name" : "Ork",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirkwall, Orkney, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.9952496,
+                  "lng" : -2.9319913
+               },
+               "southwest" : {
+                  "lat" : 58.96786409999999,
+                  "lng" : -2.9816958
+               }
+            },
+            "location" : {
+               "lat" : 58.98467400000001,
+               "lng" : -2.962249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.9952496,
+                  "lng" : -2.9319913
+               },
+               "southwest" : {
+                  "lat" : 58.96786409999999,
+                  "lng" : -2.9816958
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

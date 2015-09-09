@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bathgate",
+               "short_name" : "Bathgate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bathgate",
+               "short_name" : "Bathgate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Lothian",
+               "short_name" : "West Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bathgate, Bathgate, West Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9168447,
+                  "lng" : -3.5949564
+               },
+               "southwest" : {
+                  "lat" : 55.87737259999999,
+                  "lng" : -3.6771752
+               }
+            },
+            "location" : {
+               "lat" : 55.9024,
+               "lng" : -3.643118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9168447,
+                  "lng" : -3.5949564
+               },
+               "southwest" : {
+                  "lat" : 55.87737259999999,
+                  "lng" : -3.6771752
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

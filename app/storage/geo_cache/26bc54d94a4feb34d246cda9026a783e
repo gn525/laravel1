@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Alresford",
+               "short_name" : "Old Alresford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alresford",
+               "short_name" : "Alresford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO24",
+               "short_name" : "SO24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Alresford, Alresford, Hampshire SO24, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.100594,
+               "lng" : -1.160555
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1076002,
+                  "lng" : -1.1445476
+               },
+               "southwest" : {
+                  "lat" : 51.0935868,
+                  "lng" : -1.1765624
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

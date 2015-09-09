@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birchwood",
+               "short_name" : "Birchwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Birchwood, Warrington, Warrington, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4365627,
+                  "lng" : -2.4769265
+               },
+               "southwest" : {
+                  "lat" : 53.4104347,
+                  "lng" : -2.5560693
+               }
+            },
+            "location" : {
+               "lat" : 53.416602,
+               "lng" : -2.523856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4365627,
+                  "lng" : -2.4769265
+               },
+               "southwest" : {
+                  "lat" : 53.4104347,
+                  "lng" : -2.5560693
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

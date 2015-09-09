@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Sarum",
+               "short_name" : "Old Sarum",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Castle Road",
+               "short_name" : "Castle Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP1 3SD",
+               "short_name" : "SP1 3SD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Sarum, Castle Road, Salisbury, Wiltshire SP1 3SD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0953353,
+                  "lng" : -1.8008711
+               },
+               "southwest" : {
+                  "lat" : 51.091349,
+                  "lng" : -1.8082554
+               }
+            },
+            "location" : {
+               "lat" : 51.0932288,
+               "lng" : -1.8048782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0953353,
+                  "lng" : -1.8008711
+               },
+               "southwest" : {
+                  "lat" : 51.091349,
+                  "lng" : -1.8082554
+               }
+            }
+         },
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

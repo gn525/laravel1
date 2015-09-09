@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alconbury",
+               "short_name" : "Alconbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huntingdon",
+               "short_name" : "Huntingdon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE28",
+               "short_name" : "PE28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alconbury, Huntingdon, Cambridgeshire PE28, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3923548,
+                  "lng" : -0.1971697
+               },
+               "southwest" : {
+                  "lat" : 52.33240139999999,
+                  "lng" : -0.2961578
+               }
+            },
+            "location" : {
+               "lat" : 52.36591199999999,
+               "lng" : -0.262374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3923548,
+                  "lng" : -0.1971697
+               },
+               "southwest" : {
+                  "lat" : 52.33240139999999,
+                  "lng" : -0.2961578
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

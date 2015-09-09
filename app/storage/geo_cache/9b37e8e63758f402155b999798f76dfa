@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Larkhall",
+               "short_name" : "Larkhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larkhall",
+               "short_name" : "Larkhall",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML9",
+               "short_name" : "ML9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Larkhall, Larkhall, South Lanarkshire ML9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.75494,
+                  "lng" : -3.950701
+               },
+               "southwest" : {
+                  "lat" : 55.71851239999999,
+                  "lng" : -3.9943615
+               }
+            },
+            "location" : {
+               "lat" : 55.737744,
+               "lng" : -3.971699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.75494,
+                  "lng" : -3.950701
+               },
+               "southwest" : {
+                  "lat" : 55.71851239999999,
+                  "lng" : -3.9943615
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

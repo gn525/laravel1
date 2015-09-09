@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paignton",
+               "short_name" : "Paignton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torbay",
+               "short_name" : "Torbay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paignton, Torbay, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4576855,
+                  "lng" : -3.541844
+               },
+               "southwest" : {
+                  "lat" : 50.3992103,
+                  "lng" : -3.6260342
+               }
+            },
+            "location" : {
+               "lat" : 50.43508,
+               "lng" : -3.564235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4576855,
+                  "lng" : -3.541844
+               },
+               "southwest" : {
+                  "lat" : 50.3992103,
+                  "lng" : -3.6260342
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

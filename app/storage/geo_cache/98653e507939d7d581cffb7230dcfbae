@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selsdon",
+               "short_name" : "Selsdon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "South Croydon",
+               "short_name" : "South Croydon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Croydon",
+               "short_name" : "South Croydon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CR2",
+               "short_name" : "CR2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Selsdon, South Croydon, South Croydon, Greater London CR2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3428169,
+               "lng" : -0.06442099999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3497863,
+                  "lng" : -0.0484136
+               },
+               "southwest" : {
+                  "lat" : 51.3358464,
+                  "lng" : -0.08042840000000001
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

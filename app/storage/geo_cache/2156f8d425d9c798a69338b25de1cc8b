@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whippingham",
+               "short_name" : "Whippingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Cowes",
+               "short_name" : "East Cowes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Isle of Wight",
+               "short_name" : "IOW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PO32",
+               "short_name" : "PO32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whippingham, East Cowes, Isle of Wight PO32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.74159900000001,
+               "lng" : -1.277336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7486595,
+                  "lng" : -1.2613286
+               },
+               "southwest" : {
+                  "lat" : 50.73453749999999,
+                  "lng" : -1.2933434
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

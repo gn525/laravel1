@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fordingbridge",
+               "short_name" : "Fordingbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fordingbridge",
+               "short_name" : "Fordingbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP6",
+               "short_name" : "SP6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fordingbridge, Fordingbridge, Hampshire SP6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9465011,
+                  "lng" : -1.767581
+               },
+               "southwest" : {
+                  "lat" : 50.91777039999999,
+                  "lng" : -1.818589
+               }
+            },
+            "location" : {
+               "lat" : 50.9258359,
+               "lng" : -1.792526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9465011,
+                  "lng" : -1.767581
+               },
+               "southwest" : {
+                  "lat" : 50.91777039999999,
+                  "lng" : -1.818589
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

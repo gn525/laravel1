@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torpoint",
+               "short_name" : "Torpoint",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torpoint, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3868654,
+                  "lng" : -4.1910444
+               },
+               "southwest" : {
+                  "lat" : 50.3690565,
+                  "lng" : -4.231764399999999
+               }
+            },
+            "location" : {
+               "lat" : 50.37529,
+               "lng" : -4.194344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3868654,
+                  "lng" : -4.1910444
+               },
+               "southwest" : {
+                  "lat" : 50.3690565,
+                  "lng" : -4.231764399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rotterdam",
+               "short_name" : "Rotterdam",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newcastle-under-Lyme",
+               "short_name" : "Newcastle-under-Lyme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newcastle",
+               "short_name" : "Newcastle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST5 2NH",
+               "short_name" : "ST5 2NH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rotterdam, Newcastle, Staffordshire ST5 2NH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.01224329999999,
+                  "lng" : -2.2396992
+               },
+               "southwest" : {
+                  "lat" : 53.0117207,
+                  "lng" : -2.2429647
+               }
+            },
+            "location" : {
+               "lat" : 53.0122215,
+               "lng" : -2.2414642
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0133309802915,
+                  "lng" : -2.2396992
+               },
+               "southwest" : {
+                  "lat" : 53.0106330197085,
+                  "lng" : -2.2429647
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

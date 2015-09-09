@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Walthamstow",
+               "short_name" : "Walthamstow",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Walthamstow, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6084229,
+                  "lng" : 0.0140762
+               },
+               "southwest" : {
+                  "lat" : 51.56538639999999,
+                  "lng" : -0.0458336
+               }
+            },
+            "location" : {
+               "lat" : 51.5901769,
+               "lng" : -0.0173437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6084229,
+                  "lng" : 0.0140762
+               },
+               "southwest" : {
+                  "lat" : 51.56538639999999,
+                  "lng" : -0.0458336
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

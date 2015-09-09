@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bromley Cross",
+               "short_name" : "Bromley Cross",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolton",
+               "short_name" : "Bolton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bromley Cross, Bolton, Bolton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6254335,
+                  "lng" : -2.4062854
+               },
+               "southwest" : {
+                  "lat" : 53.6074816,
+                  "lng" : -2.4329635
+               }
+            },
+            "location" : {
+               "lat" : 53.6171369,
+               "lng" : -2.4231836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6254335,
+                  "lng" : -2.4062854
+               },
+               "southwest" : {
+                  "lat" : 53.6074816,
+                  "lng" : -2.4329635
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

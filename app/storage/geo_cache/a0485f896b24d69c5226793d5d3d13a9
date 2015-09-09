@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastry",
+               "short_name" : "Eastry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastry, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.25757189999999,
+                  "lng" : 1.3378891
+               },
+               "southwest" : {
+                  "lat" : 51.2218586,
+                  "lng" : 1.2607453
+               }
+            },
+            "location" : {
+               "lat" : 51.245154,
+               "lng" : 1.303401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.25757189999999,
+                  "lng" : 1.3378891
+               },
+               "southwest" : {
+                  "lat" : 51.2218586,
+                  "lng" : 1.2607453
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3",
+               "short_name" : "LD3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brecon, Brecon, Powys LD3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9600424,
+                  "lng" : -3.362116
+               },
+               "southwest" : {
+                  "lat" : 51.9399422,
+                  "lng" : -3.4178967
+               }
+            },
+            "location" : {
+               "lat" : 51.9489469,
+               "lng" : -3.391463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9600424,
+                  "lng" : -3.362116
+               },
+               "southwest" : {
+                  "lat" : 51.9399422,
+                  "lng" : -3.4178967
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

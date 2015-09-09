@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TS24",
+               "short_name" : "TS24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "TS24, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7232396,
+                  "lng" : -1.1753294
+               },
+               "southwest" : {
+                  "lat" : 54.6786621,
+                  "lng" : -1.2629192
+               }
+            },
+            "location" : {
+               "lat" : 54.6967898,
+               "lng" : -1.2050761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7232396,
+                  "lng" : -1.1753294
+               },
+               "southwest" : {
+                  "lat" : 54.6786621,
+                  "lng" : -1.2629192
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

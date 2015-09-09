@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkby in Ashfield",
+               "short_name" : "Kirkby in Ashfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirkby in Ashfield, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1145954,
+                  "lng" : -1.2158063
+               },
+               "southwest" : {
+                  "lat" : 53.0755701,
+                  "lng" : -1.2864812
+               }
+            },
+            "location" : {
+               "lat" : 53.100963,
+               "lng" : -1.269612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1145954,
+                  "lng" : -1.2158063
+               },
+               "southwest" : {
+                  "lat" : 53.0755701,
+                  "lng" : -1.2864812
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

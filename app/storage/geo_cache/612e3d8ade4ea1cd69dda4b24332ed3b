@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arncott",
+               "short_name" : "Arncott",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Cherwell",
+               "short_name" : "Cherwell",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arncott, Oxfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8671361,
+                  "lng" : -1.0891744
+               },
+               "southwest" : {
+                  "lat" : 51.8364329,
+                  "lng" : -1.1388722
+               }
+            },
+            "location" : {
+               "lat" : 51.85232629999999,
+               "lng" : -1.1107111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8671361,
+                  "lng" : -1.0891744
+               },
+               "southwest" : {
+                  "lat" : 51.8364329,
+                  "lng" : -1.1388722
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

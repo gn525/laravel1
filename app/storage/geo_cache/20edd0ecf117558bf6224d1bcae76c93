@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Englefield Green",
+               "short_name" : "Englefield Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Englefield Green, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.451007,
+                  "lng" : -0.5509617
+               },
+               "southwest" : {
+                  "lat" : 51.3784069,
+                  "lng" : -0.6196526999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.430044,
+               "lng" : -0.569947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.451007,
+                  "lng" : -0.5509617
+               },
+               "southwest" : {
+                  "lat" : 51.3784069,
+                  "lng" : -0.6196526999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

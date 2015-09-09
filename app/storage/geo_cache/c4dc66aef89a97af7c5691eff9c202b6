@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldeby",
+               "short_name" : "Aldeby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beccles",
+               "short_name" : "Beccles",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR34",
+               "short_name" : "NR34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aldeby, Beccles, Norfolk NR34, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.48571399999999,
+               "lng" : 1.604092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4925082,
+                  "lng" : 1.6200994
+               },
+               "southwest" : {
+                  "lat" : 52.47891869999999,
+                  "lng" : 1.5880846
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

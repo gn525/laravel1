@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashford Common",
+               "short_name" : "Ashford Common",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashford",
+               "short_name" : "Ashford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW15",
+               "short_name" : "TW15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ashford Common, Ashford, Surrey TW15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.42108899999999,
+               "lng" : -0.439867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4280465,
+                  "lng" : -0.4238596
+               },
+               "southwest" : {
+                  "lat" : 51.4141304,
+                  "lng" : -0.4558744
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

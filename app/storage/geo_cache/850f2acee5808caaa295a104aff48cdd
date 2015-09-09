@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ledbury",
+               "short_name" : "Ledbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ledbury",
+               "short_name" : "Ledbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR8",
+               "short_name" : "HR8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ledbury, Ledbury, Herefordshire HR8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0492822,
+                  "lng" : -2.4129339
+               },
+               "southwest" : {
+                  "lat" : 52.0228291,
+                  "lng" : -2.4465967
+               }
+            },
+            "location" : {
+               "lat" : 52.033882,
+               "lng" : -2.423574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0492822,
+                  "lng" : -2.4129339
+               },
+               "southwest" : {
+                  "lat" : 52.0228291,
+                  "lng" : -2.4465967
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

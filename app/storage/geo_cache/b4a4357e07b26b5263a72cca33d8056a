@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bredbury Business Park",
+               "short_name" : "Bredbury Business Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bredbury",
+               "short_name" : "Bredbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockport",
+               "short_name" : "Stockport",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK6 2SN",
+               "short_name" : "SK6 2SN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bredbury Business Park, Bredbury, Stockport SK6 2SN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4300232,
+               "lng" : -2.1155477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4313721802915,
+                  "lng" : -2.114198719708498
+               },
+               "southwest" : {
+                  "lat" : 53.4286742197085,
+                  "lng" : -2.116896680291502
+               }
+            }
+         },
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

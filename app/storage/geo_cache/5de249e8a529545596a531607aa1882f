@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "GL50",
+               "short_name" : "GL50",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheltenham, Gloucestershire GL50, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9332182,
+                  "lng" : -2.0635343
+               },
+               "southwest" : {
+                  "lat" : 51.8828356,
+                  "lng" : -2.101539
+               }
+            },
+            "location" : {
+               "lat" : 51.9000125,
+               "lng" : -2.0797502
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9332182,
+                  "lng" : -2.0635343
+               },
+               "southwest" : {
+                  "lat" : 51.8828356,
+                  "lng" : -2.101539
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

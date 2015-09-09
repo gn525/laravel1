@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridgetown",
+               "short_name" : "Bridgetown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dulverton",
+               "short_name" : "Dulverton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TA22",
+               "short_name" : "TA22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bridgetown, Dulverton, Somerset TA22, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0828429,
+               "lng" : -3.535145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0898518,
+                  "lng" : -3.5191376
+               },
+               "southwest" : {
+                  "lat" : 51.075833,
+                  "lng" : -3.5511524
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridgetown",
+               "short_name" : "Bridgetown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Launceston",
+               "short_name" : "Launceston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PL15",
+               "short_name" : "PL15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bridgetown, Launceston, Cornwall PL15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.681008,
+               "lng" : -4.351233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6823569802915,
+                  "lng" : -4.349884019708498
+               },
+               "southwest" : {
+                  "lat" : 50.6796590197085,
+                  "lng" : -4.352581980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

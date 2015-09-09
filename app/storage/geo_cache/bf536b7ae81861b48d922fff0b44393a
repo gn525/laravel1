@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belsize",
+               "short_name" : "Belsize",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rickmansworth",
+               "short_name" : "Rickmansworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WD3",
+               "short_name" : "WD3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belsize, Rickmansworth, Hertfordshire WD3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6974732,
+               "lng" : -0.504452
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7043885,
+                  "lng" : -0.4884445999999999
+               },
+               "southwest" : {
+                  "lat" : 51.6905568,
+                  "lng" : -0.5204594
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

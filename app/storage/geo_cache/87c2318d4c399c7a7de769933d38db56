@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prenton",
+               "short_name" : "Prenton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH43",
+               "short_name" : "CH43",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prenton, Merseyside CH43, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.41204459999999,
+                  "lng" : -3.0322494
+               },
+               "southwest" : {
+                  "lat" : 53.35718079999999,
+                  "lng" : -3.0903847
+               }
+            },
+            "location" : {
+               "lat" : 53.386442,
+               "lng" : -3.0653204
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.41204459999999,
+                  "lng" : -3.0322494
+               },
+               "southwest" : {
+                  "lat" : 53.35718079999999,
+                  "lng" : -3.0903847
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

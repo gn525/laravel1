@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hockley",
+               "short_name" : "Hockley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hockley",
+               "short_name" : "Hockley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS5",
+               "short_name" : "SS5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hockley, Hockley, Essex SS5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.6004497,
+               "lng" : 0.6463915000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6073799,
+                  "lng" : 0.6623989
+               },
+               "southwest" : {
+                  "lat" : 51.59351849999999,
+                  "lng" : 0.6303841
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

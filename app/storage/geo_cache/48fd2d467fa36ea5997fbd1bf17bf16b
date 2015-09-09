@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chipping Ongar",
+               "short_name" : "Chipping Ongar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ongar",
+               "short_name" : "Ongar",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CM5",
+               "short_name" : "CM5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chipping Ongar, Ongar, Essex CM5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.705395,
+               "lng" : 0.244169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7123091,
+                  "lng" : 0.2601764
+               },
+               "southwest" : {
+                  "lat" : 51.6984798,
+                  "lng" : 0.2281616
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ME20",
+               "short_name" : "ME20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kent ME20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3302651,
+                  "lng" : 0.5167705
+               },
+               "southwest" : {
+                  "lat" : 51.2823212,
+                  "lng" : 0.4281696
+               }
+            },
+            "location" : {
+               "lat" : 51.3093687,
+               "lng" : 0.4739192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3302651,
+                  "lng" : 0.5167705
+               },
+               "southwest" : {
+                  "lat" : 51.2823212,
+                  "lng" : 0.4281696
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

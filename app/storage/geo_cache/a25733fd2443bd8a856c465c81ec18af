@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Settle",
+               "short_name" : "Settle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Settle",
+               "short_name" : "Settle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD24",
+               "short_name" : "BD24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Settle, Settle, North Yorkshire BD24, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.0762911,
+                  "lng" : -2.2626638
+               },
+               "southwest" : {
+                  "lat" : 54.06023039999999,
+                  "lng" : -2.2875551
+               }
+            },
+            "location" : {
+               "lat" : 54.06824599999999,
+               "lng" : -2.277655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0762911,
+                  "lng" : -2.2626638
+               },
+               "southwest" : {
+                  "lat" : 54.06023039999999,
+                  "lng" : -2.2875551
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Settle",
+               "short_name" : "Settle",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Settle",
+               "short_name" : "Settle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Settle",
+               "short_name" : "Settle",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD24",
+               "short_name" : "BD24",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Settle, Settle, Settle, North Yorkshire BD24, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.06693,
+               "lng" : -2.28072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0682789802915,
+                  "lng" : -2.279371019708498
+               },
+               "southwest" : {
+                  "lat" : 54.0655810197085,
+                  "lng" : -2.282068980291502
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

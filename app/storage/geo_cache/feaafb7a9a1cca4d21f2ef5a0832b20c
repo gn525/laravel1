@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London Luton Airport",
+               "short_name" : "London Luton Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Airport Way",
+               "short_name" : "Airport Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Luton",
+               "short_name" : "Luton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bedfordshire",
+               "short_name" : "Bedfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LU2 9LY",
+               "short_name" : "LU2 9LY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "London Luton Airport, Airport Way, Luton, Bedfordshire LU2 9LY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.885049,
+                  "lng" : -0.3500492
+               },
+               "southwest" : {
+                  "lat" : 51.8700583,
+                  "lng" : -0.3909958
+               }
+            },
+            "location" : {
+               "lat" : 51.87626460000001,
+               "lng" : -0.3717471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.885049,
+                  "lng" : -0.3500492
+               },
+               "southwest" : {
+                  "lat" : 51.8700583,
+                  "lng" : -0.3909958
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Looe",
+               "short_name" : "Looe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cnwll",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Looe, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3659432,
+                  "lng" : -4.436732600000001
+               },
+               "southwest" : {
+                  "lat" : 50.3435916,
+                  "lng" : -4.4715558
+               }
+            },
+            "location" : {
+               "lat" : 50.3562269,
+               "lng" : -4.455232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3659432,
+                  "lng" : -4.436732600000001
+               },
+               "southwest" : {
+                  "lat" : 50.3435916,
+                  "lng" : -4.4715558
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

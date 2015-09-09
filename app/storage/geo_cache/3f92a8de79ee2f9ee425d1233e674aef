@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT32",
+               "short_name" : "BT32",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banbridge, Banbridge, Banbridge BT32, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.34896999999999,
+               "lng" : -6.269780000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3554729,
+                  "lng" : -6.2537726
+               },
+               "southwest" : {
+                  "lat" : 54.3424661,
+                  "lng" : -6.285787399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banbridge, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.44401999999999,
+                  "lng" : -5.941059999999999
+               },
+               "southwest" : {
+                  "lat" : 54.21899999999999,
+                  "lng" : -6.39971
+               }
+            },
+            "location" : {
+               "lat" : 54.31859910000001,
+               "lng" : -6.205987599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.44401999999999,
+                  "lng" : -5.941059999999999
+               },
+               "southwest" : {
+                  "lat" : 54.21899999999999,
+                  "lng" : -6.39971
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

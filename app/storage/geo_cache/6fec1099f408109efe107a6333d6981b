@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of the State of Qatar",
+               "short_name" : "Embassy of the State of Qatar",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Audley Street",
+               "short_name" : "S Audley St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1K 1NB",
+               "short_name" : "W1K 1NB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of the State of Qatar, 1 South Audley Street, Mayfair, London W1K 1NB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5070697,
+               "lng" : -0.1503995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50841868029149,
+                  "lng" : -0.149050519708498
+               },
+               "southwest" : {
+                  "lat" : 51.50572071970849,
+                  "lng" : -0.151748480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy Of The State Of Qatar Military A",
+               "short_name" : "Embassy Of The State Of Qatar Military A",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hertford Street",
+               "short_name" : "Hertford St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1J 7RY",
+               "short_name" : "W1J 7RY",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy Of The State Of Qatar Military A, 21 Hertford Street, Mayfair, London W1J 7RY, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.505391,
+               "lng" : -0.1492032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50673998029149,
+                  "lng" : -0.147854219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5040420197085,
+                  "lng" : -0.150552180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

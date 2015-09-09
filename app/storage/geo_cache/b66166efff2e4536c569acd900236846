@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sofia House",
+               "short_name" : "Sofia House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Conduit Street",
+               "short_name" : "Conduit St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1S 2BH",
+               "short_name" : "W1S 2BH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sofia House, 19 Conduit Street, Mayfair, London W1S 2BH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5121887,
+               "lng" : -0.1422856
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51353768029151,
+                  "lng" : -0.140936619708498
+               },
+               "southwest" : {
+                  "lat" : 51.51083971970851,
+                  "lng" : -0.143634580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

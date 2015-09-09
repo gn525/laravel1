@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dover, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.150891,
+                  "lng" : 1.3440096
+               },
+               "southwest" : {
+                  "lat" : 51.101737,
+                  "lng" : 1.2579511
+               }
+            },
+            "location" : {
+               "lat" : 51.1278758,
+               "lng" : 1.3134027
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.150891,
+                  "lng" : 1.3440096
+               },
+               "southwest" : {
+                  "lat" : 51.101737,
+                  "lng" : 1.2579511
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

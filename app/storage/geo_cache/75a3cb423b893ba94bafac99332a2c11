@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fleetwood",
+               "short_name" : "Fleetwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fleetwood, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9290343,
+                  "lng" : -3.002485
+               },
+               "southwest" : {
+                  "lat" : 53.8921219,
+                  "lng" : -3.0519206
+               }
+            },
+            "location" : {
+               "lat" : 53.916661,
+               "lng" : -3.035673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9290343,
+                  "lng" : -3.002485
+               },
+               "southwest" : {
+                  "lat" : 53.8921219,
+                  "lng" : -3.0519206
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "FY7",
+               "short_name" : "FY7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lancashire FY7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9302705,
+                  "lng" : -3.0012909
+               },
+               "southwest" : {
+                  "lat" : 53.8918408,
+                  "lng" : -3.0529936
+               }
+            },
+            "location" : {
+               "lat" : 53.9104891,
+               "lng" : -3.0332569
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9302705,
+                  "lng" : -3.0012909
+               },
+               "southwest" : {
+                  "lat" : 53.8918408,
+                  "lng" : -3.0529936
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

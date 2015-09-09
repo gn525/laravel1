@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dyffryn Business Park",
+               "short_name" : "Dyffryn Business Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ystrad Mynach",
+               "short_name" : "Ystrad Mynach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hengoed",
+               "short_name" : "Hengoed",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Caerphilly",
+               "short_name" : "Caerphilly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CF82 7RJ",
+               "short_name" : "CF82 7RJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dyffryn Business Park, Ystrad Mynach, Hengoed, Caerphilly CF82 7RJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.62932499999999,
+                  "lng" : -3.2325368
+               },
+               "southwest" : {
+                  "lat" : 51.6289279,
+                  "lng" : -3.2330147
+               }
+            },
+            "location" : {
+               "lat" : 51.6291065,
+               "lng" : -3.2327504
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6304754302915,
+                  "lng" : -3.231426769708498
+               },
+               "southwest" : {
+                  "lat" : 51.62777746970851,
+                  "lng" : -3.234124730291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

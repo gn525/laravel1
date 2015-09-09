@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LE11",
+               "short_name" : "LE11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Loughborough",
+               "short_name" : "Loughborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leics",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loughborough, Leicestershire LE11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.79348040000001,
+                  "lng" : -1.1764697
+               },
+               "southwest" : {
+                  "lat" : 52.74066620000001,
+                  "lng" : -1.2854185
+               }
+            },
+            "location" : {
+               "lat" : 52.7713505,
+               "lng" : -1.2298175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.79348040000001,
+                  "lng" : -1.1764697
+               },
+               "southwest" : {
+                  "lat" : 52.74066620000001,
+                  "lng" : -1.2854185
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

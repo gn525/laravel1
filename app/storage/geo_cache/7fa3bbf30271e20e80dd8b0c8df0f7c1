@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liss",
+               "short_name" : "Liss",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liss",
+               "short_name" : "Liss",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GU33",
+               "short_name" : "GU33",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Liss, Liss, Hampshire GU33, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0578933,
+                  "lng" : -0.8641624
+               },
+               "southwest" : {
+                  "lat" : 51.0324435,
+                  "lng" : -0.9022607
+               }
+            },
+            "location" : {
+               "lat" : 51.0427301,
+               "lng" : -0.8917763999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0578933,
+                  "lng" : -0.8641624
+               },
+               "southwest" : {
+                  "lat" : 51.0324435,
+                  "lng" : -0.9022607
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

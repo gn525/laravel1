@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ingleby Barwick",
+               "short_name" : "Ingleby Barwick",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Stockton-on-Tees",
+               "short_name" : "Stockton-on-Tees",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ingleby Barwick, Stockton-on-Tees, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5362758,
+                  "lng" : -1.2991347
+               },
+               "southwest" : {
+                  "lat" : 54.5021256,
+                  "lng" : -1.3403924
+               }
+            },
+            "location" : {
+               "lat" : 54.52012260000001,
+               "lng" : -1.3177427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5362758,
+                  "lng" : -1.2991347
+               },
+               "southwest" : {
+                  "lat" : 54.5021256,
+                  "lng" : -1.3403924
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

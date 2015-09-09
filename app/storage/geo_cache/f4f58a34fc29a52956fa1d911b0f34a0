@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tetbury",
+               "short_name" : "Tetbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tetbury",
+               "short_name" : "Tetbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL8",
+               "short_name" : "GL8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tetbury, Tetbury, Gloucestershire GL8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6487519,
+                  "lng" : -2.145340500000001
+               },
+               "southwest" : {
+                  "lat" : 51.6301012,
+                  "lng" : -2.1757126
+               }
+            },
+            "location" : {
+               "lat" : 51.639295,
+               "lng" : -2.15818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6487519,
+                  "lng" : -2.145340500000001
+               },
+               "southwest" : {
+                  "lat" : 51.6301012,
+                  "lng" : -2.1757126
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

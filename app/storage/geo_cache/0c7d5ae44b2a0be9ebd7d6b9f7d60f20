@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of Romania",
+               "short_name" : "Embassy of Romania",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W8 4QD",
+               "short_name" : "W8 4QD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of Romania, Kensington, London W8 4QD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5041287,
+               "lng" : -0.1898435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50547768029149,
+                  "lng" : -0.188494519708498
+               },
+               "southwest" : {
+                  "lat" : 51.50277971970849,
+                  "lng" : -0.191192480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

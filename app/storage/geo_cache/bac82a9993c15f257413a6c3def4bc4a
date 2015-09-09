@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bern Cottage",
+               "short_name" : "Bern Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Tresaith",
+               "short_name" : "Tresaith",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cardigan",
+               "short_name" : "Cardigan",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ceredigion",
+               "short_name" : "Ceredigion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA43 2JL",
+               "short_name" : "SA43 2JL",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bern Cottage, Tresaith, Cardigan, Ceredigion SA43 2JL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.13494379999999,
+               "lng" : -4.5163579
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.13629278029149,
+                  "lng" : -4.515008919708498
+               },
+               "southwest" : {
+                  "lat" : 52.13359481970849,
+                  "lng" : -4.517706880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bern Side",
+               "short_name" : "Bern Side",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN4 8SU",
+               "short_name" : "NN4 8SU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bern Side, Northampton, Northamptonshire NN4 8SU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2270362,
+                  "lng" : -0.9168159999999999
+               },
+               "southwest" : {
+                  "lat" : 52.2266369,
+                  "lng" : -0.9171274999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.2266369,
+               "lng" : -0.9170874999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2281855302915,
+                  "lng" : -0.9156227697084979
+               },
+               "southwest" : {
+                  "lat" : 52.2254875697085,
+                  "lng" : -0.918320730291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.56123210000001,
+                  "lng" : -0.7713253999999999
+               },
+               "southwest" : {
+                  "lat" : 51.33271740000001,
+                  "lng" : -1.243198
+               }
+            },
+            "location" : {
+               "lat" : 51.4694199,
+               "lng" : -0.9700147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.56123210000001,
+                  "lng" : -0.7713253999999999
+               },
+               "southwest" : {
+                  "lat" : 51.33271740000001,
+                  "lng" : -1.243198
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

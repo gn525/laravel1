@@ -1,0 +1,261 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tyrone County Hall",
+               "short_name" : "Tyrone County Hall",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT79",
+               "short_name" : "BT79",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tyrone County Hall, Omagh, Omagh BT79, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6022926,
+               "lng" : -7.3009667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.60364158029149,
+                  "lng" : -7.299617719708498
+               },
+               "southwest" : {
+                  "lat" : 54.6009436197085,
+                  "lng" : -7.302315680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tyrone County Hospital",
+               "short_name" : "Tyrone County Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hospital Road",
+               "short_name" : "Hospital Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT79 0AP",
+               "short_name" : "BT79 0AP",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tyrone County Hospital, Hospital Road, Omagh, Omagh BT79 0AP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6030446,
+                  "lng" : -7.281585199999999
+               },
+               "southwest" : {
+                  "lat" : 54.6000608,
+                  "lng" : -7.2864798
+               }
+            },
+            "location" : {
+               "lat" : 54.6011336,
+               "lng" : -7.284968300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6030446,
+                  "lng" : -7.281585199999999
+               },
+               "southwest" : {
+                  "lat" : 54.6000608,
+                  "lng" : -7.2864798
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "drumragh intergrated college omagh co.Tyrone",
+               "short_name" : "drumragh intergrated college omagh co.Tyrone",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Crevenagh Way",
+               "short_name" : "Crevenagh Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT79 0JE",
+               "short_name" : "BT79 0JE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "drumragh intergrated college omagh co.Tyrone, Crevenagh Way, Omagh, Omagh BT79 0JE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5920316,
+               "lng" : -7.275515699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.59338058029149,
+                  "lng" : -7.274166719708496
+               },
+               "southwest" : {
+                  "lat" : 54.5906826197085,
+                  "lng" : -7.276864680291501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tyrone County Hospital Emergency Room",
+               "short_name" : "Tyrone County Hospital Emergency Room",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hospital Road",
+               "short_name" : "Hospital Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Omagh",
+               "short_name" : "Omagh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT79 0AP",
+               "short_name" : "BT79 0AP",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tyrone County Hospital Emergency Room, Hospital Road, Omagh, Omagh BT79 0AP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.6015081,
+               "lng" : -7.2839612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.60285708029151,
+                  "lng" : -7.282612219708498
+               },
+               "southwest" : {
+                  "lat" : 54.60015911970851,
+                  "lng" : -7.285310180291503
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

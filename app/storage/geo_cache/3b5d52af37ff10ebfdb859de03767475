@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haworth",
+               "short_name" : "Haworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Keighley",
+               "short_name" : "Keighley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD22",
+               "short_name" : "BD22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haworth, Keighley, West Yorkshire BD22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8418129,
+                  "lng" : -1.9363183
+               },
+               "southwest" : {
+                  "lat" : 53.8213699,
+                  "lng" : -1.9815772
+               }
+            },
+            "location" : {
+               "lat" : 53.830155,
+               "lng" : -1.949237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8418129,
+                  "lng" : -1.9363183
+               },
+               "southwest" : {
+                  "lat" : 53.8213699,
+                  "lng" : -1.9815772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

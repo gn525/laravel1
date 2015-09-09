@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tredegar",
+               "short_name" : "Tredegar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blaenau Gwent",
+               "short_name" : "Blaenau Gwent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tredegar, Blaenau Gwent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7889478,
+                  "lng" : -3.2248449
+               },
+               "southwest" : {
+                  "lat" : 51.7566272,
+                  "lng" : -3.2728682
+               }
+            },
+            "location" : {
+               "lat" : 51.772619,
+               "lng" : -3.246775
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7889478,
+                  "lng" : -3.2248449
+               },
+               "southwest" : {
+                  "lat" : 51.7566272,
+                  "lng" : -3.2728682
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M6",
+               "short_name" : "M6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M6, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5099662,
+                  "lng" : -2.2645816
+               },
+               "southwest" : {
+                  "lat" : 53.480752,
+                  "lng" : -2.3302249
+               }
+            },
+            "location" : {
+               "lat" : 53.4930793,
+               "lng" : -2.2854722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5099662,
+                  "lng" : -2.2645816
+               },
+               "southwest" : {
+                  "lat" : 53.480752,
+                  "lng" : -2.3302249
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

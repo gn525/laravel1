@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purfleet",
+               "short_name" : "Purfleet",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Purfleet",
+               "short_name" : "Purfleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Purfleet",
+               "short_name" : "Purfleet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RM19",
+               "short_name" : "RM19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purfleet, Purfleet, Purfleet, Essex RM19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.481012,
+               "lng" : 0.2367955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4823609802915,
+                  "lng" : 0.2381444802915021
+               },
+               "southwest" : {
+                  "lat" : 51.4796630197085,
+                  "lng" : 0.235446519708498
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purfleet",
+               "short_name" : "Purfleet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thurrock",
+               "short_name" : "Thurrock",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Purfleet, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.49937689999999,
+                  "lng" : 0.268776
+               },
+               "southwest" : {
+                  "lat" : 51.4666974,
+                  "lng" : 0.2104605
+               }
+            },
+            "location" : {
+               "lat" : 51.48671059999999,
+               "lng" : 0.2433122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49937689999999,
+                  "lng" : 0.268776
+               },
+               "southwest" : {
+                  "lat" : 51.4666974,
+                  "lng" : 0.2104605
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Purfleet",
+               "short_name" : "Purfleet",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RM19",
+               "short_name" : "RM19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Purfleet RM19, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4989199,
+                  "lng" : 0.290822
+               },
+               "southwest" : {
+                  "lat" : 51.468475,
+                  "lng" : 0.2070076
+               }
+            },
+            "location" : {
+               "lat" : 51.4779517,
+               "lng" : 0.2525233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4940868,
+                  "lng" : 0.2693304
+               },
+               "southwest" : {
+                  "lat" : 51.468475,
+                  "lng" : 0.2070076
+               }
+            }
+         },
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

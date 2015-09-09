@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basing House",
+               "short_name" : "Basing House",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Old Basing",
+               "short_name" : "Old Basing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG24 7BH",
+               "short_name" : "RG24 7BH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Basing House, Old Basing, Basingstoke, Hampshire RG24 7BH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2704913,
+               "lng" : -1.0536162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2718402802915,
+                  "lng" : -1.052267219708498
+               },
+               "southwest" : {
+                  "lat" : 51.2691423197085,
+                  "lng" : -1.054965180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

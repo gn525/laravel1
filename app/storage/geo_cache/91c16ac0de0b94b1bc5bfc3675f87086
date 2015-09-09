@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NG7",
+               "short_name" : "NG7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottingham NG7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9801359,
+                  "lng" : -1.1503336
+               },
+               "southwest" : {
+                  "lat" : 52.9176752,
+                  "lng" : -1.224413
+               }
+            },
+            "location" : {
+               "lat" : 52.9380183,
+               "lng" : -1.1803846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9801359,
+                  "lng" : -1.1503336
+               },
+               "southwest" : {
+                  "lat" : 52.9176752,
+                  "lng" : -1.224413
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

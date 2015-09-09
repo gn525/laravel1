@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strood Green",
+               "short_name" : "Strood Green",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horsham",
+               "short_name" : "Horsham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH12",
+               "short_name" : "RH12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Strood Green, Horsham, West Sussex RH12, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.08297899999999,
+               "lng" : -0.377934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0899879,
+                  "lng" : -0.3619266
+               },
+               "southwest" : {
+                  "lat" : 51.07596909999999,
+                  "lng" : -0.3939414
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strood Green",
+               "short_name" : "Strood Green",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Betchworth",
+               "short_name" : "Betchworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Betchworth",
+               "short_name" : "Betchworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RH3",
+               "short_name" : "RH3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Strood Green, Betchworth, Betchworth, Surrey RH3, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.21805,
+               "lng" : -0.282038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2193989802915,
+                  "lng" : -0.280689019708498
+               },
+               "southwest" : {
+                  "lat" : 51.2167010197085,
+                  "lng" : -0.2833869802915021
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

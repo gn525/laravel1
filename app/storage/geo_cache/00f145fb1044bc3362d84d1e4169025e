@@ -1,0 +1,187 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower Street",
+               "short_name" : "Lower St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kettering",
+               "short_name" : "Kettering",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN14 4BA",
+               "short_name" : "NN14 4BA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower Street, Kettering, Northamptonshire NN14 4BA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3608929,
+                  "lng" : -0.5891820999999999
+               },
+               "southwest" : {
+                  "lat" : 52.35477900000001,
+                  "lng" : -0.5916098
+               }
+            },
+            "location" : {
+               "lat" : 52.3581535,
+               "lng" : -0.5901189999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3608929,
+                  "lng" : -0.5890469697084979
+               },
+               "southwest" : {
+                  "lat" : 52.35477900000001,
+                  "lng" : -0.591744930291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lower Street",
+               "short_name" : "Lower St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kettering",
+               "short_name" : "Kettering",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN14",
+               "short_name" : "NN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lower Street, Kettering, Northamptonshire NN14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3945736,
+                  "lng" : -0.5997264
+               },
+               "southwest" : {
+                  "lat" : 52.3931981,
+                  "lng" : -0.6042746
+               }
+            },
+            "location" : {
+               "lat" : 52.394006,
+               "lng" : -0.6018869
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3952348302915,
+                  "lng" : -0.5997264
+               },
+               "southwest" : {
+                  "lat" : 52.3925368697085,
+                  "lng" : -0.6042746
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denford Close",
+               "short_name" : "Denford Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Broughton",
+               "short_name" : "Broughton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH4 0SP",
+               "short_name" : "CH4 0SP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denford Close, Broughton, Chester, Flintshire CH4 0SP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1650473,
+                  "lng" : -2.9823857
+               },
+               "southwest" : {
+                  "lat" : 53.1648728,
+                  "lng" : -2.9831311
+               }
+            },
+            "location" : {
+               "lat" : 53.1648728,
+               "lng" : -2.9826396
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.16630903029149,
+                  "lng" : -2.981409419708498
+               },
+               "southwest" : {
+                  "lat" : 53.16361106970849,
+                  "lng" : -2.984107380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

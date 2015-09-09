@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charing",
+               "short_name" : "Charing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charing, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2393653,
+                  "lng" : 0.8495684
+               },
+               "southwest" : {
+                  "lat" : 51.1823296,
+                  "lng" : 0.7400414
+               }
+            },
+            "location" : {
+               "lat" : 51.211095,
+               "lng" : 0.7946059999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2393653,
+                  "lng" : 0.8495684
+               },
+               "southwest" : {
+                  "lat" : 51.1823296,
+                  "lng" : 0.7400414
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

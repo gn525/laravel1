@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fordham",
+               "short_name" : "Fordham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fordham, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.33881,
+                  "lng" : 0.4236048
+               },
+               "southwest" : {
+                  "lat" : 52.2804392,
+                  "lng" : 0.3176576
+               }
+            },
+            "location" : {
+               "lat" : 52.31187,
+               "lng" : 0.38498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.33881,
+                  "lng" : 0.4236048
+               },
+               "southwest" : {
+                  "lat" : 52.2804392,
+                  "lng" : 0.3176576
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fordham",
+               "short_name" : "Fordham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO6",
+               "short_name" : "CO6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fordham, Colchester, Essex CO6, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.916059,
+               "lng" : 0.8075599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.91740798029149,
+                  "lng" : 0.8089088802915021
+               },
+               "southwest" : {
+                  "lat" : 51.9147100197085,
+                  "lng" : 0.806210919708498
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fordham",
+               "short_name" : "Fordham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Downham Market",
+               "short_name" : "Downham Market",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE38",
+               "short_name" : "PE38",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fordham, Downham Market, Norfolk PE38, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.570967,
+               "lng" : 0.393538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.57231598029149,
+                  "lng" : 0.394886980291502
+               },
+               "southwest" : {
+                  "lat" : 52.56961801970849,
+                  "lng" : 0.392189019708498
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

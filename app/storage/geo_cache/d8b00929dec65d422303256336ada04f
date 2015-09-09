@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany Lane",
+               "short_name" : "Germany Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "YO10 4QB",
+               "short_name" : "YO10 4QB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Germany Lane, York, York YO10 4QB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9324044,
+                  "lng" : -1.0690442
+               },
+               "southwest" : {
+                  "lat" : 53.9318491,
+                  "lng" : -1.0701392
+               }
+            },
+            "location" : {
+               "lat" : 53.9322143,
+               "lng" : -1.0695108
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9334757302915,
+                  "lng" : -1.068242719708498
+               },
+               "southwest" : {
+                  "lat" : 53.9307777697085,
+                  "lng" : -1.070940680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany Cottage",
+               "short_name" : "Germany Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Staddlebridge",
+               "short_name" : "Staddlebridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northallerton",
+               "short_name" : "Northallerton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL6 3JA",
+               "short_name" : "DL6 3JA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Germany Cottage, Staddlebridge, Northallerton, North Yorkshire DL6 3JA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.389258,
+               "lng" : -1.3169755
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3906069802915,
+                  "lng" : -1.315626519708498
+               },
+               "southwest" : {
+                  "lat" : 54.3879090197085,
+                  "lng" : -1.318324480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

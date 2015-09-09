@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Powys, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9015606,
+                  "lng" : -2.9496345
+               },
+               "southwest" : {
+                  "lat" : 51.75274539999999,
+                  "lng" : -3.9293532
+               }
+            },
+            "location" : {
+               "lat" : 52.1430868,
+               "lng" : -3.3736821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9015606,
+                  "lng" : -2.9496345
+               },
+               "southwest" : {
+                  "lat" : 51.75274539999999,
+                  "lng" : -3.9293532
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

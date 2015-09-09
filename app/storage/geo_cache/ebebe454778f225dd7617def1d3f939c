@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunbury-on-Thames",
+               "short_name" : "Sunbury-on-Thames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunbury-on-Thames",
+               "short_name" : "Sunbury-on-Thames",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW16",
+               "short_name" : "TW16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sunbury-on-Thames, Sunbury-on-Thames, Surrey TW16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.403928,
+               "lng" : -0.412932
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4108881,
+                  "lng" : -0.3969246
+               },
+               "southwest" : {
+                  "lat" : 51.39696679999999,
+                  "lng" : -0.4289394
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunbury",
+               "short_name" : "Sunbury",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sunbury-on-Thames",
+               "short_name" : "Sunbury-on-Thames",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TW16",
+               "short_name" : "TW16",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sunbury, Sunbury-on-Thames, Surrey TW16, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.41831,
+               "lng" : -0.41776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41965898029149,
+                  "lng" : -0.4164110197084979
+               },
+               "southwest" : {
+                  "lat" : 51.4169610197085,
+                  "lng" : -0.419108980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

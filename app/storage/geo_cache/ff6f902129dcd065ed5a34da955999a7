@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Galashiels",
+               "short_name" : "Galashiels",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Scottish Borders",
+               "short_name" : "Scottish Borders",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Galashiels, Scottish Borders, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.63264179999999,
+                  "lng" : -2.7618935
+               },
+               "southwest" : {
+                  "lat" : 55.599022,
+                  "lng" : -2.8529683
+               }
+            },
+            "location" : {
+               "lat" : 55.623728,
+               "lng" : -2.814449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.63264179999999,
+                  "lng" : -2.7618935
+               },
+               "southwest" : {
+                  "lat" : 55.599022,
+                  "lng" : -2.8529683
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

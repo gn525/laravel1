@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S21",
+               "short_name" : "S21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sheffield S21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3357012,
+                  "lng" : -1.2813129
+               },
+               "southwest" : {
+                  "lat" : 53.280131,
+                  "lng" : -1.4287744
+               }
+            },
+            "location" : {
+               "lat" : 53.3021945,
+               "lng" : -1.3371476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3357012,
+                  "lng" : -1.2813129
+               },
+               "southwest" : {
+                  "lat" : 53.280131,
+                  "lng" : -1.4287744
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

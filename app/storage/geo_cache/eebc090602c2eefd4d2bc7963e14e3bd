@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Haw",
+               "short_name" : "New Haw",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Addlestone",
+               "short_name" : "Addlestone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Addlestone",
+               "short_name" : "Addlestone",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KT15",
+               "short_name" : "KT15",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Haw, Addlestone, Addlestone, Surrey KT15, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.359454,
+               "lng" : -0.487961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.36642089999999,
+                  "lng" : -0.4719536
+               },
+               "southwest" : {
+                  "lat" : 51.3524861,
+                  "lng" : -0.5039684
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

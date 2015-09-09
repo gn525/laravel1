@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swindon, Swindon, Swindon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6091293,
+                  "lng" : -1.7194727
+               },
+               "southwest" : {
+                  "lat" : 51.530334,
+                  "lng" : -1.8651375
+               }
+            },
+            "location" : {
+               "lat" : 51.55577390000001,
+               "lng" : -1.7797176
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6091293,
+                  "lng" : -1.7194727
+               },
+               "southwest" : {
+                  "lat" : 51.530334,
+                  "lng" : -1.8651375
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swindon Village",
+               "short_name" : "Swindon Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheltenham",
+               "short_name" : "Cheltenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swindon Village, Cheltenham, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9388731,
+                  "lng" : -2.0671917
+               },
+               "southwest" : {
+                  "lat" : 51.9151433,
+                  "lng" : -2.1076457
+               }
+            },
+            "location" : {
+               "lat" : 51.922814,
+               "lng" : -2.096331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9388731,
+                  "lng" : -2.0671917
+               },
+               "southwest" : {
+                  "lat" : 51.9151433,
+                  "lng" : -2.1076457
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swindon",
+               "short_name" : "Swindon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swindon, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5286134,
+                  "lng" : -2.1866243
+               },
+               "southwest" : {
+                  "lat" : 52.494658,
+                  "lng" : -2.2428586
+               }
+            },
+            "location" : {
+               "lat" : 52.51326599999999,
+               "lng" : -2.207606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5286134,
+                  "lng" : -2.1866243
+               },
+               "southwest" : {
+                  "lat" : 52.494658,
+                  "lng" : -2.2428586
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

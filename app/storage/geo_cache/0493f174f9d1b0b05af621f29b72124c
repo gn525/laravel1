@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dingwall",
+               "short_name" : "Dingwall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dingwall, Highland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.6122534,
+                  "lng" : -4.414129
+               },
+               "southwest" : {
+                  "lat" : 57.5838227,
+                  "lng" : -4.45777
+               }
+            },
+            "location" : {
+               "lat" : 57.595347,
+               "lng" : -4.428411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.6122534,
+                  "lng" : -4.414129
+               },
+               "southwest" : {
+                  "lat" : 57.5838227,
+                  "lng" : -4.45777
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

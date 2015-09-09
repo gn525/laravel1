@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nether Heyford",
+               "short_name" : "Nether Heyford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Northamptonshire",
+               "short_name" : "N'hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NN7",
+               "short_name" : "NN7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nether Heyford, Northampton, Northamptonshire NN7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.226037,
+                  "lng" : -1.0274685
+               },
+               "southwest" : {
+                  "lat" : 52.21219019999999,
+                  "lng" : -1.0482445
+               }
+            },
+            "location" : {
+               "lat" : 52.219796,
+               "lng" : -1.0336939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.226037,
+                  "lng" : -1.0274685
+               },
+               "southwest" : {
+                  "lat" : 52.21219019999999,
+                  "lng" : -1.0482445
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

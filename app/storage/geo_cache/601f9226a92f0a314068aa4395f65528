@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vienna",
+               "short_name" : "Vienna",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Fitzrovia",
+               "short_name" : "Fitzrovia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1T",
+               "short_name" : "W1T",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vienna, Fitzrovia, London W1T, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5214398,
+                  "lng" : -0.1346298
+               },
+               "southwest" : {
+                  "lat" : 51.5214191,
+                  "lng" : -0.134662
+               }
+            },
+            "location" : {
+               "lat" : 51.5214271,
+               "lng" : -0.1346479
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5227784302915,
+                  "lng" : -0.133296919708498
+               },
+               "southwest" : {
+                  "lat" : 51.52008046970851,
+                  "lng" : -0.135994880291502
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

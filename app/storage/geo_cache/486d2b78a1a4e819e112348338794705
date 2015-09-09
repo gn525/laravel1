@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fulwood",
+               "short_name" : "Fulwood",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S10",
+               "short_name" : "S10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fulwood, Sheffield, Sheffield, South Yorkshire S10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.367016,
+               "lng" : -1.53769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3736733,
+                  "lng" : -1.5216826
+               },
+               "southwest" : {
+                  "lat" : 53.3603577,
+                  "lng" : -1.5536974
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

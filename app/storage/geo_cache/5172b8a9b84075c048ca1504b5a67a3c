@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colchester Business Park",
+               "short_name" : "Colchester Business Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "841",
+               "short_name" : "841",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Crescent",
+               "short_name" : "The Crescent",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colchester",
+               "short_name" : "Colchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CO4 9YQ",
+               "short_name" : "CO4 9YQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Colchester Business Park, 841 The Crescent, Colchester, Essex CO4 9YQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.92272999999999,
+               "lng" : 0.9202099
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9240789802915,
+                  "lng" : 0.921558880291502
+               },
+               "southwest" : {
+                  "lat" : 51.9213810197085,
+                  "lng" : 0.9188609197084979
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

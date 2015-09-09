@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Felinfoel",
+               "short_name" : "Felinfoel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Llanelli",
+               "short_name" : "Llanelli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Llanelli",
+               "short_name" : "Llanelli",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Carmarthenshire",
+               "short_name" : "Carmarthenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA14",
+               "short_name" : "SA14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Felinfoel, Llanelli, Llanelli, Carmarthenshire SA14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.699775,
+               "lng" : -4.143534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.70668999999999,
+                  "lng" : -4.127526599999999
+               },
+               "southwest" : {
+                  "lat" : 51.6928589,
+                  "lng" : -4.1595414
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

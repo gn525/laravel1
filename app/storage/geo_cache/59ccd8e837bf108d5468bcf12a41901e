@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LS6",
+               "short_name" : "LS6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leeds, Leeds, West Yorkshire LS6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8444009,
+                  "lng" : -1.5361073
+               },
+               "southwest" : {
+                  "lat" : 53.8047846,
+                  "lng" : -1.6059196
+               }
+            },
+            "location" : {
+               "lat" : 53.8188871,
+               "lng" : -1.572357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8444009,
+                  "lng" : -1.5361073
+               },
+               "southwest" : {
+                  "lat" : 53.8047846,
+                  "lng" : -1.6059196
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

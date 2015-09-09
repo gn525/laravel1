@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Codsall",
+               "short_name" : "Codsall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wolverhampton",
+               "short_name" : "Wolverhampton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Codsall, Wolverhampton, Staffordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6434849,
+                  "lng" : -2.1657757
+               },
+               "southwest" : {
+                  "lat" : 52.6138553,
+                  "lng" : -2.2477969
+               }
+            },
+            "location" : {
+               "lat" : 52.628089,
+               "lng" : -2.192079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6434849,
+                  "lng" : -2.1657757
+               },
+               "southwest" : {
+                  "lat" : 52.6138553,
+                  "lng" : -2.2477969
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

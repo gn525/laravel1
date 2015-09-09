@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellshill Industrial Estate",
+               "short_name" : "Bellshill Industrial Estate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bellshill",
+               "short_name" : "Bellshill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bellshill",
+               "short_name" : "Bellshill",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ML4",
+               "short_name" : "ML4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bellshill Industrial Estate, Bellshill, Bellshill, North Lanarkshire ML4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.82449,
+               "lng" : -4.0317351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.83075729999999,
+                  "lng" : -4.0157277
+               },
+               "southwest" : {
+                  "lat" : 55.8182217,
+                  "lng" : -4.0477425
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

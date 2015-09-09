@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staplehurst",
+               "short_name" : "Staplehurst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tonbridge",
+               "short_name" : "Tonbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "TN12",
+               "short_name" : "TN12",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staplehurst, Tonbridge, Kent TN12, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1745554,
+                  "lng" : 0.5741795
+               },
+               "southwest" : {
+                  "lat" : 51.145483,
+                  "lng" : 0.5316576
+               }
+            },
+            "location" : {
+               "lat" : 51.162752,
+               "lng" : 0.552848
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1745554,
+                  "lng" : 0.5741795
+               },
+               "southwest" : {
+                  "lat" : 51.145483,
+                  "lng" : 0.5316576
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

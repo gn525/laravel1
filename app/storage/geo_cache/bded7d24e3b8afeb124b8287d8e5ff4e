@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blaenavon",
+               "short_name" : "Blaenavon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pontypool",
+               "short_name" : "Pontypool",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Torfaen",
+               "short_name" : "Torfaen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP4",
+               "short_name" : "NP4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blaenavon, Pontypool, Torfaen NP4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7839177,
+                  "lng" : -3.0662961
+               },
+               "southwest" : {
+                  "lat" : 51.7653486,
+                  "lng" : -3.1020197
+               }
+            },
+            "location" : {
+               "lat" : 51.772502,
+               "lng" : -3.085896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7839177,
+                  "lng" : -3.0662961
+               },
+               "southwest" : {
+                  "lat" : 51.7653486,
+                  "lng" : -3.1020197
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

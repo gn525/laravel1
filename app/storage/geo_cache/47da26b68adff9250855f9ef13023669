@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuxford",
+               "short_name" : "Tuxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newark",
+               "short_name" : "Newark",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuxford, Newark, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2422064,
+                  "lng" : -0.8476444999999999
+               },
+               "southwest" : {
+                  "lat" : 53.21218570000001,
+                  "lng" : -0.9497375000000001
+               }
+            },
+            "location" : {
+               "lat" : 53.229497,
+               "lng" : -0.898207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2422064,
+                  "lng" : -0.8476444999999999
+               },
+               "southwest" : {
+                  "lat" : 53.21218570000001,
+                  "lng" : -0.9497375000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Falmer",
+               "short_name" : "Falmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN1",
+               "short_name" : "BN1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Falmer, Brighton, East Sussex BN1, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.8639282,
+               "lng" : -0.0806349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8709702,
+                  "lng" : -0.06462749999999999
+               },
+               "southwest" : {
+                  "lat" : 50.8568851,
+                  "lng" : -0.0966423
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

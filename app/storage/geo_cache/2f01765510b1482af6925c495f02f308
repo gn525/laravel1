@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thame",
+               "short_name" : "Thame",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thame",
+               "short_name" : "Thame",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX9",
+               "short_name" : "OX9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thame, Thame, Oxfordshire OX9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7568722,
+                  "lng" : -0.9502931
+               },
+               "southwest" : {
+                  "lat" : 51.7321008,
+                  "lng" : -0.9981388999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.746997,
+               "lng" : -0.9741879999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7568722,
+                  "lng" : -0.9502931
+               },
+               "southwest" : {
+                  "lat" : 51.7321008,
+                  "lng" : -0.9981388999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

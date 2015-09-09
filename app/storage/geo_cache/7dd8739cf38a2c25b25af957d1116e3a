@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedworth",
+               "short_name" : "Bedworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedworth, Warwickshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4959897,
+                  "lng" : -1.4355978
+               },
+               "southwest" : {
+                  "lat" : 52.4639398,
+                  "lng" : -1.5233095
+               }
+            },
+            "location" : {
+               "lat" : 52.481392,
+               "lng" : -1.468869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4959897,
+                  "lng" : -1.4355978
+               },
+               "southwest" : {
+                  "lat" : 52.4639398,
+                  "lng" : -1.5233095
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

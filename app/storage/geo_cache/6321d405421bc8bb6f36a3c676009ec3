@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stranraer",
+               "short_name" : "Stranraer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stranraer, Dumfries and Galloway, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.91935640000001,
+                  "lng" : -4.9959068
+               },
+               "southwest" : {
+                  "lat" : 54.8895503,
+                  "lng" : -5.0533034
+               }
+            },
+            "location" : {
+               "lat" : 54.903367,
+               "lng" : -5.024055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.91935640000001,
+                  "lng" : -4.9959068
+               },
+               "southwest" : {
+                  "lat" : 54.8895503,
+                  "lng" : -5.0533034
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

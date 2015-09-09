@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edinburgh Airport",
+               "short_name" : "Edinburgh Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH12 9DN",
+               "short_name" : "EH12 9DN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh Airport (EDI), Edinburgh, City of Edinburgh EH12 9DN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9595022,
+                  "lng" : -3.3238492
+               },
+               "southwest" : {
+                  "lat" : 55.9407137,
+                  "lng" : -3.3991414
+               }
+            },
+            "location" : {
+               "lat" : 55.950785,
+               "lng" : -3.3614532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9595022,
+                  "lng" : -3.3238492
+               },
+               "southwest" : {
+                  "lat" : 55.9407137,
+                  "lng" : -3.3991414
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

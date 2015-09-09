@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Weston",
+               "short_name" : "North Weston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thame",
+               "short_name" : "Thame",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX9",
+               "short_name" : "OX9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Weston, Thame, Oxfordshire OX9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.747538,
+               "lng" : -1.016664
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7544457,
+                  "lng" : -1.0006566
+               },
+               "southwest" : {
+                  "lat" : 51.74062929999999,
+                  "lng" : -1.0326714
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

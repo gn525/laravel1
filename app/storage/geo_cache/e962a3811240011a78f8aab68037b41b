@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ross-Shire House",
+               "short_name" : "Ross-Shire House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Ballymoney Road",
+               "short_name" : "Ballymoney Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Banbridge",
+               "short_name" : "Banbridge",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT32 4HN",
+               "short_name" : "BT32 4HN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ross-Shire House, Ballymoney Road, Banbridge, Banbridge BT32 4HN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.3723168,
+               "lng" : -6.230956
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3736657802915,
+                  "lng" : -6.229607019708498
+               },
+               "southwest" : {
+                  "lat" : 54.3709678197085,
+                  "lng" : -6.232304980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

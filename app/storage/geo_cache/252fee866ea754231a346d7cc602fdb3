@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fairford",
+               "short_name" : "Fairford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL7",
+               "short_name" : "GL7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fairford, Gloucestershire GL7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.71617,
+                  "lng" : -1.7649228
+               },
+               "southwest" : {
+                  "lat" : 51.70028929999999,
+                  "lng" : -1.7971056
+               }
+            },
+            "location" : {
+               "lat" : 51.70753699999999,
+               "lng" : -1.785135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.71617,
+                  "lng" : -1.7649228
+               },
+               "southwest" : {
+                  "lat" : 51.70028929999999,
+                  "lng" : -1.7971056
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

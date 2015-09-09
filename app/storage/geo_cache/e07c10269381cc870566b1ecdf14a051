@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uddingston",
+               "short_name" : "Uddingston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uddingston, South Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.84447919999999,
+                  "lng" : -4.0469481
+               },
+               "southwest" : {
+                  "lat" : 55.8118452,
+                  "lng" : -4.127478700000001
+               }
+            },
+            "location" : {
+               "lat" : 55.815735,
+               "lng" : -4.079127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.84447919999999,
+                  "lng" : -4.0469481
+               },
+               "southwest" : {
+                  "lat" : 55.8118452,
+                  "lng" : -4.127478700000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

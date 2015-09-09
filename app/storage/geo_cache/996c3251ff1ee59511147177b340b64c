@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fakenham",
+               "short_name" : "Fakenham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fakenham",
+               "short_name" : "Fakenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR21",
+               "short_name" : "NR21",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fakenham, Fakenham, Norfolk NR21, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.85765259999999,
+                  "lng" : 0.8913673
+               },
+               "southwest" : {
+                  "lat" : 52.8241831,
+                  "lng" : 0.8368795
+               }
+            },
+            "location" : {
+               "lat" : 52.831333,
+               "lng" : 0.849324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.85765259999999,
+                  "lng" : 0.8913673
+               },
+               "southwest" : {
+                  "lat" : 52.8241831,
+                  "lng" : 0.8368795
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

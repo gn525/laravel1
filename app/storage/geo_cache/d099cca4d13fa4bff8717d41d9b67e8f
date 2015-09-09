@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leeming Bar Industrial Estate",
+               "short_name" : "Leeming Bar Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Plews Way",
+               "short_name" : "Plews Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leeming Bar",
+               "short_name" : "Leeming Bar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northallerton",
+               "short_name" : "Northallerton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL7 9UG",
+               "short_name" : "DL7 9UG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leeming Bar Industrial Estate, Plews Way, Leeming Bar, Northallerton, North Yorkshire DL7 9UG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.3048571,
+               "lng" : -1.5627077
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3062060802915,
+                  "lng" : -1.561358719708498
+               },
+               "southwest" : {
+                  "lat" : 54.3035081197085,
+                  "lng" : -1.564056680291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

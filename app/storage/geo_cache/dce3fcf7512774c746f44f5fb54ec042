@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilchester",
+               "short_name" : "Ilchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yeovil",
+               "short_name" : "Yeovil",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA22",
+               "short_name" : "BA22",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ilchester, Yeovil, Somerset BA22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0138409,
+                  "lng" : -2.6719967
+               },
+               "southwest" : {
+                  "lat" : 50.9980154,
+                  "lng" : -2.6897541
+               }
+            },
+            "location" : {
+               "lat" : 51.004774,
+               "lng" : -2.682366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0138409,
+                  "lng" : -2.6719967
+               },
+               "southwest" : {
+                  "lat" : 50.9980154,
+                  "lng" : -2.6897541
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

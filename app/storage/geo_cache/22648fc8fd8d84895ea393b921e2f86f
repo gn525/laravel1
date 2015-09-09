@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tillicoultry",
+               "short_name" : "Tillicoultry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tillicoultry",
+               "short_name" : "Tillicoultry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Clackmannanshire",
+               "short_name" : "Clackmannanshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK13",
+               "short_name" : "FK13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tillicoultry, Tillicoultry, Clackmannanshire FK13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.16059509999999,
+                  "lng" : -3.7231512
+               },
+               "southwest" : {
+                  "lat" : 56.14818150000001,
+                  "lng" : -3.7543767
+               }
+            },
+            "location" : {
+               "lat" : 56.153916,
+               "lng" : -3.740211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.16059509999999,
+                  "lng" : -3.7231512
+               },
+               "southwest" : {
+                  "lat" : 56.14818150000001,
+                  "lng" : -3.7543767
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

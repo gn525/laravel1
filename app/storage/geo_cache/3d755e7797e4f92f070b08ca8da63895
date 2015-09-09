@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pembroke",
+               "short_name" : "Pembroke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pembroke, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.685887,
+                  "lng" : -4.888484099999999
+               },
+               "southwest" : {
+                  "lat" : 51.6645421,
+                  "lng" : -4.937105600000001
+               }
+            },
+            "location" : {
+               "lat" : 51.674043,
+               "lng" : -4.908637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.685887,
+                  "lng" : -4.888484099999999
+               },
+               "southwest" : {
+                  "lat" : 51.6645421,
+                  "lng" : -4.937105600000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

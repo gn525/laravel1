@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rosyth",
+               "short_name" : "Rosyth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rosyth, Fife, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.04706470000001,
+                  "lng" : -3.4049356
+               },
+               "southwest" : {
+                  "lat" : 56.0217527,
+                  "lng" : -3.455181
+               }
+            },
+            "location" : {
+               "lat" : 56.03646999999999,
+               "lng" : -3.423064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.04706470000001,
+                  "lng" : -3.4049356
+               },
+               "southwest" : {
+                  "lat" : 56.0217527,
+                  "lng" : -3.455181
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

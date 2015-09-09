@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Dunbartonshire",
+               "short_name" : "East Dunbartonshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Dunbartonshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0302966,
+                  "lng" : -4.046871299999999
+               },
+               "southwest" : {
+                  "lat" : 55.89608879999999,
+                  "lng" : -4.4020525
+               }
+            },
+            "location" : {
+               "lat" : 55.9755216,
+               "lng" : -4.2105149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0302966,
+                  "lng" : -4.046871299999999
+               },
+               "southwest" : {
+                  "lat" : 55.89608879999999,
+                  "lng" : -4.4020525
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

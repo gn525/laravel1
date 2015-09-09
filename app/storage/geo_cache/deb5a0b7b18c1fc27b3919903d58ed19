@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Radlett",
+               "short_name" : "Radlett",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Radlett, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7047168,
+                  "lng" : -0.2888901
+               },
+               "southwest" : {
+                  "lat" : 51.6441656,
+                  "lng" : -0.3763978
+               }
+            },
+            "location" : {
+               "lat" : 51.68680800000001,
+               "lng" : -0.3173869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7047168,
+                  "lng" : -0.2888901
+               },
+               "southwest" : {
+                  "lat" : 51.6441656,
+                  "lng" : -0.3763978
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

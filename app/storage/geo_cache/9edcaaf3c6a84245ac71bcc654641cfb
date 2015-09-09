@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cumbernauld",
+               "short_name" : "Cumbernauld",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cumbernauld, North Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9696758,
+                  "lng" : -3.9344303
+               },
+               "southwest" : {
+                  "lat" : 55.92179489999999,
+                  "lng" : -4.0706842
+               }
+            },
+            "location" : {
+               "lat" : 55.945668,
+               "lng" : -3.992534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9696758,
+                  "lng" : -3.9344303
+               },
+               "southwest" : {
+                  "lat" : 55.92179489999999,
+                  "lng" : -4.0706842
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

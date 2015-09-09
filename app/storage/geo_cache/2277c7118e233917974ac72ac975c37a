@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torfaen",
+               "short_name" : "Torfaen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torfaen, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7962615,
+                  "lng" : -2.9588674
+               },
+               "southwest" : {
+                  "lat" : 51.6066723,
+                  "lng" : -3.1438576
+               }
+            },
+            "location" : {
+               "lat" : 51.6652667,
+               "lng" : -3.0397539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7962615,
+                  "lng" : -2.9588674
+               },
+               "southwest" : {
+                  "lat" : 51.6066723,
+                  "lng" : -3.1438576
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westhill",
+               "short_name" : "Westhill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeenshire",
+               "short_name" : "Aberdeenshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Westhill, Aberdeenshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.165876,
+                  "lng" : -2.2654724
+               },
+               "southwest" : {
+                  "lat" : 57.1442399,
+                  "lng" : -2.3054898
+               }
+            },
+            "location" : {
+               "lat" : 57.15562300000001,
+               "lng" : -2.277129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.165876,
+                  "lng" : -2.2654724
+               },
+               "southwest" : {
+                  "lat" : 57.1442399,
+                  "lng" : -2.3054898
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

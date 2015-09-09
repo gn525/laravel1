@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Romsey",
+               "short_name" : "Romsey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romsey",
+               "short_name" : "Romsey",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hants",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO51",
+               "short_name" : "SO51",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Romsey, Romsey, Hampshire SO51, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0051004,
+                  "lng" : -1.4546493
+               },
+               "southwest" : {
+                  "lat" : 50.980326,
+                  "lng" : -1.5110557
+               }
+            },
+            "location" : {
+               "lat" : 50.98893,
+               "lng" : -1.49658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0051004,
+                  "lng" : -1.4546493
+               },
+               "southwest" : {
+                  "lat" : 50.980326,
+                  "lng" : -1.5110557
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

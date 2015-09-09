@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kennett",
+               "short_name" : "Kennett",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newmarket",
+               "short_name" : "Newmarket",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB8",
+               "short_name" : "CB8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kennett, Newmarket, Cambridgeshire CB8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.285697,
+               "lng" : 0.492158
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2925221,
+                  "lng" : 0.5081654
+               },
+               "southwest" : {
+                  "lat" : 52.2788709,
+                  "lng" : 0.4761506
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

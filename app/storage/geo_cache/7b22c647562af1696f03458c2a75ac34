@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weybridge",
+               "short_name" : "Weybridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weybridge, Surrey, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3898263,
+                  "lng" : -0.4235877
+               },
+               "southwest" : {
+                  "lat" : 51.3387099,
+                  "lng" : -0.4812287
+               }
+            },
+            "location" : {
+               "lat" : 51.3716269,
+               "lng" : -0.457904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3898263,
+                  "lng" : -0.4235877
+               },
+               "southwest" : {
+                  "lat" : 51.3387099,
+                  "lng" : -0.4812287
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

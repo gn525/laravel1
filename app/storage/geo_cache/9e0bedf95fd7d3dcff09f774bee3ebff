@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawarden",
+               "short_name" : "Hawarden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deeside",
+               "short_name" : "Deeside",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH5",
+               "short_name" : "CH5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hawarden, Deeside, Flintshire CH5, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.183649,
+               "lng" : -3.028345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1903349,
+                  "lng" : -3.0123376
+               },
+               "southwest" : {
+                  "lat" : 53.176962,
+                  "lng" : -3.0443524
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

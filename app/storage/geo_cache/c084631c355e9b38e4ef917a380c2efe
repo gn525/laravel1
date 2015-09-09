@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hinxton",
+               "short_name" : "Hinxton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saffron Walden",
+               "short_name" : "Saffron Walden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB10",
+               "short_name" : "CB10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hinxton, Saffron Walden, Cambridgeshire CB10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.082869,
+               "lng" : 0.18269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0897253,
+                  "lng" : 0.1986974
+               },
+               "southwest" : {
+                  "lat" : 52.0760117,
+                  "lng" : 0.1666826
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

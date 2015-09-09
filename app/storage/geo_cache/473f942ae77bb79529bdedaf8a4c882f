@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bournemouth Airport",
+               "short_name" : "Bournemouth Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Parley Lane",
+               "short_name" : "Parley Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH23 6SE",
+               "short_name" : "BH23 6SE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bournemouth Airport, Parley Lane, Christchurch, Dorset BH23 6SE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7898435,
+                  "lng" : -1.8244825
+               },
+               "southwest" : {
+                  "lat" : 50.7743528,
+                  "lng" : -1.8600189
+               }
+            },
+            "location" : {
+               "lat" : 50.7776736,
+               "lng" : -1.832453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7898435,
+                  "lng" : -1.8244825
+               },
+               "southwest" : {
+                  "lat" : 50.7743528,
+                  "lng" : -1.8600189
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

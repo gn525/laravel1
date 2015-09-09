@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldbury",
+               "short_name" : "Aldbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tring",
+               "short_name" : "Tring",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HP23",
+               "short_name" : "HP23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aldbury, Tring, Hertfordshire HP23, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.801147,
+               "lng" : -0.600823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8080465,
+                  "lng" : -0.5848156
+               },
+               "southwest" : {
+                  "lat" : 51.7942465,
+                  "lng" : -0.6168304
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

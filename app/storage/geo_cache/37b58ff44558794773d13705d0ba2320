@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mitcham Junction",
+               "short_name" : "Mitcham Junction",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Mitcham",
+               "short_name" : "Mitcham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mitcham",
+               "short_name" : "Mitcham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CR4",
+               "short_name" : "CR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mitcham Junction, Mitcham, Mitcham, Greater London CR4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.39295,
+               "lng" : -0.15773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3942989802915,
+                  "lng" : -0.156381019708498
+               },
+               "southwest" : {
+                  "lat" : 51.3916010197085,
+                  "lng" : -0.159078980291502
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

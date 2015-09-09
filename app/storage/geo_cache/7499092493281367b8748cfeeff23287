@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newry",
+               "short_name" : "Newry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newry",
+               "short_name" : "Newry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Newry and Mourne",
+               "short_name" : "Newry and Mourne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT34",
+               "short_name" : "BT34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newry, Newry, Newry and Mourne BT34, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.18006,
+               "lng" : -6.33393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1865896,
+                  "lng" : -6.317922599999999
+               },
+               "southwest" : {
+                  "lat" : 54.17352940000001,
+                  "lng" : -6.3499374
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

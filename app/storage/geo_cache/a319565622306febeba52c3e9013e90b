@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Town Centre",
+               "short_name" : "Town Centre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Newton Aycliffe",
+               "short_name" : "Newton Aycliffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newton Aycliffe",
+               "short_name" : "Newton Aycliffe",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Durham",
+               "short_name" : "Dur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DL5",
+               "short_name" : "DL5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Town Centre, Newton Aycliffe, Newton Aycliffe, County Durham DL5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6243943,
+                  "lng" : -1.5667374
+               },
+               "southwest" : {
+                  "lat" : 54.6182136,
+                  "lng" : -1.5765167
+               }
+            },
+            "location" : {
+               "lat" : 54.6209339,
+               "lng" : -1.5700288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6243943,
+                  "lng" : -1.5667374
+               },
+               "southwest" : {
+                  "lat" : 54.6182136,
+                  "lng" : -1.5765167
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Town Centre",
+               "short_name" : "Town Centre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East Kilbride",
+               "short_name" : "East Kilbride",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Lanarkshire",
+               "short_name" : "South Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G74",
+               "short_name" : "G74",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Town Centre, East Kilbride, Glasgow, South Lanarkshire G74, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.76004769999999,
+               "lng" : -4.1748366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7613966802915,
+                  "lng" : -4.173487619708498
+               },
+               "southwest" : {
+                  "lat" : 55.7586987197085,
+                  "lng" : -4.176185580291502
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weston-super-Mare",
+               "short_name" : "Weston-super-Mare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weston-super-Mare, North Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3749695,
+                  "lng" : -2.8946258
+               },
+               "southwest" : {
+                  "lat" : 51.3117618,
+                  "lng" : -3.1153294
+               }
+            },
+            "location" : {
+               "lat" : 51.34740499999999,
+               "lng" : -2.977255
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3749695,
+                  "lng" : -2.8946258
+               },
+               "southwest" : {
+                  "lat" : 51.3117618,
+                  "lng" : -2.994936
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

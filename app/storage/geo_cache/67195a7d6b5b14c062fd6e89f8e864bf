@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "IG11",
+               "short_name" : "IG11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London IG11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5525871,
+                  "lng" : 0.1366234
+               },
+               "southwest" : {
+                  "lat" : 51.5134261,
+                  "lng" : 0.0666046
+               }
+            },
+            "location" : {
+               "lat" : 51.5307365,
+               "lng" : 0.0998652
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5525871,
+                  "lng" : 0.1366234
+               },
+               "southwest" : {
+                  "lat" : 51.5134261,
+                  "lng" : 0.0666046
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barking",
+               "short_name" : "Barking",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Barking",
+               "short_name" : "Barking",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barking",
+               "short_name" : "Barking",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IG11",
+               "short_name" : "IG11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barking, Barking, Barking, Greater London IG11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.53949,
+               "lng" : 0.08093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5408389802915,
+                  "lng" : 0.08227898029150203
+               },
+               "southwest" : {
+                  "lat" : 51.5381410197085,
+                  "lng" : 0.07958101970849797
+               }
+            }
+         },
+         "types" : [ "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kemble",
+               "short_name" : "Kemble",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cirencester",
+               "short_name" : "Cirencester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "GL7",
+               "short_name" : "GL7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kemble, Cirencester, Gloucestershire GL7, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.674854,
+               "lng" : -2.016145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6817728,
+                  "lng" : -2.0001376
+               },
+               "southwest" : {
+                  "lat" : 51.6679341,
+                  "lng" : -2.0321524
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

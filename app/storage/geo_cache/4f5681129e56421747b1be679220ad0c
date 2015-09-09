@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PO20",
+               "short_name" : "PO20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Chichester",
+               "short_name" : "Chichester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chichester PO20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8575422,
+                  "lng" : -0.6424611
+               },
+               "southwest" : {
+                  "lat" : 50.7223499,
+                  "lng" : -0.9176656
+               }
+            },
+            "location" : {
+               "lat" : 50.7804529,
+               "lng" : -0.8066960999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8575422,
+                  "lng" : -0.6424611
+               },
+               "southwest" : {
+                  "lat" : 50.7223499,
+                  "lng" : -0.9176656
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chichester",
+               "short_name" : "Chichester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chichester",
+               "short_name" : "Chichester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Sussex",
+               "short_name" : "West Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chichester, Chichester, West Sussex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8631387,
+                  "lng" : -0.7366655999999999
+               },
+               "southwest" : {
+                  "lat" : 50.8090141,
+                  "lng" : -0.8207527999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.83761000000001,
+               "lng" : -0.774936
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8631387,
+                  "lng" : -0.7366655999999999
+               },
+               "southwest" : {
+                  "lat" : 50.8090141,
+                  "lng" : -0.8207527999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

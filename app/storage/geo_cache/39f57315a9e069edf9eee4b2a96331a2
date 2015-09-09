@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RM13",
+               "short_name" : "RM13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "RM13, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.54651639999999,
+                  "lng" : 0.2330639
+               },
+               "southwest" : {
+                  "lat" : 51.4871571,
+                  "lng" : 0.1584229
+               }
+            },
+            "location" : {
+               "lat" : 51.5201044,
+               "lng" : 0.1939714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.54651639999999,
+                  "lng" : 0.2330639
+               },
+               "southwest" : {
+                  "lat" : 51.4871571,
+                  "lng" : 0.1584229
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

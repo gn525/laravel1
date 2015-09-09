@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alfriston",
+               "short_name" : "Alfriston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polegate",
+               "short_name" : "Polegate",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "East Sussex",
+               "short_name" : "East Susx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BN26",
+               "short_name" : "BN26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alfriston, Polegate, East Sussex BN26, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.808344,
+               "lng" : 0.156359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8153944,
+                  "lng" : 0.1723664
+               },
+               "southwest" : {
+                  "lat" : 50.8012926,
+                  "lng" : 0.1403516
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

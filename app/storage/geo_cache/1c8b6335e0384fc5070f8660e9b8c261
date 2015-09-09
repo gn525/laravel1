@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lakenheath",
+               "short_name" : "Lakenheath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lakenheath, Suffolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4535932,
+                  "lng" : 0.6357383999999999
+               },
+               "southwest" : {
+                  "lat" : 52.3856935,
+                  "lng" : 0.4231843
+               }
+            },
+            "location" : {
+               "lat" : 52.413917,
+               "lng" : 0.5218539999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4535932,
+                  "lng" : 0.6357383999999999
+               },
+               "southwest" : {
+                  "lat" : 52.3856935,
+                  "lng" : 0.4231843
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rickmansworth",
+               "short_name" : "Rickmansworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hertfordshire",
+               "short_name" : "Hertfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rickmansworth, Hertfordshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6729236,
+                  "lng" : -0.4339522
+               },
+               "southwest" : {
+                  "lat" : 51.6122912,
+                  "lng" : -0.4987971
+               }
+            },
+            "location" : {
+               "lat" : 51.638763,
+               "lng" : -0.4741309999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6729236,
+                  "lng" : -0.4339522
+               },
+               "southwest" : {
+                  "lat" : 51.6122912,
+                  "lng" : -0.4987971
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

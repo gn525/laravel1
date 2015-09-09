@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Tidworth",
+               "short_name" : "South Tidworth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tidworth",
+               "short_name" : "Tidworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tidworth",
+               "short_name" : "Tidworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP9",
+               "short_name" : "SP9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Tidworth, Tidworth, Tidworth, Wiltshire SP9, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.231764,
+               "lng" : -1.658755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2387503,
+                  "lng" : -1.6427476
+               },
+               "southwest" : {
+                  "lat" : 51.22477670000001,
+                  "lng" : -1.6747624
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nailsworth",
+               "short_name" : "Nailsworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stroud",
+               "short_name" : "Stroud",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Glos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nailsworth, Stroud, Gloucestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7037342,
+                  "lng" : -2.2062137
+               },
+               "southwest" : {
+                  "lat" : 51.6820532,
+                  "lng" : -2.2401318
+               }
+            },
+            "location" : {
+               "lat" : 51.693878,
+               "lng" : -2.216293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7037342,
+                  "lng" : -2.2062137
+               },
+               "southwest" : {
+                  "lat" : 51.6820532,
+                  "lng" : -2.2401318
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

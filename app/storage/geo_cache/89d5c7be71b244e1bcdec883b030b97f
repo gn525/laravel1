@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warsaw Cottage",
+               "short_name" : "Warsaw Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bosbury",
+               "short_name" : "Bosbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ledbury",
+               "short_name" : "Ledbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HR8 1JZ",
+               "short_name" : "HR8 1JZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Warsaw Cottage, Bosbury, Ledbury, Herefordshire HR8 1JZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.0934882,
+               "lng" : -2.4319394
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.09483718029149,
+                  "lng" : -2.430590419708498
+               },
+               "southwest" : {
+                  "lat" : 52.09213921970849,
+                  "lng" : -2.433288380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warsaw Close",
+               "short_name" : "Warsaw Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ruislip",
+               "short_name" : "Ruislip",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ruislip",
+               "short_name" : "Ruislip",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "HA4 6RJ",
+               "short_name" : "HA4 6RJ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Warsaw Close, Ruislip, Greater London HA4 6RJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5506123,
+                  "lng" : -0.4016498
+               },
+               "southwest" : {
+                  "lat" : 51.5501223,
+                  "lng" : -0.4020696
+               }
+            },
+            "location" : {
+               "lat" : 51.5503513,
+               "lng" : -0.4017582
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.55171628029149,
+                  "lng" : -0.4005107197084979
+               },
+               "southwest" : {
+                  "lat" : 51.54901831970849,
+                  "lng" : -0.403208680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

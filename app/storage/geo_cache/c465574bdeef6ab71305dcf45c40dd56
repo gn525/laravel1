@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "TN26",
+               "short_name" : "TN26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Ashford",
+               "short_name" : "Ashford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashford, Kent TN26, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1903562,
+                  "lng" : 0.9178910999999998
+               },
+               "southwest" : {
+                  "lat" : 51.00953519999999,
+                  "lng" : 0.6752193
+               }
+            },
+            "location" : {
+               "lat" : 51.0721139,
+               "lng" : 0.8151322999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1903562,
+                  "lng" : 0.9178910999999998
+               },
+               "southwest" : {
+                  "lat" : 51.00953519999999,
+                  "lng" : 0.6752193
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

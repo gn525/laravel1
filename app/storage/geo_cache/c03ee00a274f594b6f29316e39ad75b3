@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adlington",
+               "short_name" : "Adlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adlington, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6235697,
+                  "lng" : -2.5909588
+               },
+               "southwest" : {
+                  "lat" : 53.5935571,
+                  "lng" : -2.6322059
+               }
+            },
+            "location" : {
+               "lat" : 53.611055,
+               "lng" : -2.606365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6235697,
+                  "lng" : -2.5909588
+               },
+               "southwest" : {
+                  "lat" : 53.5935571,
+                  "lng" : -2.6322059
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adlington",
+               "short_name" : "Adlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Macclesfield",
+               "short_name" : "Macclesfield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire East",
+               "short_name" : "Cheshire East",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SK10",
+               "short_name" : "SK10",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Adlington, Macclesfield, Cheshire East SK10, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.321077,
+               "lng" : -2.125326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.32242598029149,
+                  "lng" : -2.123977019708498
+               },
+               "southwest" : {
+                  "lat" : 53.31972801970849,
+                  "lng" : -2.126674980291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

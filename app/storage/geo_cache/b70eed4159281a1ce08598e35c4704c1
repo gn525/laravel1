@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piccadilly",
+               "short_name" : "Piccadilly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Warwickshire",
+               "short_name" : "Warks",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B78",
+               "short_name" : "B78",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piccadilly, Tamworth, Warwickshire B78, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.579639,
+               "lng" : -1.666029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5864187,
+                  "lng" : -1.6500216
+               },
+               "southwest" : {
+                  "lat" : 52.5728582,
+                  "lng" : -1.6820364
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

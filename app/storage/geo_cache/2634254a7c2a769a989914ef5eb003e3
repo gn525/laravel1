@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malaga",
+               "short_name" : "Malaga",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "New Malden",
+               "short_name" : "New Malden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Malden",
+               "short_name" : "New Malden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KT3",
+               "short_name" : "KT3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malaga, New Malden, New Malden, Greater London KT3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4017061,
+                  "lng" : -0.2705708
+               },
+               "southwest" : {
+                  "lat" : 51.4016775,
+                  "lng" : -0.2706171
+               }
+            },
+            "location" : {
+               "lat" : 51.4016922,
+               "lng" : -0.2705954
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4030407802915,
+                  "lng" : -0.269244969708498
+               },
+               "southwest" : {
+                  "lat" : 51.4003428197085,
+                  "lng" : -0.2719429302915021
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

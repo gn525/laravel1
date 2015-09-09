@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castle Douglas",
+               "short_name" : "Castle Douglas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castle Douglas",
+               "short_name" : "Castle Douglas",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "D & G",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG7",
+               "short_name" : "DG7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Castle Douglas, Castle Douglas, Dumfries and Galloway DG7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9547542,
+                  "lng" : -3.9117949
+               },
+               "southwest" : {
+                  "lat" : 54.93000199999999,
+                  "lng" : -3.9518416
+               }
+            },
+            "location" : {
+               "lat" : 54.940415,
+               "lng" : -3.931414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9547542,
+                  "lng" : -3.9117949
+               },
+               "southwest" : {
+                  "lat" : 54.93000199999999,
+                  "lng" : -3.9518416
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

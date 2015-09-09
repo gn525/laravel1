@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hullavington",
+               "short_name" : "Hullavington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chippenham",
+               "short_name" : "Chippenham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN14",
+               "short_name" : "SN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hullavington, Chippenham, Wiltshire SN14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.532886,
+               "lng" : -2.156164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5398265,
+                  "lng" : -2.1401566
+               },
+               "southwest" : {
+                  "lat" : 51.52594449999999,
+                  "lng" : -2.1721714
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

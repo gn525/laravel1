@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darley Dale",
+               "short_name" : "Darley Dale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matlock",
+               "short_name" : "Matlock",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE4",
+               "short_name" : "DE4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Darley Dale, Matlock, Derbyshire DE4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.174253,
+                  "lng" : -1.5755443
+               },
+               "southwest" : {
+                  "lat" : 53.152395,
+                  "lng" : -1.6053613
+               }
+            },
+            "location" : {
+               "lat" : 53.165952,
+               "lng" : -1.596115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.174253,
+                  "lng" : -1.5755443
+               },
+               "southwest" : {
+                  "lat" : 53.152395,
+                  "lng" : -1.6053613
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,157 @@
+body {
+}
+
+#top-logo img {
+    margin-bottom: 7px;
+}
+
+#top-logout {
+    float: right;
+    padding-top: 25px;
+}
+
+#top-logout a {
+    margin-left: 10px;
+}
+
+#site-content {
+    min-height: 500px;
+    padding-bottom: 50px;
+}
+
+#site-content .sidebar {
+    background: #eeeeee;
+}
+
+#site-content h1 {
+    font-size: 20px;
+}
+
+#site-content #page-of {
+    text-align: center;
+    font-style: italic;
+    padding-top: 6px;
+    display: inline-block;
+}
+
+#site-content #page-of span {
+    color: #777;
+}
+
+#site-content #job-list-sort {
+    font-size: 12px;
+}
+
+#site-content #job-list-sort select {
+    margin-left: 10px;
+    font-size: 12px;
+    padding: 0px;
+}
+
+#site-content .comment {
+    border-left: 1px dotted #ccc;
+    margin-left: 30px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    width: 500px;
+}
+
+#site-content .no_border {
+    border-left: 0px;
+    margin-left: 0px;
+}
+
+#site-content .captcha_text {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+#site-content .comment .comment_date {
+    font-size: 10px;
+    display: inline-block;
+}
+
+#site-content .comment .comment_text {
+    margin-top: 0px;
+    display: inline-block;
+    width: 450px;
+    font-size: 13px;
+}
+
+#site-content .comment .comment_controls {
+    font-size: 11px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+#site-content .comment .comment_controls a {
+    margin-right: 10px;
+}
+
+#site-content .comment .comment_reply {
+    display: none;
+    margin-left: 30px;
+}
+
+#site-content .comment .comment_form {
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+#site-content .comment .comment_form img {
+    margin-top: 2px;
+}
+
+#site-content .comment .comment_form .comment_captcha_text {
+    font-size: 10px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+
+#site-content .comment .comment_form .comment_captcha_text input {
+    font-size: 10px;
+    padding: 2px;
+    font-weight: bold;
+}
+
+#site-content .comment .comment_form label {
+    font-size: 12px;
+}
+
+#site-content .comment .comment_form textarea {
+    padding: 5px;
+    font-size: 11px;
+    width: 100%;
+}
+
+#site-content .comment .comment_form input {
+    margin-top: 5px;
+    font-size: 11px;
+    margin-right: 10px;
+}
+
+#site-footer {
+    background: #f5f5f5;
+    padding: 10px 0px 10px 0px;
+}
+
+#site-footer #footer-links ul {
+    float: right;
+}
+
+#site-footer #footer-links ul li {
+    list-style: none;
+    text-align: right;
+}
+
+a.w150, button.w150, div.w150 {
+    width: 150px;
+}
+
+a.w300, button.w300, div.w300 {
+    width: 300px;
+}
+
+a.w400, button.w400, div.w400 {
+    width: 400px;
+}

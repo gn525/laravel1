@@ -1,0 +1,358 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorgate",
+               "short_name" : "Moorgate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moorgate, London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.51961860000001,
+                  "lng" : -0.08331029999999999
+               },
+               "southwest" : {
+                  "lat" : 51.51475629999999,
+                  "lng" : -0.089971
+               }
+            },
+            "location" : {
+               "lat" : 51.51754020000001,
+               "lng" : -0.0886014
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51961860000001,
+                  "lng" : -0.08331029999999999
+               },
+               "southwest" : {
+                  "lat" : 51.51475629999999,
+                  "lng" : -0.089971
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorgate",
+               "short_name" : "Moorgate",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC2M",
+               "short_name" : "EC2M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moorgate, London EC2Y, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51818,
+               "lng" : -0.08829999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5195289802915,
+                  "lng" : -0.08695101970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5168310197085,
+                  "lng" : -0.08964898029150202
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorgate",
+               "short_name" : "Moorgate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bury",
+               "short_name" : "Bury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bury",
+               "short_name" : "Bury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BL9 7AF",
+               "short_name" : "BL9 7AF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moorgate, Bury, Bury BL9 7AF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5971917,
+                  "lng" : -2.2874369
+               },
+               "southwest" : {
+                  "lat" : 53.5967186,
+                  "lng" : -2.2898688
+               }
+            },
+            "location" : {
+               "lat" : 53.59691549999999,
+               "lng" : -2.288732
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5983041302915,
+                  "lng" : -2.287303869708498
+               },
+               "southwest" : {
+                  "lat" : 53.5956061697085,
+                  "lng" : -2.290001830291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorgate",
+               "short_name" : "Moorgate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leadenhall",
+               "short_name" : "Leadenhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK6 5NA",
+               "short_name" : "MK6 5NA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moorgate, Leadenhall, Milton Keynes, Milton Keynes MK6 5NA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.02699579999999,
+                  "lng" : -0.7506246999999999
+               },
+               "southwest" : {
+                  "lat" : 52.0261676,
+                  "lng" : -0.7538709
+               }
+            },
+            "location" : {
+               "lat" : 52.026477,
+               "lng" : -0.7518475999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0279306802915,
+                  "lng" : -0.7506246999999999
+               },
+               "southwest" : {
+                  "lat" : 52.0252327197085,
+                  "lng" : -0.7538709
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorgate",
+               "short_name" : "Moorgate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baildon",
+               "short_name" : "Baildon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shipley",
+               "short_name" : "Shipley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD17 6LW",
+               "short_name" : "BD17 6LW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moorgate, Baildon, Shipley, West Yorkshire BD17 6LW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8584669,
+                  "lng" : -1.7637135
+               },
+               "southwest" : {
+                  "lat" : 53.8554371,
+                  "lng" : -1.7699292
+               }
+            },
+            "location" : {
+               "lat" : 53.8561042,
+               "lng" : -1.7684537
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8584669,
+                  "lng" : -1.7637135
+               },
+               "southwest" : {
+                  "lat" : 53.8554371,
+                  "lng" : -1.7699292
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moorgate",
+               "short_name" : "Moorgate",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC2Y",
+               "short_name" : "EC2Y",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moorgate, London EC2Y, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51849000000001,
+               "lng" : -0.08892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51983898029151,
+                  "lng" : -0.08757101970849797
+               },
+               "southwest" : {
+                  "lat" : 51.51714101970851,
+                  "lng" : -0.09026898029150203
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

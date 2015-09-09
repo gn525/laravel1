@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CT1",
+               "short_name" : "CT1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canterbury, Kent CT1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2966481,
+                  "lng" : 1.1176455
+               },
+               "southwest" : {
+                  "lat" : 51.25798400000001,
+                  "lng" : 1.0398001
+               }
+            },
+            "location" : {
+               "lat" : 51.273851,
+               "lng" : 1.0879152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2966481,
+                  "lng" : 1.1176455
+               },
+               "southwest" : {
+                  "lat" : 51.25798400000001,
+                  "lng" : 1.0398001
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

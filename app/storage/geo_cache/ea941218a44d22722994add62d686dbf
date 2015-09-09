@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheveley",
+               "short_name" : "Cheveley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newmarket",
+               "short_name" : "Newmarket",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB8",
+               "short_name" : "CB8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheveley, Newmarket, Cambridgeshire CB8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2335223,
+                  "lng" : 0.474191
+               },
+               "southwest" : {
+                  "lat" : 52.211546,
+                  "lng" : 0.4570358999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.222596,
+               "lng" : 0.4626659999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2335223,
+                  "lng" : 0.474191
+               },
+               "southwest" : {
+                  "lat" : 52.211546,
+                  "lng" : 0.4570358999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

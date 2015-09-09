@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Woolpit",
+               "short_name" : "Woolpit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bury Saint Edmunds",
+               "short_name" : "Bury Saint Edmunds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP30",
+               "short_name" : "IP30",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Woolpit, Bury Saint Edmunds, Suffolk IP30, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.22476100000001,
+               "lng" : 0.8879699999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2315955,
+                  "lng" : 0.9039774
+               },
+               "southwest" : {
+                  "lat" : 52.2179255,
+                  "lng" : 0.8719625999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

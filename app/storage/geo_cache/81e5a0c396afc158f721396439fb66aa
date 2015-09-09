@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaftesbury",
+               "short_name" : "Shaftesbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shaftesbury",
+               "short_name" : "Shaftesbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dorset",
+               "short_name" : "Dorset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP7",
+               "short_name" : "SP7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shaftesbury, Shaftesbury, Dorset SP7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0188413,
+                  "lng" : -2.1655532
+               },
+               "southwest" : {
+                  "lat" : 50.9961813,
+                  "lng" : -2.2175667
+               }
+            },
+            "location" : {
+               "lat" : 51.0046,
+               "lng" : -2.198083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0188413,
+                  "lng" : -2.1655532
+               },
+               "southwest" : {
+                  "lat" : 50.9961813,
+                  "lng" : -2.2175667
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

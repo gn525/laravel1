@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester Airport",
+               "short_name" : "Manchester Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M90 1QX",
+               "short_name" : "M90 1QX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manchester Airport (MAN), Manchester M90 1QX, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3718632,
+                  "lng" : -2.2524961
+               },
+               "southwest" : {
+                  "lat" : 53.32896059999999,
+                  "lng" : -2.3156638
+               }
+            },
+            "location" : {
+               "lat" : 53.3588026,
+               "lng" : -2.2727303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3718632,
+                  "lng" : -2.2524961
+               },
+               "southwest" : {
+                  "lat" : 53.32896059999999,
+                  "lng" : -2.3156638
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

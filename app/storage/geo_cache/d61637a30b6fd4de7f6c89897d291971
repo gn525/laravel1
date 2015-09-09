@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Berwick",
+               "short_name" : "North Berwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Lothian",
+               "short_name" : "East Loth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Berwick, East Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0632798,
+                  "lng" : -2.6736304
+               },
+               "southwest" : {
+                  "lat" : 56.0404989,
+                  "lng" : -2.7714357
+               }
+            },
+            "location" : {
+               "lat" : 56.058363,
+               "lng" : -2.719646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0632798,
+                  "lng" : -2.6736304
+               },
+               "southwest" : {
+                  "lat" : 56.0404989,
+                  "lng" : -2.7714357
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

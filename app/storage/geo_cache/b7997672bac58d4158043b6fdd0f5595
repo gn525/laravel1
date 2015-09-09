@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kelty",
+               "short_name" : "Kelty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kelty",
+               "short_name" : "Kelty",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Fife",
+               "short_name" : "Fife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KY4",
+               "short_name" : "KY4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kelty, Kelty, Fife KY4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1493851,
+                  "lng" : -3.3622741
+               },
+               "southwest" : {
+                  "lat" : 56.1269575,
+                  "lng" : -3.4016022
+               }
+            },
+            "location" : {
+               "lat" : 56.13310999999999,
+               "lng" : -3.377893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1493851,
+                  "lng" : -3.3622741
+               },
+               "southwest" : {
+                  "lat" : 56.1269575,
+                  "lng" : -3.4016022
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

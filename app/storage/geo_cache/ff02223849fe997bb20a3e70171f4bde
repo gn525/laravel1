@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal Embassy of Saudi Arabia",
+               "short_name" : "Royal Embassy of Saudi Arabia",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "30-32",
+               "short_name" : "30-32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Charles Street",
+               "short_name" : "Charles St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1J 5DZ",
+               "short_name" : "W1J 5DZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Royal Embassy of Saudi Arabia, 30-32 Charles Street, Mayfair, London W1J 5DZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5072013,
+               "lng" : -0.1478505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50855028029149,
+                  "lng" : -0.146501519708498
+               },
+               "southwest" : {
+                  "lat" : 51.5058523197085,
+                  "lng" : -0.149199480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ceredigion",
+               "short_name" : "Ceredigion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ceredigion, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5624332,
+                  "lng" : -3.6581667
+               },
+               "southwest" : {
+                  "lat" : 52.0266995,
+                  "lng" : -4.6965748
+               }
+            },
+            "location" : {
+               "lat" : 52.3815988,
+               "lng" : -3.9224817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5624332,
+                  "lng" : -3.6581667
+               },
+               "southwest" : {
+                  "lat" : 52.0266995,
+                  "lng" : -4.6965748
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

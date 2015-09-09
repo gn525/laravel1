@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parkstone",
+               "short_name" : "Parkstone",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Poole",
+               "short_name" : "Poole",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BH14",
+               "short_name" : "BH14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parkstone, Poole, Poole, Poole BH14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.723342,
+               "lng" : -1.951859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7304052,
+                  "lng" : -1.9358516
+               },
+               "southwest" : {
+                  "lat" : 50.71627770000001,
+                  "lng" : -1.9678664
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

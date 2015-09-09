@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Knighton",
+               "short_name" : "Knighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Knighton",
+               "short_name" : "Knighton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD7",
+               "short_name" : "LD7",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Knighton, Knighton, Powys LD7, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3483698,
+                  "lng" : -3.0301541
+               },
+               "southwest" : {
+                  "lat" : 52.3359631,
+                  "lng" : -3.0675759
+               }
+            },
+            "location" : {
+               "lat" : 52.341009,
+               "lng" : -3.046971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3483698,
+                  "lng" : -3.0301541
+               },
+               "southwest" : {
+                  "lat" : 52.3359631,
+                  "lng" : -3.0675759
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

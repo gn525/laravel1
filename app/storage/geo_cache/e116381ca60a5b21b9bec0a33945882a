@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holbeck",
+               "short_name" : "Holbeck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worksop",
+               "short_name" : "Worksop",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S80",
+               "short_name" : "S80",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Holbeck, Worksop, Nottinghamshire S80, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.252854,
+               "lng" : -1.188058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.25952909999999,
+                  "lng" : -1.1720506
+               },
+               "southwest" : {
+                  "lat" : 53.2461778,
+                  "lng" : -1.2040654
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

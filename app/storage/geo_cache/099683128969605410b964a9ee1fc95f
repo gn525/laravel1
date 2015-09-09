@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kerry",
+               "short_name" : "Kerry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kerry, Powys, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5362398,
+                  "lng" : -3.135083
+               },
+               "southwest" : {
+                  "lat" : 52.4346386,
+                  "lng" : -3.3656065
+               }
+            },
+            "location" : {
+               "lat" : 52.50185,
+               "lng" : -3.256814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5362398,
+                  "lng" : -3.135083
+               },
+               "southwest" : {
+                  "lat" : 52.4346386,
+                  "lng" : -3.3656065
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottery Saint Mary",
+               "short_name" : "Ottery St Mary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottery Saint Mary",
+               "short_name" : "Ottery Saint Mary",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX11",
+               "short_name" : "EX11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ottery Saint Mary, Ottery Saint Mary, Devon EX11, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.752607,
+               "lng" : -3.280369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.75966580000001,
+                  "lng" : -3.2643616
+               },
+               "southwest" : {
+                  "lat" : 50.7455471,
+                  "lng" : -3.2963764
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newbury Park",
+               "short_name" : "Newbury Park",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ilford",
+               "short_name" : "Ilford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilford",
+               "short_name" : "Ilford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IG2",
+               "short_name" : "IG2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newbury Park, Ilford, Ilford, Greater London IG2, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.576158,
+               "lng" : 0.09047899999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5830919,
+                  "lng" : 0.1064864
+               },
+               "southwest" : {
+                  "lat" : 51.56922309999999,
+                  "lng" : 0.0744716
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

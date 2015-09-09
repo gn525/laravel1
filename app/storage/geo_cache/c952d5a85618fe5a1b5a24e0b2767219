@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorebridge",
+               "short_name" : "Gorebridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorebridge",
+               "short_name" : "Gorebridge",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH23",
+               "short_name" : "EH23",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gorebridge, Gorebridge, Midlothian EH23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8586787,
+                  "lng" : -3.0268701
+               },
+               "southwest" : {
+                  "lat" : 55.8307095,
+                  "lng" : -3.0678242
+               }
+            },
+            "location" : {
+               "lat" : 55.836732,
+               "lng" : -3.046099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8586787,
+                  "lng" : -3.0268701
+               },
+               "southwest" : {
+                  "lat" : 55.8307095,
+                  "lng" : -3.0678242
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

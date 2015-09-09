@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strabane",
+               "short_name" : "Strabane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Strabane",
+               "short_name" : "Strabane",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Strabane",
+               "short_name" : "Strabane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT82",
+               "short_name" : "BT82",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Strabane, Strabane, Strabane BT82, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.8272688,
+               "lng" : -7.463579200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8336958,
+                  "lng" : -7.4475718
+               },
+               "southwest" : {
+                  "lat" : 54.8208408,
+                  "lng" : -7.4795866
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

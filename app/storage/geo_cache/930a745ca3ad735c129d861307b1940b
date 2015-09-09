@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portadown",
+               "short_name" : "Portadown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Craigavon",
+               "short_name" : "Craigavon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT62",
+               "short_name" : "BT62",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Portadown, Craigavon, Craigavon BT62, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.42193,
+               "lng" : -6.451289999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4284213,
+                  "lng" : -6.4352826
+               },
+               "southwest" : {
+                  "lat" : 54.4154376,
+                  "lng" : -6.4672974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

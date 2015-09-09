@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Motherwell",
+               "short_name" : "Motherwell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Lanarkshire",
+               "short_name" : "North Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Motherwell, North Lanarkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8185588,
+                  "lng" : -3.935167599999999
+               },
+               "southwest" : {
+                  "lat" : 55.7681759,
+                  "lng" : -4.0224799
+               }
+            },
+            "location" : {
+               "lat" : 55.78320919999999,
+               "lng" : -3.9810968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8185588,
+                  "lng" : -3.935167599999999
+               },
+               "southwest" : {
+                  "lat" : 55.7681759,
+                  "lng" : -4.0224799
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

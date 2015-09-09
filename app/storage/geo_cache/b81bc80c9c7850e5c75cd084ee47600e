@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Asaph",
+               "short_name" : "St Asaph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Asaph",
+               "short_name" : "Saint Asaph",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Denbighshire",
+               "short_name" : "Denbighshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL17",
+               "short_name" : "LL17",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Asaph, Saint Asaph, Denbighshire LL17, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.25797499999999,
+               "lng" : -3.443728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.26464929999999,
+                  "lng" : -3.4277206
+               },
+               "southwest" : {
+                  "lat" : 53.2512996,
+                  "lng" : -3.4597354
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

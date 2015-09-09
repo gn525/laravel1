@@ -1,0 +1,117 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OX2",
+               "short_name" : "OX2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, Oxfordshire OX2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8135452,
+                  "lng" : -1.2410932
+               },
+               "southwest" : {
+                  "lat" : 51.7140782,
+                  "lng" : -1.3696223
+               }
+            },
+            "location" : {
+               "lat" : 51.7710968,
+               "lng" : -1.3076558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8135452,
+                  "lng" : -1.2410932
+               },
+               "southwest" : {
+                  "lat" : 51.7140782,
+                  "lng" : -1.3696223
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, Oxford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            },
+            "location" : {
+               "lat" : 51.7520209,
+               "lng" : -1.2577263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

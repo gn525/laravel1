@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingsbridge",
+               "short_name" : "Kingsbridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingsbridge, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.29570820000001,
+                  "lng" : -3.7566554
+               },
+               "southwest" : {
+                  "lat" : 50.2715763,
+                  "lng" : -3.7916526
+               }
+            },
+            "location" : {
+               "lat" : 50.283948,
+               "lng" : -3.777493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.29570820000001,
+                  "lng" : -3.7566554
+               },
+               "southwest" : {
+                  "lat" : 50.2715763,
+                  "lng" : -3.7916526
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

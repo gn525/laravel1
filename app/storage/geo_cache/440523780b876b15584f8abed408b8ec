@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawkhurst",
+               "short_name" : "Hawkhurst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hawkhurst, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.08323710000001,
+                  "lng" : 0.5472572
+               },
+               "southwest" : {
+                  "lat" : 51.0223823,
+                  "lng" : 0.4536777
+               }
+            },
+            "location" : {
+               "lat" : 51.04673500000001,
+               "lng" : 0.50947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.08323710000001,
+                  "lng" : 0.5472572
+               },
+               "southwest" : {
+                  "lat" : 51.0223823,
+                  "lng" : 0.4536777
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

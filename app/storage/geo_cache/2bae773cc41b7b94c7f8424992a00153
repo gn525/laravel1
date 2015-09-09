@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colwick Industrial Estate",
+               "short_name" : "Colwick Industrial Estate",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Netherfield",
+               "short_name" : "Netherfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nottingham",
+               "short_name" : "Nottingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NG4 2JW",
+               "short_name" : "NG4 2JW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Colwick Industrial Estate, Netherfield, Nottingham, Nottinghamshire NG4 2JW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.9596098,
+               "lng" : -1.0773421
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9609587802915,
+                  "lng" : -1.075993119708498
+               },
+               "southwest" : {
+                  "lat" : 52.9582608197085,
+                  "lng" : -1.078691080291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

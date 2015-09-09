@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SM4",
+               "short_name" : "SM4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greater London SM4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.40521409999999,
+                  "lng" : -0.1686769
+               },
+               "southwest" : {
+                  "lat" : 51.3805141,
+                  "lng" : -0.2339617
+               }
+            },
+            "location" : {
+               "lat" : 51.3940417,
+               "lng" : -0.2048255
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.40521409999999,
+                  "lng" : -0.1686769
+               },
+               "southwest" : {
+                  "lat" : 51.3805141,
+                  "lng" : -0.2339617
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morden",
+               "short_name" : "Morden",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Morden",
+               "short_name" : "Morden",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SM4",
+               "short_name" : "SM4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Morden, Morden, Greater London SM4, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.40214,
+               "lng" : -0.19481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4034889802915,
+                  "lng" : -0.193461019708498
+               },
+               "southwest" : {
+                  "lat" : 51.4007910197085,
+                  "lng" : -0.196158980291502
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
